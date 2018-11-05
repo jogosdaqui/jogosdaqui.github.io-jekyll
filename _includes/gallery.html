@@ -1,0 +1,33 @@
+{% assign galleryName = page.path | replace: '_posts/', '' | replace: '.md', '' %}   
+{% assign gallery = site.data['galleries'][galleryName] %} 
+
+<link type="text/css" rel="stylesheet" href="{{ site.baseurl }}/libs/lightslider/css/lightslider.css" />                  
+<script src="{{ site.baseurl }}/libs/lightslider/js/lightslider.js"></script>
+
+
+<ul id="lightSlider">
+{% for pic in gallery %}
+  <li data-thumb="../../../../../{{ pic }}">
+    <img src="../../../../../{{ pic }}"/>        
+ </li>
+{% endfor %}
+</ul>
+
+
+<script type="text/javascript">
+  $(document).ready(function() {
+   $('#lightSlider').lightSlider({
+        gallery: true,
+        item: 1,
+        loop: true,
+        slideMargin: 0,
+        autoWidth: true,
+        adaptiveHeight: true,
+        verticalHeight:500,
+        mode: "slide",
+        useCSS: true,
+        cssEasing: 'ease',
+        easing: 'linear'
+    });
+  });
+</script>
