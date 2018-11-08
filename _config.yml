@@ -57,12 +57,7 @@ baseurl: ""
 
 #markdown: redcarpet
 highlighter: rouge
-defaults:
-  -
-    scope:
-      path: "/"
-    values:
-      permalink: /:path/:basename/
+permalink: pretty
 
 tag_page_layout: tag_page
 tag_page_dir: tags
