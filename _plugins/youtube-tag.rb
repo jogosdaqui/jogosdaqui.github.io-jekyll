@@ -7,7 +7,7 @@ module Jekyll
 
     def render(context)
       '<center>
-        <iframe src="https://www.youtube.com/embed/@text" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/' + @text + '" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </center>'
     end
   end

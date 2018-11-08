@@ -1,33 +1,51 @@
-{% assign galleryName = page.path | replace: '_posts/', '' | replace: '.md', '' %}   
+{% assign galleryName = page.path | galleryname %} 
 {% assign gallery = site.data['galleries'][galleryName] %} 
 
 <link type="text/css" rel="stylesheet" href="{{ site.baseurl }}/libs/lightslider/css/lightslider.css" />                  
 <script src="{{ site.baseurl }}/libs/lightslider/js/lightslider.js"></script>
 
+{% assign galleryPicturesCount = 0 %} 
+<center>
+  <ul id="lightSlider">
+  {% if gallery.size > 1 %}
+    {% for pic in gallery %}
+      {% if pic contains 'logo' %}
+      {% else %}
+        {% assign galleryPicturesCount = galleryPicturesCount | plus:1 %}
+        <li data-thumb="../../../../../{{ pic }}">
+          <img src="../../../../../{{ pic }}"/>        
+        </li>
+      {% endif %}
+    {% endfor %}
+  {% else if gallery.size == 1  %}
+    {% if gallery.first == null %}
+    {% else if gallery.first contains 'logo' %} 
+    {% else %}
+      {% assign galleryPicturesCount = galleryPicturesCount | plus:1 %}
+      <img src="../../../../../{{ gallery.first }}"/> 
+    {% endif %}
+  {% endif %}
+  </ul>
+</center>
 
-<ul id="lightSlider">
-{% for pic in gallery %}
-  <li data-thumb="../../../../../{{ pic }}">
-    <img src="../../../../../{{ pic }}"/>        
- </li>
-{% endfor %}
-</ul>
-
-
+{% if galleryPicturesCount > 1 %}
 <script type="text/javascript">
   $(document).ready(function() {
    $('#lightSlider').lightSlider({
         gallery: true,
+        pager: true,
+        controls: false,
+        thumbItem: 8,
         item: 1,
-        loop: true,
+        loop: false,
         slideMargin: 0,
         autoWidth: true,
         adaptiveHeight: true,
-        verticalHeight:500,
-        mode: "slide",
+        mode: "fade",
         useCSS: true,
         cssEasing: 'ease',
         easing: 'linear'
     });
   });
 </script>
+{% endif %}

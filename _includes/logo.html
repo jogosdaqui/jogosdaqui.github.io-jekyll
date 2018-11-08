@@ -1,0 +1,11 @@
+{% assign galleryName = page.path | galleryname %} 
+{% assign gallery = site.data['galleries'][galleryName] %} 
+
+<center>
+  {% for pic in gallery %}
+    {% if pic contains 'logo' %}
+      <img src="../../../../../{{ pic }}"/> 
+      {% break %}       
+    {% endif %}
+  {% endfor %}
+ </center>
