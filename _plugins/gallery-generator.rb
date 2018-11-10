@@ -1,7 +1,7 @@
 module Jekyll
 	class GalleryGenerator < Generator
 		def generate(site)
-			puts "GENERATING GALLERY..."
+			puts "GENERATING GALLERIES..."
 			site.data['galleries'] = {}
 
 			Dir.glob('images/galleries/*/*/*/**/').each do |dir|
@@ -10,13 +10,14 @@ module Jekyll
 
 				for gallery in galleries
 					galleryName = GalleryGenerator::getGalleryName(gallery)
-					puts "GALLERY => #{galleryName} = #{gallery}"
+					# puts "GALLERY => #{galleryName} = #{gallery}"
 
 					site.data['galleries'][galleryName] = Dir.glob(gallery +  '/*').select {|f| File.file? f};
 				end
 			end
 
-			puts "site.data['galleries']: #{site.data['galleries']}"
+			puts "GALLERIES GENERATED."
+			# puts "site.data['galleries']: #{site.data['galleries']}"
 		end
 
 		def self.getGalleryName(folder)

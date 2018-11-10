@@ -1,0 +1,12 @@
+---
+published: true
+layout: game
+title: 'Começam as venda do Smart Panda'
+tags: leandro-correia
+---
+Nesta terça-feira, 15 de novembro, foi posto a venda o jogo educacional <a href="{{ site.baseurl }}/2005/09/30/smart-panda/">Smart Panda</a>
+. 
+
+O jogo usa elementos de ação para ensinar operações matemáticas básicas de uma maneira muito divertida.Smart Panda pode ser comprado diretamente pela internet.
+
+

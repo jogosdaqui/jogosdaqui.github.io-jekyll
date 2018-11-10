@@ -3,32 +3,38 @@
 
 <link type="text/css" rel="stylesheet" href="{{ site.baseurl }}/libs/lightslider/css/lightslider.css" />                  
 <script src="{{ site.baseurl }}/libs/lightslider/js/lightslider.js"></script>
+{% assign pictures = "" | split: ',' %} 
+{% if gallery.size > 1 %}
+  {% for pic in gallery %}
+    {% if gallery.first == null %}
+    {% elsif pic contains 'logo' %}
+    {% else %}
+      {% assign pictures = pictures | push: pic %}
+    {% endif %}
+  {% endfor %}
+{% elsif gallery.size == 1  %}
+  {% if gallery.first == null %}
+  {% elsif gallery.first contains 'logo' %} 
+  {% else %}
+    {% assign pictures = pictures | push: pic %}
+  {% endif %}
+{% endif %}
 
-{% assign galleryPicturesCount = 0 %} 
 <center>
+  {% if pictures.size > 1 %}
   <ul id="lightSlider">
-  {% if gallery.size > 1 %}
-    {% for pic in gallery %}
-      {% if pic contains 'logo' %}
-      {% else %}
-        {% assign galleryPicturesCount = galleryPicturesCount | plus:1 %}
+    {% for pic in pictures %}
         <li data-thumb="../../../../../{{ pic }}">
           <img src="../../../../../{{ pic }}"/>        
         </li>
-      {% endif %}
     {% endfor %}
-  {% else if gallery.size == 1  %}
-    {% if gallery.first == null %}
-    {% else if gallery.first contains 'logo' %} 
-    {% else %}
-      {% assign galleryPicturesCount = galleryPicturesCount | plus:1 %}
-      <img src="../../../../../{{ gallery.first }}"/> 
-    {% endif %}
-  {% endif %}
   </ul>
-</center>
+  {% elsif pictures.size == 1 %}
+      <img src="../../../../../{{ gallery.first }}"/> 
+  {% endif %}
+ </center>
 
-{% if galleryPicturesCount > 1 %}
+{% if pictures.size > 1 %}
 <script type="text/javascript">
   $(document).ready(function() {
    $('#lightSlider').lightSlider({
