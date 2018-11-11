@@ -2,7 +2,7 @@
 published: true
 layout: game
 title: 'Carcará - Asas da Justiça'
-tags: android video supernova-indie-games
+tags: android video supernova-indie-games concurso
 ---
 Quem já assistiu os famosos filmes de tribunal, clássicos do cinema como O Cliente, Tempo de Matar e Julgamento em Nuremberg, provavelmente se imaginou sendo o advogado protagonista do filme, lutando com a lógica e a verdade num caso que, por quase todos os pontos de vista, parece perdido, mas que com audácia e inteligência incomum acaba sendo vencido.
 

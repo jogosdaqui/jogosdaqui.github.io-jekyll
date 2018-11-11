@@ -19,4 +19,4 @@ Para quem gosta de transcender a experi&#234;ncia al&#233;m da tela do mobile, p
 {% vimeo 17389408 %}
 
 O game est&#225; dispon&#237;vel na <a href="http://itunes.apple.com/app/dodgeball-safari/id410456099?mt=8" target="_blank">App Store em vers&#227;o gratu&#237;ta</a>
-, sendo que a vers&#227;o completa pode ser comprada dentro do game.</p>
+, sendo que a vers&#227;o completa pode ser comprada dentro do game.

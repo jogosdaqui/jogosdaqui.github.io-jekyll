@@ -2,7 +2,7 @@
 published: true
 layout: game
 title: 'Chip$ será lançado no Brasil'
-tags: nology
+tags: nology real-one-arcade
 ---
 O jogo <a href="{{ site.baseurl }}/2005/11/16/chip/">Chip$</a>
  será lançado em breve no Brasil, informa Alexandre Perucia, co-fundador da Nology Software.

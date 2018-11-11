@@ -2,7 +2,7 @@
 published: true
 layout: game
 title: 'Documentário "A Mecânica do Jogo"'
-tags: hoplon ubisoft
+tags: hoplon ubisoft FPS
 ---
 "A Mecânica do Jogo" mostra diversos aspectos sobre a indústria de desenvolvimento de games brasileira. 
 

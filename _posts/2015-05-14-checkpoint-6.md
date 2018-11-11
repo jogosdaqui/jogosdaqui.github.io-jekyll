@@ -2,7 +2,7 @@
 published: true
 layout: game
 title: 'Checkpoint #6'
-tags: aquiris-game-studio  chroma-squad behold-studios steam swordtales big-festival evento garage-227 big-green-pillow rockhead-games labindie vortex-game-studios division-five entrevista preview checkpoint
+tags: aquiris-game-studio  chroma-squad behold-studios steam swordtales big-festival evento garage-227 big-green-pillow rockhead-games labindie vortex-game-studios division-five entrevista preview checkpoint corrida
 ---
 
 

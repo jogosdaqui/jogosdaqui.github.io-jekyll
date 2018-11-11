@@ -2,7 +2,7 @@
 published: true
 layout: game
 title: 'Ano novo, jogos novos'
-tags: 
+tags: dynamic-games
 ---
 Foram adicionados os dois primeiros jogos para este ano na nossa galeria, o <a href="{{ site.baseurl }}/2006/01/06/metablocks/">Metablocks</a>
 , terceiro colocado no Festival de Jogos Independentes e o <a href="{{ site.baseurl }}/2006/01/02/os-conquistadores/">Os Conquistadores</a>

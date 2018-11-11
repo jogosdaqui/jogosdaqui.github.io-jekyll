@@ -10,4 +10,4 @@ Nesta edição são tratados vários assuntos, como: O portal Gametrack e a EGS,
 .
 
 Para quem ainda não é cadastrado, a newsletter pode ser acessada diretamente pelo link <a href="http://www.abragames.org/newsletter" target="_blank">http://www.abragames.org/newsletter</a>
-.</p>
+.

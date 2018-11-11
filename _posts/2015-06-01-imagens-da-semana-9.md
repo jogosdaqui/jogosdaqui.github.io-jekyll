@@ -2,7 +2,7 @@
 published: true
 layout: game
 title: 'Imagens da semana #9'
-tags: aquiris-game-studio  ninja-garage-studio mgaia-studio imagens-da-semana
+tags: aquiris-game-studio  ninja-garage-studio mgaia-studio imagens-da-semana corrida
 ---
 
 

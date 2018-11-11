@@ -2,7 +2,7 @@
 published: true
 layout: game
 title: 'Joga Brasil'
-tags: ios android donsoft-entertainment icon-games linux mac sao-paulo windows riachuelo-games
+tags: ios android donsoft-entertainment icon-games corrida linux mac sao-paulo windows riachuelo-games
 ---
 Como muito de vocês já devem saber nos dias 28 e 29 de janeiro acontecerá no Rio de Janeiro, nas dependências da Faculdade CCAA, o <a href="http://www.jogabrasil.com.br/" target="_blank">Joga Brasil</a>
 , primeiro evento focado na divulgação de games produzidos por empresas nacionais. Como não poderia deixar de ser, o jogosdaqui apóia, e muito, esse tipo de iniciativa.
@@ -13,7 +13,7 @@ Para ajudar na divulgação e aproximar o público ao evento, o jogosdaqui convi
 
 **Braza Games por Leandro Ferroni**
 **
-**</p>
+**
 
 A <a href="http://www.brazagames.com.br/" target="_blank">Braza Games</a>
 , desenvolvedora de games como <a href="http://www.brazagames.com.br/games/paperama" target="_blank">Paparama</a>
@@ -29,7 +29,7 @@ A <a href="http://www.brazagames.com.br/" target="_blank">Braza Games</a>
 
 **Donsoft Entertainment por Guilherme Xavier**
 **
-**</p>
+**
 
 A <a href="http://www.donsoft.com.br/" target="_blank">Donsoft Entertainment</a>
  é uma desenvolvedora de jogos de renome internacional, reconhecida no Brasil e no exterior pelo seu principal jogo, Capoeira Legends: Path to Freedom. O primeiro capítulo, lançado em 2009 e premiado com 4 Prêmios Nave Oi Futuro, gerou grande repercussão na mídia, transformando a empresa em uma das referências do mercado de jogos na América Latina e no pioneirismo de especialização em jogos sobre a Cultura e Folclore brasileiros. Muito tem-se comentado sobre o crescente mercado nacional de jogos, mas até o momento, poucas foram as oportunidades de nós, produtores e desenvolvedores de jogos nacionais, apresentarmos nossos trabalhos. Feiras nacionais são raras e estreitas, e infelizmente, colocam uma competição desleal entre o local e o estrangeiro. Não, não falta-nos qualidade para competir... Mas ainda precisamos resolver pressões culturais e econômicas internas muito poderosas para que o público brasileiro perceba que nossa caminhada ainda não nos permite os saltos mortais dos americanos e japoneses. Mas chegaremos lá, especialmente contando com a união de talentos diversos que acataram o desafio de pensar e produzir jogos no Brasil.
@@ -44,7 +44,7 @@ A <a href="http://www.donsoft.com.br/" target="_blank">Donsoft Entertainment</a>
 
 <strong>Icon Games por José Lucio "SLotman"</strong>
 **
-**</p>
+**
 
 A <a href="http://www.icongames.com.br" target="_blank">Icon Games</a>
  é uma empresa situada no mercado desde 2003, e conta em seu <a href="http://portfolio.icongames.com.br/" target="_blank">portfólio</a>
@@ -65,7 +65,7 @@ A <a href="http://www.icongames.com.br" target="_blank">Icon Games</a>
 
 **Riachuelo Games por Antonio Marcelo**
 **
-**</p>
+**
 
 A <a href="http://www.riachuelogames.com.br/" target="_blank">Riachuelo Games</a>
  atua em diversas áreas ligadas aos jogos. Localizado no Rio de Janeiro, nosso estúdio conta com profissionais de mercado para atender as suas necessidades. Atuamos nas áreas de : Concept Art; Game Design e Produção de Jogos : eletrônicos, dispositivos móveis (Android e IOS), web, advergames, tabuleiro e empresarias. Iniciada em 1998 como uma empresa voltada para wargames de tabuleiro print and play, foi evoluindo com o tempo atuando a partir de 2006 em jogos empresariais e de treinamento, além dos jogos de tabuleiro propriamente ditos. Em 2010 inicia sua entrada no mercado de brinquedos como jogos de tabuleiro e de dispositivos móveis. A Riachuelo hoje conta com parcerias fortes permitindo oferecer a seus clientes serviços na área de ilustração, e-learnig e advergames. Atualmente o estúdio localiza-se no Rio de Janeiro, mas com uma representação em São Paulo com nossos parceiros Cooper Games e Vectoria Studios.

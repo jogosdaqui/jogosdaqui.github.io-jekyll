@@ -2,7 +2,7 @@
 published: true
 layout: game
 title: 'Seja um profissional da indústria de jogos'
-tags: 
+tags: cgmax
 ---
 ## Que tal trabalhar na indústria de jogos?
 Dois pré-requisitos são essencias: um é ser apaixonado por jogos e o outro é estudar muito, isso mesmo, desenvolver jogos demanda de um grande conhecimento técnico e artístico.

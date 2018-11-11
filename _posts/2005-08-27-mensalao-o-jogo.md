@@ -14,11 +14,11 @@ Partindo de uma den&uacute;ncia, constatou-se que quatro parlamentares estariam 
 
 
 
-Voc&ecirc; joga consultando os registros dos depoimentos da CPI. Quanto mais registros consultar, menos valer&aacute; a sua capacidade de dedu&ccedil;&atilde;o. Selecione os quatro suspeitos e conclua o relat&oacute;rio.</p>
+Voc&ecirc; joga consultando os registros dos depoimentos da CPI. Quanto mais registros consultar, menos valer&aacute; a sua capacidade de dedu&ccedil;&atilde;o. Selecione os quatro suspeitos e conclua o relat&oacute;rio.
 
 
 
 
 
 
-A partir da vers&atilde;o 1.2 um editor para as fotos dos pol&iacute;ticos e para os logotipos dos partidos, afim de permitir que o jogador monte seu pr&oacute;prio conjunto de envolvidos.</p>
+A partir da vers&atilde;o 1.2 um editor para as fotos dos pol&iacute;ticos e para os logotipos dos partidos, afim de permitir que o jogador monte seu pr&oacute;prio conjunto de envolvidos.

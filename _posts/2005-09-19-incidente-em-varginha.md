@@ -2,7 +2,7 @@
 published: true
 layout: game
 title: 'Incidente em Varginha'
-tags: acao perceptum
+tags: acao perceptum FPS
 ---
 No jogo da brasileira <a href="http://www.perceptum.com/" target="_blank">Perceptum</a>
 , uma verdadeira operação de guerra é montada para acobertar o pouso de um veículo alienígena. Frustrando as forças militares envolvidas, alguns extraterrestres fogem em direção à cidade de Varginha, MG, onde são vistos por várias testemunhas. Você é uma delas, o primeiro ser humano a fazer contato, e recebe uma missão muito especial...

@@ -2,7 +2,7 @@
 published: true
 layout: game
 title: 'Os Conquistadores'
-tags: 
+tags: dynamic-games
 ---
 Os Conquistadores  da <a href="http://www.dynamicgames.com.br/" target="_blank">Dynamic Games</a>
  é um jogo de muita ação 3D, e conta a história do 1º Rei de Portugal (D. Afonso Henriques).

@@ -15,7 +15,7 @@ Criar um fórum de debates entre os pesquisadores que vem discutindo e analisand
 
 ## Local do Evento
 Auditório Jurandir Costa – UNEB – Departamento de Educação – Campus I
-Rua Silveira Martins no. 2555 – Cabula – Salvador – Bahia</p>
+Rua Silveira Martins no. 2555 – Cabula – Salvador – Bahia
 
 Período: 10 e 11/10/05
 

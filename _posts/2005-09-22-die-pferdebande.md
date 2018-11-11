@@ -2,7 +2,7 @@
 published: true
 layout: game
 title: 'Die Pferdebande'
-tags: 
+tags: oniria-entertainment
 ---
 Die Pferdebande, baseado na série de livros homónima de Karin Müller.
 

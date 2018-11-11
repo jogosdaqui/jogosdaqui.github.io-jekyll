@@ -2,7 +2,7 @@
 published: true
 layout: game
 title: 'PalmSoft Drag Racer'
-tags: palmsoft
+tags: palmsoft mobile
 ---
 PalmSoft Drag Racer é um jogo para celular onde o jogador disputa corridas de arrancadas com carros turbinados.
 

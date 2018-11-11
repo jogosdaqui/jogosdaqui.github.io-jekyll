@@ -2,7 +2,7 @@
 published: true
 layout: game
 title: 'Novidades no Gametrack'
-tags: devworks-game-technology gametrack
+tags: devworks-game-technology gametrack puzzle
 ---
 Dois novos jogos foram colocados no ar no portal <a href="http://www.gametrack.com.br" target="_blank">Gametrack</a>
 .

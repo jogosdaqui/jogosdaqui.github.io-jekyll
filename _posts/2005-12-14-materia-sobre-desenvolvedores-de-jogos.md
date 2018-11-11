@@ -2,7 +2,7 @@
 published: true
 layout: game
 title: 'Matéria sobre desenvolvedores de jogos'
-tags: 
+tags: redetv
 ---
 O programa Olhar Digital da RedeTV divulgou uma matéria sobre os desenvolvedores de jogos brasileiros.
 A matéria destaca as várias fases de desenvolvimento de um jogo e os profissionais envolvidos.

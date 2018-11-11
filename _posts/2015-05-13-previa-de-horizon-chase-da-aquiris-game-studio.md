@@ -2,7 +2,7 @@
 published: true
 layout: game
 title: 'Prévia de Horizon Chase da Aquiris Game Studio'
-tags: aquiris-game-studio  video preview
+tags: aquiris-game-studio  video preview corrida
 ---
 Antes de ler qualquer coisa sobre <a href="http://horizonchase.tumblr.com/" target="_blank">Horizon Chase</a>
 , ouça a trilha sonora abaixo:

@@ -5,9 +5,9 @@ title: 'Impacto Alpha'
 tags: oniria
 ---
 Primeiro jogo desenvolvido pela Oniria Entertainment, em 2001.
-Foi publicado no Brasil pela Cia do Software e na Alemanha, Áustria e Suíça pela BHV Software.</p>
+Foi publicado no Brasil pela Cia do Software e na Alemanha, Áustria e Suíça pela BHV Software.
 
-Impacto Alpha é um jogo de tiro espacial no estilo clássico dos anos 80, mas com uma produção condizente com os dias de hoje, voltado para o público casual.</p>
+Impacto Alpha é um jogo de tiro espacial no estilo clássico dos anos 80, mas com uma produção condizente com os dias de hoje, voltado para o público casual.
 
 
  <a href="{{ site.baseurl }}/wp-content/uploads/2005/10/Oniria_ImpactoAlpha-2.jpg">

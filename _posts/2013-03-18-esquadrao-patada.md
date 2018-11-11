@@ -2,7 +2,7 @@
 published: true
 layout: game
 title: 'Esquadrão Patada'
-tags: ios  video pankeka-games
+tags: ios  video pankeka-games puzzle
 ---
 A desenvolvedora mato-grossense <a href="http://www.pankekagames.com.br/" target="_blank">Pankeka Games</a>
  já esteve no jogosdaqui em 2012 com seu puzzle para iOS, o game à época era <a href="http://jogosdaqui.blog.uol.com.br/arch2012-01-01_2012-01-31.html#2012_01-05_08_05_01-154784552-0">Zigball</a>

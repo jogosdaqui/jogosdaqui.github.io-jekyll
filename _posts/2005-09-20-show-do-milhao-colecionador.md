@@ -4,7 +4,7 @@ layout: game
 title: 'Show do Milhão Colecionador'
 tags: sbt show-do-milhao
 ---
-Todas as emo&ccedil;&otilde;es do programa de televis&atilde;o &quot;<span style="font-weight: bold;">Show do Milh&atilde;o</span>&quot; do SBT agora com as 4 edi&ccedil;&otilde;es em um s&oacute; CD num total de 9000 perguntas. Brinque com <span style="font-weight: bold;">Silvio Santos</span> no jogo mais excitante da TV Brasileira.</p>
+Todas as emo&ccedil;&otilde;es do programa de televis&atilde;o &quot;<span style="font-weight: bold;">Show do Milh&atilde;o</span>&quot; do SBT agora com as 4 edi&ccedil;&otilde;es em um s&oacute; CD num total de 9000 perguntas. Brinque com <span style="font-weight: bold;">Silvio Santos</span> no jogo mais excitante da TV Brasileira.
  
 
 

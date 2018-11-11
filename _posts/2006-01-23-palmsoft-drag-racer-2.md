@@ -2,7 +2,7 @@
 published: true
 layout: game
 title: 'PalmSoft Drag Racer'
-tags: palmsoft
+tags: palmsoft mobile
 ---
 PalmSoft Drag Racer é um jogo em que a velocidade só depende de você: acerte os números que aparecem na tela e acelere sua máquina. Vença as arrancadas, ganhe dinheiro para turbinar sua máquina e busque maneiras de conseguir alguns HP's.
 

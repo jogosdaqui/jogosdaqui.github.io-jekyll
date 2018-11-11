@@ -2,7 +2,7 @@
 published: true
 layout: game
 title: 'Faça parte da batalha tecnológica de Warbots'
-tags: acao
+tags: acao delirus-entertainment
 ---
 A <a href="{{ site.baseurl }}/index.php?p=cl&amp;t=19&amp;idd=40">Délirus Entertainment</a>
  acaba de lançar o hotsite do jogo Warbots para PC.

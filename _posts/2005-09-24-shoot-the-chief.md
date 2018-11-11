@@ -10,13 +10,13 @@ Shoot the chief é um jogo casual de temática humorística, onde o jogador vive
 
 
 Atire nos objetos do cenário e descubra quais dão mais ou menos pontos!
-Encontre os bônus secretos e ganhe pontos extras!</p>
+Encontre os bônus secretos e ganhe pontos extras!
 
-Tente descobrir como ganhar mais tempo atirando nos relógios!</p>
+Tente descobrir como ganhar mais tempo atirando nos relógios!
 
 Encontre as armas escondidas pelos cenários!
 
-O chefe não é o único personagem. Cuidado com o puxa-saco, pois ele irá tentar impedir que você acerte o chefe. Derrube-o antes que ele entre na frente do chefe!</p>
+O chefe não é o único personagem. Cuidado com o puxa-saco, pois ele irá tentar impedir que você acerte o chefe. Derrube-o antes que ele entre na frente do chefe!
 
 
 

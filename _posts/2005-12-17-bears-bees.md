@@ -2,7 +2,7 @@
 published: true
 layout: game
 title: 'Bears & Bees'
-tags: devworks-game-technology
+tags: devworks-game-technology puzzle
 ---
 Bears &amp; Bees da <a href="http://www.devworks.com.br/" target="_blank">DevWorks </a>
 éum jogo estilo quebra-cabeça onde o jogador precisa alimentar um urso feroz e faminto com mel, muito mel.

@@ -2,7 +2,7 @@
 published: true
 layout: game
 title: 'Checkpoint #9'
-tags: ios android aquiris-game-studio  behold-studios chroma-squad insert-coins odin-game-studio rpg tilt webcore windows-phone windows big-festival evento big-starter mgaia-studio contra-labs facebook preview checkpoint
+tags: ios android aquiris-game-studio  behold-studios chroma-squad insert-coins odin-game-studio rpg tilt webcore windows-phone windows big-festival evento big-starter mgaia-studio contra-labs facebook preview checkpoint corrida
 ---
 
 

@@ -20,7 +20,7 @@ Nossa linha de jogos 3D promocionais, já foi testada e "aproveitada" por milhar
 </a>
  
 
-<span style="font-weight: bold;">Para jogar</span></p>
+<span style="font-weight: bold;">Para jogar</span>
 
 - Selecione um nível de dificuldade no menu inicial.
 - Ao abrir a porteira tente manter o Peão sobre o Touro, até que o anel verde superior se complete.

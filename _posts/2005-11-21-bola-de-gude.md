@@ -2,7 +2,7 @@
 published: true
 layout: game
 title: 'Bola de Gude'
-tags: 
+tags: icon-games
 ---
 Você ainda joga bola de gude com a galera do bairro ou se lembra de quando fazia isso na infância?
 Agora você pode fazer isso, sentado na frente do seu PC.

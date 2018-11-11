@@ -2,10 +2,10 @@
 published: true
 layout: game
 title: 'Industrial Imperialism'
-tags: palmsoft
+tags: palmsoft mobile
 ---
-<font size="2">> <span style="font-size: x-small;">Por Marcelo Andrade Tabone em colabora&#231;&#227;o para o jogosdaqui.</span></font></p>
- </p>
+<font size="2">> <span style="font-size: x-small;">Por Marcelo Andrade Tabone em colabora&#231;&#227;o para o jogosdaqui.</span></font>
+ 
 
 
 O jogo Industrial Imperialism, da brasileira PalmSoft, foi considerado o primeiro MMO brasileiro gratuito baseado em web.

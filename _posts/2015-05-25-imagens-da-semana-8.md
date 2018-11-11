@@ -2,7 +2,7 @@
 published: true
 layout: game
 title: 'Imagens da semana #8'
-tags: aquiris-game-studio  steam joymasher reiza-studios iduna-game-studio mgaia-studio garage-227 imagens-da-semana
+tags: aquiris-game-studio  steam joymasher reiza-studios iduna-game-studio mgaia-studio garage-227 imagens-da-semana corrida
 ---
 
 

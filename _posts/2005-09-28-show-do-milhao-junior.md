@@ -11,4 +11,4 @@ As perguntas são narradas pelo próprio Silvio Santos, e as respostas são ilus
  
 
 Os recursos disponíveis na TV também estão nesse jogo, e o jogador poderá pedir ajuda às cartas, à plateia, aos alunos, ou ainda pular 3 vezes para alcançar a premiação máxima de 1 Milhão de reais (fictícia).... jogue com seus colegas e desafie Silvio Santos no Show do Milhão Junior!
-Com Certeza você também será um vencedor!</p>
+Com Certeza você também será um vencedor!

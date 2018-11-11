@@ -2,7 +2,7 @@
 published: true
 layout: game
 title: 'PalmSoft lança três jogos em janeiro'
-tags: palmsoft rpg
+tags: palmsoft mobile rpg concurso
 ---
 A PalmSoft Tecnologia, empresa catarinense que desenvolve jogos para celular, está com três novidades. A primeira delas <a href="{{ site.baseurl }}/2005/10/13/shadows-of-malquidious/">Shadows of Malquidious</a>
 , RPG que ficou entre os 20 melhores jogos em um concurso da Sony Ericsson, e que começa a ser comercializado no Brasil. Nele, o jogador é envolvido em um ambiente de guerra, onde enfrenta um exército de mortos-vivos que tomou sua cidade natal e raptou todos os habitantes.

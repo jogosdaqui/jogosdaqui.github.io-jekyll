@@ -2,7 +2,7 @@
 published: true
 layout: game
 title: 'Metablocks'
-tags: 
+tags: puzzle
 ---
 Divirta-se testanto sua coordenação e seu raciocínio lógico com esse jogo simples e eletrizante. Baseado no clássico “Tetris”, traz consigo várias e interessantes inovações.
 

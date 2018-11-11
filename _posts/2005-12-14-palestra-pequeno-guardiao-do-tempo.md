@@ -2,7 +2,7 @@
 published: true
 layout: game
 title: 'Palestra Pequeno Guardião do Tempo'
-tags: sbgames evento
+tags: sbgames evento cgmax
 ---
 Os desenvolvedores do jogo <a href="{{ site.baseurl }}/2005/12/01/pequeno-guardiao-do-tempo/">Pequeno Guardião do Tempo,</a>
  campeão do Festival de Jogos Independentes do SBGames 2005, estarão numa palestra na Universidade Veiga de Almeida dia 17 de dezembro.

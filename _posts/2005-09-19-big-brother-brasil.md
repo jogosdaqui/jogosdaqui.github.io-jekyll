@@ -15,7 +15,7 @@ O jogador pode entrar neste &quot;virtual reality show&quot; como um dos 12 pers
 
 
 
-O jogo segue as mesmas regras do programa de TV, onde os participantes se relacionam dentro de uma casa, lutando para n&atilde;o serem eliminados pelo p&uacute;blico.</p>
+O jogo segue as mesmas regras do programa de TV, onde os participantes se relacionam dentro de uma casa, lutando para n&atilde;o serem eliminados pelo p&uacute;blico.
 
 
 

@@ -2,7 +2,7 @@
 published: true
 layout: game
 title: 'Resultado da enquete "Quais games desenvolvidos no Brasil você já jogou?"'
-tags: ios aquiris-game-studio  continuum diefox domino-box donsoft-entertainment erinia espaco-informatica fingertips graffiti-entertainment green-land-studios hoplon icon-games invent4 sulistas jynx-playware kidguru-studios nology livetouch miniboss mmorpg mother-gaia-studio musigames ovni-studios perceptum southlogic-studios tec-toy the-velopers webcore yellow-jam ps3 psp
+tags: ios aquiris-game-studio  continuum rts diefox domino-box donsoft-entertainment erinia espaco-informatica fingertips graffiti-entertainment green-land-studios hoplon icon-games invent4 sulistas jynx-playware kidguru-studios nology livetouch miniboss mmorpg mother-gaia-studio musigames ovni-studios perceptum southlogic-studios tec-toy the-velopers webcore yellow-jam ps3 psp ttomax FPS
 ---
 Nós, do jogosdaqui, conhecemos por volta de 200 games produzidos por empresas ou equipes indies brasileiras, mesmo conhecendo tantos games nacionais, sabíamos que existia muito mais por ai. O resultado da enquete "Quais games desenvolvidos no Brasil você já jogou?" comprovou nosso pensamento, pois ao final da enquete, temos a citação de 53 games diferentes, sendo que alguns ainda eram desconhecidos para nós.
 

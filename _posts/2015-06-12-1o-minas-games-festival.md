@@ -2,7 +2,7 @@
 published: true
 layout: game
 title: '1º Minas Games Festival'
-tags: behold-studios chroma-squad evento ilusis-interactive swordtales minas-games-festival
+tags: behold-studios chroma-squad evento ilusis-interactive swordtales minas-games-festival concurso
 ---
 Em junho, durante quatro dias acontecerá em Belo Horizonte o 1º Minas Games Festival, evento que contará com várias atrações, como palestras, game jam, exposição de indie games, concurso de cosplay e oficinas.
 

@@ -2,7 +2,7 @@
 published: true
 layout: game
 title: 'Crimson After Dusk'
-tags: palmsoft
+tags: palmsoft mobile
 ---
 Voc&ecirc; &eacute; Alef Gusev, um vampiro que quase foi morto na guerra contra os homens-lobo. Muito ferido, voc&ecirc; s&oacute; sobreviveu gra&ccedil;as a ajuda de um vampiro estrangeiro chamado Lord Vladistoff.
 

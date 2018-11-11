@@ -2,7 +2,7 @@
 published: true
 layout: game
 title: 'Horizon Chase se aproxima do grid de largada'
-tags: ios aquiris-game-studio  tilt video ps4 xbox-one xbox
+tags: ios aquiris-game-studio  tilt video ps4 xbox-one xbox corrida
 ---
 Depois de 5 meses de desenvolvimento o tão esperado game de corrida retrô da <a href="http://www.aquiris.com.br/" target="_blank">Aquiris Game Studio</a>
  já tem data de lançamento e é pra logo: no dia 20 de agosto os sortudos donos de iOS poderão apreciar Horizon Chase em primeira mão.

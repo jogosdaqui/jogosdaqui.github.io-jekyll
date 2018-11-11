@@ -2,7 +2,7 @@
 published: true
 layout: game
 title: 'Força Andrômeda - Operação Tempestade'
-tags: 
+tags: elfland-studios
 ---
 No game Força Andrômeda - Operação Tempestade, da <a href="http://www.elfland.com.br/" target="_blank">Elfland Studios</a>
 , Atlântida sempre foi um planeta em perfeita harmonia, até detectarem uma grande força invasora  Vórtice vindo em sua direção! Os Vórtices são conhecidos como saqueadores e escravizadores de populações inteiras.

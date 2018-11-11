@@ -2,7 +2,7 @@
 published: true
 layout: game
 title: 'Dominó Chinês'
-tags: sbt
+tags: green-land-studios sbt tabuleiro
 ---
 ## Dominó Chinês
 Difere do dominó clássico, onde o jogador deve colocar em sequência peças que possuem extremidades iguais. No jogo chinês as peças são desempilhadas e são feitas combinações com outras peças para avançar. Quando é feita a combinação correta o par de peças é eliminado.

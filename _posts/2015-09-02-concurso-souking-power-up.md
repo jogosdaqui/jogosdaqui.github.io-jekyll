@@ -2,7 +2,7 @@
 published: true
 layout: game
 title: 'Concurso Souking - Power UP'
-tags: ludum-dare souking evento
+tags: ludum-dare souking evento concurso
 ---
 
 

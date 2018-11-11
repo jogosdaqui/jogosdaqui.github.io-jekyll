@@ -2,7 +2,7 @@
 published: true
 layout: game
 title: 'Red Hood Racing'
-tags: palmsoft
+tags: palmsoft mobile
 ---
 Você tem medo do Lobo Mau?
 Fique na pele da Chapeuzinho, do Caçador ou do próprio Lobo!
