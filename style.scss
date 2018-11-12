@@ -352,3 +352,18 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+
+// Search.
+#search-input {
+  float:right;
+}
+
+#results-container {
+  position: absolute;
+  background: white;
+  margin: 0;
+  margin-top: 13px;
+  border: 1px solid $lightGray;
+  padding-right: 10px;
+}
