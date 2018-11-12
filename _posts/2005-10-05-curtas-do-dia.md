@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Curtas do dia...'
+companies: ''
 categories: News
 tags: erinia hoplon tilt
 ---

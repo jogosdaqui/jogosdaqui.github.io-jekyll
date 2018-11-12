@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Super Mini Racing'
+companies: ''
 categories: Game
 tags: corrida
 ---

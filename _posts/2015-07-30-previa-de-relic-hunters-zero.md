@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Prévia de Relic Hunters Zero'
+companies: ''
 categories: Preview
 tags: chroma-squad behold-studios linux mac steam windows video rogue-snail big-festival evento big-starter preview
 ---

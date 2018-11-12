@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'club TILT, Renato Degiovani fala sobre a abertura'
-categories: 
+companies: ''
+categories: News
 tags: tilt
 ---
 Renato Degiovani, primeiro projetista de jogos brasileiro anunciou recentemente a abertura do <a href="http://www.clubtilt.net/" target="_blank">club TILT</a>

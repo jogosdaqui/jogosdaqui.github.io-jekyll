@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Programa do Ratinho'
+companies: ''
 categories: Game
 tags: televisão
 ---

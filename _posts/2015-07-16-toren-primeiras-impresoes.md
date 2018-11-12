@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Toren: primeiras impressões'
-categories: 
+companies: ''
+categories: News
 tags: insert-coins video swordtales entrevista
 ---
 

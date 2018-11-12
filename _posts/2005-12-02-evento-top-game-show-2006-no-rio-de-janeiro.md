@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Evento Top Game Show 2006 no Rio de Janeiro'
-categories: News
+companies: ''
+categories: Event
 tags: top-game-show
 ---
 Agora os jogadores cariocas tem um motivo para ficar bastante animados. No próximo ano em Niterói ira acontecer o Top Game Show 2006. Evento que promete enfocar para o mercado de jogos eletrônicos, promovendo o envolvimento e a popularidade para o grande público do Rio de Janeiro.

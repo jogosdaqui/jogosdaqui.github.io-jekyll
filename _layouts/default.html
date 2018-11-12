@@ -15,6 +15,7 @@
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
     <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico?60a1fa" type="image/x-icon"/>
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
     {% seo %}
@@ -31,24 +32,24 @@
           </div>
 
           <nav>
-            <a href="{{ site.baseurl }}/noticias">Notícias</a>
-            <a href="{{ site.baseurl }}/previas">Prévias</a>
-            <a href="{{ site.baseurl }}/jogos">Jogos</a>
-            <a href="{{ site.baseurl }}/entrevistas">Entrevistas</a>
-            <a href="{{ site.baseurl }}/eventos">Eventos</a>
-            <a href="{{ site.baseurl }}/sobre">Sobre</a>
+            <a href="{{ site.baseurl }}/noticias" class="menu-item">Notícias</a>
+            <a href="{{ site.baseurl }}/previas" class="menu-item">Prévias</a>
+            <a href="{{ site.baseurl }}/jogos" class="menu-item">Jogos</a>
+            <a href="{{ site.baseurl }}/entrevistas" class="menu-item">Entrevistas</a>
+            <a href="{{ site.baseurl }}/eventos" class="menu-item">Eventos</a>
+            <a href="{{ site.baseurl }}/sobre" class="menu-item">Sobre</a>
           </nav>
           {% include search.html %}
         </header>
       </div>
     </div>
 
-    {% include ad.html %} 
     <div id="main" role="main" class="container">
+      {% include ad.html %} 
       {{ content }}
+      {% include ad.html %} 
     </div>
-    {% include ad.html %} 
-
+  
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">

@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'RacketBoy da Double Dash Studios'
-categories: 
+companies: ''
+categories: News
 tags: linux mac windows video double-dash crowdfunding demo
 ---
 Lembra de Breakout de 1972, clássico game que deu origem ao estilo de games de quebrar blocos, seguido por outros clássicos como Arkanoid de 1986?

@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Meu Tio Matou um Cara'
+companies: ''
 categories: News
 tags: southlogic-studios
 ---

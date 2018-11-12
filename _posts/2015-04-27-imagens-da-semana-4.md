@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Imagens da semana #4'
-categories: 
+companies: ''
+categories: News
 tags: behold-studios chroma-squad steam qubyte-interactive greenlight mgaia-studio garage-227 vortex-game-studios division-five facebook imagens-da-semana
 ---
 

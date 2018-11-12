@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Fan arts de Toren da Swordtales'
-categories: 
+companies: ''
+categories: News
 tags: swordtales facebook
 ---
 Quando os primeiros desenhos rupestres foram feitos na Caverna de Chauvet, na França, nascia a fan art, uma forma de homenagearmos aquilo que admiramos, no caso da caverna a admiração pela natureza, no caso dos desenhos desta página a admiração pelo game Toren da Swordtales que continua sendo um dos games indies do momento e tem agradado muita gente boa que também sabe desenhar muito bem. Confira algumas fan arts do jogo da protagonista Moonchild:

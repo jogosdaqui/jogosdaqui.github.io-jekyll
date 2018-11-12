@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Gold Hunter'
+companies: ''
 categories: Game
 tags: 
 ---

@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Crowdfunding de Magic Master'
-categories: 
+companies: ''
+categories: News
 tags: video mopix crowdfunding
 ---
 A mineira <a href="http://www.mopix.com.br" target="_blank">Mopix Games</a>

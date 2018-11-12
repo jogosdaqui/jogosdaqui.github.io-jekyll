@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Pré-venda de Out There Somewhere'
-categories: 
+companies: ''
+categories: News
 tags: miniboss desura
 ---
 A <a href="http://studiominiboss.com/?lang=pt" target="_blank">MiniBoss Studio</a>

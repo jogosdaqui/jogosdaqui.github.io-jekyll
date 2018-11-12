@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Novas imagens de Taikodom'
+companies: ''
 categories: News
 tags: hoplon
 ---

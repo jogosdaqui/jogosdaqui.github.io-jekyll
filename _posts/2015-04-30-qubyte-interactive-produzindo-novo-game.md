@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'QUByte Interactive produzindo novo game'
-categories: 
+companies: ''
+categories: News
 tags: splitplay qubyte-interactive ps4 xbox wii-u wii
 ---
 A paulista QUByte Interactive, conhecida pelo jogo <a href="{{ site.baseurl }}/2014/06/18/splitplay-apresenta-htr-high-tech-racing/" title="Splitplay apresenta: HTR+ High Tech Racing+">HTR+</a>

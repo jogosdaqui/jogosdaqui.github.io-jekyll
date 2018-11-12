@@ -3,9 +3,4 @@ layout: page
 permalink: /promocoes/
 title: 
 ---
-
-<div class="posts">
-{% for post in site.categories.Promo %}
-    {% include post-excerpt.html post=post %}
-{% endfor %}
-</div>
+{% include list-posts.html name="Promoções" posts=site.categories.Promo %}

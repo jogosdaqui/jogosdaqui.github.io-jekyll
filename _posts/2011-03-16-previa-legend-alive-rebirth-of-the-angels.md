@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Prévia: Legend Alive: rebirth of the angels'
+companies: ''
 categories: Preview
 tags: ios video dynamic-light preview
 ---

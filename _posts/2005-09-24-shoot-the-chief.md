@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Shoot The Chief'
+companies: ''
 categories: Game
 tags: 
 ---

@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Decifre a Garatuja - lançamento'
+companies: ''
 categories: News
 tags: tilt
 ---

@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Teaser Trailer de Full Metal Wars'
-categories: 
+companies: ''
+categories: News
 tags: prosperity-games
 ---
 O game Full Metal Wars, da brasileira Prosperity Games de Campina Grande, conta com uma mistura de mitologia nórdica e de tecnologia para a criação de seu mundo fantástico.

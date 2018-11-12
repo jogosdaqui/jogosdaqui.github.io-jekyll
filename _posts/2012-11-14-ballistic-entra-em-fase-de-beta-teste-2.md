@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Ballistic entra em fase de beta teste'
-categories: 
+companies: ''
+categories: News
 tags: aquiris-game-studio  video facebook
 ---
  

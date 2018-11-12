@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'PalmSoft lança três jogos em janeiro'
-categories: 
+companies: ''
+categories: News
 tags: palmsoft mobile rpg concurso
 ---
 A PalmSoft Tecnologia, empresa catarinense que desenvolve jogos para celular, está com três novidades. A primeira delas <a href="{{ site.baseurl }}/2005/10/13/shadows-of-malquidious/">Shadows of Malquidious</a>

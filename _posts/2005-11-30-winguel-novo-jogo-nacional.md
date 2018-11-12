@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Winguel, novo jogo Nacional'
+companies: ''
 categories: News
 tags: espaco-informatica rio-grande-do-sul demo
 ---

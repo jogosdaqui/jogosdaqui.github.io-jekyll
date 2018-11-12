@@ -1,0 +1,15 @@
+<div class="posts">
+{% for post in include.posts %}
+    <article class="post">
+
+    <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+    <div class="entry">
+    {% include logo.html path=post.path %}
+    {{ post.content | strip_html | truncatewords: 30 }}
+    </div>
+
+    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Leia mais</a>
+    </article>
+{% endfor %}
+</div>

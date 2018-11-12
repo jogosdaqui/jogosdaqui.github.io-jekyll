@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Abragames lança newsletter mensal'
+companies: ''
 categories: News
 tags: abragames
 ---

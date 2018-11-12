@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Ballistic Overkill - DevTalk #02'
-categories: 
+companies: ''
+categories: News
 tags: aquiris-game-studio  steam video
 ---
 A Aquiris Game Studio liberou o DevTalk #02 do <a href="http://store.steampowered.com/app/296300/" target="_blank">Ballistic Overkill</a>

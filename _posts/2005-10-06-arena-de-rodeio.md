@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Arena de Rodeio'
+companies: ''
 categories: Game
 tags: 
 ---

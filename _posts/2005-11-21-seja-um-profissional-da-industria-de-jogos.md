@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Seja um profissional da indústria de jogos'
+companies: ''
 categories: News
 tags: cgmax
 ---

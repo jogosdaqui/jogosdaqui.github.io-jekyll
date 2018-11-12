@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Playthrough Chroma Squad - Tactical RPG #001'
-categories: 
+companies: ''
+categories: News
 tags: behold-studios chroma-squad insert-coins rpg video
 ---
 

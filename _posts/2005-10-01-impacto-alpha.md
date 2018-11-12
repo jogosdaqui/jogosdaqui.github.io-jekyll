@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Impacto Alpha'
+companies: ''
 categories: Game
 tags: oniria
 ---

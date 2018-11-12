@@ -368,3 +368,11 @@ footer {
   padding-right: 10px;
   z-index: 99999999;
 }
+
+// Menu.
+.menu-item {
+  color: $theme-color;
+  font-family: robotoregular;
+  font-size: 16px;
+  text-transform: uppercase;
+}

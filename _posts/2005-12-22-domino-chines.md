@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Dominó Chinês'
-categories: 
+companies: ''
+categories: Game
 tags: green-land-studios sbt tabuleiro
 ---
 ## Dominó Chinês

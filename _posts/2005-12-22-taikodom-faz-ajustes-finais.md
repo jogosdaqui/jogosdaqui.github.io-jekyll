@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Taikodom faz ajustes finais'
+companies: ''
 categories: News
 tags: hoplon sao-paulo
 ---

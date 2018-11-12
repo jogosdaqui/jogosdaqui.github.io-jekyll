@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Swamp Adventure'
-categories: 
+companies: ''
+categories: News
 tags: ios android tilt frozen-logic-studios
 ---
 

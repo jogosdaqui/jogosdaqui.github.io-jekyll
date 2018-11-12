@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Game Party'
+companies: ''
 categories: News
 tags: abragames sao-paulo
 ---

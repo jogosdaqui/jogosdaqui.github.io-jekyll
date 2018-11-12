@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Prévia de Winguel'
+companies: ''
 categories: Preview
 tags: espaco-informatica demo preview puzzle
 ---

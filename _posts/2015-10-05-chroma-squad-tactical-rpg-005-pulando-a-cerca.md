@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Chroma Squad Tactical RPG #005 - Pulando a cerca'
-categories: 
+companies: ''
+categories: News
 tags: chroma-squad behold-studios insert-coins rpg video
 ---
 

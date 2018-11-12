@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'O gari é o herói'
-categories: 
+companies: ''
+categories: News
 tags: ios  video doubleleft
 ---
 Em <a href="http://doubleleft.com/garbageman/" target="_blank">Garbageman</a>

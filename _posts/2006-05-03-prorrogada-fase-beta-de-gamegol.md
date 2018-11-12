@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Prorrogada fase Beta de GameGol'
+companies: ''
 categories: News
 tags: o2-games
 ---

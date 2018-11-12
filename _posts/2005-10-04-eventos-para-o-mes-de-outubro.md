@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Eventos para o mês de outubro'
+companies: ''
 categories: Event
 tags: gamecon evento sao-paulo
 ---

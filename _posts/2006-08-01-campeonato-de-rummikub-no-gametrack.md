@@ -1,0 +1,10 @@
+---
+published: true
+layout: post
+title: 'Campeonato de Rummikub no Gametrack'
+companies: ''
+categories: News
+tags: gametrack
+---
+ Ser&aacute; realizado nos dias 26 e 27 de agosto de 2006, a Etapa Online do   Circuito  Brasileiro  de  Rummikub&reg;, um dos jogos de tabuleiro mais vendidos do mundo. Essa etapa do circuito acontecer&aacute; no Gametrack (<a href="http://www.gametrack.com.br" target="_blank">www.gametrack.com.br</a>
+).<br /> <br /> A Inscri&ccedil;&atilde;o no campeonato &eacute; gratuita. Para se inscrever, &eacute; preciso se cadastrar no Gametrack e seguir o processo de inscri&ccedil;&atilde;o dispon&iacute;vel no portal. As inscri&ccedil;&otilde;es podem ser realizadas at&eacute; o dia 20 de agosto. O vencedor da etapa online ir&aacute; disputar a final presencial em S&atilde;o Paulo. Se vencer a final, poder&aacute; representar o Brasil no 6th World Rummikub Championship de 03 a 06 de Novembro de 2006 no Hotel Chateau St.Gerlach em Maastricht na Holanda, com todas as despesas paga pela Grow Jogos e Brinquedos, detentora dos direitos do Rummikub no Brasil.<br /> <br /> Al&eacute;m  do  torneio,  os  interessados  poder&atilde;o  conhecer  e  praticar  o  jogo. Ap&oacute;s o cadastro, &eacute; poss&iacute;vel ganhar um brinde para experimentar todo o conte&uacute;do do Gametrack por 5 dias. Quem quiser jogar fora do per&iacute;odo do campeonato, pode optar pela assinatura com valor a partir de R$7,90/m&ecirc;s.    <br /> <br /><span style="font-weight: bold;"> Hist&oacute;ria</span> <br /> O  Rummikub&reg;  &eacute;  um  jogo  israelense  de  tabuleiro  criado  na  d&eacute;cada  de  30,  difundido  por  diversas  partes  do  mundo  a  partir  da  d&eacute;cada  de  50.  Atualmente,  &eacute;  o  terceiro  jogo  mais  vendido  no  mundo,  comercializado  em  52  pa&iacute;ses  e  impresso  em  24  idiomas.  Em  2003,  ocorreu  o  primeiro  circuito  brasileiro  de  Rummikub&reg;,  cujo  vencedor representou  o  Brasil  no  campeonato  mundial,  realizado  na  Su&iacute;&ccedil;a,  ficando  em  s&eacute;timo  lugar  na  classifica&ccedil;&atilde;o  geral.

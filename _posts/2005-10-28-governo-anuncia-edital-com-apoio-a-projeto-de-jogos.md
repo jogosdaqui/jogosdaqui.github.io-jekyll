@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Governo anuncia edital com apoio a projeto de jogos'
+companies: ''
 categories: News
 tags: abragames
 ---

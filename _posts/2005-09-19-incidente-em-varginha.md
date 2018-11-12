@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Incidente em Varginha'
+companies: ''
 categories: Game
 tags: acao perceptum FPS
 ---

@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Segunda edição do concurso JogosBr'
+companies: ''
 categories: News
 tags: jogosbr concurso
 ---

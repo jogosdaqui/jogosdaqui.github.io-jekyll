@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: '10 LET GAME$ = "FUN" (o livro)'
-categories: 
+companies: ''
+categories: News
 tags: tilt facebook
 ---
 

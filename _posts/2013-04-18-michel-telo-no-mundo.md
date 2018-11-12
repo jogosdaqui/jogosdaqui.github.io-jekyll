@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Michel Teló no Mundo'
-categories: 
+companies: ''
+categories: News
 tags: ios android video facebook doubleleft
 ---
 A <a href="https://www.facebook.com/doubleleft" target="_blank">Doubleleft</a>

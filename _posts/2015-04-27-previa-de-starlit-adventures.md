@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Prévia de Starlit Adventures'
+companies: ''
 categories: Preview
 tags: android psvita rockhead-games powerup evento preview
 ---

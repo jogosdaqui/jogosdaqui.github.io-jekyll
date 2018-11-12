@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Der Pferderennstall lançado na França'
+companies: ''
 categories: News
 tags: espaco-informatica
 ---

@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Iniciam as vendas do Bola de Gude'
+companies: ''
 categories: News
 tags: icon-games
 ---

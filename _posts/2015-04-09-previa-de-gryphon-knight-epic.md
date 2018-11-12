@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Prévia de Gryphon Knight Epic'
+companies: ''
 categories: Preview
 tags: steam greenlight crowdfunding cyber-rhino-studios preview
 ---

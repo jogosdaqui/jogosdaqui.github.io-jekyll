@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'VIII Gamepad – Seminário de Games e Tecnologia'
-categories: 
+companies: ''
+categories: News
 tags: abragames evento gamepad
 ---
 O VIII GAMEPAD – Seminário de Games e Tecnologia contará com apresentação de papers, mostra de jogos, palestras e workshops.

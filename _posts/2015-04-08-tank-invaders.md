@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Tank Invaders'
-categories: 
+companies: ''
+categories: News
 tags: ios android sbgames evento windows-phone windows mgaia-studio
 ---
 No jogo para <a href="https://itunes.apple.com/app/id815229338">iOS</a>

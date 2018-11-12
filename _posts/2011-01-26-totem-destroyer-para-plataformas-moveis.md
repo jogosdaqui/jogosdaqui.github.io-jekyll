@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Totem Destroyer para plataformas móveis'
-categories: 
+companies: ''
+categories: News
 tags: ios android mac windows demo cats-in-the-sky
 ---
 A produtora brasileira <a href="http://www.catsinthesky.com.br/" target="_blank">Cats in the Sky</a>

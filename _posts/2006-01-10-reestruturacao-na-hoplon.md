@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Reestruturação na Hoplon'
+companies: ''
 categories: News
 tags: hoplon
 ---

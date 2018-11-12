@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Imagens da semana #12'
-categories: 
+companies: ''
+categories: News
 tags: aquiris-game-studio  qubyte-interactive big-festival evento southbox-game-studio prosperity-games facebook imagens-da-semana corrida
 ---
 

@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Horizon Chase se aproxima do grid de largada'
-categories: 
+companies: ''
+categories: News
 tags: ios aquiris-game-studio  tilt video ps4 xbox-one xbox corrida
 ---
 Depois de 5 meses de desenvolvimento o tão esperado game de corrida retrô da <a href="http://www.aquiris.com.br/" target="_blank">Aquiris Game Studio</a>

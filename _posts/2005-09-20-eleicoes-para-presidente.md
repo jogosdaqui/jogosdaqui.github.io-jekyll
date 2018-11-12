@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Eleições para presidente'
+companies: ''
 categories: Game
 tags: tilt
 ---

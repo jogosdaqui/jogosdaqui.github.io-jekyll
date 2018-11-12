@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Novidades no jogosdaqui'
+companies: ''
 categories: News
 tags: 
 ---

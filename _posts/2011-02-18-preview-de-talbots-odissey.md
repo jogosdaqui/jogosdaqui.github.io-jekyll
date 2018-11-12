@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Preview de Talbot&#39;s Odissey'
+companies: ''
 categories: Preview
 tags: miniboss demo preview
 ---

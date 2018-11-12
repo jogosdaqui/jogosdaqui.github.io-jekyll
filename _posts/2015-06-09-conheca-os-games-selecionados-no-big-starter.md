@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Conheça os games selecionados no BIG Starter 2015'
-categories: 
+companies: ''
+categories: News
 tags: ovni-studios sao-paulo video webcore ilusis-interactive rogue-snail big-festival evento big-starter bad-minions preview
 ---
 O <a href="http://www.bigfestival.com.br/" target="_blank">BIG Festival</a>

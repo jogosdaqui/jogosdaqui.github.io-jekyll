@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Em breve: Jóquei Clube'
-categories: 
+companies: ''
+categories: News
 tags: espaco-informatica
 ---
 Segundo Augusto Bulow, um dos fundadores da produtora <a href="http://www.espacoinf.com/" target="_blank">Espaço Informática</a>

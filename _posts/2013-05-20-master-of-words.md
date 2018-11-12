@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Master of Words'
-categories: 
+companies: ''
+categories: News
 tags: ios android windows-phone windows rockhead-games
 ---
 

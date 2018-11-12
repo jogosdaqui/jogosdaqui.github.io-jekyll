@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Jogos em debate'
+companies: ''
 categories: News
 tags: hoplon rpg sbgames evento sao-paulo
 ---

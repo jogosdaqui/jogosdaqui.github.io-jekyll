@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Chroma Squad Tactical RPG #003 - DO A BARREL ROLL!'
-categories: 
+companies: ''
+categories: News
 tags: chroma-squad behold-studios insert-coins rpg video
 ---
 

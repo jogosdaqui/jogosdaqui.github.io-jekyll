@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Quiz Maker'
+companies: ''
 categories: Game
 tags: tilt
 ---

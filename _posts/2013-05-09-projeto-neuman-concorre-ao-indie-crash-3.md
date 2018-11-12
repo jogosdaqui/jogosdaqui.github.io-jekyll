@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Projeto Neuman concorre ao Indie Crash 3'
-categories: 
+companies: ''
+categories: News
 tags: 
 ---
 

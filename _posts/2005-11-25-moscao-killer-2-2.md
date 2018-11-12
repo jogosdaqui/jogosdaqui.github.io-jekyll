@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Moscão Killer 2.2'
+companies: ''
 categories: News
 tags: tilt
 ---

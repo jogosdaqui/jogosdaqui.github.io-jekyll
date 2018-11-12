@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Entrevista: Alessandro Martinello, diretor criativo de Toren'
+companies: ''
 categories: Interview
 tags: video ps4 swordtales entrevista
 ---

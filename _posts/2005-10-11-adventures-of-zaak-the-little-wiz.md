@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Adventures of Zaak - The Little Wiz'
+companies: ''
 categories: Game
 tags: meantime
 ---

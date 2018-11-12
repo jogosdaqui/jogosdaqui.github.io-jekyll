@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Totem Destroyer Deluxe'
-categories: 
+companies: ''
+categories: News
 tags: mac windows cats-in-the-sky
 ---
 Depois de lan&#231;ar a vers&#227;o para Mac e Windows de <a href="http://jogosdaqui.blog.uol.com.br/arch2010-12-05_2010-12-11.html#2010_12-06_18_52_16-154784552-0" target="_self">Cargo Delivery</a>

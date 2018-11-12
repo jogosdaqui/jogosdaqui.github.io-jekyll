@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Ganhadores da segunda semana'
+companies: ''
 categories: News
 tags: promocao tilt
 ---

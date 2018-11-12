@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Curso: Desenvolvimento com UDK'
-categories: 
+companies: ''
+categories: News
 tags: 
 ---
 O que games como Batman: Arkham Asylum, Bioshock, Gears of War e Mirror's Edge tem em comum? Al&#233;m do grande sucesso, eles foram desenvolvidos utilizando a Unreal Engine, o principal motor gr&#225;fico do mundo.

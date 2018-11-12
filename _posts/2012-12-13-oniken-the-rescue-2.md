@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Oniken: The Rescue'
-categories: 
+companies: ''
+categories: News
 tags: linux mac steam windows video greenlight joymasher desura
 ---
 Amanh&#227;, dia 14 de dezembro, o game <a href="http://oniken.net/" target="_blank">Oniken</a>

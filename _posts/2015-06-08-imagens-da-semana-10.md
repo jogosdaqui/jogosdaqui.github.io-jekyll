@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Imagens da semana 10'
-categories: 
+companies: ''
+categories: News
 tags: chroma-squad behold-studios zanardi-and-liza southbox-game-studio gametek imagens-da-semana corrida
 ---
 

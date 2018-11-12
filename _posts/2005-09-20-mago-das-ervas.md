@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Mago das Ervas'
+companies: ''
 categories: Game
 tags: 
 ---

@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Surge a Game Academy, escola online focada em games'
-categories: 
+companies: ''
+categories: News
 tags: promocao game-academy facebook
 ---
 Hoje a internet facilita a vida de todos e a Game Academy aproveita essa oportunidade para facilitar ainda mais a vida das pessoas que buscam um futuro profissional criativo, divertido e altamente compensador. Criamos uma série de cursos online com o objetivo simples e direto de dar oportunidade e levar a expertise em planejamento, criação e desenvolvimento de games para estudantes, profissionais e entusiastas que sonham em produzir games e que antes não conseguiam por falta de acesso em relação ao idioma e custo elevado.

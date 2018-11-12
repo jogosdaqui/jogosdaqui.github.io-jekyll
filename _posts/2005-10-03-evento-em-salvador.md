@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Evento em Salvador'
+companies: ''
 categories: Event
 tags: bahia
 ---

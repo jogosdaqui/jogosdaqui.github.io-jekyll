@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Entrevista: Espaço Informática'
+companies: ''
 categories: Interview
 tags: espaco-informatica psp demo entrevista
 ---

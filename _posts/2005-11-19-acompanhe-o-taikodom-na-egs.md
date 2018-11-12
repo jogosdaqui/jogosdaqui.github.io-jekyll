@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Acompanhe o Taikodom na EGS'
+companies: ''
 categories: News
 tags: hoplon
 ---

@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'PreservAÇÃO'
-categories: 
+companies: ''
+categories: News
 tags: 
 ---
 Utilize sua Inteligência! Salve o Planeta Terra!

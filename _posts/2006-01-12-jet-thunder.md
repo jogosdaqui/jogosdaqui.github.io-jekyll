@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Jet Thunder'
-categories: Game
+companies: ''
+categories: Preview
 tags: 
 ---
 Jet Thunder (título provisório) é um projeto de criação de um simulador de vôo realístico baseado na guerra aérea do Atlântico Sul, em 1982 - o conflito das Falklands/Malvinas. Está sendo desenvolvido por um grupo de entusiastas da aviação militar, em sua maioria localizados na América do Sul. Assim que estivermos plenamente organizados como um estúdio de desenvolvimento, sob o nome Thunderworks, mais informações sobre nós e nossos objetivos estarão disponíveis online, em um website institucional neste mesmo endereço.

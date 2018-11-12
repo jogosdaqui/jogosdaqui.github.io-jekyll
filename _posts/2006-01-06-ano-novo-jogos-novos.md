@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Ano novo, jogos novos'
+companies: ''
 categories: News
 tags: dynamic-games
 ---

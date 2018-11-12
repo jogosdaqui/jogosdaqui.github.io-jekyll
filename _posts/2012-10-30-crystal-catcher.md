@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Crystal Catcher'
-categories: 
+companies: ''
+categories: News
 tags: ios video
 ---
 Um runner com uma pitada de puzzle! Essa é a melhor maneira para descrever <a href="http://site.crazyminds.net/p/crystal-catcher.html" target="_blank">Crystal Catcher</a>

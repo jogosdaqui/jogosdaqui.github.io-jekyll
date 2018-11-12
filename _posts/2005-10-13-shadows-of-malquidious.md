@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Shadows of Malquidious'
+companies: ''
 categories: Game
 tags: 
 ---

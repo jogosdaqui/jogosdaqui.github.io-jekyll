@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Prévia de Massive Madness da Ninja Garage Studio'
+companies: ''
 categories: Preview
 tags: mac windows video crowdfunding ninja-garage-studio big-festival evento big-starter roguelike preview
 ---

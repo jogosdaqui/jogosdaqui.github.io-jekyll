@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'NewsAbragames - Dezembro/2005'
+companies: ''
 categories: News
 tags: abragames gametrack
 ---

@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Novas modificações no Taikodom'
+companies: ''
 categories: News
 tags: hoplon
 ---

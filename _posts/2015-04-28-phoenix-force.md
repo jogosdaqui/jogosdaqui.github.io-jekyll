@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Phoenix Force'
-categories: 
+companies: ''
+categories: News
 tags: ios android splitplay steam windows-phone windows awoker-games
 ---
 Shoot 'em up são conhecidos por ter uma enxurrada de inimigos que, no fim da fase, culminam em um grande inimigo extremamente difícil de derrotar, o famoso chefão de fase. Agora imagine um game deste gênero que não possui essa torrente de inimigos a cada fase, mas apenas o chefão final. Imaginou? Esse é o Phoenix Force da gaúcha Awoker Games que denomina o jogo como o primeiro Fantasy Boss Shooter Game.

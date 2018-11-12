@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Chip$ será lançado no Brasil'
+companies: ''
 categories: News
 tags: nology real-one-arcade
 ---

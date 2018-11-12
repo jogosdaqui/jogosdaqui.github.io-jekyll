@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Simulador VRUM, da Think Box, com realidade virtual'
-categories: 
+companies: ''
+categories: News
 tags: video thinkbox-games
 ---
 A empresa brasileira <a href="http://www.thinkboxgames.com/" target="_blank">Think Box</a>

@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Games brasileiros com desconto'
-categories: 
+companies: ''
+categories: News
 tags: steam video rogue-snail joymasher big-green-pillow
 ---
 O que <a href="http://store.steampowered.com/sub/64793/" target="_blank">Odallus - The Dark Call</a>

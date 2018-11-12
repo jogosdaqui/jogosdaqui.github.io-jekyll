@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'War of Malquidious'
+companies: ''
 categories: Game
 tags: palmsoft mobile rpg
 ---

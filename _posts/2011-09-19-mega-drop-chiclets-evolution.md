@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Mega Drop Chiclets Evolution'
-categories: 
+companies: ''
+categories: News
 tags: ios android ovni-studios video facebook
 ---
  

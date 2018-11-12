@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Invasão dos Sleans'
-categories: 
+companies: ''
+categories: News
 tags: ios android video
 ---
 

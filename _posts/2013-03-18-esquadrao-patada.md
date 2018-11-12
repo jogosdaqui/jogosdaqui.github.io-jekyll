@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Esquadrão Patada'
-categories: 
+companies: ''
+categories: News
 tags: ios  video pankeka-games puzzle
 ---
 A desenvolvedora mato-grossense <a href="http://www.pankekagames.com.br/" target="_blank">Pankeka Games</a>

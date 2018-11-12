@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Space Lander'
-categories: 
+companies: ''
+categories: News
 tags: steam video greenlight vortex-game-studios
 ---
 [sc:Quote text="Ground control to Major Tom 

@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Nishi Soul Mate'
+companies: ''
 categories: Game
 tags: 
 ---

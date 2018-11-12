@@ -1,0 +1,9 @@
+---
+published: true
+layout: post
+title: 'Imagem&Ação'
+companies: 'Devworks Game Technology'
+categories: Game
+tags: gametrack devworks game technology
+---
+Imagem&amp;A&ccedil;&atilde;o foi criado h&aacute; 20 anos por um gar&ccedil;om de 24 anos de Seatle. O jogo sempre conquistou muitos f&atilde;s durante todos esses anos e foi trazido ao Brasil pela Grow. Imagem&amp;A&ccedil;&atilde;o &eacute; considerado um dos mais populares jogos do mundo, com mais de 30 milh&otilde;es de c&oacute;pias vendidas. <br /><br />O jogo online para Imagem&amp;A&ccedil;&atilde;o do portal Gametrack segue a mesma f&oacute;rmula do jogo de tabuleiro: duas equipes, entre 4 a 8 jogadores,  tentam chegar com o seu pe&atilde;o na &uacute;ltima casa do tabuleiro, para  movimentar o pe&atilde;o pelo tabuleiro um membro de cada equipe tem que fazer desenhos para que os outros participantes da equipe tentem, atrav&eacute;s do chat, adivinhar a palavra sorteada. As palavras sorteadas variam em 6 categorias:<br /><br />Pessoa, lugar ou animal (incluindo suas partes e caracter&iacute;sticas)<br />Objeto (coisas que podem ser vistas ou tocadas)<br />A&ccedil;&atilde;o (verbos ou express&otilde;es que designam uma a&ccedil;&atilde;o)<br />Dif&iacute;cil (palavras ou express&otilde;es dif&iacute;ceis de todas as categorias)<br />Lazer (nomes de filmes, livros, esportes etc.)<br />Mix (palavras de qualquer categoria).<br /><br />As disputas podem ser feitas com as duas equipes tentando adivinhar a palavra ao mesmo tempo ou com cada equipe na sua vez.<br /><br />Imagem&amp;A&ccedil;&atilde;o do portal Gametrack conseguiu manter a divers&atilde;o e alegria das partidas do jogo cl&aacute;ssico. E n&atilde;o pense que voc&ecirc; precisa ser desenhista para se dar bem em Imagem&amp;A&ccedil;&atilde;o, basta usar a criatividade e se divertir a vontade.

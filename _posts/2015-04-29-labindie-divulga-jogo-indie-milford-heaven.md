@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Labindie divulga jogo indie Milford Heaven'
-categories: 
+companies: ''
+categories: News
 tags: rpg splitplay steam greenlight labindie roguelike entrevista
 ---
 

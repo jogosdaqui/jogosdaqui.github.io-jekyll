@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Ganhadores da promoção do game Recruits'
-categories: 
+companies: ''
+categories: News
 tags: promocao steam video qubyte-interactive
 ---
 Os participantes sorteados que seguiram todas as regras da  <a href="{{ site.baseurl }}/2015/05/05/promocao-do-game-recruits-make-heroes-make-history/">promoção do game Recruits - Make Heroes. Make History.</a>

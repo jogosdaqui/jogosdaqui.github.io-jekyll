@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Começam as venda do Smart Panda'
+companies: ''
 categories: News
 tags: leandro-correia
 ---

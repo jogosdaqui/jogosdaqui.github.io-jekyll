@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Chroma Squad no Steam, o dia chegou'
-categories: 
+companies: ''
+categories: News
 tags: behold-studios chroma-squad rpg steam crowdfunding
 ---
 A <a href="{{ site.baseurl }}/tags/behold-studios/">Behold Studios</a>

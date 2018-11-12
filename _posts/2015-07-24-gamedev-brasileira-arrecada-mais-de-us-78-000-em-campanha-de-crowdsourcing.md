@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Gamedev brasileira arrecada mais de US$ 78.000 em campanha de crowdsourcing'
-categories: 
+companies: ''
+categories: News
 tags: video reiza-studios
 ---
 A paranaense <a href="http://www.reizastudios.com/home/br/" target="_blank">Reiza Studios</a>

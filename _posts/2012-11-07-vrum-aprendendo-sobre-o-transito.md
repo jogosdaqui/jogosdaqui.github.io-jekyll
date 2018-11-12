@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'VRUM - Aprendendo sobre o trânsito'
-categories: 
+companies: ''
+categories: News
 tags: video thinkbox-games
 ---
  

@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Prévia de Cannibal da GameTek'
+companies: ''
 categories: Preview
 tags: steam video greenlight gametek preview
 ---

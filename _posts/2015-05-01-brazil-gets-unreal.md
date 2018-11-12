@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Brazil Gets Unreal'
-categories: 
+companies: ''
+categories: News
 tags: sao-paulo brazil-gets-unreal evento pernambuco
 ---
 A Epic Games realizará em maio o Brazil Gets Unreal, uma série de palestras mostrando casos de uso da engine Unreal.

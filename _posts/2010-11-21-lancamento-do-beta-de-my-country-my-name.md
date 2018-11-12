@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Lançamento do beta de My Country, My Name'
-categories: 
+companies: ''
+categories: News
 tags: mac vortex-game-studios
 ---
 A <a href="http://vortexgamestudios.com.br/" target="_blank">Vortex Game Studios</a>

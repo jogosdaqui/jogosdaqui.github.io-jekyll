@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Roko-Loko no castelo do Ratozinger'
+companies: ''
 categories: Game
 tags: roko-loko sao-paulo
 ---

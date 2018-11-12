@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Primeiras imagens de "Os Conquistadores"'
+companies: ''
 categories: News
 tags: dynamic-games
 ---

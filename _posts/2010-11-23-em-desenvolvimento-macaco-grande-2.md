@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Em desenvolvimento: Macaco Grande'
-categories: 
+companies: ''
+categories: News
 tags: ios  mac
 ---
 Um jogo no melhor estilo retro, trazendo de volta a jogabilidade simples e ágil dos primeiros jogos, com personagens, a conquistarem sucesso nos arcades

@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Imagens da semana #3'
-categories: 
+companies: ''
+categories: News
 tags: aquiris-game-studio  behold-studios chroma-squad invent4 steam reiza-studios garage-227 otus-game-studio imagens-da-semana
 ---
 

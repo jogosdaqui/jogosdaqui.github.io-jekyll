@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Joga Brasil'
-categories: 
+companies: ''
+categories: News
 tags: ios android donsoft-entertainment icon-games corrida linux mac sao-paulo windows riachuelo-games
 ---
 Como muito de vocês já devem saber nos dias 28 e 29 de janeiro acontecerá no Rio de Janeiro, nas dependências da Faculdade CCAA, o <a href="http://www.jogabrasil.com.br/" target="_blank">Joga Brasil</a>

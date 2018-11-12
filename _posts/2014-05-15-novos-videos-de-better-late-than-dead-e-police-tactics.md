@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Novos vídeos de Better late than DEAD e Police Tactics'
-categories: 
+companies: ''
+categories: News
 tags: odin-game-studio rpg video
 ---
 A paulistana <a href="http://www.odingamestudio.com.br/" target="_blank">Odin Game Studio</a>

@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Entrevista: Tiago Moraes da Ovni Studios (parte 2)'
+companies: ''
 categories: Interview
 tags: ios android ovni-studios wii facebook entrevista
 ---

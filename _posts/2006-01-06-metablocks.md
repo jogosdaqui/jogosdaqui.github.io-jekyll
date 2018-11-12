@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Metablocks'
+companies: ''
 categories: Game
 tags: puzzle
 ---

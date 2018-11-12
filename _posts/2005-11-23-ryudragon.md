@@ -2,8 +2,9 @@
 published: true
 layout: post
 title: 'Ryudragon'
+companies: ''
 categories: Game
-tags: 
+tags: decadium-studios
 ---
 O <a href="http://www.decadium.com/gameinfo.php?game=ryudragon" target="_blank">Ryudragon</a>
  é ambientado na época do Japão feudal, onde o jogador tem como objetivo levar sua conta (denominada feudo) até as posições mais altas no ranking, através de batalhas e alianças com os outros jogadores, até o final da era de dois meses. Ao final de uma era, o jogo é reiniciado, e uma nova era se inicia, com as batalhas começando outra vez. Isso possibilita que o interesse do usuário em relação ao jogo não seja perdido, uma vez que ele tem chance de ser o vencedor de quaisquer das eras que participar.

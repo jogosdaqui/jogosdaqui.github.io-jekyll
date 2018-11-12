@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Enquete no Mundo Erinia'
+companies: ''
 categories: News
 tags: erinia
 ---

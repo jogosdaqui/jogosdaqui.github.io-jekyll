@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'E aí, Game é Cultura?'
-categories: 
+companies: ''
+categories: News
 tags: facebook
 ---
  

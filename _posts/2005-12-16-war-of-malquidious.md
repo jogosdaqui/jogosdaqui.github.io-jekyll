@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Prévia de War of Malquidious da PalmSoft'
-categories: 
+companies: ''
+categories: News
 tags: palmsoft mobile rpg preview
 ---
 War of Malquidious, o novo RPG tático para celular da PalmSoft Tecnologia.

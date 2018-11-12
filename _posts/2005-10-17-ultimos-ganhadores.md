@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Últimos ganhadores'
-categories: 
+companies: ''
+categories: News
 tags: promocao tilt
 ---
 stes são os últimos 5 ganhadores da promoção de lançamento do jogosdaqui.

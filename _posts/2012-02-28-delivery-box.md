@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Delivery Box'
-categories: 
+companies: ''
+categories: News
 tags: ios yotta-apps
 ---
 <a href="http://www.yottaapps.com.br/aplicativos/delivery-box/" target="_blank">Delivery Box</a>

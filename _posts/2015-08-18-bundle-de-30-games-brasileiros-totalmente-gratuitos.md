@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Bundle de 30 games brasileiros totalmente gratuitos'
-categories: 
+companies: ''
+categories: News
 tags: promocao splitplay demo
 ---
 A <a href="http://www.splitplay.com/" target="_blank">Splitplay</a>

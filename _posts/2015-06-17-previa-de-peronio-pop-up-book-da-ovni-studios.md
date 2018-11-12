@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Prévia de Peronio Pop-Up Book da Ovni Studios'
+companies: ''
 categories: Preview
 tags: ios android ovni-studios steam video ps4 big-festival evento big-starter preview
 ---

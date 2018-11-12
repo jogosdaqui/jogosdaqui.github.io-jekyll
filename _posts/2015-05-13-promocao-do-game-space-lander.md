@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Promoção do game Space Lander'
+companies: ''
 categories: Promo
 tags: promocao vortex-game-studios
 ---

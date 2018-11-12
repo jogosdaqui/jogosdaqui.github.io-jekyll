@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Heist and Run'
-categories: 
+companies: ''
+categories: News
 tags: ios android odin-game-studio
 ---
 A <a href="http://www.odingamestudio.com.br/" target="_blank">Odin Game Studio</a>

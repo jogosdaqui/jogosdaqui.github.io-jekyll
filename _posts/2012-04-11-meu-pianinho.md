@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Meu Pianinho'
-categories: 
+companies: ''
+categories: News
 tags: ios android white-vortex
 ---
 A empresa <a href="http://whitevortex.com" target="_blank">White Vortex</a>

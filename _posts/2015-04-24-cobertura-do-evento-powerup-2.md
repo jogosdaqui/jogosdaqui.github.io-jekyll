@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Cobertura do evento PowerUp #2'
-categories: 
+companies: ''
+categories: News
 tags: southlogic-studios adjogosrs ludum-dare swordtales rockhead-games powerup evento ubisoft
 ---
 Quarta-feira na universade Feevale aconteceu a segunda edição do evento <a title="PowerUp #2" href="{{ site.baseurl }}/2015/04/17/powerup-2/">PowerUp</a>

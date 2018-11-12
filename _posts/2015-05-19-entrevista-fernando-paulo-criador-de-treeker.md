@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Entrevista: Fernando Paulo, criador de Treeker'
+companies: ''
 categories: Interview
 tags: steam windows video greenlight ps4 wii-u wii big-festival evento blusoft-studios demo facebook entrevista
 ---

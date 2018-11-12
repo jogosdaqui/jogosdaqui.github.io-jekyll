@@ -1,11 +1,4 @@
 ---
 layout: default
 ---
-
-<div class="posts">
-    <div class="posts">
-    {% for post in site.posts %}
-        {% include post-excerpt.html post=post %}
-    {% endfor %}
-    </div>
-</div>
+{% include list-posts.html name="" posts=site.posts %}

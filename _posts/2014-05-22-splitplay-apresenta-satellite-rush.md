@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Splitplay apresenta: Satellite Rush'
-categories: 
+companies: ''
+categories: News
 tags: splitplay video kimeric-labs
 ---
 > Por Kimeric Labs em colaboração para o jogosdaqui.

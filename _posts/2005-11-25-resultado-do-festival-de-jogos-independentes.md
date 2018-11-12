@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Resultado do Festival de Jogos Independentes'
+companies: ''
 categories: News
 tags: abragames linux sbgames evento icon-games
 ---

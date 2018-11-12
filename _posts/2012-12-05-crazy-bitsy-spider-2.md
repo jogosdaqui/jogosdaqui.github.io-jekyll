@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Crazy Bitsy Spider'
-categories: 
+companies: ''
+categories: News
 tags: ios android video dead-mushroom
 ---
 <a href="http://www.deadmushroom.com/?page_id=27" target="_blank">Crazy Bitsy Spider</a>

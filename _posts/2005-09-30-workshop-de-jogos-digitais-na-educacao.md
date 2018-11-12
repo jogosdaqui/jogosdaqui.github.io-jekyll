@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Workshop de Jogos Digitais na Educação'
+companies: ''
 categories: Event
 tags: sbie evento open-source
 ---

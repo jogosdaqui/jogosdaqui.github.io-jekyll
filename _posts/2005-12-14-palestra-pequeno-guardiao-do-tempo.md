@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Palestra Pequeno Guardião do Tempo'
-categories: 
+companies: ''
+categories: News
 tags: sbgames evento cgmax
 ---
 Os desenvolvedores do jogo <a href="{{ site.baseurl }}/2005/12/01/pequeno-guardiao-do-tempo/">Pequeno Guardião do Tempo,</a>

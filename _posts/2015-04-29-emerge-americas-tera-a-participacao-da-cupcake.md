@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'eMerge Americas terá a participação da Cupcake'
-categories: 
+companies: ''
+categories: News
 tags: video cupcake-sweet-entertainment
 ---
 A gaúcha Cupcake Sweet Entertainment, que já apareceu aqui no jogosdaqui com o jogo Letra de Ouro, foi selecionada para participar do eMerge Americas, <a href="http://emergeamericas.org/" target="_blank">mega-evento de tecnologia</a>

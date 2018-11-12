@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Promoção do game Recruits - Make Heroes. Make History.'
+companies: ''
 categories: Promo
 tags: promocao steam video qubyte-interactive
 ---

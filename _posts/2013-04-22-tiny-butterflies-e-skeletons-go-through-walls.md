@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Tiny butterflies e Skeletons Go Through Walls'
-categories: 
+companies: ''
+categories: News
 tags: ios android
 ---
 Apresento dois games do desenvolvedor independente Paulo Candolo Nogueira que já trabalha há um bom tempo com desenvolvimento de jogos e está se aventurando no mercado indie.

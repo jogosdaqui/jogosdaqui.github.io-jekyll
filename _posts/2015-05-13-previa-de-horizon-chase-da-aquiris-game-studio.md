@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Prévia de Horizon Chase da Aquiris Game Studio'
+companies: ''
 categories: Preview
 tags: aquiris-game-studio  video preview corrida trilha-sonora
 ---

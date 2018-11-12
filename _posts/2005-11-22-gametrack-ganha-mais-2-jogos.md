@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Gametrack ganha mais 2 jogos'
+companies: ''
 categories: News
 tags: gametrack
 ---

@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Show de Bola, novo jogo da Meantime'
+companies: ''
 categories: News
 tags: meantime
 ---

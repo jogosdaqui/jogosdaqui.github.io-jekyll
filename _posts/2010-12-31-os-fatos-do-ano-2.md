@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Os fatos do ano'
-categories: 
+companies: ''
+categories: News
 tags: ios  miniboss ovni-studios ps3 psp bgs evento zeebo e-games ubisoft concurso
 ---
  

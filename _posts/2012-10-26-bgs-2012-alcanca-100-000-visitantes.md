@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'BGS 2012 alcança 100.000 visitantes'
-categories: 
+companies: ''
+categories: News
 tags: bgs evento
 ---
  

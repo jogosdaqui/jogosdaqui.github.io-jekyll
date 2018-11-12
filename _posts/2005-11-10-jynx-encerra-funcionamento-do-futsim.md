@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Jynx encerra funcionamento do FutSim'
+companies: ''
 categories: News
 tags: jynx-playware
 ---

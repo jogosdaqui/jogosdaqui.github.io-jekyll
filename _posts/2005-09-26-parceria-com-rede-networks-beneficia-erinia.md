@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Parceria com Rede Networks beneficia Erinia'
+companies: ''
 categories: News
 tags: erinia mmorpg rpg
 ---

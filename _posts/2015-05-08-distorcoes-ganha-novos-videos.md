@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Distorções ganha novos vídeos'
-categories: 
+companies: ''
+categories: News
 tags: 
 ---
 A equipe de desenvolvimento do <a href="http://distortions.co/" target="_blank">game Distorções</a>

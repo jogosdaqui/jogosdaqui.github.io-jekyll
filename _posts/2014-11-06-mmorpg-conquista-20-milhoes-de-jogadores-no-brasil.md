@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'MMORPG conquista 20 milhões de jogadores no Brasil'
-categories: 
+companies: ''
+categories: News
 tags: mmorpg video facebook
 ---
 

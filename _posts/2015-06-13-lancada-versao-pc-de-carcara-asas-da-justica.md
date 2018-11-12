@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Lançada versão PC de Carcará - Asas da Justiça'
-categories: 
+companies: ''
+categories: News
 tags: android linux mac windows video supernova-indie-games
 ---
 No final de maio <a href="{{ site.baseurl }}/2015/05/28/carcara-asas-da-justica/">falamos do game Carcará - Asas da Justiça</a>

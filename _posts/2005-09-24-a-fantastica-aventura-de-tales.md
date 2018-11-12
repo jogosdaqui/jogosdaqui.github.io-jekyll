@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'A Fantástica Aventura de Tales'
-categories: 
+companies: ''
+categories: News
 tags: 
 ---
 Jogo eletrônico e multimídia educacional matemático com estória não linear.

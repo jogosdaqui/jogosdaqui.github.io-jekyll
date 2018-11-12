@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Whiskeria Paradiso'
+companies: ''
 categories: Game
 tags: 
 ---

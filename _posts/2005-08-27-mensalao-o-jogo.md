@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Mensalão, o Jogo'
+companies: ''
 categories: Game
 tags: 
 ---

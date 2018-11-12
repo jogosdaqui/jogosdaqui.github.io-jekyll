@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Favela Wars entra em fase beta'
-categories: 
+companies: ''
+categories: News
 tags: ios android video nano-studio
 ---
 

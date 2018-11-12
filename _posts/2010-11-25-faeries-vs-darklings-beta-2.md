@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Faeries vs. Darklings beta'
-categories: 
+companies: ''
+categories: News
 tags: 
 ---
 

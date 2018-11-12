@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Pesquisa de Game Design'
+companies: ''
 categories: News
 tags: tilt
 ---

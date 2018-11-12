@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Vibrant Recycling'
-categories: 
+companies: ''
+categories: News
 tags: video
 ---
 

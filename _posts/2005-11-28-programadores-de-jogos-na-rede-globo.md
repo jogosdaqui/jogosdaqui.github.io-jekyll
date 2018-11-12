@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Programadores de jogos na Rede Globo'
+companies: ''
 categories: News
 tags: globo
 ---

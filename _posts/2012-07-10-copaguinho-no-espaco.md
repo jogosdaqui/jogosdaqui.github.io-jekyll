@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Copaguinho no Espaço'
-categories: 
+companies: ''
+categories: News
 tags: ios
 ---
 Em seu primeiro game para iPad, a empresa brasileira <span style="color: #222222; font-family: arial, sans-serif; font-size: 13px;">Mkt Virtual desenvolveu em parceria com a Copag, maior fabricante de baralhos do Brasil, o game &quot;Copaguinho no Espa&#231;o&quot;.</span>

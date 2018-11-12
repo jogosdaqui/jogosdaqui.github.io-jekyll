@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'O perfil dos jogadores'
-categories: 
+companies: ''
+categories: News
 tags: mmorpg
 ---
 <p class="MsoNormal">O jogo &#233; uma atividade comum em todas as sociedades e culturas, e assim tem permanecido desde tempos imemoriais. Para a maioria das pessoas, esta atividade n&#227;o passa de um divertimento, uma op&#231;&#227;o de lazer, sem consequ&#234;ncias negativas de qualquer tipo.

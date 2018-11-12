@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Teaser de Fragmentorum Alba'
-categories: 
+companies: ''
+categories: News
 tags: behold-studios otus-game-studio
 ---
 Fragmentorum Alba é o primeiro game da startup gaúcha Otus Game Studio.

@@ -1,0 +1,10 @@
+---
+published: true
+layout: post
+title: 'Jogo da Scotland Yard pela nTime'
+companies: ''
+categories: News
+tags: 
+---
+A nTime Mobile Solutions, em parceria com a operadora de telecomunica&ccedil;&otilde;es Brasil Telecom, est&aacute; lan&ccedil;ando o jogo Scotland Yard Mobile, t&iacute;tulo da Grow Brinquedos, famoso por seu sucesso nos tabuleiros. O jogo est&aacute; dispon&iacute;vel no menu SimCard dos celulares de clientes Brasil Telecom  e convida o usu&aacute;rio a desafiar sua capacidade de observa&ccedil;&atilde;o e l&oacute;gica na investiga&ccedil;&atilde;o de crimes.<br /><br /> <br />O Scotland Yard Mobile, assim como sua vers&atilde;o original dos tabuleiros, se baseia na atua&ccedil;&atilde;o da famosa pol&iacute;cia de Londres, que ficou conhecida por meio do personagem Sherlock Holmes. A l&oacute;gica e o racioc&iacute;nio do detetive foram reconhecidos pela Scotland Yard que deu o nome do investigador a seu banco de dados de crimes - Homes (que quer dizer Home Office Large Major Enquiry System).<br /><br />Na fase de lan&ccedil;amento os usu&aacute;rios da Brasil Telecom ter&atilde;o &agrave; disposi&ccedil;&atilde;o 15 casos para serem desvendados. O usu&aacute;rio poder&aacute; ainda escolher as categorias f&aacute;cil, m&eacute;dio e dif&iacute;cil.<br /><br />Os jogadores poder&atilde;o ainda acessar o site especialmente criado para esta vers&atilde;o mobile (<a href="http://www.scotlandyardmobile.com.br" target="_blank">www.scotlandyardmobile.com.br</a>
+), onde poder&atilde;o consultar os casos, verificar o ranking dos jogadores, comunidades e at&eacute; mesmo tirar d&uacute;vidas.<br /><br />Segundo Rafael Duton, vice-presidente de inova&ccedil;&atilde;o da nTime, a vers&atilde;o mobile do Scotland Yard tem como objetivo ampliar a parceria da empresa com as operadoras de telefonia celular, aumentar oferta de jogos via SMS e fidelizar os usu&aacute;rios de jogos mobile, onde a nTime tem participa&ccedil;&atilde;o significativa.

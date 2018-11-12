@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Entrevista: Claudio Lins'
+companies: ''
 categories: Interview
 tags: mac musigames steam ps4 psvita xbox-one xbox wii-u wii joymasher humble-store desura entrevista preloud-studios playlore arc-gen
 ---

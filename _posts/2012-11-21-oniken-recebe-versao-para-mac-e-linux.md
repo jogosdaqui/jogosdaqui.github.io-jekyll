@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Oniken recebe versão para Mac e Linux'
-categories: 
+companies: ''
+categories: News
 tags: linux mac windows video joymasher desura
 ---
 

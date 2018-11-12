@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Novidades sobre My Country, My Name'
-categories: 
+companies: ''
+categories: News
 tags: mac video vortex-game-studios demo
 ---
 O produtor Alexandre Ribeiro de S&#225;, da empresa <a href="http://vortexgamestudios.com.br" target="_blank">Vortex Game Studios</a>

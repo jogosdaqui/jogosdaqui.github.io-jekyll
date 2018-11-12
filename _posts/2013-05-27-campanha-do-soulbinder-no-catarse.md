@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Campanha do Soulbinder no Catarse'
-categories: 
+companies: ''
+categories: News
 tags: rpg tendrils-entertainment
 ---
  

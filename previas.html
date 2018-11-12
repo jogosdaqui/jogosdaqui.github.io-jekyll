@@ -3,9 +3,4 @@ layout: page
 permalink: /previas/
 title: 
 ---
-
-<div class="posts">
-{% for post in site.categories.Preview %}
-    {% include post-excerpt.html post=post %}
-{% endfor %}
-</div>
+{% include list-posts.html name="Prévias" posts=site.categories.Preview %}

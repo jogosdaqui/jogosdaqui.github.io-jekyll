@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Souking, nova loja de games brasileiros'
-categories: 
+companies: ''
+categories: News
 tags: souking
 ---
 Hoje, 30 de junho entrará no ar a <a href="http://souking.com.br" target="_blank">Souking</a>

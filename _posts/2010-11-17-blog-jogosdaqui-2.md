@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Blog jogosdaqui'
-categories: 
+companies: ''
+categories: News
 tags: 
 ---
 

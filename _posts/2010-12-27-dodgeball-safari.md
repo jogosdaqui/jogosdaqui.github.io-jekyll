@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Dodgeball Safari'
-categories: 
+companies: ''
+categories: News
 tags: ios  ovni-studios video
 ---
 A Ovni Studios, conhecida pelo desenvolvimento de games como <a href="http://www.ovnistudios.com/colorrace" target="_blank">Fiat Uno Color Race</a>

@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Matéria sobre desenvolvedores de jogos'
+companies: ''
 categories: News
 tags: redetv
 ---

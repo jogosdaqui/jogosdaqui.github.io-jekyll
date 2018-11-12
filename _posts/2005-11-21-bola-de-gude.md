@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Bola de Gude'
+companies: ''
 categories: Game
 tags: icon-games
 ---

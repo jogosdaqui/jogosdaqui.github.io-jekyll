@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Erinia, A Guerra dos Dois Dias'
+companies: ''
 categories: News
 tags: erinia
 ---

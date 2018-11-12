@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Lançado o site da 2ª edição do concurso JogosBr'
-categories: 
+companies: ''
+categories: News
 tags: jogosbr concurso
 ---
 O Ministério da Cultura lançou oficialmente o site da segunda edição do concurso JogosBr.

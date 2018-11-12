@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Promoção de lançamento do jogosdaqui'
+companies: ''
 categories: Promo
 tags: promocao tilt
 ---

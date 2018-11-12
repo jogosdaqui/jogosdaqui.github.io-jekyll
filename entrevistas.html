@@ -3,9 +3,4 @@ layout: page
 permalink: /entrevistas/
 title: 
 ---
-
-<div class="posts">
-{% for post in site.categories.Interview %}
-    {% include post-excerpt.html post=post %}
-{% endfor %}
-</div>
+{% include list-posts.html name="Entrevistas" posts=site.categories.Interview %}

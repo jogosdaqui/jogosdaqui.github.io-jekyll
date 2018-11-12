@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Campanha do TurboLink no Collective está chegando ao fim'
-categories: 
+companies: ''
+categories: News
 tags: steam video greenlight crowdfunding division-five
 ---
 A campanha do <a href="{{ site.baseurl }}/2015/04/03/previa-de-turbolink/">game brasileiro TurboLink</a>

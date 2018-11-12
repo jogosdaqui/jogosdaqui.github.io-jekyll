@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Lançado o Brasfoot 2006'
+companies: ''
 categories: News
 tags: 
 ---

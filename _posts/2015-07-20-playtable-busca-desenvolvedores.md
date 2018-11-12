@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'PlayTable busca desenvolvedores'
-categories: 
+companies: ''
+categories: News
 tags: playmove video
 ---
 A  Playmove de Blumenau, Santa Catarina, empresa desenvolvedora da <a href="http://playtable.com.br/" target="_blank">PlayTable</a>

@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Brazil Gets Unreal - Porto Alegre, Curitiba e Florianópolis'
-categories: 
+companies: ''
+categories: News
 tags: parana santa-catarina rio-grande-do-sul sao-paulo brazil-gets-unreal evento pernambuco
 ---
 Depois de visitar Rio de Janeiro, São Paulo, Recife e Fortaleza, chegou a hora do evento Brazil Gets Unreal, da  Epic Games, acontecer no sul do país.

@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Manifesto Games vence concurso nacional'
-categories: 
+companies: ''
+categories: News
 tags: abragames sao-paulo pernambuco manifesto-games concurso
 ---
 A brasileira Manifesto Games, que possui escritórios em Recife e São Paulo, foi a grande vencedora do <a href="http://www.jogosfinanceiros.sebrae.com.br/jogos_empreendedores/index.jsf">Prêmio de Desenvolvimento de Jogos de Educação Financeira</a>

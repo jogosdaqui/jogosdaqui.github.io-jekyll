@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'BRING #4 - Mostra Brasiliense de Indie Games'
-categories: 
+companies: ''
+categories: News
 tags: behold-studios demo bring evento otus-game-studio facebook
 ---
 A BRING, Mostra Brasiliense de Indie Games chega na sua quarta edição que será realizada na Indie House da Behold Studios, Otus Game Studio e BadMinions, estúdios que resolveram compartilhar um espaço comum de trabalho.

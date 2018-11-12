@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Prévia de Alkimya da Bad Minions'
+companies: ''
 categories: Preview
 tags: rpg video bad-minions preview
 ---

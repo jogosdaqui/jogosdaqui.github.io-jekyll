@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Shuffle Puzzle'
-categories: 
+companies: ''
+categories: News
 tags: ios android video rayst-games
 ---
  

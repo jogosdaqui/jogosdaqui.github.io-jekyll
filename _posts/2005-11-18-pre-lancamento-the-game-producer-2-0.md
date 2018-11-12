@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Pré lançamento - The Game Producer 2.0'
+companies: ''
 categories: News
 tags: tilt
 ---

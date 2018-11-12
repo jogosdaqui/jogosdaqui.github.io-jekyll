@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'SOS Mata Atlântica - O Jogo'
-categories: 
+companies: ''
+categories: News
 tags: ios  android ovni-studios facebook
 ---
 Restam apenas 8,5% da Mata Atl&#226;ntica original e essa floresta, que &#233; a mais amea&#231;ada do Brasil, continua a ser desmatada. 

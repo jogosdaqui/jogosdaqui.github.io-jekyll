@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Imagens da semana #9'
-categories: 
+companies: ''
+categories: News
 tags: aquiris-game-studio  ninja-garage-studio mgaia-studio imagens-da-semana corrida
 ---
 

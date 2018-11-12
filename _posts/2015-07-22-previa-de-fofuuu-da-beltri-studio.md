@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Prévia de Fófuuu da Beltri Studio'
+companies: ''
 categories: Preview
 tags: ios android linux mac video crowdfunding beltri-studio big-festival evento big-starter pernambuco preview
 ---

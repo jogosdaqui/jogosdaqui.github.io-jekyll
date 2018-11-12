@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Smart Panda'
+companies: ''
 categories: Game
 tags: leandro-correia
 ---
