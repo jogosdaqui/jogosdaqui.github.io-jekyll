@@ -4,7 +4,7 @@ layout: post
 title: 'Piratas e guerreiros da PalmSoft'
 companies: ''
 categories: News
-tags: palmsoft mobile
+tags: palmsoft-tecnologia mobile
 ---
 <p align="justify">A empresa catarinense <a href="{{ site.baseurl }}/index.php?p=cl&amp;t=19&amp;idd=38">PalmSoft Tecnologia</a>
  lan&ccedil;a dois novos jogos para <a href="{{ site.baseurl }}/index.php?p=cl&amp;t=19&amp;idp=2">celular</a>

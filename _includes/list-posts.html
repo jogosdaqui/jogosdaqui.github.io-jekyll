@@ -13,3 +13,24 @@
     </article>
 {% endfor %}
 </div>
+
+<!-- Pagination links -->
+{% if paginator.total_pages > 1 %}
+<ul class="pager">
+    {% if paginator.page_trail %}
+        {% if paginator.previous_page %}
+            <a href="{{ paginator.first_page_path | replace: 'index.html', '' }}" class="previous">&lt;&lt;</a>&nbsp;&nbsp; 
+            <a href="{{ paginator.previous_page_path | replace: 'index.html', '' }}" class="previous">&lt;</a>
+        {% endif %}   
+
+        {% for trail in paginator.page_trail %}
+            <li {% if page.url == trail.path %} class="selected"{% endif %}><a href="{{ trail.path | prepend: site.baseurl | replace: 'index.html', '' }}" title="{{trail.title}}">{{ trail.num }}</a></li>
+        {% endfor %}
+        
+        {% if paginator.next_page %}
+            <a href="{{ paginator.next_page_path | replace: 'index.html', '' }}" class="next">&gt;</a>&nbsp;&nbsp;
+            <a href="{{ paginator.last_page_path | replace: 'index.html', '' }}" class="next">&gt;&gt;</a>
+        {% endif %} 
+    {% endif %}
+</ul>
+{% endif %}

@@ -2,5 +2,8 @@
 layout: page
 permalink: /promocoes/
 title: 
+pagination: 
+  enabled: true
+  category: Promo
 ---
-{% include list-posts.html name="Promoções" posts=site.categories.Promo %}
+{% include list-posts.html name="Promoções" posts=paginator.posts %}

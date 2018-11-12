@@ -4,7 +4,7 @@ layout: post
 title: 'Tank Mission 3'
 companies: ''
 categories: Preview
-tags: palmsoft mobile
+tags: palmsoft-tecnologia mobile
 ---
 <a href="{{ site.baseurl }}/index.php?p=c&amp;id=237">Tank Mission 2</a>
  j&aacute; tem a sua continua&ccedil;&atilde;o garantida. A <a href="{{ site.baseurl }}/index.php?p=cl&amp;t=19&amp;idd=38">PalmSoft Tecnologia</a>

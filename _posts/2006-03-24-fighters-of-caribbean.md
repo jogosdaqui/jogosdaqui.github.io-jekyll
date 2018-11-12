@@ -4,7 +4,7 @@ layout: post
 title: 'Fighters of Caribbean'
 companies: 'PalmSoft Tecnologia'
 categories: Game
-tags: palmsoft tecnologia
+tags: palmsoft-tecnologia
 ---
 Um jogo cercado por carnificina e combates de vida ou morte, onde apenas um poder&aacute; sobreviver. Voc&ecirc; pode escolher entre quatro personagens, cada um com suas habilidades caracter&iacute;sticas, pontos fortes e fracos. 
 

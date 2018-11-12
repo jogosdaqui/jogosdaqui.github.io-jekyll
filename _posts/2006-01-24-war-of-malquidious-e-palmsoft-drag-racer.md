@@ -4,7 +4,7 @@ layout: post
 title: 'War of Malquidious e PalmSoft Drag Racer'
 companies: ''
 categories: News
-tags: palmsoft mobile
+tags: palmsoft-tecnologia mobile
 ---
 Como anunciado anteriormente a PalmSoft Tecnologia acaba de lan&ccedil;ar <a href="{{ site.baseurl }}/index.php?p=c&amp;id=241">War of Malquidious</a>
  e <a href="{{ site.baseurl }}/index.php?p=c&amp;id=242">PalmSoft Drag Racer</a>

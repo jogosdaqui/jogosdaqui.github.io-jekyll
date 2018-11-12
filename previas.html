@@ -2,5 +2,8 @@
 layout: page
 permalink: /previas/
 title: 
+pagination: 
+  enabled: true
+  category: Preview
 ---
-{% include list-posts.html name="Prévias" posts=site.categories.Preview %}
+{% include list-posts.html name="Prévias" posts=paginator.posts %}

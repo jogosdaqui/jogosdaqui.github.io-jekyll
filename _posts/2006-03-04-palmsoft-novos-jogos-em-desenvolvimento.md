@@ -4,7 +4,7 @@ layout: post
 title: 'PalmSoft, novos jogos em desenvolvimento'
 companies: ''
 categories: News
-tags: palmsoft mobile rpg
+tags: palmsoft-tecnologia mobile rpg
 ---
 A <a href="{{ site.baseurl }}/index.php?p=cl&amp;t=19&amp;idd=38">PalmSoft Tecnologia</a>
  colocou no forno dois novos jogos: <br />Inferi DII, jogo de <a href="{{ site.baseurl }}/index.php?p=cl&amp;t=19&amp;idc=1">a&ccedil;&atilde;o</a>

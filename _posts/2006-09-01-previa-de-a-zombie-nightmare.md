@@ -4,7 +4,7 @@ layout: post
 title: 'Prévia de A Zombie Nightmare'
 companies: ''
 categories: Preview
-tags: palmsoft mobile preview
+tags: palmsoft-tecnologia mobile preview
 ---
 A <a href="{{ site.baseurl }}/index.php?p=cl&amp;t=19&amp;idd=38">PalmSoft</a>
  est&aacute; pronta para colocar muitos zumbis nos <a href="{{ site.baseurl }}/index.php?p=cl&amp;t=19&amp;idp=2">celulares</a>

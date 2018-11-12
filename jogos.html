@@ -2,5 +2,8 @@
 layout: page
 permalink: /jogos/
 title: 
+pagination: 
+  enabled: true
+  category: Game
 ---
-{% include list-posts.html name="Jogos" posts=site.categories.Game %}
+{% include list-posts.html name="Jogos" posts=paginator.posts %}

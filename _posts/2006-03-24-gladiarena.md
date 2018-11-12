@@ -4,7 +4,7 @@ layout: post
 title: 'Gladiarena'
 companies: 'PalmSoft Tecnologia'
 categories: Game
-tags: palmsoft tecnologia
+tags: palmsoft-tecnologia
 ---
 Neste jogo de a&ccedil;&atilde;o, voc&ecirc; &eacute; Hugo Tiberius, um valente guerreiro que encontrou sua voca&ccedil;&atilde;o nas arenas de batalha. Lute pela gl&oacute;ria, fama e fortuna enquanto os inimigos tombam, um a um, diante da sua incans&aacute;vel espada.
 

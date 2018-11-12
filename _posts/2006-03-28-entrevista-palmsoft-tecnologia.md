@@ -4,7 +4,7 @@ layout: post
 title: 'Entrevista PalmSoft Tecnologia'
 companies: ''
 categories: Interview
-tags: palmsoft mobile rpg entrevista
+tags: palmsoft-tecnologia mobile rpg entrevista
 ---
 A <a href="{{ site.baseurl }}/index.php?p=cl&amp;t=19&amp;idd=38">PalmSoft Tecnologia</a>
  &eacute; uma empresa catarinense desenvolvedora de in&uacute;meros jogos para <a href="{{ site.baseurl }}/index.php?p=cl&amp;t=19&amp;idp=2">celular</a>

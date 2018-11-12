@@ -4,7 +4,7 @@ layout: post
 title: 'Novidades da Palmsoft'
 companies: ''
 categories: News
-tags: palmsoft mobile rpg
+tags: palmsoft-tecnologia mobile rpg
 ---
 Previsto para entrar no mercado na primeira semana de maio, <a href="{{ site.baseurl }}/index.php?p=c&amp;id=282">Golden West - Bang! Bang!</a>
  &eacute; o pr&oacute;ximo RPG a ser lan&ccedil;ado pela <a href="{{ site.baseurl }}/index.php?p=cl&amp;t=19&amp;idd=38">PalmSoft Tecnologia</a>

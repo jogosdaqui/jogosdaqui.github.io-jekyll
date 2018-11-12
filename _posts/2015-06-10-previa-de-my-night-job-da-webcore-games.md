@@ -4,7 +4,7 @@ layout: post
 title: 'Prévia de My Night Job da Webcore Games'
 companies: ''
 categories: Preview
-tags: steam webcore video ps4 xbox-one xbox big-festival evento big-starter preview
+tags: steam webcore video ps4 xbox-one xbox big-festival evento big-starter preview quadro-a-quadro
 ---
 Sam Raimi diretor dos filmes do Homem-Aranha dos anos 2000, começou a fazer sua fama lá no início dos anos 80 com filmes de terror-comédia que se tonaram cult, estamos falando dos clássicos The Evil Dead, Evil Dead 2 e Army of Darkness.
 

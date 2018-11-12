@@ -4,7 +4,7 @@ layout: post
 title: 'War of Malquidious'
 companies: ''
 categories: Game
-tags: palmsoft mobile rpg
+tags: palmsoft-tecnologia mobile rpg
 ---
 Um jogo no estilo RPG/Estratégia com batalhas em turnos, lembrando clássicos como Ogre Battle e Final Phantasy Tatics. O jogo chama atenção pelos gráficos bem caprichados, jogabilidade intuitiva e diversão.
 

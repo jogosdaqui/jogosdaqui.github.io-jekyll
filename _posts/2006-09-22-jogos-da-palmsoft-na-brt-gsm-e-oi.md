@@ -4,7 +4,7 @@ layout: post
 title: 'Jogos da PalmSoft na BrT GSM e Oi'
 companies: ''
 categories: News
-tags: palmsoft mobile
+tags: palmsoft-tecnologia mobile
 ---
 Os jogos da empresa catarinense <a href="../../../index.php?p=cl&amp;t=19&amp;idd=38">PalmSoft</a>
 , desenvolvedora de sucessos como <a href="../../../index.php?p=c&amp;id=242">Drag Racer</a>

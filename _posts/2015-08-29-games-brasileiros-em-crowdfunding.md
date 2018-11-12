@@ -4,7 +4,7 @@ layout: post
 title: 'Games brasileiros em crowdfunding'
 companies: ''
 categories: News
-tags: rpg video mopix overlord qubyte-interactive double-dash crowdfunding
+tags: rpg video mopix overlord-game-studio qubyte-interactive double-dash crowdfunding
 ---
 Curioso sobre quais games brasileiros estão em crowdfunding?
 Fizemos uma lista dos games que conhecemos que estão em campanha atualmente. Confira:

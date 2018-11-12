@@ -4,7 +4,7 @@ layout: post
 title: 'Prévia da nova versão de Drag Racer'
 companies: ''
 categories: Preview
-tags: palmsoft mobile preview
+tags: palmsoft-tecnologia mobile preview
 ---
 <a href="{{ site.baseurl }}/index.php?p=c&amp;id=242">Drag Racer</a>
 , um dos maiores sucessos da <a href="{{ site.baseurl }}/index.php?p=cl&amp;t=19&amp;idd=38">Palmsoft</a>

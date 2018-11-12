@@ -2,5 +2,8 @@
 layout: page
 permalink: /eventos/
 title: 
+pagination: 
+  enabled: true
+  category: Event
 ---
-{% include list-posts.html name="Eventos" posts=site.categories.Event %}
+{% include list-posts.html name="Eventos" posts=paginator.posts %}

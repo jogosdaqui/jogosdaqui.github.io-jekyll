@@ -2,5 +2,8 @@
 layout: page
 permalink: /entrevistas/
 title: 
+pagination: 
+  enabled: true
+  category: Interview
 ---
-{% include list-posts.html name="Entrevistas" posts=site.categories.Interview %}
+{% include list-posts.html name="Entrevistas" posts=paginator.posts %}

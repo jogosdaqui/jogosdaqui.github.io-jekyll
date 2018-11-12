@@ -4,7 +4,7 @@ layout: post
 title: 'MDEV: jogos para celular'
 companies: ''
 categories: News
-tags: palmsoft mobile
+tags: palmsoft-tecnologia mobile
 ---
 MDEV &eacute; uma <a href="{{ site.baseurl }}/index.php?p=cl&amp;t=19&amp;idu=61">distribuidora</a>
  e <a href="{{ site.baseurl }}/index.php?p=cl&amp;t=19&amp;idd=61">desenvolvedora</a>

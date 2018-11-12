@@ -1,4 +1,6 @@
 ---
 layout: default
+pagination: 
+  enabled: true
 ---
-{% include list-posts.html name="" posts=site.posts %}
+{% include list-posts.html name="" posts=paginator.posts %}

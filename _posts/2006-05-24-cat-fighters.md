@@ -4,7 +4,7 @@ layout: post
 title: 'Cat Fighters'
 companies: ''
 categories: Preview
-tags: palmsoft mobile
+tags: palmsoft-tecnologia mobile
 ---
 Um dos pr&oacute;ximos jogos para celular da <a href="{{ site.baseurl }}/index.php?p=cl&amp;t=19&amp;idd=38">PalmSoft</a>
  ser&aacute; um jogo de <a href="{{ site.baseurl }}/index.php?p=cl&amp;t=19&amp;idc=21">luta</a>

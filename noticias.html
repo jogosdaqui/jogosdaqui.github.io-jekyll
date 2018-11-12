@@ -2,5 +2,8 @@
 layout: page
 permalink: /noticias/
 title: 
+pagination: 
+  enabled: true
+  category: News
 ---
-{% include list-posts.html name="Notícias" posts=site.categories.News %}
+{% include list-posts.html name="Notícias" posts=paginator.posts %}

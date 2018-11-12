@@ -4,7 +4,7 @@ layout: post
 title: 'Tank Mission 2'
 companies: ''
 categories: Game
-tags: palmsoft mobile
+tags: palmsoft-tecnologia mobile
 ---
 Quer destruir todos os inimigos do seu caminho? Quer transformá-los em aço derretido?
 

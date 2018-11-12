@@ -4,7 +4,7 @@ layout: post
 title: 'Você será um guerreiro'
 companies: ''
 categories: Preview
-tags: palmsoft mobile
+tags: palmsoft-tecnologia mobile
 ---
 Hugo Tiberius &eacute; o seu nome, a sua miss&atilde;o &eacute; lutar por gl&oacute;ria, fama e fortuna em v&aacute;rias arenas.<br /><br />Esse &eacute; Gladiarena, jogo em desenvolvimento pela <a href="{{ site.baseurl }}/index.php?p=cl&amp;t=19&amp;idd=38">PalmSoft Tecnologia</a>
 .  Gladiarena &eacute; um jogo de <a href="{{ site.baseurl }}/index.php?p=cl&amp;t=19&amp;idc=1">a&ccedil;&atilde;o</a>

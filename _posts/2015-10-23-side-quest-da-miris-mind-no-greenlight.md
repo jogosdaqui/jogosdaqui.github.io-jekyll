@@ -4,7 +4,7 @@ layout: post
 title: 'Side Quest da Miris Mind no Greenlight'
 companies: ''
 categories: News
-tags: linux mac steam video greenlight
+tags: linux mac steam video greenlight miris-mind
 ---
 Em tempos onde programas culinários como MasterChef fazem um grande sucesso, que tal um game onde o herói é o cozinheiro numa aventura épica? Essa é a proposta da paulistana <a href="http://www.mirismind.com/" target="_blank">Miris Mind</a>
  que está finalizando o desenvolvimento de seu novo game e iniciou sua campanha de <a href="http://steamcommunity.com/sharedfiles/filedetails/?id=527592042" target="_blank">Greenlight </a>

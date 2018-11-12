@@ -4,7 +4,7 @@ layout: post
 title: 'Quadro comemorativo &#39;150 jogos daqui&#39;'
 companies: ''
 categories: News
-tags: meantime reality-show palmsoft mobile continuum rts erinia espaco-informatica green-land-studios icon-games corrida oniria nology lumen-technology roko-loko show-do-milhao hoplon tilt leandro-correia puzzle esporte oniria-entertainment preloud ttomax calibre FPS
+tags: meantime reality-show palmsoft-tecnologia mobile continuum rts erinia espaco-informatica green-land-studios icon-games corrida oniria nology lumen-technology roko-loko show-do-milhao hoplon tilt leandro-correia puzzle esporte oniria-entertainment preloud ttomax calibre FPS
 ---
 Mais uma vez o <span style="color: rgb(255, 153, 0); font-weight: bold;">jogosdaqui</span> comemora uma nova marca, no dia 18 de maio de 2005 chegamos a 150 <a href="{{ site.baseurl }}/index.php?p=cl&amp;t=19">jogos</a>
  nacionais cadastrados no site. <br /><br />Confira abaixo o quadro comemorativo com os 150 jogos e aproveite para conhecer mais sobre os jogos nacionais.<br />

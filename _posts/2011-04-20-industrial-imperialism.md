@@ -4,7 +4,7 @@ layout: post
 title: 'Industrial Imperialism'
 companies: ''
 categories: News
-tags: palmsoft mobile
+tags: palmsoft-tecnologia mobile
 ---
 <font size="2">> <span style="font-size: x-small;">Por Marcelo Andrade Tabone em colabora&#231;&#227;o para o jogosdaqui.</span></font>
  
