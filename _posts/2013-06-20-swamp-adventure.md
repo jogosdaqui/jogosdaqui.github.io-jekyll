@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Swamp Adventure'
+categories: 
 tags: ios android tilt frozen-logic-studios
 ---
 

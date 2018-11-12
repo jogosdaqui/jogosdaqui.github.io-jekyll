@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Game brasileiro Paper Cat ajuda ONGs'
+categories: 
 tags: mac video ilusis-interactive steam greenlight ps4 xbox-one xbox
 ---
 Para quem é fã de gatos, sabe bem o quanto os bichanos gostam de brincar, seja com uma simples borrachinha de dinheiro ou até mesmo com uma borboleta que resolveu dar os ares dentro da sua casa.

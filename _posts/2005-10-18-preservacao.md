@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'PreservAÇÃO'
+categories: 
 tags: 
 ---
 Utilize sua Inteligência! Salve o Planeta Terra!

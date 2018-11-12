@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Choo Choo Like a Hobo'
+categories: 
 tags: ios android video
 ---
 

@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Christmas Magic'
+categories: Game
 tags: 
 ---
 Natal &eacute; tempo dar e receber presentes, tempo de alegria, de tranquilidade .... Tranquilidade? Bom, n&atilde;o exatamente para todos....

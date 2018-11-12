@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Moscão Killer 2.2'
+categories: News
 tags: tilt
 ---
 A TILT Online lançou a versão 2.2 do jogo Moscão Killer, a grande novidade desta versão é a capacidade de disputar partidas online com outros jogadores.

@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Workshop de Jogos Digitais na Educação'
+categories: Event
 tags: sbie evento open-source
 ---
 O Workshop de Jogos Digitais na Educação trata-se de um evento que irá ocorrer paralelamente ao XVI Simpósio Brasileiro de Informática na Educação (SBIE 2005) e abordará as questões interdisciplinares envolvidas nos jogos digitais no âmbito educacional como ferramenta de ensino-aprendizagem, desde a Educação Infantil aos programas de pós-graduação.

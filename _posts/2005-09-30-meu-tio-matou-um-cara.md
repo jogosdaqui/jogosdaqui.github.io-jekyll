@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Meu Tio Matou um Cara'
+categories: News
 tags: southlogic-studios
 ---
 <span style="font-style: italic;">Você abre a porta, rasgando a fita da polícia que marca a cena do crime. Você entra na casa. Atravessando o corredor que leva à cozinha, você percebe que alguém deixou o telefone fora do gancho. Isto poderia ser importante. Você tira uma foto. Você continua pela cozinha, onde o contorno da vítima marcado em giz está claramente visível no chão.</span><br style="font-style: italic;" />

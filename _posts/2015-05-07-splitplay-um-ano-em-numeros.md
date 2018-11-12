@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'SplitPlay, um ano em números'
+categories: 
 tags: chroma-squad behold-studios splitplay steam crowdfunding checkpoint
 ---
 A Splitplay comemora hoje, dia 07 de maio de 2015, um ano de vida. E para celebrar esse momento, além de muitas promoções durante o mês de maio, a <a href="http://www.splitplay.com.br" target="_blank">startup </a>

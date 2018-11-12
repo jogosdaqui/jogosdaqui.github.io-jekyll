@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Eleições para presidente'
+categories: Game
 tags: tilt
 ---
 J&aacute; pensou o que significa participar de uma campanha &agrave; presid&ecirc;ncia da rep&uacute;blica? Ou uma campanha para prefeito da sua cidade? Ter que decidir entre a&ccedil;&otilde;es importantes, merit&oacute;rias e outras nem tanto assim? E mais, fazer tudo isso e no final n&atilde;o ver seu nome envolvido em nenhum esc&acirc;ndalo ou metido em alguma investiga&ccedil;&atilde;o do minist&eacute;rio p&uacute;blico?

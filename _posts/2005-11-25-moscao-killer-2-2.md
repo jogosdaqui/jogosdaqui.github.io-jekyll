@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Moscão Killer 2.2'
+categories: News
 tags: tilt
 ---
 Mais um jogo TILT adota o modelo de jogo online por grupos. Trata-se da versão mais recente (2.2) do Moscão Killer, o jogo de matar moscas.

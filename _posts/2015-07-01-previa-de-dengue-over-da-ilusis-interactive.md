@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Prévia de Dengue Over da Ilusis Interactive'
+categories: Preview
 tags: ilusis-interactive big-festival evento big-starter preview
 ---
 Com um nome de origem egípcia, o famigerado mosquito transmissor da dengue, o Aedes aegypti, também é transmissor da febre amarela urbana e foi por transmitir essa segunda doença que o Brasil adotou rígidas medidas de controle por aproximadamente 3 anos e que culminaram em 1958 no país sendo considerado pela OMS um território livre do vetor, entretanto outras áreas do nosso continente não estavam livres da praga o que acabou levando ao ressurgimento do mosquito no país na década de 60.

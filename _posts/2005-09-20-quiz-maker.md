@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Quiz Maker'
+categories: Game
 tags: tilt
 ---
 - Quem sabe mais: o homem ou a mulher?

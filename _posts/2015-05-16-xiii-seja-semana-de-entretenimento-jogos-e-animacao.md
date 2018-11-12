@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'XIII SEJA (Semana de Entretenimento, Jogos e  Animação)'
+categories: 
 tags: evento steam greenlight facebook
 ---
 A Semana de Entretenimento, Jogos e Animação (SEJA), promovida semestralmente pelo curso de Jogos Digitais da PUC - MG, chega na sua 13º edição tendo como destaque palestras sobre animação, artes, programação, experiências profissionais de ex-alunos, mercado de trabalho, serious games e mais, confira a programação abaixo:

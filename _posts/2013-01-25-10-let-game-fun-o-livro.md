@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: '10 LET GAME$ = "FUN" (o livro)'
+categories: 
 tags: tilt facebook
 ---
 

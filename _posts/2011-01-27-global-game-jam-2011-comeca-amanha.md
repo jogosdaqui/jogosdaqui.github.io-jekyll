@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Global Game Jam 2011 começa amanhã'
+categories: 
 tags: parana global-game-jam evento
 ---
 O Global Game Jam 2011, terceira edi&#231;&#227;o da maratona de desenvolvimento de jogos independentes que ocorre em mais de 40 pa&#237;ses, acontecer&#225; este fim de semana (28/01 a 30/01). 

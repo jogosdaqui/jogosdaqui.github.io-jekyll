@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Resultado da enquete: "Quais games desenvolvidos no Brasil você jogou em 2012?"'
+categories: 
 tags: aquiris-game-studio  ovni-studios video dead-mushroom joymasher swordtales demo devoid-games skahal-studios studio-avante bivissoft
 ---
 No final de 2012 fizemos uma enquete perguntando > Quais games desenvolvidos no Brasil voc&#234; jogou em 2012?&quot;. Tivemos diversos games citados, alguns ainda em beta ou demo, a maioria deles voc&#234;s conferiram aqui mesmo no blog durante o ano.

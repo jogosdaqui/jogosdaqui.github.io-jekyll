@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Novos jogos da Green Land Studios'
+categories: News
 tags: green-land-studios sbt
 ---
 A Green Land Studios lançou dois novos jogos: Bate-Rebate e Dominó Chinês.

@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Governo anuncia edital com apoio a projeto de jogos'
+categories: News
 tags: abragames
 ---
 O ministro da Cultura, Gilberto Gil e o Secretário de Audiovisual, Orlando Senna, anunciaram o terceiro programa de editais de sua gestão para produtos audiovisuais, o "Programa de Editais de Fomento à Produção 2005-2006", que envolverá um total de R$ 23 milhões e 903 mil em verbas para diversos setores do audiovisual.

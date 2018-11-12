@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Nishi Aqua Fight'
+categories: Game
 tags: 
 ---
 Seu nome é Nishi, um bravo aventureiro contratado por uma organização secreta para salvar a água do planeta Terra.

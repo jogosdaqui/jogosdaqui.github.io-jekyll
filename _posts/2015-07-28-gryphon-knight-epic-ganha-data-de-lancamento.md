@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Gryphon Knight Epic ganha data de lançamento'
+categories: 
 tags: insert-coins steam video cyber-rhino-studios preview
 ---
 Em abril fizemos uma <a href="{{ site.baseurl }}/2015/04/09/previa-de-gryphon-knight-epic/">prévia</a>

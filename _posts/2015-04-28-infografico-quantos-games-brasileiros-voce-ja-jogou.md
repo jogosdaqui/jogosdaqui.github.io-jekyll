@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Infográfico "Quantos games brasileiros você já jogou?"'
+categories: 
 tags: 
 ---
 Entre os dias 20/03/15 e 27/04/15 o jogosdaqui realizou a enquete "Quantos jogos brasileiros você já jogou?". Abaixo o infográfico com o resultado.

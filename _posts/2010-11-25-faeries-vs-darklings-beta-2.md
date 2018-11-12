@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Faeries vs. Darklings beta'
+categories: 
 tags: 
 ---
 

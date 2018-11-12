@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Porcunipine'
+categories: 
 tags: splitplay steam video ludum-dare big-green-pillow kongregate
 ---
 > "Lembro com muito carinho,

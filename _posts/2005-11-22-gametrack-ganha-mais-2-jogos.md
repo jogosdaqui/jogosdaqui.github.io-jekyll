@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Gametrack ganha mais 2 jogos'
+categories: News
 tags: gametrack
 ---
 O portal <a href="http://www.gametrack.com.br">Gametrack</a>

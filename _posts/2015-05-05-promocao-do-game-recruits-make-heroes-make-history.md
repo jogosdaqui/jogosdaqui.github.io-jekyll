@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Promoção do game Recruits - Make Heroes. Make History.'
+categories: Promo
 tags: promocao steam video qubyte-interactive
 ---
 A QUByte Interactive nos enviou 3 Steam keys do seu <a href="{{ site.baseurl }}/2015/05/05/revelado-novo-game-da-qubyte-interactive-recruits/">novo game Recruits - Make Heroes. Make History.</a>

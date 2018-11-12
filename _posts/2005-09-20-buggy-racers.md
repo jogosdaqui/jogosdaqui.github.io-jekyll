@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Buggy Racers'
+categories: Game
 tags: 
 ---
 Seja um besouro diferente. Pegue sua caixinha de f&oacute;sforo turbinada e fa&ccedil;a as ultrapassagens mais emocionantes. Pistas malucas e advers&aacute;rios aloprados. Um jogo com muita a&ccedil;&atilde;o e divers&atilde;o para deixar voc&ecirc; grudado em seu computador.

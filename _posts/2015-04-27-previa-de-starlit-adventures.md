@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Prévia de Starlit Adventures'
+categories: Preview
 tags: android psvita rockhead-games powerup evento preview
 ---
 No último evento PowerUp tivemos a grata surpresa de ver algumas imagens e vídeos do novo jogo da Rockhead Games, o <a href="http://starlitadventures.com" target="_blank">Startlit Adventures</a>

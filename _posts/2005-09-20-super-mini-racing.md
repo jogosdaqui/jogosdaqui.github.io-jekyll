@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Super Mini Racing'
+categories: Game
 tags: corrida
 ---
 O Super Mini Racing celebra a mais antiga e gostosa brincadeira do mundo: apostar corrida!

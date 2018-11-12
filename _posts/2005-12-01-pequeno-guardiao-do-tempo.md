@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Pequeno Guardião do Tempo'
+categories: News
 tags: acao ubisoft
 ---
 Minhoca Games, um grupo de profissionais formado durante o Curso de Desenvolvimento e Design de Jogos 3D da PUC-Rio apresenta o "Pequeno Guardião do Tempo", que é um jogo de ação/aventura em terceira pessoa, seguindo o estilo de jogos como Harry Potter da EA, Rayman da Ubisoft, The Incredibles da THQ, entre outros.

@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Primeiras imagens de "Os Conquistadores"'
+categories: News
 tags: dynamic-games
 ---
 A Dynamic Games liberou as primeiras imagens do jogo "Os Conquistadores".

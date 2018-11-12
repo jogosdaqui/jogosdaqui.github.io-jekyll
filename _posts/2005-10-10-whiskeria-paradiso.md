@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Whiskeria Paradiso'
+categories: Game
 tags: 
 ---
 Na noite a estrada parece n&atilde;o ter  fim.  Uma parada em uma  whiskeria para  tomar uma dose &eacute;  necessaria, mas  parece que os  malfeitores n&atilde;o buscam  divers&atilde;o,  e sim... encrenca. 

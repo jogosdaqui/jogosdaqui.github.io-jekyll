@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Em 2010, quais foram os fatos mais relevantes em relação a indústria de desenvolvimento de games no Brasil?'
+categories: 
 tags: 
 ---
 

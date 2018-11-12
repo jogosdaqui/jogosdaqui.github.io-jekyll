@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Ballistic Overkill, desenvolvedores falam sobre o game'
+categories: 
 tags: aquiris-game-studio  steam video
 ---
 A Aquiris Game Studio liberou algumas novidades sobre a versão do game Ballistic para o Steam: <a href="http://store.steampowered.com/app/296300/" target="_blank">Ballistic Overkill</a>

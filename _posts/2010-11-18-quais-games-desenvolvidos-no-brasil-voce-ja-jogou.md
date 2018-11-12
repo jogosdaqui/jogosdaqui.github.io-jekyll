@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Quais games desenvolvidos no Brasil você já jogou?'
+categories: 
 tags: 
 ---
 O jogosdaqui quer saber quais jogos nacionais voc&#234; j&#225; jogou, responda a enquete e ajude-nos a descobrir quais s&#227;o esses jogos.

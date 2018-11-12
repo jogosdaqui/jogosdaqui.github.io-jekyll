@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Prévia de Relic Hunters Zero'
+categories: Preview
 tags: chroma-squad behold-studios linux mac steam windows video rogue-snail big-festival evento big-starter preview
 ---
 <a href="http://www.roguesnail.com/relic-hunters-zero/" target="_blank">Relic Hunters Zero</a>

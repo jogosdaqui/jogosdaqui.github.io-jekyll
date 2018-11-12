@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Entrevista: Gametrack'
+categories: Interview
 tags: devworks-game-technology gametrack entrevista esporte
 ---
 Em agosto deste ano foi lançado o 1° portal de jogos banda larga do Brasil: <a href="http://www.gametrack.com.br" target="_blank">Gametrack</a>

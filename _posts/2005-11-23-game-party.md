@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Game Party'
+categories: News
 tags: abragames sao-paulo
 ---
 Se você mora em São Paulo e gostaria de conhecer os criadores de jogos brasileiros, então não perca a oportunidade de ir a Games Party, uma festa organizada pela <a href="http://www.abragames.com.br">ABRAGAMES</a>

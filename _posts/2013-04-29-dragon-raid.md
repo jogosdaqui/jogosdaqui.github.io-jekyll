@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Dragon Raid'
+categories: 
 tags: ios android dead-mushroom
 ---
 Em muitos livros de fantasia, principalmente os com tem&#225;tica medieval, os drag&#245;es s&#227;o os grandes vil&#245;es. No game <a href="http://www.deadmushroom.com/?portfolio=dragon-raid" target="_blank">Dragon Raid</a>

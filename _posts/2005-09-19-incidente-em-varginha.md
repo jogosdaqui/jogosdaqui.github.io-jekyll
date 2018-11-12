@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Incidente em Varginha'
+categories: Game
 tags: acao perceptum FPS
 ---
 No jogo da brasileira <a href="http://www.perceptum.com/" target="_blank">Perceptum</a>

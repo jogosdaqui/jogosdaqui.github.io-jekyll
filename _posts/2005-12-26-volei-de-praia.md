@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Vôlei de Praia'
+categories: Game
 tags: devworks-game-technology gametrack esporte
 ---
 Vôlei de praia é um dos esportes mais jogados no verão e não podia ser diferente no portal <a href="http://www.gametrack.com.br" target="_blank">Gametrack</a>

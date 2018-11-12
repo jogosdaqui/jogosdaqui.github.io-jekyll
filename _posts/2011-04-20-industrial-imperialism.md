@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Industrial Imperialism'
+categories: 
 tags: palmsoft mobile
 ---
 <font size="2">> <span style="font-size: x-small;">Por Marcelo Andrade Tabone em colabora&#231;&#227;o para o jogosdaqui.</span></font>

@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Moscão Killer'
+categories: Game
 tags: 
 ---
 Elas estavam lá, em cima da mesa. Parecia tão fácil matá-las que propor um jogo foi quase irresistível: quem matar a última ganha. Então, você e o computador, munidos de uma poderosa arma laser, estão diante do desafio: que vença o melhor!

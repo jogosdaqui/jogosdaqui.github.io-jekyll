@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Lava Girl - Demolition Puzzle'
+categories: 
 tags: android studio-ho
 ---
 Lava Girl é um <a href="https://play.google.com/store/apps/details?id=com.stdho.lavagirl" target="_blank">jogo gratuito para Android</a>

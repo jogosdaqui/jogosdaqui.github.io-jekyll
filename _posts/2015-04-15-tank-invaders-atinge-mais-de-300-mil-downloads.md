@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Tank Invaders atinge mais de 300 mil downloads'
+categories: 
 tags: ios windows-phone windows mgaia-studio
 ---
 Como diria o General Rogers: "Temos novidades do campo de batalha, soldado!".

@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'E aí, Game é Cultura?'
+categories: 
 tags: facebook
 ---
  

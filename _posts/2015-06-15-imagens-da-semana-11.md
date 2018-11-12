@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Imagens da semana #11'
+categories: 
 tags: miniboss joymasher reiza-studios ninja-garage-studio mgaia-studio big-green-pillow imagens-da-semana corrida
 ---
 

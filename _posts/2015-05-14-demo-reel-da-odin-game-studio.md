@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Demo Reel da Odin Game Studio'
+categories: 
 tags: odin-game-studio demo-reel demo
 ---
 A <a href="http://www.odingamestudio.com.br" target="_blank">Odin Game Studio</a>

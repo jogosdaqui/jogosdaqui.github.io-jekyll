@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'SplitPlay dobra de tamanho em apenas um fim de semana'
+categories: 
 tags: promocao splitplay steam crowdfunding tlon-studios
 ---
 Na sexta-feira <a href="{{ site.baseurl }}/2015/03/27/soul-gambler-gratuito-e-kickstarter-de-face-it/">noticiamos aqui</a>

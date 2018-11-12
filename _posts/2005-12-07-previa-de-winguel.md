@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Prévia de Winguel'
+categories: Preview
 tags: espaco-informatica demo preview puzzle
 ---
 Winguel é um simpático alienígena que, ao passear por Marte, encontra uma sonda terráquea e resolve devolvê-la aos humanos na terra.

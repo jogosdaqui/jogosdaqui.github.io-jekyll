@@ -11,6 +11,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{{ site.url }}{url}">{title}</a></li>',
-      noResultsText: 'Nenhum resultado encontrado'
+      noResultsText: 'Nenhum resultado encontrado',
+      limit: 20,
+      sortMiddleware: function(a, b) {
+        var astr = String(a.section) + "-" + String(a.caption);
+        var bstr = String(b.section) + "-" + String(b.caption);
+        return astr.localeCompare(bstr)
+      }
     })
 </script>

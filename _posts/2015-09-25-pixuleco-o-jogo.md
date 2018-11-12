@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Pixuleco - O Jogo'
+categories: 
 tags: icon-games
 ---
 A palavra pixuleco não existe oficialmente no dicionário da língua portuguesa, mas como sabiamente diria um grande amigo meu, Bacharel em Letras: "A língua é feita pelo povo". O termo ficou bem conhecido no país depois que ex-tesoureiro do PT (Partido dos Trabalhadores) João Vaccari Neto, utilizou a  palavra em um dos seu depoimentos, quando se referiu à propinas.

@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'O Monstruário'
+categories: Game
 tags: 
 ---
 Caxy Gamb&aacute; encontra o Monstru&aacute;rio Caxy Gamb&aacute;, o protagonista dessa hist&oacute;ria su-real, tenta refugiar-se da chuva em uma casa abandonada. Mexendo onde n&atilde;o deve, o gamb&aacute; acaba libertando as mais assustadoras criaturas, dentre elas, Dr&aacute;cula, Frankenstein, Z&eacute; do Caix&atilde;o e muitos outros.

@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Bears & Bees'
+categories: Game
 tags: devworks-game-technology puzzle
 ---
 Bears &amp; Bees da <a href="http://www.devworks.com.br/" target="_blank">DevWorks </a>

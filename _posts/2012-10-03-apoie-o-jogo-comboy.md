@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Apoie o jogo brasileiro Comboy vs Aliens vs Ninjas'
+categories: 
 tags: ios android dead-mushroom crowdfunding
 ---
 

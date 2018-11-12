@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Chip$ será lançado no Brasil'
+categories: News
 tags: nology real-one-arcade
 ---
 O jogo <a href="{{ site.baseurl }}/2005/11/16/chip/">Chip$</a>

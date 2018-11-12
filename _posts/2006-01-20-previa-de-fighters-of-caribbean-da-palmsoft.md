@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Prévia de Fighters of Caribbean da PalmSoft'
+categories: Preview
 tags: palmsoft mobile preview
 ---
 Você já pensou em ir ao Caribe para lutar por tesouros?

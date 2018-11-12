@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Prorrogada fase Beta de GameGol'
+categories: News
 tags: o2-games
 ---
 O² Games prorrogou por mais 40 dias a fase beta do jogo GameGol.

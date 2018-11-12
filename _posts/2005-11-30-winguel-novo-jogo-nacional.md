@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Winguel, novo jogo Nacional'
+categories: News
 tags: espaco-informatica rio-grande-do-sul demo
 ---
 A empresa gaúcha Espaço informática está apresentando um novo jogo que será lançado na Europa e Brasil no primeiro trimestre de 2006. O jogo chama-se Winguel na verdade é um centro de atividades com cinco jogos, além de materiais extra como impressões e papéis de parede.Na história do jogo, Winguel é um alien que encontra uma das sondas humanas que hoje estão explorando o planeta de Marte. Winguel resolve devolver o objeto para a Terra, mas quando se aproxima de nosso planeta é pego pelos radares da WUC (Controle Mundial de Ovinis), que resolvem atacá-lo. A nave de Winguel é acertada por um míssil da WUC e se parte em alguns pedaços. Você precisa ajudar Winguel a recuperar as peças da nave, e assim voltar para casa. Vencendo todos jogos você recupera todas as peças.

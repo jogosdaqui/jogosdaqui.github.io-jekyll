@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Entrevista: Espaço Informática'
+categories: Interview
 tags: espaco-informatica psp demo entrevista
 ---
 [sc:Interview_header text="A gaúcha Espaço Informática foi fundada pelos irmãos Augusto Bülow e Gustavo Bülow.

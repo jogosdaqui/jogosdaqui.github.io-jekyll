@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Crowdfunding de 99Vidas o jogo'
+categories: 
 tags: mac windows video qubyte-interactive crowdfunding ps4 xbox-one xbox wii-u wii demo
 ---
 O que Final Fight, Double Dragon e Streets of Rage tem em comum com o novo projeto da brasileira QUByte Interactive? Todos eles são games do estilo beat'em up, grandes clássicos e referências para qualquer game do gênero. 

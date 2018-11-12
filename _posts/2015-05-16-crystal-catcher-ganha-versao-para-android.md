@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Crystal Catcher ganha versão para Android'
+categories: 
 tags: ios android video
 ---
 <blockquote>Um runner com uma pitada de puzzle! Essa é a melhor maneira para descrever Crystal Catcher, para iPhone e iPad.</blockquote>

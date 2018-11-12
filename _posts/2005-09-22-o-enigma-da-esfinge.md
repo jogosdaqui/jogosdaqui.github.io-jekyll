@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'O Enigma da Esfinge'
+categories: Game
 tags: 
 ---
 Gustavinho em O Enigma da Esfinge, o primeiro CD-ROM com intera&ccedil lançado em 1996;&atilde;o entre personagens animados e seres humanos, um desenho animado interativo, com a divertida participa&ccedil;&atilde;o de Marisa Orth, no papel de Cle&oacute;patra.

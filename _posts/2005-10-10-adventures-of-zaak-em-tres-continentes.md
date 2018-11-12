@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Adventures of Zaak em três continentes'
+categories: 
 tags: meantime
 ---
 A Meantime est&aacute; levando um pequeno aprendiz de feiticeiro para um passeio ao redor do mundo. Um dos games de maior sucesso da empresa est&aacute; chegando aos Estados Unidos, Europa e &Aacute;sia.

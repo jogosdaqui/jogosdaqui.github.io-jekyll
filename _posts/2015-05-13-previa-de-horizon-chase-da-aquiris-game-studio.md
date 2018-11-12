@@ -1,13 +1,14 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Prévia de Horizon Chase da Aquiris Game Studio'
-tags: aquiris-game-studio  video preview corrida
+categories: Preview
+tags: aquiris-game-studio  video preview corrida trilha-sonora
 ---
 Antes de ler qualquer coisa sobre <a href="http://horizonchase.tumblr.com/" target="_blank">Horizon Chase</a>
 , ouça a trilha sonora abaixo:
 
-[sc:Soundcloud trackid="204381241"]
+{% soundcloud 204381241 %}
 ## Top Gear feelings! Certo?
 Quando no início do ano a <a href="http://aquiris.com.br" target="_blank">Aquiris Game Studio</a>
  anunciou que estaria trabalhando em um novo projeto para os amantes de games como Lotus Turbo Challenge, Outrun, Top Gear e Lamborghini American Challenge, deixou muito marmanjo com aquela nostalgia, mas não uma saudade triste e sim aquela saudade dos bons tempos da era 16 bits. Desde então a gamedev porto-alegrense tem se dedicado em manter os fãs atualizados e evoluir o game cada vez mais.

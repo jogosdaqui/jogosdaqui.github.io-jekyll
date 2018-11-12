@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'A Vítima de Ouro'
+categories: 
 tags: splitplay little-leds
 ---
 Com saudades daqueles bons momentos jogando clássicos point and click como The Dig, Full Throttle e Day of Tentacle?

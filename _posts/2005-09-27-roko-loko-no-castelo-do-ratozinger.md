@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Roko-Loko no castelo do Ratozinger'
+categories: Game
 tags: roko-loko sao-paulo
 ---
 Os personagens Roko-Loko e Adrina-Lina foram criados há quase dez anos pelo cartunista Marcio Baraldi, para a revista Rock Brigade, e depois de lançados dois livros de sucesso, chegou a hora dos personagens ganharem um game para PC. Ele se chama "Roko-Loko no castelo do Ratozinger" e é o primeiro game brasileiro de um personagem mais adulto a ser vendido nas lojas, antes dele só existiam de personagens infantis como Turma da Mônica e Menino Maluquinho. Esse projeto pioneiro surgiu da parceria entre o cartunista Baraldi e a SGuerra Design, empresa de design de São Paulo, responsável pelo site do cartunista, e pilotada pelo designer Sidney Guerra, um fã incurável de heavy-metal e ex-músico.

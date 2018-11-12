@@ -51,13 +51,9 @@ google_analytics: UA-20179088-2
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
-#
-# !! You don't need to change any of the configuration flags below !!
-#
-
-#markdown: redcarpet
 highlighter: rouge
-permalink: pretty
+#permalink: pretty
+permalink: /:year/:month/:day/:title 
 
 tag_page_layout: tag_page
 tag_page_dir: tags

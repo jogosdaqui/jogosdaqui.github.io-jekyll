@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Imagens da semana #2'
+categories: 
 tags: ios android behold-studios chroma-squad odin-game-studio steam windows-phone windows xbox-one xbox wii-u wii reiza-studios swordtales mgaia-studio big-green-pillow cat-nigiri imagens-da-semana
 ---
 

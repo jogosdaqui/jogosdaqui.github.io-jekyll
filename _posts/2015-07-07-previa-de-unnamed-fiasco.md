@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Prévia de Unnamed Fiasco'
+categories: Preview
 tags: steam video xbox-one xbox unnamed-fiasco-team preview
 ---
 No filme Edge of Tomorrow (No Limite do Amanhã) de 2014 baseado na série de light novels All You Need Is Kill de Hiroshi Sakurazaka, o personagem de Tom Cruise, além de correr quase todo o filme como já é de praxe dos personagens do ator, também entra em contato com o sangue dos aliens inimigos e ganha a capacidade de controlar o tempo, mas de uma forma bem peculiar, toda vez que morre, acaba revivendo o mesmo dia.

@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'GameTrack - Portal de jogos online'
+categories: News
 tags: gametrack
 ---
 O <a href="http://www.gametrack.com.br">GameTrack</a>

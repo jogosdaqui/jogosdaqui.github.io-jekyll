@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Sandy & Junior - Aventura Virtual'
+categories: Game
 tags: 
 ---
 Ajude Sandy e Junior a remover um poderoso v&iacute;rus nos computadores da Universidade onde Sandy e Junior estudam. Este v&iacute;rus destruir&aacute; todas as informa&ccedil;&otilde;es dos computadores e se espalhar&aacute; pela Internet em 24 horas.

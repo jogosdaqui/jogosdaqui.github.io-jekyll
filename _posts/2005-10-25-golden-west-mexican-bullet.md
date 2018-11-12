@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Golden West - Mexican Bullet'
+categories: Game
 tags: 
 ---
 Golden West part 1 - Mexican Bullet

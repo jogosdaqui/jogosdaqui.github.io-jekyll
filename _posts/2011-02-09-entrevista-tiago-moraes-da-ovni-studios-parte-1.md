@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Entrevista: Tiago Moraes da Ovni Studios (parte 1)'
+categories: Interview
 tags: ios  devworks-game-technology ovni-studios sao-paulo video facebook entrevista
 ---
 <span style="font-size: small;">> <span style="font-size: x-small;">Por Daniel Mello (</span><a href="http://twitter.com/#!/own1e" target="_blank"><span style="font-size: x-small;">@own1e</span></a>

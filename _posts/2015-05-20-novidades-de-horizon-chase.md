@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Novidades de Horizon Chase'
+categories: 
 tags: ios aquiris-game-studio  video corrida
 ---
 O game Horizon Chase da Aquiris Game Studio tem causado um "frisson" na comunidade gamer que aprecia games de corrida old-school, tanto pelo visual apurado quanto pela trilha sonora composta pelo mesmo compositor de clássicos como Top Gear.

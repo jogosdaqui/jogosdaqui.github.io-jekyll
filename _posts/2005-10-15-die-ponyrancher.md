@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Die Ponyrancher'
+categories: Game
 tags: 
 ---
 Ponyrancher é um jogo de aventura em 3D para crianças com a temática sobre cavalos.

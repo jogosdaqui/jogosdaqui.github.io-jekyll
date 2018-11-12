@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Axis Game Day'
+categories: 
 tags: odin-game-studio sao-paulo qubyte-interactive axis-game-day evento garage-227
 ---
 A <a href="http://www.axis.art.br" target="_blank">AXIS-Gnomon School of Visual Effects</a>

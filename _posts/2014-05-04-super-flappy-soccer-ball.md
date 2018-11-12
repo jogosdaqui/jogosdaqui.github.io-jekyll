@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Super Flappy Soccer Ball'
+categories: 
 tags: ios android video odi-entertainment
 ---
 <span style="font-size: x-small;">> Por Thiago Brayner em colabora&#231;&#227;o para o jogosdaqui.</span>

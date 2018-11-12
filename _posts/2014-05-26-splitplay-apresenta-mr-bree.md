@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Splitplay apresenta: Mr. Bree+'
+categories: 
 tags: splitplay video taw-studio
 ---
 <span style="font-size: x-small;">> Por Taw Studio em colabora&#231;&#227;o para o jogosdaqui.</span>

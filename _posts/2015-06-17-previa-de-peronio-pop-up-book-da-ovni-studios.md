@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Prévia de Peronio Pop-Up Book da Ovni Studios'
+categories: Preview
 tags: ios android ovni-studios steam video ps4 big-festival evento big-starter preview
 ---
 A primeira evidência histórica de livros pop-up remonta para o ano 1240 quando o monge beneditino Matthew Paris criou tal artefato para ajudar outros monges a calcular os dias santos. Nos séculos seguintes livros pop-up foram utilizados por adultos para ilustrar teorias, ensinar anatomia, fazer predições astronômicas e criar códigos secretos. Somente no século 18 surgiram os primeiros livros pop-up com sua finalidade mais famosa nos dias atuais: divertir e ensinar crianças.

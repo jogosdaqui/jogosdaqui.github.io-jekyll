@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Fan arts de Chroma Squad'
+categories: 
 tags: chroma-squad behold-studios
 ---
 Com o grande lançamento de <a href="http://chromasquad.com/" target="_blank">Chroma Squad</a>

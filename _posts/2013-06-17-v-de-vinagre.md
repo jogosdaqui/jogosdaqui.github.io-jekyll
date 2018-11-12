@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'V de Vinagre'
+categories: 
 tags: sbgames evento video facebook flux-game-studio concurso
 ---
 

@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Vibrant Recycling'
+categories: 
 tags: video
 ---
 

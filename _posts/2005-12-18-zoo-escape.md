@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Zoo Escape'
+categories: Game
 tags: 
 ---
 Nishi tem que recapturar os animais que escaparam do zoológico.

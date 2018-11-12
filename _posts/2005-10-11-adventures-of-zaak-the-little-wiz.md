@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Adventures of Zaak - The Little Wiz'
+categories: Game
 tags: meantime
 ---
 Uma mistura de puzzle e plataforma com Zaak, um desastrado aprendiz de feiticeiro, cuja missão é salvar as fadinhas capturadas pelo terrível Ás de Espadas. Zaak precisará lutar contra abóboras assassinas, escalar paredes, evitar armadilhas e usar sua magia com inteligência para passar por todos os níveis.

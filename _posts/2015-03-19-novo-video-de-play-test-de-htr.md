@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Novo vídeo de play test de HTR+'
+categories: 
 tags: qubyte-interactive
 ---
 A desenvolvedora brasileira <a href="http://www.qubyteinteractive.com">Qubyte Interactive</a>

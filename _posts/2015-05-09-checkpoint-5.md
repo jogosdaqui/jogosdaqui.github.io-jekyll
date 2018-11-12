@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Checkpoint #5'
+categories: 
 tags: chroma-squad behold-studios icon-games insert-coins splitplay steam video qubyte-interactive greenlight ps4 swordtales garage-227 division-five humble-store checkpoint
 ---
 

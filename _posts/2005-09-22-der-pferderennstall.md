@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Der Pferderennstall'
+categories: Game
 tags: 
 ---
 Der Pferderennstall é um jogo de estratégia em tempo real, onde você gerencia um haras de cavalos de corrida.

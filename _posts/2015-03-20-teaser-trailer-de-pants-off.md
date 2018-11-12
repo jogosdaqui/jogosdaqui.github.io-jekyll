@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Teaser Trailer de Pants Off!'
+categories: 
 tags: incubo
 ---
 Saiu o primeiro vídeo de Pants Off!, game em desenvolvimento pela <a href="http://incubogames.com">InCubo</a>

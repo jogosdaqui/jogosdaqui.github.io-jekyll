@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Programa do Ratinho'
+categories: Game
 tags: televisão
 ---
 O Programa do Ratinho é o mais divertido da televisão brasileira.

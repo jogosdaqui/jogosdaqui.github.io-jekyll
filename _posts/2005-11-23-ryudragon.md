@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Ryudragon'
+categories: Game
 tags: 
 ---
 O <a href="http://www.decadium.com/gameinfo.php?game=ryudragon" target="_blank">Ryudragon</a>

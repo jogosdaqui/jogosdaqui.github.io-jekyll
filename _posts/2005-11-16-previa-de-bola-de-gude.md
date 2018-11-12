@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Prévia de Bola de Gude'
+categories: Preview
 tags: preview icon-games
 ---
 SLotman, game designer, desenvolveu o jogo por quase 1 ano. Em breve será lançado oficialmente.

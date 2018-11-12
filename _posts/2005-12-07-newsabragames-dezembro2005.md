@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'NewsAbragames - Dezembro/2005'
+categories: News
 tags: abragames gametrack
 ---
 Abragames (Associação Brasileira das Desenvolvedoras de Jogos Eletrônicos) acaba de divulgar a edição deste mês da sua newsletter.

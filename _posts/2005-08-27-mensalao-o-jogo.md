@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Mensalão, o Jogo'
+categories: Game
 tags: 
 ---
 Descubra quem est&aacute; &quot;levando grana por fora&quot;, estudando os depoimentos e analisando as conclus&otilde;es da CPI. Teste sua capacidade de dedu&ccedil;&atilde;o e observa&ccedil;&atilde;o, pois nem tudo pode ser provado diretamente.

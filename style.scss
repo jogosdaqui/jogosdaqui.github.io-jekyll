@@ -363,7 +363,8 @@ footer {
   position: absolute;
   background: white;
   margin: 0;
-  margin-top: 13px;
-  border: 1px solid $lightGray;
+  margin-top: 40px;
+  // border: 1px solid $lightGray;
   padding-right: 10px;
+  z-index: 99999999;
 }

@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Eventos de novembro'
+categories: News
 tags: sbgames evento sao-paulo
 ---
 Confira os eventos para o mês de novembro:

@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Enquete no Gametrack'
+categories: News
 tags: gametrack entrevista
 ---
 "Qual jogo 3D multiplayer você gostaria de ver no Gametrack?" está é a enquete no ar no portal <a href="http://www.gametrack.com.br" target="_blank">Gametrack</a>

@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Ano novo, jogos novos'
+categories: News
 tags: dynamic-games
 ---
 Foram adicionados os dois primeiros jogos para este ano na nossa galeria, o <a href="{{ site.baseurl }}/2006/01/06/metablocks/">Metablocks</a>

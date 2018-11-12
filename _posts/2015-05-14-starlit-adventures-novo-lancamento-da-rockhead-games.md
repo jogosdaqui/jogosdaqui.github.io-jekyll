@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Starlit Adventures, novo lançamento da Rockhead Games'
+categories: 
 tags: ios android southlogic-studios video rockhead-games
 ---
 <a href="http://www.starlitadventures.com/" target="_blank">Starlit Adventures</a>

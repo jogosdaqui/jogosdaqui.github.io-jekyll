@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Checkpoint #2'
+categories: 
 tags: invent4 adjogosrs axis-game-day evento powerup checkpoint
 ---
 

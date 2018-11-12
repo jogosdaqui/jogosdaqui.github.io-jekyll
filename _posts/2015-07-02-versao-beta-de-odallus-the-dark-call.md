@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Versão beta de Odallus - The Dark Call'
+categories: 
 tags: acao steam video joymasher
 ---
 Começou a fase de beta teste do game brasileiro Odallus - The Dark Call da JoyMasher.

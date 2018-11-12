@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Seja um profissional da indústria de jogos'
+categories: News
 tags: cgmax
 ---
 ## Que tal trabalhar na indústria de jogos?

@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Shuffle Puzzle'
+categories: 
 tags: ios android video rayst-games
 ---
  

@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Penguin Racer'
+categories: Game
 tags: 
 ---
 Penguin Racer &eacute; um jogo de corrida, n&atilde;o com ve&iacute;culos, mas com pinguins. A vis&atilde;o do jogo &eacute; t&iacute;pica de jogos de corrida, ou seja, em 3D e em 3&ordf; pessoa.

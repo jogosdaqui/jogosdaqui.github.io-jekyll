@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Toren ganha trailer de lançamento'
+categories: 
 tags: behold-studios chroma-squad video ps4 swordtales
 ---
 A Swordtales está preparando para o próximo dia 12 o lançamento para PS4 e PC de seu <a href="http://toren-game.com/?lang=pt" target="_blank">game Toren</a>

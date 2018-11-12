@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Pré lançamento - The Game Producer 2.0'
+categories: News
 tags: tilt
 ---
 A TILT online colocou hoje à disposição dos assinantes do club TILT, portadores do serial GOLd, Tool Key ou Playon licenciado a nova versão do jogo/simulador The Game Producer (2.0), integrado ao sistema Gameshop da TILT. Os jogadores sem licença oficial do jogo poderão jogá-lo normalmente, apenas não tendo acesso aos novos recursos.

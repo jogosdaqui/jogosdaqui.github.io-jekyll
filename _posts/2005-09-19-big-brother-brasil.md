@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Big Brother Brasil'
+categories: Game
 tags: reality-show globo
 ---
 O jogo Big Brother Brasil foi baseado no programa de televis&atilde;o de grande sucesso em v&aacute;rios pa&iacute;ses do mundo e que tamb&eacute;m teve um grande sucesso pelas ondas da Rede Globo. 

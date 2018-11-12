@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Splitplay apresenta: HTR+ High Tech Racing+'
+categories: 
 tags: splitplay video qubyte-interactive concurso
 ---
 <span style="font-size: x-small;">> Por QUByte Interactive em colabora&#231;&#227;o para o jogosdaqui.</font></span>

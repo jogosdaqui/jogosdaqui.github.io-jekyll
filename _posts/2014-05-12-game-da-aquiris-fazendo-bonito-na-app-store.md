@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Game da Aquiris fazendo bonito na App Store'
+categories: 
 tags: ios aquiris-game-studio 
 ---
 <a href="{{ site.baseurl }}/2014/05/08/cartoon-network-superstar-soccer-lancado-na-app-store/">Carton Network Superstar Soccer</a>

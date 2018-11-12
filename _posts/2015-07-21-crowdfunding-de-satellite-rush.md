@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Crowdfunding de Satellite Rush'
+categories: 
 tags: splitplay video crowdfunding kimeric-labs roguelike demo
 ---
 Quando postamos sobre <a href="{{ site.baseurl }}/2014/05/22/splitplay-apresenta-satellite-rush/" target="_blank">Satellite Rush</a>

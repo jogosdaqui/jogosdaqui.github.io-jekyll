@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Arena de Rodeio'
+categories: Game
 tags: 
 ---
 <span style="font-style: italic;">SEGUUUUUURA PEÃO!!!</span>

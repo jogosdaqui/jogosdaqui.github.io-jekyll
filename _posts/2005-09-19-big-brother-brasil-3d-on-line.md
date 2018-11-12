@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Big Brother Brasil 3D On-Line'
+categories: Game
 tags: reality-show
 ---
 Bem vindo ao BBB OnLine, como no programa de grande audi&ecirc;ncia em todo Brasil, voc&ecirc; vai interagir online, em tempo real, com outros participantes da casa. 

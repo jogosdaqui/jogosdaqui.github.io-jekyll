@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Cuana Toon'
+categories: Game
 tags: 
 ---
 Cuana Toon é o primeiro jogo da Calibre.

@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Projeto experimental de Software Livre da TILT online'
+categories: News
 tags: linux open-source tilt
 ---
 Há muito tempo temos debatido o uso dos mecanismos do software livre em jogos comerciais. Algumas pessoas não aceitam a possibilidade deste mecanismo funcionar no caso específico de jogos. Outras simplesmente acreditam que, se funciona para o Linux, funciona para tudo mais (cura até unha encravada).

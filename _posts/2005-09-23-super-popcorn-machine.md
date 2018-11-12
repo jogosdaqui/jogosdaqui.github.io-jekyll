@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Super Popcorn Machine'
+categories: Game
 tags: nology puzzle
 ---
 Você é capaz de estourar as pipocas de dois recipientes que estão em uma balança e mantê-los equilibrados ao mesmo tempo? Este é o grande desafio deste novo jogo de puzzle da Nology!

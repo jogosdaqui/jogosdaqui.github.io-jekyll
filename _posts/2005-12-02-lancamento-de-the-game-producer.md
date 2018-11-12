@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Lançamento de The Game Producer'
+categories: News
 tags: tilt
 ---
 A TILT online lança oficialmente The Game Producer.

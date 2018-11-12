@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Erinia, A Guerra dos Dois Dias'
+categories: News
 tags: erinia
 ---
 Um evento que permitirá o livre PVP entre todos os alistados, essa é a Guerra dos Dois Dias que inicia na meia-noite deste sábado no mundo de Erinia.

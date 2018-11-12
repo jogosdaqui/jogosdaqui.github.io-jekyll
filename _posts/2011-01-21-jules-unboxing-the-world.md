@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Jules: Unboxing the World'
+categories: 
 tags: ios sulistas video
 ---
 <font size="2">> <span style="font-size: x-small;">Por Daniel Mello (</span><a href="http://twitter.com/#!/own1e" target="_blank"><span style="font-size: x-small;">@own1e</span></a>

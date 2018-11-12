@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Inscrições abertas para o SPJam 2013'
+categories: 
 tags: spjam evento
 ---
 

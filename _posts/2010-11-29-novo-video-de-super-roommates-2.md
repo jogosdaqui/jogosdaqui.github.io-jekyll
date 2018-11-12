@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Novo vídeo de Super Roommates'
+categories: 
 tags: ios behold-studios video rts facebook
 ---
 A brasileira Behold Studios, conhecida pelo seu RTS para iPhone <a href="http://goo.gl/TZos1" target="_blank">&quot;The Gravedigger&quot;</a>

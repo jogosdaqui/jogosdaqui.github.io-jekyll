@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Prévia de Alkimya da Bad Minions'
+categories: Preview
 tags: rpg video bad-minions preview
 ---
 O físico e matemático Isaac Newton, um dos cientistas mais importantes da história, pensador que definiu as leis que fundamentaram o que chamamos de mecânica clássica e a lei da gravitação universal poderia ser um consultor do próximo jogo da Bad Minions: Alkimya. Por que? Porque, além de matemático e físico, Newton era um grande estudioso e praticante da alquimia, tendo escrito e lido muito sobre o assunto, fato comprovado pelos mais de 150 livros sobre o tema encontrados na biblioteca particular dele após sua morte.

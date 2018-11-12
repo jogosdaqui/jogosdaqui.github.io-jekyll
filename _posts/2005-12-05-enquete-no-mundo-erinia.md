@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Enquete no Mundo Erinia'
+categories: News
 tags: erinia
 ---
 Visando atender aos pedidos dos jogadores do <a href="{{ site.baseurl }}/2005/08/27/erinia/">Erinia</a>

@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Shadows of Malquidious'
+categories: Game
 tags: 
 ---
 Os últimos anos foram duros para o seu reino.

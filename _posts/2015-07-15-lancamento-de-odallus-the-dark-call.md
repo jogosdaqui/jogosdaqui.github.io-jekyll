@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Lançamento de Odallus: The Dark Call'
+categories: 
 tags: steam video joymasher humble-store
 ---
 Dos mesmos produtores de Oniken, chega as prateleiras virtuais o mais novo game da gamedev brasileira JoyMasher, <a href="http://joymasher.com/odalluspreorder/" target="_blank">Odallus: The Dark Call</a>

@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Meu Big Brother'
+categories: Game
 tags: reality-show
 ---
 Meu Big Brother &eacute; um jogo baseado no reality show de maior audi&ecirc;ncia da televis&atilde;o brasileira: Big Brother Brasil. O jogo interage em tempo real com o programa, podendo ser influenciado pelos eventos da casa. Os jogadores devem escolher um big brother para tomar conta, mantendo-o sempre limpo, bem-humorado, dando presentes ou punindo-o quando eles n&atilde;o estiverem se comportando.

@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Bola de Gude'
+categories: Game
 tags: icon-games
 ---
 Você ainda joga bola de gude com a galera do bairro ou se lembra de quando fazia isso na infância?

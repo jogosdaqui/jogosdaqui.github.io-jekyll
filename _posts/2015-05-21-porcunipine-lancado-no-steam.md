@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Porcunipine lançado no Steam'
+categories: 
 tags: steam video big-green-pillow
 ---
 Acabamos de adicionar o Porcunipine da Big Green Pillow na lista de jogos do jogosdaqui, pois hoje é o grande dia de lançamento do game no Steam.

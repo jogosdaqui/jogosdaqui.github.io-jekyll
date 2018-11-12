@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Primeiras imagens de Gods of The Virtual Boards'
+categories: Game
 tags: devworks-game-technology
 ---
 Um jogo baseado nas previsões de Nostradamus, este é Gods of The Virtual Boards.

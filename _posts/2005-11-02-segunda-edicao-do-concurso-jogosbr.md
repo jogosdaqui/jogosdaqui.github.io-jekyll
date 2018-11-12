@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Segunda edição do concurso JogosBr'
+categories: News
 tags: jogosbr concurso
 ---
 Em novembro será lançado o "Segundo Concurso de Idéias Originais E Demos de Jogos Eletrônicos - JogosBr". O Concurso tem como objetivo estimular o desenvolvimento de jogos eletrônicos (ou games) no mercado nacional.

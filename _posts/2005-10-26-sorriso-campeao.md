@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Sorriso Campeão'
+categories: Game
 tags: 
 ---
 Sorriso Campeão é um jogo infantil, que procura conscientizar as crianças sobre a importância da higiene bucal.

@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Taikodom faz ajustes finais'
+categories: News
 tags: hoplon sao-paulo
 ---
 Depois de um pré-lançamento ocorrido na EGS (Electronic Game Show), em São Paulo, no mês de novembro, o Taikodom, game massive de ação totalmente elaborado e executado no Brasil, está entrando na reta final antes do seu lançamento comercial.

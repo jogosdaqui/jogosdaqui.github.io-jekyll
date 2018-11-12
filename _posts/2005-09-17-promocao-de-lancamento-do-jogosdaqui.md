@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Promoção de lançamento do jogosdaqui'
+categories: Promo
 tags: promocao tilt
 ---
 <font size="4"><span style="font-weight: bold;">Um m&ecirc;s de jogos daqui!</span></font><br />

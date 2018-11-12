@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'ZombieZoid - Zenith'
+categories: 
 tags: acao steam video ps4 demo
 ---
 Se você é fã dos filmes de zumbi de George A. Romero, como os clássicos A Noite dos Mortos  Vivos (Night of the Living Dead) e Despertar dos Mortos (Dawn of the Dead), mas também gosta de um bom toque de humor como o filme Todo Mundo Quase Morto (Shaun of the Dead) de Edgar Wright, então o jogo que a brasileira Adhoc Games passou dois anos desenvolvendo foi feito pra você.

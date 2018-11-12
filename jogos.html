@@ -1,0 +1,11 @@
+---
+layout: page
+permalink: /jogos/
+title: 
+---
+
+<div class="posts">
+{% for post in site.categories.Game %}
+    {% include post-excerpt.html post=post %}
+{% endfor %}
+</div>

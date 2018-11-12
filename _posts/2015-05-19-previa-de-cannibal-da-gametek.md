@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Prévia de Cannibal da GameTek'
+categories: Preview
 tags: steam video greenlight gametek preview
 ---
 A indie brasileira <a href="http://www.gametekbrasil.com/" target="_blank">GameTek</a>

@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Jetski Race'
+categories: Game
 tags: mobile esporte
 ---
 Foi dada a largada! Prepare-se para muita água, obstáculos e manobras nessa excitante corrida de jetskis!

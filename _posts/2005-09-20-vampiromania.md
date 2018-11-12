@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Vampiromania'
+categories: Game
 tags: 
 ---
 Em um pequeno vilarejo, numa noite de lua cheia, um acontecimento mudaria para sempre a vida daqueles moradores. Nicolae, pai de Andreea, gritava desesperado em frente a sua taverna. Todos correram para ver o que tinha acontecido. Junto &agrave; multid&atilde;o, estava Teodor, um bravo homem, conhecido como um colecionador de lendas e supersti&ccedil;&otilde;es. Nicolae leva Teodor at&eacute; o quarto da jovem Andreea, que estava ca&iacute;da no ch&atilde;o, branca como neve, seus l&aacute;bios roxos parecendo violetas. Teodor a examina e d&aacute; a not&iacute;cia a Nicolae: ela est&aacute; sob uma esp&eacute;cie de encanto. Neste momento, surge Ecaterina, uma bela mulher, m&atilde;e de Petru e esposa de Teodor.

@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Koko Arena'
+categories: Game
 tags: nology
 ---
 Bem vindo ao mundo dos Kokos! Conheça esses seres cativantes, representantes de 16 países. Kokos são pequenas criaturas que não têm braços e, apesar de serem pequenos, eles têm grande capacidade de impulsão e adoram praticar esportes. No Koko Arena, você poderá disputar partidas de Kokoball, um esporte parecido com vôlei, onde só é permitido utilizar a cabeça.

@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Jogos em debate'
+categories: News
 tags: hoplon rpg sbgames evento sao-paulo
 ---
 A empresa <a href="http://www.hoplon.com/">Hoplon Infotainment</a>

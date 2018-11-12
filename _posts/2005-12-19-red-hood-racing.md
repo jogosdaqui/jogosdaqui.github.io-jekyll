@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Red Hood Racing'
+categories: Game
 tags: palmsoft mobile
 ---
 Você tem medo do Lobo Mau?

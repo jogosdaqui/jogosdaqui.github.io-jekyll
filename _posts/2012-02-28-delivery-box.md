@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Delivery Box'
+categories: 
 tags: ios yotta-apps
 ---
 <a href="http://www.yottaapps.com.br/aplicativos/delivery-box/" target="_blank">Delivery Box</a>

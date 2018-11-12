@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Matchball Tennis'
+categories: Game
 tags: espaco-informatica demo
 ---
 Jogo de tênis desenvolvido pela empresa gaúcha Espaço Informática para o mercado brasileiro e europeu.

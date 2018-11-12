@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Começa o early access de Better late than DEAD'
+categories: 
 tags: mac odin-game-studio steam video ps4
 ---
 O survival game Better late than DEAD que está sendo desenvolvido pela <a href="http://odingamestudio.com.br/" target="_blank">Odin Game Studio</a>

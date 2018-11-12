@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Shoot The Chief'
+categories: Game
 tags: 
 ---
 Shoot the chief é um jogo casual de temática humorística, onde o jogador vive o papel de um honesto e pacato funcionário de uma empresa, que de tanto aturar seu chefe brigão e mal-criado, decide enfrenta-lo... com bolas de papel!

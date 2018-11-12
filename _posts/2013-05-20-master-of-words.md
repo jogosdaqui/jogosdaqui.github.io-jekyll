@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Master of Words'
+categories: 
 tags: ios android windows-phone windows rockhead-games
 ---
 

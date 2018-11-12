@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'The Game Producer'
+categories: Game
 tags: tilt
 ---
 Pensando em ser um desenvolvedor de jogos para computador?

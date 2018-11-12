@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Show do Milhão Júnior'
+categories: Game
 tags: sbt show-do-milhao televisão
 ---
 Todas as emoções do programa de televisão "Show do Milhão" do SBT com Silvio Santos estão neste cd.

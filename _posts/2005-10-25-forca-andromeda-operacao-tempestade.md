@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Força Andrômeda - Operação Tempestade'
+categories: 
 tags: elfland-studios
 ---
 No game Força Andrômeda - Operação Tempestade, da <a href="http://www.elfland.com.br/" target="_blank">Elfland Studios</a>

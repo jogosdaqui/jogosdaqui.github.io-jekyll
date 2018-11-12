@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Reestruturação na Hoplon'
+categories: News
 tags: hoplon
 ---
 Como de costume, tenho boas e más notícias que gostaria de partilhar com vocês, nossos maiores apoiadores, em primeira mão. Em resumo, a excelente notícia é que nós, junto com nosso investidor, estamos renovando nosso compromisso de não colocar o Taikodom no mercado exceto como um produto de excelente qualidade e capaz de satisfazer tanto vocês, que desde há muito participam conosco de seu desenvolvimento, como outros milhares de pessoas maravilhosas como vocês no Brasil, e, quem sabe um dia, no mundo.

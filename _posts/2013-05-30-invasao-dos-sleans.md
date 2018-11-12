@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Invasão dos Sleans'
+categories: 
 tags: ios android video
 ---
 

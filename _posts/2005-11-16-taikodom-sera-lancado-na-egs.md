@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Taikodom será lançado na EGS'
+categories: News
 tags: hoplon rpg sao-paulo
 ---
 Taikodom será lançado na EGS.

@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Xmile e Playmove firmam parceria'
+categories: 
 tags: playmove video
 ---
 Em julho passado <a href="{{ site.baseurl }}/2015/07/20/playtable-busca-desenvolvedores/">falamos aqui no jogosdaqui</a>

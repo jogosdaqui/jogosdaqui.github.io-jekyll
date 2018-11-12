@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Concurso Souking - Power UP'
+categories: 
 tags: ludum-dare souking evento concurso
 ---
 

@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Embaixadinha'
+categories: Game
 tags: devworks-game-technology
 ---
 Mostre toda a sua habilidade nas <a href="http://www.devworks.com.br/celular/br/embaixadinha.htm" target="_blank">embaixadinhas</a>

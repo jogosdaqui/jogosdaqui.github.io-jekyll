@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Crazy Bitsy Spider'
+categories: 
 tags: ios android video dead-mushroom
 ---
 <a href="http://www.deadmushroom.com/?page_id=27" target="_blank">Crazy Bitsy Spider</a>

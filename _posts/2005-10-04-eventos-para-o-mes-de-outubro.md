@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Eventos para o mês de outubro'
+categories: Event
 tags: gamecon evento sao-paulo
 ---
 Fique atento aos eventos que irão acontecer neste mês de outubro:

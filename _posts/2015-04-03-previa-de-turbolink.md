@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Prévia de TurboLink'
+categories: Preview
 tags: crowdfunding division-five preview
 ---
 A equipe de desenvolvimento da Division Five entrou em contato conosco via Twitter falando sobre o game que estão desenvolvendo: TurboLink.

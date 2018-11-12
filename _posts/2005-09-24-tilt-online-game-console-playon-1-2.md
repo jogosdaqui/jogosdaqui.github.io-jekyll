@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'TILT online :: Game Console (playon) 1.2'
+categories: News
 tags: tilt
 ---
 

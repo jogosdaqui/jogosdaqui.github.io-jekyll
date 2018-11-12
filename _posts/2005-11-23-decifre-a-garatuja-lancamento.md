@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Decifre a Garatuja - lançamento'
+categories: News
 tags: tilt
 ---
 A TILT online colocou à disposição dos assinantes do club TILT, portadores do serial GOLD, Tool Key ou Playon licenciado o seu mais novo lançamento: o jogo Garatuja, integrado ao sistema Gameshop.

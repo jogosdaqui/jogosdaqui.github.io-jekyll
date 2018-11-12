@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Blog jogosdaqui'
+categories: 
 tags: 
 ---
 

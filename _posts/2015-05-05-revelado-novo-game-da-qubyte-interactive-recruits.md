@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Revelado novo game da QUByte Interactive: Recruits'
+categories: 
 tags: steam video qubyte-interactive ps3 xbox-one xbox wii-u wii
 ---
 Semana passada <a href="{{ site.baseurl }}/2015/04/30/qubyte-interactive-produzindo-novo-game/">anunciamos</a>

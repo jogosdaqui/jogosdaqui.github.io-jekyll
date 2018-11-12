@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Space Hero'
+categories: Game
 tags: 
 ---
 O ano é 2087 d.C. A sociedade vive em completa harmonia num mundo de paz e igualdade entre povos e raças. Mas, cientistas descobrem que um meteoro de proporções catastróficas entrará em rota de colisão com a Terra. Para proteger o planeta você é mandado em uma missão para coleta de um material muito raro e resistente que servirá na construção de uma ogiva de míssil para destruir o meteoro.

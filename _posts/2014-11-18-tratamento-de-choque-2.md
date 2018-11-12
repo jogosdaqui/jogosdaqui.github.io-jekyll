@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Tratamento de Choque'
+categories: 
 tags: android
 ---
 Segundo Éder Cardoso,  desenvolvedor de games indie cearense, o game <a href="http://www.tdcgame.com.br">Tratamento de Choque</a>

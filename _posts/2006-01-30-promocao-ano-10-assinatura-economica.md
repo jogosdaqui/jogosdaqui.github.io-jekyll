@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Promoção Ano 10 = assinatura econômica'
+categories: Promo
 tags: promocao tilt
 ---
 Em fevereiro de 2006 a TILT online entra no seu décimo ano de presença na internet brasileira e para comemorar lançou a assinatura econômica (1 mês), para você aproveitar o restinho de férias antes das aulas, tirar aquela dúvida insistente, aprender novos truques de criação de jogos e ainda poupar uma graninha para gastar no carnaval.

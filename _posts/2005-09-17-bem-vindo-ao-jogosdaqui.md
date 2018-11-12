@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Bem vindo ao jogosdaqui'
+categories: News
 tags: 
 ---
 <p style="font-family: verdana;">Seja bem vindo ao <span style="font-weight: bold; color: #ff9900;">jogosdaqui</span>, o site que tem como missão proporcionar aos jogadores brasileiros um contato direto com os jogos produzidos por empresas nacionais. O <span style="font-weight: bold; color: #ff9900;">jogosdaqui</span> nasceu da necessidade de um canal de comunicação de qualidade entre os jogadores brasileiros e as empresas brasileiras de desenvolvimento de jogos.

@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'FPS da Aquiris gX em fase alpha'
+categories: 
 tags: aquiris-game-studio  windows
 ---
 Entramos em contato com o produtor executivo da empresa brasileira Aquiris Game Experience, <a href="http://twitter.com/The_Real_Rafael" target="_blank">Rafael Rodrigues</a>

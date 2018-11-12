@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Cataclism'
+categories: Game
 tags: 
 ---
 A organização terrorista Soldados do Apocalipse ameaçou o planeta  com  uma poderosa arma de  destruição em  massa e VOCÊ é o  único piloto capaz de  parar este  terrível plano.

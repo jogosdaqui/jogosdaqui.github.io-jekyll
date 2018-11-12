@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Novo vídeo de gameplay de Gryphon Knight Epic'
+categories: 
 tags: insert-coins linux mac windows video crowdfunding cyber-rhino-studios entrevista preview
 ---
 A equipe de desenvolvimento da <a href="http://www.cyberrhinostudios.com" target="_blank">Cyber Rhino Studios</a>

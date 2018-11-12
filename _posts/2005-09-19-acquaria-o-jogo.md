@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Acquaria O Jogo'
+categories: Game
 tags: 
 ---
 De um ambiente desolador surge uma hist&oacute;ria exuberante. ACQU&Aacute;RIA mostra um futuro distante, no qual o &ldquo;Planeta Azul&rdquo; j&aacute; n&atilde;o pode ser assim chamado. A Terra est&aacute; praticamente esgotada, ap&oacute;s agress&otilde;es constantes &agrave; natureza.

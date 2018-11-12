@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Soul Gambler gratuito e Kickstarter de Face It'
+categories: 
 tags: promocao splitplay crowdfunding tlon-studios
 ---
 A desenvolvedora Tlön Studios está com seu game <a href="http://www.splitplay.com/pt/games/soul-gambler">Soul Gambler totalmente gratuito no SplitPlay</a>

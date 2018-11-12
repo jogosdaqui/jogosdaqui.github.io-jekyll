@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Trailer de lançamento de Cargo Delivery'
+categories: 
 tags: mac windows video demo cats-in-the-sky
 ---
 O estúdio Cats in the Sky liberou o trailer de lançamento do game Cargo Delivery.

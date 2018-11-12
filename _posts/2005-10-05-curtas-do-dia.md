@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Curtas do dia...'
+categories: News
 tags: erinia hoplon tilt
 ---
 <ul>

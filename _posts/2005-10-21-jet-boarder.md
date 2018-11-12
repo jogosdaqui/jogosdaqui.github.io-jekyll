@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Jet Boarder'
+categories: Game
 tags: leandro-correia
 ---
 Este é Jet Boarder, um jogo de corrida com uma característica interessante: ele utiliza apenas uma única tecla para os controles.

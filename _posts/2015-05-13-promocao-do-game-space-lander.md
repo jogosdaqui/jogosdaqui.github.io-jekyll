@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Promoção do game Space Lander'
+categories: Promo
 tags: promocao vortex-game-studios
 ---
 A Vortex Game Studios nos enviou 9 chaves do seu <a href="{{ site.baseurl }}/2015/05/13/space-lander/">novo game Space Lander</a>

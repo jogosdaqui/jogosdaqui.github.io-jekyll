@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Imagens da semana #6'
+categories: 
 tags: aquiris-game-studio  odin-game-studio steam joymasher kimeric-labs cupcake-sweet-entertainment facebook imagens-da-semana
 ---
 

@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Lançada a demo de TurboLink'
+categories: 
 tags: linux mac windows xbox-360 xbox division-five demo preview
 ---
 No início do mês fizemos uma <a title="Prévia de TurboLink" href="{{ site.baseurl }}/2015/04/03/previa-de-turbolink/">prévia de TurboLink</a>

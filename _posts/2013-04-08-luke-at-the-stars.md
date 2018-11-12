@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Luke at the Stars'
+categories: 
 tags: android video alpaca-team blackberry
 ---
 Luke at the Stars é o primeiro game da <a href="http://alpacateam.com/">Alpaca Team</a>

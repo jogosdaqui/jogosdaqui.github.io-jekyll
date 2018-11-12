@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Banana Joe'
+categories: Game
 tags: 
 ---
 Bem vindo à floresta tropical!

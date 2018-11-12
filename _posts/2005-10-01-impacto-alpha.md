@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Impacto Alpha'
+categories: Game
 tags: oniria
 ---
 Primeiro jogo desenvolvido pela Oniria Entertainment, em 2001.

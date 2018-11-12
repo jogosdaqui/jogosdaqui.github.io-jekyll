@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Taikodom, Guerras do Território'
+categories: 
 tags: hoplon
 ---
 A Hoplon Infotainment colocou no ar o hotsite: <a href="http://www.taikodom.com.br/hotsite_taiko" target="_blank">Taikodom - Guerras do Território.

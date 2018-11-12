@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Hipercubo'
+categories: 
 tags: ios  sbgames evento studio-avante
 ---
 

@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Dois jogos brasileiros no TOP 20 da Alemanha'
+categories: News
 tags: espaco-informatica oniria preloud-studios oniria-entertainment preloud bitcrafters
 ---
 Seguindo a trajetória de outros jogos brasileiros lançados na Alemanha, Der Pferderennstall, da <a href="http://www.espacoinf.com" target="_blank">Espaço Informática</a>

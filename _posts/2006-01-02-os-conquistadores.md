@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Os Conquistadores'
+categories: Game
 tags: dynamic-games
 ---
 Os Conquistadores  da <a href="http://www.dynamicgames.com.br/" target="_blank">Dynamic Games</a>

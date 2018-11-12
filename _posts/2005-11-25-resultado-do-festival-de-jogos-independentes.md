@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Resultado do Festival de Jogos Independentes'
+categories: News
 tags: abragames linux sbgames evento icon-games
 ---
 Segundo Rodrigo Damazio, Chair do Festival de Jogos Independentes do SBGames 2005, o resultado da premiação foi:

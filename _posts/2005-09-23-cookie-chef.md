@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Cookie Chef'
+categories: Game
 tags: windows
 ---
 Como o assistente do confeiteiro Ben, você trabalhará pesado para ajudá-lo a preparar biscoitos de forma rápida e eficiente. Se for bem sucedido, Ben irá certamente promover você a posições de maior responsabilidade dentro de sua confeitaria e, em mantendo o bom trabalho, você será um sério candidato ao posto de Cookie Chef!

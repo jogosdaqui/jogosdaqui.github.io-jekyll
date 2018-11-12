@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Mr. Bree+ no Greenlight'
+categories: 
 tags: steam video greenlight taw-studio
 ---
 

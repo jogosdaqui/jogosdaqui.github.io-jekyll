@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Imagens da semana #13'
+categories: 
 tags: aquiris-game-studio  double-dash joymasher iduna-game-studio mgaia-studio imagens-da-semana
 ---
 

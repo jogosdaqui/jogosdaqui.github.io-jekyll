@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Pato Possante'
+categories: Game
 tags: gametrack
 ---
 Pato Possante é um jogo de corrida diferente. Você percebe isso logo no início, pois o personagem do jogo é um pato no controle de um singelo kart.

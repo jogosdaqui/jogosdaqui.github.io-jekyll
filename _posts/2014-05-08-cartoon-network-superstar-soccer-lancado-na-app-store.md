@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Cartoon Network Superstar Soccer lançado na App Store'
+categories: 
 tags: ios aquiris-game-studio  video
 ---
 

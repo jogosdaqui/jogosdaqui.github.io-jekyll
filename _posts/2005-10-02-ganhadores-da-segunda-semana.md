@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Ganhadores da segunda semana'
+categories: News
 tags: promocao tilt
 ---
 Mais 5 ganhadores da promoção de lançamento do <span style="font-weight: bold; color: #ff9900;">jogosdaqui</span>.

@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Gladiadores de Belathron busca apoio no Catarse'
+categories: 
 tags: behold-studios chroma-squad video crowdfunding
 ---
 A <a href="http://beholdstudios.com.br/" target="_blank">Behold Studios</a>

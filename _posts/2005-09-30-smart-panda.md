@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Smart Panda'
+categories: Game
 tags: leandro-correia
 ---
 Conheça Smart Panda, um jogo diferente de tudo o que você já viu. Controle um simpático urso panda e tente resolver um a um todos os problemas matemáticos que surgem no alto da tela. Fácil? Não...

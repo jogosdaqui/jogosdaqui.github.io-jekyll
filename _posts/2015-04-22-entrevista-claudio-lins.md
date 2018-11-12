@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Entrevista: Claudio Lins'
+categories: Interview
 tags: mac musigames steam ps4 psvita xbox-one xbox wii-u wii joymasher humble-store desura entrevista preloud-studios playlore arc-gen
 ---
 #### O jogosdaqui entrevistou o gamedev brasileiro Claudio Lins, desenvolvedor do game Doomed'n Damned e que agora está trabalhando no seu novo jogo, o Super Doomed'n Damned que será lançado Xbox One, Wii U e PC

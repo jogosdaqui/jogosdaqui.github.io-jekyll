@@ -1,0 +1,10 @@
+<article class="post">
+
+<h1><a href="{{ site.baseurl }}{{ include.post.url }}">{{ include.post.title }}</a></h1>
+
+<div class="entry">
+    {{ include.post.content | strip_html | truncatewords: 30 }}
+</div>
+
+<a href="{{ site.baseurl }}{{ include.post.url }}" class="read-more">Leia mais</a>
+</article>

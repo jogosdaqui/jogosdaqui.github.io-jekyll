@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Soccer Free Kicks'
+categories: 
 tags: ios android frozen-logic-studios
 ---
 

@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Museu do videogame Itinerante'
+categories: 
 tags: xbox-one xbox wii-u wii pernambuco
 ---
 Reconhecido pelo Ibram (Instituto Brasileiro de Museus), o Museu do Videogame Itinerante é o primeiro museu do gênero do Brasil, onde os jogadores tem a oportunidade de conhecer 42 anos de evolução dos consoles de videogames e jogar os maiores clássicos do entretenimento digital das décadas de 70, 80, 90 e 2000. 

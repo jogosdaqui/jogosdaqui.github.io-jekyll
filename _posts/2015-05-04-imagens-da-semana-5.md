@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Imagens da semana #5'
+categories: 
 tags: behold-studios chroma-squad odin-game-studio joymasher swordtales mgaia-studio vortex-game-studios imagens-da-semana
 ---
 

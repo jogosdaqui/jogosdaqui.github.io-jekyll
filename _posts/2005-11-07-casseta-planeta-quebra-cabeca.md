@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Casseta & Planeta - Quebra-Cabeça'
+categories: 
 tags: meantime puzzle
 ---
 Casseta & Planeta - Quebra-Cabeça é mais uma dos <a href="http://www.casseta.com.br/" target="_blank">Cassetas</a>

@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Escravo, nem pensar!'
+categories: 
 tags: video flux-game-studio point-and-click
 ---
 A <a href="http://www.fluxgamestudio.com/" target="_blank">Flux Game Studio</a>

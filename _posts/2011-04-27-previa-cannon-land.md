@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Prévia: Cannon Land'
+categories: Preview
 tags: ios video currant-cat preview
 ---
 > Cannon Land &#233; um arquip&#233;lago conquistado por Sir Muzzle, um dos piratas mais malucos a navegar pelos oceanos. Um dia, ele decidiu parar de saquear navios e portos e come&#231;ou a construir armadilhas incr&#237;veis, para proteger os seus tesouros. A lenda diz que ele enloqueceu e morreu Cannon Land, e suas armadilhas continuam funcionando at&#233; hoje. Muitos aventureiros tentaram passar pelas engenhocas de Muzzle, mas nenhum conseguiu, e a lenda foi ganhando for&#231;a dia ap&#243;s dia...

@@ -1,8 +1,9 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Checkpoint #8'
-tags: aquiris-game-studio  steam greenlight swordtales supernova-indie-games big-starter evento bad-minions gamepad iduna-game-studio crazy-minds-game-studios protomini-multimedia facebook preview checkpoint
+categories: 
+tags: aquiris-game-studio  steam greenlight swordtales supernova-indie-games big-starter evento bad-minions gamepad iduna-game-studio crazy-minds-game-studios protomini-multimedia facebook preview checkpoint trilha-sonora
 ---
 
 

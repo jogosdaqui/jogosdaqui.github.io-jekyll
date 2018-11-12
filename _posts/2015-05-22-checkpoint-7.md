@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Checkpoint #7'
+categories: 
 tags: android aquiris-game-studio  behold-studios chroma-squad insert-coins odin-game-studio rpg sbt steam xbox-one xbox cyber-rhino-studios reiza-studios big-festival evento duak-entertainment contra-labs gamepolitan thinkbox-games big-green-pillow gametek little-leds crazy-minds-game-studios protomini-multimedia rockhead-games demo-reel demo facebook entrevista preview checkpoint corrida
 ---
 

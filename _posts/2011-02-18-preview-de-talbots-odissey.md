@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Preview de Talbot&#39;s Odissey'
+categories: Preview
 tags: miniboss demo preview
 ---
 <font size="2">> <span style="font-size: x-small;">Por Luiz Damasceno (</span><a href="http://twitter.com/#!/lcdjr" target="_blank"><span style="font-size: x-small;">@lcdjr</span></a>

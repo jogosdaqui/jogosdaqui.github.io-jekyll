@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Casa dos Artistas'
+categories: Game
 tags: 
 ---
 Viva as emo&ccedil;&otilde;es do reality-show de maior sucesso da TV brasileira... Casa dos Artistas !

@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Faça parte da batalha tecnológica de Warbots'
+categories: 
 tags: acao delirus-entertainment
 ---
 A <a href="{{ site.baseurl }}/index.php?p=cl&amp;t=19&amp;idd=40">Délirus Entertainment</a>

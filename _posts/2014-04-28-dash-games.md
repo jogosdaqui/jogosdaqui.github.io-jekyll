@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'DASH GAMES'
+categories: 
 tags: dash-games rio-grande-do-sul adjogosrs psp ubisoft
 ---
 

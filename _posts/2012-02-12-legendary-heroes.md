@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Legendary Heroes'
+categories: 
 tags: ios video maya-games
 ---
 O relativamente recente e popular gênero Action Real-Time Strategy combina muito bem com as interfaces de toque de iPods, iPhones e iPads. Sabendo disso, a empresa brasileira Maya Games lançou na App Store o game Legendary Heroes.

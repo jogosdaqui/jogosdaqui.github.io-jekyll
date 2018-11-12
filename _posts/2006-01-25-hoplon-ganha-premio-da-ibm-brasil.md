@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Hoplon ganha prêmio da IBM Brasil'
+categories: 
 tags: hoplon sao-paulo
 ---
 Com o objetivo de incentivar a atuação dos ISVs (Independent Software Vendors) filiados ao programa PartnerWorld, a IBM Brasil premiou 15 parceiros de negócios que mais se destacaram no ano de 2005. Entre eles, a empresa catarinense Hoplon Infotainment, desenvolvedora do game Taikodom e parceira Advanced - Industry-optimized da IBM, foi selecionada na categoria Mídia &amp; Entretenimento. “Nosso objetivo é atuar cada vez mais perto do ISV, oferecendo todo o suporte necessário para que o desenvolvedor obtenha o melhor proveito das soluções IBM, além de conhecimento sobre as novas tecnologias. Outro fator importante é a troca de experiências entre as empresas envolvidas no programa”, afirma Ruth Harada, gerente de alianças da área de Software da IBM Brasil.

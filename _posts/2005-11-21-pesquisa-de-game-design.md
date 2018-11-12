@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Pesquisa de Game Design'
+categories: News
 tags: tilt
 ---
 A turma de game design, da pos UVA, está fazendo uma pesquisa para mapear o interesse de grupos de jogadores/consumidores, em relação a um exercício proposto em aula. A idéia é detectar qual modelo de jogo seria mais interessante de ser desenvolvido, em função do gosto do consumidor brasileiro (média estimada).

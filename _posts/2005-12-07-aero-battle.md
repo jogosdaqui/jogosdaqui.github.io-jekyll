@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Aero Battle'
+categories: Game
 tags: 
 ---
 Tyranny está pronto para se impor contra a Terra, liderado pelo The Nightmare Chimera Guardian, a aliança destruirá todos que a controlarem. Entretanto, uma última esperança ainda resta contra o domínio do maligno Chimera.

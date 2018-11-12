@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Riding Ground'
+categories: Game
 tags: acao
 ---
 Rinding Ground é um jogo de ação/aventura em terceira pessoa em que o jogador controla Laura, uma garota que tem a missão de ajudar seus tios a salvar o Haras da família de um malvado construtor.

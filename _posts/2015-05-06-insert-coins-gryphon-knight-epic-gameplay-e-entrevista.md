@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Insert Coins: Gryphon Knight Epic - Gameplay e Entrevista'
+categories: 
 tags: insert-coins steam video greenlight crowdfunding cyber-rhino-studios facebook
 ---
 

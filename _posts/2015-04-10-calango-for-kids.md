@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Calango For Kids'
+categories: 
 tags: ios sbgames evento video tinfoil-hat-studios
 ---
 Ao ver o game Calango For Kids, da gaúcha Tinfoil Hat Studios, me lembrei do slogan do <a href="http://www.scicast.com.br/">**SciCast**</a>

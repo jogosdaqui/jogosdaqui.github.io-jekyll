@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'The Tap Masters'
+categories: 
 tags: unique-criativa
 ---
 <a href="https://play.google.com/store/apps/details?id=com.uniquecriativa&amp;hl=pt_BR">The Tap Masters</a>

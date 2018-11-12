@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'VRUM - Aprendendo sobre o trânsito'
+categories: 
 tags: video thinkbox-games
 ---
  

@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Splitplay apresenta: Bernie Needs Love'
+categories: 
 tags: android linux mac splitplay steam windows video greenlight wii-u wii ouya facebook
 ---
 <span style="font-size: x-small;">> Por Protomni Multimedia em colabora&#231;&#227;o para o jogosdaqui.</font></span>

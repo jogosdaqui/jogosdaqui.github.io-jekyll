@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Evento em Salvador'
+categories: Event
 tags: bahia
 ---
 Os games hoje se constituem em uma nova mídia que atrai e desperta o interesse e desejo da geração denominada Screenagers, mas também é visto pela comunidade e pela mídia de forma maniqueísta e apocalíptica.

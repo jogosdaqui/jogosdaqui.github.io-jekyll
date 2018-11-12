@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Novo Show do Milhão'
+categories: News
 tags: green-land-studios show-do-milhao
 ---
 Lançado o Show do Milhão 2006. O jogo conta com 20.000 perguntas divididas em vários assuntos.

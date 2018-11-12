@@ -34,17 +34,20 @@
             <a href="{{ site.baseurl }}/noticias">Notícias</a>
             <a href="{{ site.baseurl }}/previas">Prévias</a>
             <a href="{{ site.baseurl }}/jogos">Jogos</a>
+            <a href="{{ site.baseurl }}/entrevistas">Entrevistas</a>
             <a href="{{ site.baseurl }}/eventos">Eventos</a>
             <a href="{{ site.baseurl }}/sobre">Sobre</a>
           </nav>
+          {% include search.html %}
         </header>
       </div>
     </div>
 
+    {% include ad.html %} 
     <div id="main" role="main" class="container">
-      {% include search.html %}
       {{ content }}
     </div>
+    {% include ad.html %} 
 
     <div class="wrapper-footer">
       <div class="container">

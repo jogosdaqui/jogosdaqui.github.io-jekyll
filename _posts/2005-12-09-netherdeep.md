@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Netherdeep'
+categories: News
 tags: linux mac mmorpg windows
 ---
 Um MMORPG ambientado no continente antigo da América do Sul, onde o jogador poderá escolher qual profissão seguir e evoluir suas capacidades especiais. Guerras entre facções e reinos estarão no enredo do jogo, mas não se preocupe, você poderá contar com mais de 300 armas a sua escolha.

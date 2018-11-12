@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Transportando o Brasil'
+categories: Game
 tags: 
 ---
 Transportando o Brasil é um jogo de caminhões, onde o jogador terá a sensação de dirigir os "gigantes da estrada" pelas principais cidades do país.

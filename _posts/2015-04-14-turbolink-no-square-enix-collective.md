@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'TurboLink no Square Enix Collective'
+categories: 
 tags: crowdfunding division-five preview
 ---
 No início de abril fizemos uma <a href="{{ site.baseurl }}/2015/04/03/previa-de-turbolink/">prévia de TurboLink</a>

@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'O gari é o herói'
+categories: 
 tags: ios  video doubleleft
 ---
 Em <a href="http://doubleleft.com/garbageman/" target="_blank">Garbageman</a>

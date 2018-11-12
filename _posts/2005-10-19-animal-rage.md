@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Animal Rage'
+categories: Game
 tags: 
 ---
 As cenas de Animal Rage, um divertido jogo "à la George Orwell" (autor do livro 1984), iniciam-se em 2099, época em que os humanos se destruíram em guerras nucleares, sendo que a radiação resultante provocou a mutação dos poucos animais que sobreviveram. O macaco, que antes era a mascote dos humanos e assistiu toda a destruição, alertou os animais mutantes para não repetirem a matança.

@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Sea Hunter'
+categories: Game
 tags: 
 ---
 Em Sea Hunter, a vida no mar esconde mistérios incríveis. Contando com o auxílio de um arpão e uma pistola subaquática, além de suas habilidades para fugir e se livrar de tubarões predadores, você é um mergulhador que tem o objetivo de capturar a maior quantidade de peixes que puder. A cada peixe capturado ou tubarão morto, você acumula pontos. Mas cuidado com o nível de oxigênio!!! Você pode recarregar o cilindro de ar subindo até a superfície. Para isso, um número mínimo de seis peixes terá que ser capturado. Se fizer o reabastecimento sem a captura mínima, será punido com a perda dos peixes que acumulou até então

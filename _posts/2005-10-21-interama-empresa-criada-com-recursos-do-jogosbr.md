@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Interama: empresa criada com recursos do JogosBR'
+categories: News
 tags: jogosbr concurso
 ---
 Os jogadores brasileiros em breve poderão curtir os jogos de uma nova empresa brasileira, a <span style="font-weight: bold;">Interama</span>, que pretende ser uma inovadora desenvolvedora de jogos 3D. Seu objetivo é lançar jogos diferentes, ousados, que vão além do comum. É explorar novos temas e novas fronteiras.

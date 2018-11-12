@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Crowdfunding de Magic Master atinge 25% da meta'
+categories: 
 tags: video mopix crowdfunding
 ---
 Há alguns dias falamos do início da campanha de <a href="{{ site.baseurl }}/2015/07/06/crowdfunding-de-magic-master/">crowdfunding do game Master Magic</a>

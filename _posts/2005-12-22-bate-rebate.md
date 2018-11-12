@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Bate-Rebate'
+categories: Game
 tags: green-land-studios sbt
 ---
 Bate-Rebate tem o melhor do estilo dos clássicos Arkanoid e Breakout, mas com um grande diferencial nos gráficos que são totalmente 3D.

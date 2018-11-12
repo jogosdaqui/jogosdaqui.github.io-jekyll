@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Novas imagens de Taikodom'
+categories: News
 tags: hoplon
 ---
 A Hoplon liberou mais 75 novas imagens de Taikodom.

@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Meu Pianinho'
+categories: 
 tags: ios android white-vortex
 ---
 A empresa <a href="http://whitevortex.com" target="_blank">White Vortex</a>

@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Trailer de lançamento de Chroma Squad'
+categories: 
 tags: behold-studios chroma-squad steam
 ---
 A Behold Studios liberou o trailer de lançamento do Chroma Squad que tem previsão de chegar no Steam no próximo dia 30.

@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Checkpoint #3'
+categories: 
 tags: behold-studios chroma-squad steam adjogosrs xbox-one xbox wii-u wii swordtales demo entrevista checkpoint
 ---
 

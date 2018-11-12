@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Letra de Ouro'
+categories: 
 tags: ios android cupcake-sweet-entertainment facebook
 ---
 Quem nunca jogou um caça palavras que atire a primeira a letra!

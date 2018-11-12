@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Mahjong Max'
+categories: 
 tags: icon-games mac windows video
 ---
 A desenvolvedora brasileira <a href="http://www.icongames.com.br" target="_blank">Icon Games</a>

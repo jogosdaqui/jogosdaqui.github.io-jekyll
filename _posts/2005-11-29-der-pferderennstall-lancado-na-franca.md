@@ -1,7 +1,8 @@
 ---
 published: true
-layout: game
+layout: post
 title: 'Der Pferderennstall lançado na França'
+categories: News
 tags: espaco-informatica
 ---
 Depois de grande sucesso na Alemanha, a <a href="http://www.espacoinf.com/" target="_blank">Espaço Informática</a>
