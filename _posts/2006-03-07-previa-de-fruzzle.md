@@ -4,7 +4,7 @@ layout: post
 title: 'Prévia de Fruzzle'
 companies: ''
 categories: Preview
-tags: icon-games preview
+tags: icon-games previa
 ---
 Um jogo de <a href="{{ site.baseurl }}/index.php?p=cl&amp;t=19&amp;idc=12">quebra-cabe&ccedil;a</a>
  e muita estrat&eacute;gia, este &eacute; o pr&oacute;ximo lan&ccedil;amento da <a href="{{ site.baseurl }}/index.php?p=cl&amp;t=19&amp;idu=34">ICON Games</a>

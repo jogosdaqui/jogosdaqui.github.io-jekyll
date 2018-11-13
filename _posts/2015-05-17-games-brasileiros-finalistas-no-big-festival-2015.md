@@ -3,7 +3,7 @@ published: true
 layout: post
 title: 'Games brasileiros finalistas no BIG Festival 2015'
 companies: ''
-categories: News
+categories: Event
 tags: video joymasher swordtales big-festival evento bombservice long-hat-house
 ---
 A organização do <a href="{{ site.baseurl }}/2015/03/27/big-festival-2015/">BIG Festival</a>

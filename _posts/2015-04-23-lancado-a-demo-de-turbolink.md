@@ -3,8 +3,8 @@ published: true
 layout: post
 title: 'Lançada a demo de TurboLink'
 companies: ''
-categories: News
-tags: linux mac windows xbox-360 xbox division-five demo preview
+categories: Game
+tags: linux mac windows xbox-360 xbox division-five demo previa
 ---
 No início do mês fizemos uma <a title="Prévia de TurboLink" href="{{ site.baseurl }}/2015/04/03/previa-de-turbolink/">prévia de TurboLink</a>
 , hoje a Division Five liberou a <a href="http://collective.square-enix.com/projects/106/turbolink/updates/92/turbolink-demo-download-here" target="_blank">demo pública</a>

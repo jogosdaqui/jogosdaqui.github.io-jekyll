@@ -3,7 +3,7 @@ published: true
 layout: post
 title: 'Mikura Going Home'
 companies: ''
-categories: News
+categories: Game
 tags: ios android video quadro-a-quadro
 ---
 Existem centenas de espécies de águas-vivas ou medusas, algumas delas são utilizadas na culinária, principalmente na ásia. Outras espécies na biotecnologia, onde os cientistas utilizam a proteína verde fluorescente existente em algumas variedades para tentar entender melhor como certos genes se manifestam em outros seres vivos. 

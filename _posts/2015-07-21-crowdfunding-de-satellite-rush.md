@@ -28,7 +28,7 @@ Satellite Rush tem toda essa ideia de reality show de vida ou morte, com a difer
 ## Um show melhor
 Apesar do estado atual do game já ser muito bom e divertido, a equipe da Kimeric Labs, que atualmente conta com mais de 10 integrantes, pretende fazer um game ainda maior e melhor, por isso a campanha no Kickstarter. Entre as melhorias que serão feitas quando a campanha atingir seu objetivo, estão aumentar o número de inimigos, armas e campeonatos.
 
-
+[caption id="attachment_4602" align="aligncenter" width="640"]
  a equipe da Kimeric Labs[/caption]
 
 ## Trailer de Satellite Rush

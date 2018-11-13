@@ -3,8 +3,8 @@ published: true
 layout: post
 title: 'TurboLink aprovado no Steam Greenlight'
 companies: ''
-categories: News
-tags: steam video greenlight crowdfunding division-five demo preview
+categories: Preview
+tags: steam video greenlight crowdfunding division-five demo previa
 ---
 Acabamos de receber uma grande notícia: TurboLink, game da brasileira Division Five, recebeu a luz verde na plataforma <a href="http://steamcommunity.com/sharedfiles/filedetails/?id=429961096" target="_blank">Greenlight</a>
 , ou seja, num futuro próximo devemos ter esse belo jogo de corrida high-tech no Steam.

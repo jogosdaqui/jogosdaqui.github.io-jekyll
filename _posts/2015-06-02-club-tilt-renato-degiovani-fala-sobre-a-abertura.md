@@ -19,7 +19,7 @@ Renato Degiovani, primeiro projetista de jogos brasileiro anunciou recentemente 
 ## Qual é o público alvo?
 > Renato Degiovani: O público alvo do club sempre foi um tipo específico de usuário de computador. Aquela pessoa que gosta e curte programação, que gosta de edição gráfica e principalmente que gosta de imaginar e criar mundos diversos e transformá-los em entretenimento ou jogos, não apenas para si mesmo como para compartilhar com os amigos.
 
-
+[caption id="attachment_4012" align="aligncenter" width="400"]
  Amazônia, um dos clássicos adventures disponbível no club TILT[/caption]
 
 ## Que tipos de materiais e jogos o usuário pode encontrar no Club?

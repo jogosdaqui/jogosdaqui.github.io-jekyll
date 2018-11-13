@@ -4,7 +4,7 @@ layout: post
 title: 'Prévia de Cannibal da GameTek'
 companies: ''
 categories: Preview
-tags: steam video greenlight gametek preview
+tags: steam video greenlight gametek previa
 ---
 A indie brasileira <a href="http://www.gametekbrasil.com/" target="_blank">GameTek</a>
  está há cerca de dois anos desenvolvendo seu primeiro game: Cannibal.

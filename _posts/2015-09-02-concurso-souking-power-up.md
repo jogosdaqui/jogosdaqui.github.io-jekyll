@@ -3,7 +3,7 @@ published: true
 layout: post
 title: 'Concurso Souking - Power UP'
 companies: ''
-categories: News
+categories: Event
 tags: ludum-dare souking evento concurso
 ---
 

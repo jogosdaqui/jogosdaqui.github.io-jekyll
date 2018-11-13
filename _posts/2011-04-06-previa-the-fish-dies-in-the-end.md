@@ -4,7 +4,7 @@ layout: post
 title: 'Prévia: The Fish Dies in the End'
 companies: ''
 categories: Preview
-tags: ios video preview
+tags: ios video previa
 ---
 Um pequeno peixe tentando sobreviver aos perigos do oceano, esse &#233; o mote do game <a href="http://www.thefishdies.com/" target="_blank">The Fish Dies in the End</a>
  do desenvolvedor independente <span style="font-family: arial, sans-serif; font-size: 13px; border-collapse: collapse;"><a href="http://twitter.com/gutenbergn" target="_blank">Gutenberg Neto</a>

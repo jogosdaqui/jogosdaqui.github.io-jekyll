@@ -3,8 +3,8 @@ published: true
 layout: post
 title: 'Novo vídeo de gameplay de Gryphon Knight Epic'
 companies: ''
-categories: News
-tags: insert-coins linux mac windows video crowdfunding cyber-rhino-studios entrevista preview
+categories: Game
+tags: insert-coins linux mac windows video crowdfunding cyber-rhino-studios entrevista previa
 ---
 A equipe de desenvolvimento da <a href="http://www.cyberrhinostudios.com" target="_blank">Cyber Rhino Studios</a>
  liberou um novo vídeo de gameplay do seu shoot 'em up Gryphon Knight Epic.

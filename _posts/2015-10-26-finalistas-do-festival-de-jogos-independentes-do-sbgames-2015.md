@@ -3,7 +3,7 @@ published: true
 layout: post
 title: 'Finalistas do Festival de Jogos Independentes do SBGames 2015'
 companies: ''
-categories: News
+categories: Event
 tags: ios android chroma-squad behold-studios sbgames evento video facebook
 ---
 A organização do Festival de Jogos Independentes do <a href="http://www.sbgames.org/sbgames2015" target="_blank">SBGames 2015</a>

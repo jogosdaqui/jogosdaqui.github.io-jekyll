@@ -3,7 +3,7 @@ published: true
 layout: post
 title: 'Sky High Chickens'
 companies: ''
-categories: News
+categories: Game
 tags: android video little-leds
 ---
 A desenvolvedora brasileira <a href="http://littleleds.com" target="_blank">Little Leds</a>

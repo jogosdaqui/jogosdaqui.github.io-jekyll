@@ -4,7 +4,7 @@ layout: post
 title: 'Prévia de Fófuuu da Beltri Studio'
 companies: ''
 categories: Preview
-tags: ios android linux mac video crowdfunding beltri-studio big-festival evento big-starter pernambuco preview
+tags: ios android linux mac video crowdfunding beltri-studio big-festival evento big-starter pernambuco previa
 ---
 Alexander Graham Bell, famoso inventor do telefone, que na verdade comprou o protótipo da invenção do italiano Antonio Meucci, era um especialista em fala, influenciado pelo pai Alexander Melville Bell, que trabalhava com a correção da fala. Em 1872 fundou nos EUA uma escola que utilizava o método de pronuncia desenvolvido por seu pai em suas aulas. No ano seguinte começou a lecionar Fisiologia Vocal na universidade de Boston, nesse mesmo ano iniciou suas pesquisas para  utilizar a eletricidade na transmissão de sons e o resto é história.
 

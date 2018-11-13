@@ -3,8 +3,8 @@ published: true
 layout: post
 title: 'Checkpoint #4'
 companies: ''
-categories: News
-tags: chroma-squad behold-studios insert-coins odin-game-studio steam video brazil-gets-unreal evento qubyte-interactive greenlight ps4 garage-227 labindie cupcake-sweet-entertainment awoker-games bgs preview checkpoint
+categories: Column
+tags: chroma-squad behold-studios insert-coins odin-game-studio steam video brazil-gets-unreal evento qubyte-interactive greenlight ps4 garage-227 labindie cupcake-sweet-entertainment awoker-games bgs previa checkpoint
 ---
 
 

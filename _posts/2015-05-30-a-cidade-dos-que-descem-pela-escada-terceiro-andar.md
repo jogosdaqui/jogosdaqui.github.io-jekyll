@@ -3,7 +3,7 @@ published: true
 layout: post
 title: 'A Cidade Dos Que Descem Pela Escada: Terceiro Andar'
 companies: ''
-categories: News
+categories: Game
 tags: ios android video ouya
 ---
 O primeiro livro que tive contato foi <a href="http://www.ziraldo.com/livros/juvenal.htm" target="_blank">O Joelho Juvenal, do mestre Ziraldo</a>

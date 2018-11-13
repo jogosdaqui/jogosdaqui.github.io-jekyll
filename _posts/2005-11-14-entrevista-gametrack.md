@@ -24,7 +24,7 @@ O site jogosdaqui entrevistou Marcelo Carvalho (um dos fundadores da Devworks) s
 ## Hoje o Gametrack possui 2 jogos multiplayer: WAR e Super Trunfo, ambos versões online de jogos de sucesso da Grow. Os jogadores podem esperar mais jogos convencionais sendo 'portados' para o Gametrack?
 > Marcelo Carvalho: Sem dúvida. Tem mais 2 jogos famosos na fila: Imagem&amp;Ação e Rummikub (um dos jogos mais vendidos do mundo). O Imagem&amp;Ação é um desses jogos que o jogador só vai conseguir jogar adequadamente se possuir banda larga, pois enquanto um está desenhando, os outros estão tentando adivinhar a resposta. Do Rummikub, ainda não posso dar muitos detalhes, mas no ano quem vem terá o &quot;World Rummikub Champioship&quot; na Holanda (Evento realizado a cada 3 anos) e as chances são grandes de a seletiva brasileira ser realizada no Gametrack.
 
-
+[caption id="attachment_2589" align="aligncenter" width="320"]
  Super Trunfo: mais um jogo famoso "portado" para o Gametrack[/caption]
 
 ## Além dos jogos multiplayer, o portal também conta com 6 jogos singleplayer: Vôlei de Praia, Pato Possante, Pebolim 3D, Xadrez, Reversi e Jogo de Cintura. O que o jogador pode esperar de cada um desses jogos?
@@ -36,7 +36,7 @@ O site jogosdaqui entrevistou Marcelo Carvalho (um dos fundadores da Devworks) s
 ## Quais os jogos de maior sucesso entre os jogadores do Gametrack?
 > Marcelo Carvalho: Sem dúvida, é o jogo de WAR. Foram criadas até comunidades do Orkut para quem joga WAR no Gametrack. São mais de 7 que temos notícias. Uma delas, a &quot;Eu jogo war no Gametrack&quot;, tem mais de 150 membros.
 
-
+[caption id="attachment_2597" align="aligncenter" width="320"]
  WAR: o jogo de maior sucesso no Gametrack[/caption]
 
 ## Um campeonato de WAR online seria bem divertido, o Gametrack promove alguma forma de campeonatos entre os jogadores do portal?

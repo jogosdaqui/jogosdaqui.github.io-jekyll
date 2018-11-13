@@ -4,7 +4,7 @@ layout: post
 title: 'Prévia de Relic Hunters Zero'
 companies: ''
 categories: Preview
-tags: chroma-squad behold-studios linux mac steam windows video rogue-snail big-festival evento big-starter preview
+tags: chroma-squad behold-studios linux mac steam windows video rogue-snail big-festival evento big-starter previa
 ---
 <a href="http://www.roguesnail.com/relic-hunters-zero/" target="_blank">Relic Hunters Zero</a>
  é o mais novo game da brasileira Rogue Snail. Pra quem não conhece, a Rogue Snail é a marca que o gamedev Mark Venturelli utiliza para seus games. No caso do RHZ, o artista foi Betu Souza, enquanto Venturelli trabalhava na programação e game design do projeto.

@@ -9,7 +9,7 @@ tags: video cupcake-sweet-entertainment
 A gaúcha Cupcake Sweet Entertainment, que já apareceu aqui no jogosdaqui com o jogo Letra de Ouro, foi selecionada para participar do eMerge Americas, <a href="http://emergeamericas.org/" target="_blank">mega-evento de tecnologia</a>
  que acontece entre os dias 1 e 5 de maio de 2015 em Miami, nos Estados Unidos.
 
-
+[caption id="attachment_493" align="aligncenter" width="300"]
  Letra de Ouro, um dos games da startup[/caption]
 
 O evento terá a participação das mais badaladas startups, investidores, grandes empresas, mídia e celebridades, como o cantor e empresário Pitbull. Além disso, o eMerge Americas será transmitido pelas redes NBC, Universal e Telemundo.

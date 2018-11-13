@@ -25,7 +25,7 @@ Para o lançamento estão confirmados 8 jogos, entre eles o famoso Aritana e A P
 
 Além disso outras empresas brasileiras já estão negociando a entrada de seus jogos na nova plataforma. Para as gamedevs que se interessarem, podem entrar em contato com a equipe do site pelo submit@souking.com.br.
 
-
+[caption id="attachment_4381" align="aligncenter" width="640"]
  Aritana, um dos games disponíveis no lançamento[/caption]
 
 ## Lançamento

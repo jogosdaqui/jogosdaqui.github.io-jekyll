@@ -3,7 +3,7 @@ published: true
 layout: post
 title: 'Imagens da semana #5'
 companies: ''
-categories: News
+categories: Column
 tags: behold-studios chroma-squad odin-game-studio joymasher swordtales mgaia-studio vortex-game-studios imagens-da-semana
 ---
 

@@ -3,7 +3,7 @@ published: true
 layout: post
 title: '1º Minas Games Festival'
 companies: ''
-categories: News
+categories: Event
 tags: behold-studios chroma-squad evento ilusis-interactive swordtales minas-games-festival concurso
 ---
 Em junho, durante quatro dias acontecerá em Belo Horizonte o 1º Minas Games Festival, evento que contará com várias atrações, como palestras, game jam, exposição de indie games, concurso de cosplay e oficinas.
@@ -14,7 +14,7 @@ O evento é totalmente gratuito e promete colocar Minas no mapa dos grandes even
 ## 18/06 - Quinta-feira
 <ul>
 	<li>19h - Uma aventura indie com Alessandro Martinello diretor criativo da Swordtales
-
+[caption id="attachment_2646" align="aligncenter" width="460"]
  Toren, game da Swordtales[/caption]
 </li>
 </ul>
@@ -25,13 +25,13 @@ O evento é totalmente gratuito e promete colocar Minas no mapa dos grandes even
 	<li>14h - O fomento público à produção de games com Thiago Álvares Feital</li>
 	<li>15h - Técnicas não convencionais de abordagem ao CG 3D com Filipe Soares Dilly</li>
 	<li>16h - Pare De Não Fazer Jogos! com Marcos Venturelli, gamedev de games como Dungeonland, Chroma Squad e Relic Hunters Zero.
-
+[caption id="attachment_2646" align="aligncenter" width="460"]
  Chroma Squad, game da Behold Studios[/caption]
 </li>
 	<li>18h - Achievement Unlocked! com Ronaldo Gazel Pereira fundador da Gaz Games e Meatballs.</li>
 	<li>19h - Jogando o errado de forma certa: Explorações do glitch e do bug na jogabilidade com Luís Felipe Garrocho da Ilusis Interactive</li>
 	<li>20h - Krinkletástico! Trajetória do estúdio mineiro Ilusis e o desenvolvimento de games no Brasil com Leonardo Henrique Muniz Arantes da Ilusis Interactive
-
+[caption id="attachment_2646" align="aligncenter" width="460"]
  Krinkle Krusher, game da Ilusis Interactive[/caption]
 </li>
 </ul>

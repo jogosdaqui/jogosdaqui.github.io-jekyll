@@ -4,7 +4,7 @@ layout: post
 title: 'Prévia de Gryphon Knight Epic'
 companies: ''
 categories: Preview
-tags: steam greenlight crowdfunding cyber-rhino-studios preview
+tags: steam greenlight crowdfunding cyber-rhino-studios previa
 ---
 A <a href="http://www.cyberrhinostudios.com/">Cyber Rhino Studios</a>
 , de Florianópolis, lançou no ano passado uma campanha no <a href="https://www.kickstarter.com/projects/868879546/gryphon-knight-epic-medieval-shmup/">Kickstarter</a>

@@ -3,8 +3,8 @@ published: true
 layout: post
 title: 'TurboLink no Square Enix Collective'
 companies: ''
-categories: News
-tags: crowdfunding division-five preview
+categories: Preview
+tags: crowdfunding division-five previa
 ---
 No início de abril fizemos uma <a href="{{ site.baseurl }}/2015/04/03/previa-de-turbolink/">prévia de TurboLink</a>
  jogo de corrida da brasileira Division Five, agora chegou a hora de apoiar o game numa nova fase, pois começou a campanha do TurboLink no Square Enix Collective.

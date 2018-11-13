@@ -22,7 +22,7 @@ Chorma Squad é um <a href="{{ site.baseurl }}/tags/indie/">indie</a>
  tático.
 
 Confira abaixo o trailer de lançamento na versão português:
-http://youtu.be/Wbp19Z2QaTk
+{% youtube Wbp19Z2QaTk %}
 
 Jogadores é hora de morfar, ou melhor, é hora de garantir seu <a href="http://store.steampowered.com/app/251130" target="_blank">Chroma Squad no Steam</a>
 !

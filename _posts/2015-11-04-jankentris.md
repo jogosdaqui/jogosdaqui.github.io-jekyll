@@ -3,7 +3,7 @@ published: true
 layout: post
 title: 'Jankentris'
 companies: ''
-categories: News
+categories: Game
 tags: android starry-panda
 ---
 Acredita-se que o famoso jogo pedra, papel e tesoura ou jakenpõ foi inventado no Japão no final do século 19, provavelmente tenha surgido baseado em dois games ainda mais antigos oriundos da China do século 17. No japão o game ficou conhecido como Jankenpon ou apenas Janken.

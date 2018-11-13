@@ -26,7 +26,7 @@ The Box
 I Need to Know More
 Podcast99 Vidas - O Jogo:Demo
 
-
+[caption id="attachment_3253" align="aligncenter" width="640"]
  Treeker, um dos games do bundle[/caption]
 
 Nas seis horas seguintes ao período grátis, o pacote de jogos participantes permanecerá com valores promocionais R$ 1,99. Então, a cada ciclo de doze horas, o bundle de games recebe acréscimos progressivos, começando por R$ 4.99, 9.99, 19.99, 29,99 e 39.99 até finalmente chegar a 49.99. Este valor final será válido até a madrugada de domingo (23) para segunda-feira.

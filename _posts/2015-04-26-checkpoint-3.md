@@ -3,7 +3,7 @@ published: true
 layout: post
 title: 'Checkpoint #3'
 companies: ''
-categories: News
+categories: Column
 tags: behold-studios chroma-squad steam adjogosrs xbox-one xbox wii-u wii swordtales demo entrevista checkpoint
 ---
 

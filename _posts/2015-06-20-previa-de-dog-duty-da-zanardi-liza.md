@@ -4,7 +4,7 @@ layout: post
 title: 'Prévia de Dog Duty da Zanardi & Liza'
 companies: ''
 categories: Preview
-tags: video psvita big-festival evento big-starter facebook preview
+tags: video psvita big-festival evento big-starter facebook previa
 ---
 > Seu propósito: defender a liberdade humana contra a Organização Cobra, um impiedoso grupo terrorista determinado a dominar o mundo
 

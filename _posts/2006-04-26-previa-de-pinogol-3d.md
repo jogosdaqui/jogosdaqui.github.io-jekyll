@@ -4,7 +4,7 @@ layout: post
 title: 'Prévia de Pinogol 3D'
 companies: ''
 categories: Preview
-tags: devworks-game-technology gametrack preview
+tags: devworks-game-technology gametrack previa
 ---
 O jogo de <a href="{{ site.baseurl }}/index.php?p=cl&amp;t=search&amp;query=futebol">futebol</a>
  com pinos &eacute; uma das pr&oacute;ximas atra&ccedil;&otilde;es do portal <a href="{{ site.baseurl }}/index.php?p=cl&amp;t=search&amp;query=gametrack">Gametrack</a>

@@ -14,7 +14,7 @@ Há um pouco mais de um ano abri a Arc-gen games aqui em Helsinki na Finlandia. 
 
 Quando você aplica para consoles, eles olham o projeto e as pessoas envolvidas. O portfólio prévio dos membros é tao importante quanto o jogo proposto. Se eles aprovarem e gostarem do seu jogo, você está apto para desenvolver para o console. Tanto a Nintendo quanto a Microsoft tiveram processos bem parecidos e foi super tranquilo trabalhar com os dois."]
 
-
+[caption id="attachment_2057" align="aligncenter" width="341"]
  Riding Ground, game desenvolvido pela Preloud[/caption]
 
 ## Como surgiu a ideia do desenvolvimento do primeiro Doomed'n Damned?
@@ -23,7 +23,7 @@ Quando você aplica para consoles, eles olham o projeto e as pessoas envolvidas.
 ## Sabemos que desenvolver um game é um grande desafio, principalmente por exigir diversas habilidades diferentes, como foi a experiência de desenvolver o game totalmente sozinho?
 > Claudio: Foi desgastante, mas muito legal. Claro que p D'n D é um jogo pequeno com o escopo bem controlado. É um jogo nicho, bem focado e sem grandes pretensões. Acho que funcionou bem por causa disso. Era algo que eu sabia mais ou menos o que estava fazendo e o que não sabia não chegava a ser grave o suficiente para ser um impedimento. Nada que pesquisar um pouco não resolvesse
 
-
+[caption id="attachment_2113" align="aligncenter" width="640"]
  Doomed'n Damned[/caption]
 
 ## Quais tecnologias e ferramentas foram utilizadas no desenvolvimento?
@@ -43,7 +43,7 @@ Quando você aplica para consoles, eles olham o projeto e as pessoas envolvidas.
 ## Nota-se que o estilo da arte do jogo é bem diferente, arrisco-me a dizer até que é único. Conte-nos mais sobre a sua carreira como artista e o como se deu o desenvolvimento desse estilo de arte.
 > Claudio: Uma coisa legal em trabalhar com jogos menores e mais focados em nicho, é que dá pra experimentar mais, tanto em game design como em visual. Normalmente quando se pensa em jogos indie e/ou retrô, a primeira coisa que vem em mente é pixel art. Eu adoro pixel art, mas eu não sou um bom artista pra trabalhar com pixel art. Outra coisa que pra mim é muito importante, é olhar para uma screenshot e identificar na hora que jogo é aquele. Alguns jogos tem um visual tão único, que simplesmente com uma imagem você consegue identificá-lo, e esse visual muitas vezes passa parte da ideia do jogo. Eu tentei fazer uma arte que fosse simples, facilmente identificável, que tivesse uma unidade visual legal, e que passasse a ideia retrô + cartoon moderno, mas que não necessariamente precisasse ser pixel art
 
-
+[caption id="attachment_2111" align="aligncenter" width="640"]
  Super Doomed'n Damned[/caption]
 
 [sc:Interview_item question="Quais as diferenças no desenvolvimento com o jogo anterior?" interviewee="Claudio" answer="Hoje em dia estou trabalhando com um programador da Dolores. Daniel Navarro, é um cara com bastante experiência em desenvolvimento em consoles, PC e mobile, e isso tem ajudado muito na velocidade do desenvolvimento. No primeiro jogo muitas vezes eu fiquei preso em programação ou levei muito tempo para fazer alguma coisa que um programador de verdade levaria bem menos tempo. Sou formado em Design e sempre trabalhei como Designer ou Producer. Programação é algo que sempre foi meio “side quest” pra mim. Então, ter alguém para trabalhar mais no código me ajudou muito a focar no restante do conteúdo, coisa que no primeiro jogo eu tive que fazer tudo.

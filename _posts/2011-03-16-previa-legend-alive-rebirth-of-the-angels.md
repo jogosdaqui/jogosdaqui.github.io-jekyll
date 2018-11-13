@@ -4,7 +4,7 @@ layout: post
 title: 'Prévia: Legend Alive: rebirth of the angels'
 companies: ''
 categories: Preview
-tags: ios video dynamic-light preview
+tags: ios video dynamic-light previa
 ---
 Um mundo polite&#237;sta onde deuses est&#227;o em guerra e as batalhas s&#227;o travadas por guerreiros reencarnados, esse &#233; o plano de fundo do game <a href="http://www.legend-alive.com/" target="_blank">Legend Alive: rebirth of the angels</a>
  que est&#225; sendo desenvolvido pela empresa brasileira Dynamic Light de Bras&#237;lia.

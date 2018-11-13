@@ -3,8 +3,8 @@ published: true
 layout: post
 title: 'Checkpoint #9'
 companies: ''
-categories: News
-tags: ios android aquiris-game-studio  behold-studios chroma-squad insert-coins odin-game-studio rpg tilt webcore windows-phone windows big-festival evento big-starter mgaia-studio contra-labs facebook preview checkpoint corrida
+categories: Column
+tags: ios android aquiris-game-studio  behold-studios chroma-squad insert-coins odin-game-studio rpg tilt webcore windows-phone windows big-festival evento big-starter mgaia-studio contra-labs facebook previa checkpoint corrida
 ---
 
 

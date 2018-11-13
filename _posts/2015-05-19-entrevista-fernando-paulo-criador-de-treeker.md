@@ -16,7 +16,7 @@ O unico integrante da <a href="https://www.facebook.com/bluboxsoft" target="_bla
 ## E a ideia do enredo e gameplay do Treeker, como surgiu?
 > Fernando Paulo: É difícil saber de onde exatamente surgiu o enredo. Primeiro eu pensei na mecânica principal do jogo (que seria o uso dos óculos pra poder ver objetos que não poderiam ser vistos de outra forma), e conforme eu desenvolvia, os detalhes do enredo foram surgindo. Eu quis fazer algo que inicialmente parecesse fantasia, mas que por trás disso tudo tivesse conceitos relacionados ao universo em geral.
 
-
+[caption id="attachment_3258" align="aligncenter" width="640"]
  Treeker: Os Óculos Perdidos, game criado por Fernando Paulo[/caption]
 
 ## Que engine e tecnologias utilizaste no desenvolvimento do game?
@@ -31,7 +31,7 @@ O unico integrante da <a href="https://www.facebook.com/bluboxsoft" target="_bla
 ## Vamos falar um pouco mais sobre o mundo de Treeker, o que o jogador pode esperar durante a jornada?
 > Fernando Paulo: Pode esperar um pouco de desafio e algumas mecânicas diferentes e que podem parecer até estranhas, como os elementos de plataforma em primeira pessoa. O enredo é mais misterioso, o jogador deve explorar o local em busca de detalhes e prestar bastante atenção, caso queira entender o que realmente está acontecendo em relação à história. No geral o jogo não força o jogador a seguir a história, e tem certa liberdade, sem ser algo totalmente linear.
 
-
+[caption id="attachment_3253" align="aligncenter" width="640"]
  Treeker e seu visual 3D estiloso[/caption]
 
 ## O game tem um visual 3D bem peculiar e estiloso. Quais foram tuas inspirações durante o desenvolvimento da arte do game?

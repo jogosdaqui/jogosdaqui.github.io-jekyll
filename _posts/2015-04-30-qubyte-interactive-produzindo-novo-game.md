@@ -3,7 +3,7 @@ published: true
 layout: post
 title: 'QUByte Interactive produzindo novo game'
 companies: ''
-categories: News
+categories: Game
 tags: splitplay qubyte-interactive ps4 xbox wii-u wii
 ---
 A paulista QUByte Interactive, conhecida pelo jogo <a href="{{ site.baseurl }}/2014/06/18/splitplay-apresenta-htr-high-tech-racing/" title="Splitplay apresenta: HTR+ High Tech Racing+">HTR+</a>
@@ -15,7 +15,7 @@ Por enquanto, o que é exatamente o jogo é um mistério, pois a empresa lançou
 ## Exclusivo
 O jogosdaqui conseguiu apurar que será um game de estratégia com bastante elementos de ação, além disso será uma homenagem a jogos clássicos top-down shooter, como Cannon Fodder do SNES.
 
-
+[caption id="attachment_2232" align="aligncenter" width="480"]
  Cannon Fodder para SNES[/caption]
 
 O jeito será esperar até o dia do anúncio oficial da QUByte e assim poderemos matar a curiosidade sobre o novo game deles.

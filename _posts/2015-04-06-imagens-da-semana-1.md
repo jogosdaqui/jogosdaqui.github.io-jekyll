@@ -3,8 +3,8 @@ published: true
 layout: post
 title: 'Imagens da semana #1'
 companies: ''
-categories: News
-tags: behold-studios chroma-squad splitplay ilusis-interactive ps3 ps4 psvita joymasher reiza-studios swordtales division-five preview imagens-da-semana
+categories: Column
+tags: behold-studios chroma-squad splitplay ilusis-interactive ps3 ps4 psvita joymasher reiza-studios swordtales division-five previa imagens-da-semana
 ---
 
 

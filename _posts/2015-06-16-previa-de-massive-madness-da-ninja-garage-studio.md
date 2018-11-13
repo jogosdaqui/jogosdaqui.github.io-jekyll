@@ -4,7 +4,7 @@ layout: post
 title: 'Prévia de Massive Madness da Ninja Garage Studio'
 companies: ''
 categories: Preview
-tags: mac windows video crowdfunding ninja-garage-studio big-festival evento big-starter roguelike preview
+tags: mac windows video crowdfunding ninja-garage-studio big-festival evento big-starter roguelike previa
 ---
 ToeJam & Earl, game lançado em 1991 para o saudoso Mega-Drive, trazia dois personagens extraterrestres do planeta Funkotron, que colidem com a Terra e tem como missão buscar as partes de sua nave pelas 25 fases do game. Na época o jogo conquistou muitos fãs por sua originalidade, jogabilidade, estilo e trilha sonora funk composta por John Baker. A maior prova de seu sucesso é a recente <a href="https://www.kickstarter.com/projects/1578116861/toejam-and-earl-back-in-the-groove/description" target="_blank">campanha no Kickstarte</a>
 r feita pelos seus criadores que conquistou mais de US$ 500.000 para a produção do novo game.

@@ -3,8 +3,8 @@ published: true
 layout: post
 title: 'Checkpoint #6'
 companies: ''
-categories: News
-tags: aquiris-game-studio  chroma-squad behold-studios steam swordtales big-festival evento garage-227 big-green-pillow rockhead-games labindie vortex-game-studios division-five entrevista preview checkpoint corrida
+categories: Column
+tags: aquiris-game-studio  chroma-squad behold-studios steam swordtales big-festival evento garage-227 big-green-pillow rockhead-games labindie vortex-game-studios division-five entrevista previa checkpoint corrida
 ---
 
 

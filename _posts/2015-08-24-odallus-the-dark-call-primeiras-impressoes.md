@@ -3,7 +3,7 @@ published: true
 layout: post
 title: 'Odallus - The Dark Call: primeiras impressões'
 companies: ''
-categories: News
+categories: Event
 tags: insert-coins video joymasher big-festival evento
 ---
 

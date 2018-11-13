@@ -4,7 +4,7 @@ layout: post
 title: 'Prévia de Cat Fighters'
 companies: ''
 categories: Preview
-tags: palmsoft-tecnologia mobile preview
+tags: palmsoft-tecnologia mobile previa
 ---
 Um jogo de <a href="{{ site.baseurl }}/index.php?p=cl&amp;t=19&amp;idc=21">luta</a>
 , para celular, com cinco belas e sensuais lutadoras, &eacute; isso que promete a catarinense <a href="{{ site.baseurl }}/index.php?p=cl&amp;t=19&amp;idd=38">PalmSoft</a>

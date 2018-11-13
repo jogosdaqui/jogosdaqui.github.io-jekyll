@@ -3,7 +3,7 @@ published: true
 layout: post
 title: 'Imagens da semana #7'
 companies: ''
-categories: News
+categories: Column
 tags: behold-studios chroma-squad steam qubyte-interactive greenlight joymasher swordtales ninja-garage-studio big-festival evento big-starter iduna-game-studio garage-227 rockhead-games demo facebook imagens-da-semana
 ---
 

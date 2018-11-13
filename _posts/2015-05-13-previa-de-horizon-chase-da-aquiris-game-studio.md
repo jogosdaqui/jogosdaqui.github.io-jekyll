@@ -4,7 +4,7 @@ layout: post
 title: 'Prévia de Horizon Chase da Aquiris Game Studio'
 companies: ''
 categories: Preview
-tags: aquiris-game-studio  video preview corrida trilha-sonora
+tags: aquiris-game-studio  video previa corrida trilha-sonora
 ---
 Antes de ler qualquer coisa sobre <a href="http://horizonchase.tumblr.com/" target="_blank">Horizon Chase</a>
 , ouça a trilha sonora abaixo:

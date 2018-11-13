@@ -3,7 +3,7 @@ published: true
 layout: post
 title: 'Checkpoint #2'
 companies: ''
-categories: News
+categories: Column
 tags: invent4 adjogosrs axis-game-day evento powerup checkpoint
 ---
 

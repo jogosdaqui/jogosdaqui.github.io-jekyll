@@ -4,7 +4,7 @@ layout: post
 title: 'Preview de Talbot&#39;s Odissey'
 companies: ''
 categories: Preview
-tags: miniboss demo preview
+tags: miniboss demo previa
 ---
 <font size="2">> <span style="font-size: x-small;">Por Luiz Damasceno (</span><a href="http://twitter.com/#!/lcdjr" target="_blank"><span style="font-size: x-small;">@lcdjr</span></a>
 > <span style="font-size: x-small;">) em c</span><span style="font-size: x-small;">olabora&#231;&#227;o para o jogosdaqui.</span></font>

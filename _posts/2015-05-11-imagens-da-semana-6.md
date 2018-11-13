@@ -3,7 +3,7 @@ published: true
 layout: post
 title: 'Imagens da semana #6'
 companies: ''
-categories: News
+categories: Column
 tags: aquiris-game-studio  odin-game-studio steam joymasher kimeric-labs cupcake-sweet-entertainment facebook imagens-da-semana
 ---
 

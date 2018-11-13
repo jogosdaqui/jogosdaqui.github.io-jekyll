@@ -3,7 +3,7 @@ published: true
 layout: post
 title: 'Jogo da Meantime em voos internacionais'
 companies: ''
-categories: News
+categories: Game
 tags: meantime
 ---
 O game <span style="font-weight: bold;">Adventures of Zaak </span>aterrissa em três continentes este ano.A Meantime está levando um pequeno aprendiz de feiticeiro para um passeio ao redor do mundo. <span style="font-weight: bold;">Um dos games de maior sucesso da empresa</span> está chegando aos <span style="font-weight: bold;">Estados Unidos, Europa e Ásia</span> em uma nova versão e com novo nome: Adventures of Zaak.

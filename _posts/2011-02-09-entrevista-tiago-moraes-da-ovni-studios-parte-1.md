@@ -36,7 +36,7 @@ tags: ios  devworks-game-technology ovni-studios sao-paulo video facebook entrev
 ## Vocês já fizeram advergames do Uno, do Tang e da revista Placar. Já pensaram no caminho inverso, de ir atrás e licenciar uma marca conhecida e atingir uma audiência maior?
 > Tiago Moraes: Tentamos com algumas marcas bem aceitas no mercado nacional e internacional, mas dificilmente a conta fecha nesse modelo de negócio. Antes, a quantia que estava com o desenvolvedor era bem menor do que geralmente é trabalhado hoje: pela Apple você realmente fica com uma quantia grande de cada cópia vendida, mas no micropagamento se ganha pela quantidade em vez da qualidade, é realmente muito complicado de fazer a conta fechar.
 
-
+[caption id="attachment_1830" align="aligncenter" width="320"]
  Fiat Uno Color Race: um dos games desenvolvidos pela Ovni Studios para iPod/iPhone[/caption]
 
 ## A gente vê a Gameloft fazendo cópia de muita coisa...

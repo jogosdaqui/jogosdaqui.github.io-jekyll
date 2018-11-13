@@ -4,7 +4,7 @@ layout: post
 title: 'Prévia: Cannon Land'
 companies: ''
 categories: Preview
-tags: ios video currant-cat preview
+tags: ios video currant-cat previa
 ---
 > Cannon Land &#233; um arquip&#233;lago conquistado por Sir Muzzle, um dos piratas mais malucos a navegar pelos oceanos. Um dia, ele decidiu parar de saquear navios e portos e come&#231;ou a construir armadilhas incr&#237;veis, para proteger os seus tesouros. A lenda diz que ele enloqueceu e morreu Cannon Land, e suas armadilhas continuam funcionando at&#233; hoje. Muitos aventureiros tentaram passar pelas engenhocas de Muzzle, mas nenhum conseguiu, e a lenda foi ganhando for&#231;a dia ap&#243;s dia...
 > Duzentos anos depois, um menino decide sair para uma aventura! Com sua espada de madeira, e uma roupa de pirata feita pela sua av&#243;, Chunkie est&#225; confiante de que conquistar o tesouro de Sir Muzzle e se transformar em um her&#243;i!&quot;

@@ -14,7 +14,7 @@ O primeiro jogo publicado foi Hades2, um jogo de tiro em 1ª pessoa com temátic
 Acho que a internet é uma das grandes responsáveis pelas mudanças, é muito fácil hoje conseguir os programas on-line, sejam legais ou não, e isso tem diminuido bastante as vendas de jogos em caixa e em revista, que tinham uma participação muito mais expressiva quando iniciamos. Mas no geral, o cenário é o mesmo, temos que competir com produções de todas as partes do mundo, e um jogo quase que independe do seu país de origem; depende completamente do seu argumento, da sua qualidade.
 Acho que os games tem aparecido mais na mídia por que estão cada vez mais presentes no cotidiano das pessoas. Cada vez mais pessoas possuem computadores, e acabam percebendo que eles também podem ser usadas para entretenimento, e de alta qualidade." ]
 
-
+[caption id="attachment_784" align="aligncenter" width="240"]
  Hades2, primeiro game da Espaço Informática: cartão de visitas[/caption]
 
 [sc:Interview_item question="Sabemos que desenvolver jogos no Brasil é muitas vezes um ato de virtuosidade. Quais foram as grandes dificuldades e principalmente as grandes gratificações nestes últimos 6 anos produzindo jogos eletrônicos brasileiros?" interviewee="Espaço Informática" answer="Desenvolver um jogo é sempre um processo difícil, trabalhoso. Envolve áreas diferentes, combina muita arte com técnica, e cada etapa do processo possui suas dificuldades específicas.
@@ -32,7 +32,7 @@ Com certeza, a nossa história ainda está apenas inciando, mas acho que qualque
 ## Todos os jogos foram lançados para o mercado externo, mas também disponíveis para o mercado interno. Vocês tem pretenção de lançar algum jogo com conteúdo exclusivamente nacional?
 > Espaço Informática: Penso que um jogo lançado apenas para o mercado nacional não tem muita razão de ser. Até por que, sempre irá competir com jogos internacionais, e por isso tem que ter qualidade para fazer frente a eles. Tendo essa qualidade, não existe por que não lança-lo no mercado internacional também.
 
-
+[caption id="attachment_944" align="aligncenter" width="320"]
  Christmas Magic: Aventure-se como Papai Noel[/caption]
 
 ## Temos hoje duas tendências muito fortes no mercado de jogos: jogos online e jogos para dispositivos móveis (Celulares, PSP, NS). Como a Espaço Informática vê isso? Tem planos de lançar algo nesses segmentos?

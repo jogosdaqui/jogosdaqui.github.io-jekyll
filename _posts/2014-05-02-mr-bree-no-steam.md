@@ -3,7 +3,7 @@ published: true
 layout: post
 title: 'Mr. Bree+ no Steam'
 companies: ''
-categories: News
+categories: Event
 tags: sbgames evento steam video greenlight big-festival taw-studio
 ---
 

@@ -3,8 +3,8 @@ published: true
 layout: post
 title: 'Checkpoint #1'
 companies: ''
-categories: News
-tags: odin-game-studio steam greenlight ps4 psvita division-five demo cat-nigiri taw-studio preview checkpoint
+categories: Column
+tags: odin-game-studio steam greenlight ps4 psvita division-five demo cat-nigiri taw-studio previa checkpoint
 ---
 
 

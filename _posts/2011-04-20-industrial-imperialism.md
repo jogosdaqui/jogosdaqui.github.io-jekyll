@@ -15,7 +15,7 @@ O jogo Industrial Imperialism, da brasileira PalmSoft, foi considerado o primeir
 <a href="http://arena41.com/industrial" target="_blank">Industrial Imperialism</a>
  &#233; um jogo de estrat&#233;gia militar, onde o jogador tem que gerenciar uma cidade e comandar ex&#233;rcitos em tempo real. O jogo se passa no per&#237;odo de p&#243;s-revolu&#231;&#227;o industrial, nessa &#233;poca as grandes metr&#243;poles lutavam para desenvolver recursos b&#225;sicos para gerar novas tecnologias e melhorar seus ex&#233;rcitos. 
 
-http://youtu.be/AU2H0V3XD9I
+{% youtube AU2H0V3XD9I %}
 
 Para quem gosta de jogos de estrat&#233;gia web vai se familiarizar com os controles, o jogador come&#231;a com alguns recursos b&#225;sicos para poder desenvolver sua cidade e o seu exercito, tendo tamb&#233;m que construir algumas estruturas para poder melhorar sua cidade.<
 

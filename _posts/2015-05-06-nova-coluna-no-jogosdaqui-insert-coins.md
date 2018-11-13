@@ -3,7 +3,7 @@ published: true
 layout: post
 title: 'Nova coluna no jogosdaqui: Insert Coins'
 companies: ''
-categories: News
+categories: Interview
 tags: insert-coins video entrevista
 ---
 O jogosdaqui fechou parceria com o canal do <a href="http://www.youtube.com/insertcoinsplay" target="_blank">YouTube Insert Coins</a>

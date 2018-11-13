@@ -3,7 +3,7 @@ published: true
 layout: post
 title: 'Inscrições abertas para o SPJam 2013'
 companies: ''
-categories: News
+categories: Event
 tags: spjam evento
 ---
 
