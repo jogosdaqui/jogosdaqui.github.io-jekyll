@@ -1,0 +1,15 @@
+version: 0.1.{build}
+os: Visual Studio 2017
+environment:
+  clone_folder: c:\jd
+  
+install:
+- cmd: choco install ruby 
+- cmd: gem install jekyll bundler
+
+build_script:
+- cmd: bundle exec jekyll build
+
+artifacts:
+  - path: _site/** 
+    name: Generated jogosdaqui.gitub.io

@@ -143,6 +143,8 @@ exclude:
     - README.md
     - CNAME
     - startJekyll.sh
+    - startJekyll.cmd
     - buildSite.sh
     - node_modules/
     - node_modules/cypress/
+    - appveyor.yml
