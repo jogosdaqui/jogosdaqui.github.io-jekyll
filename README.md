@@ -4,7 +4,7 @@
 [![License](http://img.shields.io/:license-MIT-blue.svg)](https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll/master/LICENSE)
 
 
-Site Jekyll utilizando para gerar o [https://jogosdaqui.github.io](https://jogosdaqui.github.io).
+Site Jekyll utilizado para gerar o [https://jogosdaqui.github.io](https://jogosdaqui.github.io).
 
 Todos os pull requests e issues para melhoria do jogosdaqui devem ser abertos nesse repositório, pois o [https://github.com/jogosdaqui/jogosdaqui.github.io](https://github.com/jogosdaqui/jogosdaqui.github.io) é utilizado apenas para publicar o resultado do site gerado pelo Jekyll.
 
@@ -13,39 +13,46 @@ A publicação é feita automaticamente via AppVeyor toda vez que o branch maste
 --------
 
 # Setup
-* Crie um fork do [https//github.com/jogosdaqui/jogosdaqui.github.io-jekyll](https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll/fork).
+###  Crie um fork 
 
-* Abra um terminal/console e clone o repositório:
+Crie um fork do [https//github.com/jogosdaqui/jogosdaqui.github.io-jekyll](https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll/fork).
+
+### Clone o repositório
+
+Abra um terminal/console e digite: 
 
 ```shell
 git clone https://github.com/username/jogosdaqui.github.io-jekyll.git
 ```
 > Onde `username` é o seu username no GitHub
 
-* Faça checkout do branch `develop`
+### Faça checkout do branch `develop`
 
 ```shell
 git checkout develop
 ```
-* Realize as alterações
+### Realize as alterações
 
-> Veja no FAQ abaixo dicas de como realizar determinadas alterações.
+Veja no FAQ abaixo dicas de como realizar determinadas alterações.
  
-* Teste suas alterações
+### Teste suas alterações
 
 > Se você ainda não tem o Jekyll instalado na sua máquina siga os passos abaixo: 
-
+> 
 * [Instale um ambiente de desenvolvimento Ruby](https://jekyllrb.com/docs/installation/)
 * Instale o Jekyll
-
+> 
 ```shell
 gem install jekyll bundler
 ```
-Mais detalhes em: [https://jekyllrb.com/docs/](https://jekyllrb.com/docs/)
+* Mais detalhes em: [https://jekyllrb.com/docs/](https://jekyllrb.com/docs/)
 
-> Execute o arquivo startJekyll.sh (Mac/Linux) ou o arquivo startJekyll.cmd (Windows) na pasta raiz do projeto para iniciar o Jekyll. Assim que a geração do site estiver finalizada, você poderá acessá-lo em [http://localhost:4000](http://localhost:4000).
 
-* Adicione os aquivos alterados, faça o commit e push
+Execute o arquivo `startJekyll.sh` (Mac/Linux) ou o arquivo `startJekyll.cmd` (Windows) na pasta raiz do projeto para iniciar o Jekyll. Assim que a geração do site estiver finalizada, você poderá acessá-lo em [http://localhost:4000](http://localhost:4000).
+
+### Envie suas alterações ao GitHub
+
+Adicione os aquivos alterados, faça o commit e push: 
 
 ```shell
 git add .
@@ -54,7 +61,9 @@ git push
 ```
 > Onde `Mensagem` é uma descrição das alterações realizadas.
 
-* Abra o navegador e acesse seu fork do repositório no [https://github.com](https://github.com), após selecione a aba `branches` e clique no botão `New pull request`.
+### Crie o pull request
+
+Abra o navegador e acesse seu fork do repositório no [https://github.com](https://github.com), após selecione a aba `branches` e clique no botão `New pull request`.
 ![](_docs/new-pull-request-button.png)
 
 # FAQ
@@ -73,14 +82,14 @@ então o arquivo dele é _posts/2005-09-19-aeroporto-83.md
 > Por exemplo, se a URL do post é https://jogosdaqui.github.io/2005/09/19/aeroporto-83
 então a pasta de imagens dele é dele é image/galleries/2005/09/19/aeroporto-83
 
-_Todo post possui uma galeria no final do texto mostrando todas as imagens dessa pasta, exceto a imagem `logo`._ 
+> Todo post possui uma galeria no final do texto mostrando todas as imagens dessa pasta, exceto a imagem `logo`.
 
 ## Como crio um novo post?
 * Entre na pasta `_post`
 * Crie um arquivo `.md` com o nome no seguinte formato: `yyyy-MM-dd-nome-do-post.md`
 
 > **Onde**:
-
+> 
 * **yyyy**: é o ano de publicação do post. Ex.: 2018
 * **MM**: é o mês de publicação do post. Ex.: 03
 * **dd**: é o dia de publicação do post. Ex.: 27
@@ -101,8 +110,8 @@ tags: 'tags'
 ```
 
 > **Onde**:
-
-> * **published**: define se o post aparecerá no site ou não. Por padrão sempre `true`.
+>
+* **published**: define se o post aparecerá no site ou não. Por padrão sempre `true`.
 * **layout**: define o layout. Sempre `post`.
 * **title**: define o título do post. Ex.: `Aeroporto 83`.
 * **compaines**: o nome da empresa que desenvolveu o game. Ex.: `Tilt`.
