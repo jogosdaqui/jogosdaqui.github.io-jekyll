@@ -173,7 +173,17 @@ O logo de cada post é automático adicionado no topo da página caso exista alg
 ```
 {% screenshot nome-da-imagem.png %}
 ```
-> Onde `nome-da-imagem.png` é o nome do arquivo de imagem adicionado na pasta de imagens do post.
+
+> Veja um exemplo em [https://jogosdaqui.github.io/2015/04/22/entrevista-claudio-lins](https://jogosdaqui.github.io/2015/04/22/entrevista-claudio-lins)
+
+### Como adiciono um subtítulo/legenda em uma imagem?
+Se você deseja colocar um texto para explicar um imagem, utilize o código abaixo no post:
+
+```
+{% caption Treeker: Os Óculos Perdidos, game criado por Fernando Paulo %}
+```
+
+> Veja um exemplo em [https://jogosdaqui.github.io/2015/05/19/entrevista-fernando-paulo-criador-de-treeker](https://jogosdaqui.github.io/2015/05/19/entrevista-fernando-paulo-criador-de-treeker)
 
 ### Como adiciono um vídeo do YouTube em um post?
 * Obtenha o id do vídeo da url

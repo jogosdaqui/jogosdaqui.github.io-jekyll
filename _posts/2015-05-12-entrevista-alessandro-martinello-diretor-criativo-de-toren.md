@@ -2,12 +2,11 @@
 published: true
 layout: post
 title: 'Entrevista: Alessandro Martinello, diretor criativo de Toren'
-companies: ''
+companies: 'Swordtales'
 categories: Interview
 tags: video ps4 swordtales entrevista
 ---
-Depois de anos de espera, o dia chegou: <a href="http://toren-game.com/" target="_blank">Toren da gaúcha Swordtales</a>
- será lançado hoje, 12 de maio de 2015, para PC e PS4. Certamente um dia que entrará para a história do gamedev brasileiro. 
+Depois de anos de espera, o dia chegou: [Toren da gaúcha Swordtales](http://toren-game.com/) será lançado hoje, 12 de maio de 2015, para PC e PS4. Certamente um dia que entrará para a história do gamedev brasileiro. 
 
 Resolvemos deixar a análise do game para outro momento, uma porque hoje será um dia de enxurrada de análises e opiniões sobre o game. 
 E outra porque acreditamos que um jogo tão autoral quanto Toren deve ser antes de tudo jogado. Viva o game primeiro! Opiniões tem seu valor, mas nenhuma superará aquela que é baseada no sua experiência e conhecimento.
@@ -35,10 +34,10 @@ Dito isso, para comemorar o lançamento de Toren fizemos um bate-papo com o Ales
 ## Durante todos esses anos de desenvolvimento do game vocês tiveram algum momento onde o projeto correu o risco de ser cancelado ou congelado?
 > Alessandro Martinello: Sim, se a Lei Rouanet não tivesse nos ajudado a captar dinheiro com empresas privadas teríamos abandonado o projeto devido a qualidade que o jogo precisaria ter segundo o feedback do pessoal do Indie Fund (Kellee Santiago de Journey e Jonathan Blow de Braid), mas como deu certo e tínhamos o orçamento ideal, ai seguimos em frente e fizemos por merecer, tudo indica que estamos competitivos lá fora em termos de qualidade indie
 
-[sc:Interview_item interviewee="Alessandro Martinello" question="Gostaria de compartilhar  alguma curiosidade, acontecimento, ou lições sobre o processo de criação do Toren?" answer="
-Conheci mais de 70% dos meus ídolos de gamedev nesta jornada, e tenho mais em comum com eles do que imaginava. Nada é o que parece neste ramo e as histórias contadas não condizem com a verdade que nós devs devemos buscar. Talvez eu esteja sendo dramático pré launch, mas foi uma jornada e tanto que merece uma grande vitória. "]
+## Gostaria de compartilhar  alguma curiosidade, acontecimento, ou lições sobre o processo de criação do Toren?
+> Alessandro Martinello: Conheci mais de 70% dos meus ídolos de gamedev nesta jornada, e tenho mais em comum com eles do que imaginava. Nada é o que parece neste ramo e as histórias contadas não condizem com a verdade que nós devs devemos buscar. Talvez eu esteja sendo dramático pré launch, mas foi uma jornada e tanto que merece uma grande vitória.
 
 ## Trailer de lançamento
 {% youtube MR8qyuKfXyQ %}
 
-<strong>> O jogosdaqui agradece ao Alessandro pela entrevista e deseja a toda a equipe da Swordtales um grande dia de lançamento e que Toren, sua jornada e história sirvam de inspiração tanto a jogadores quanto a gamedevs.</strong>
+> O jogosdaqui agradece ao Alessandro pela entrevista e deseja a toda a equipe da Swordtales um grande dia de lançamento e que Toren, sua jornada e história sirvam de inspiração tanto a jogadores quanto a gamedevs.

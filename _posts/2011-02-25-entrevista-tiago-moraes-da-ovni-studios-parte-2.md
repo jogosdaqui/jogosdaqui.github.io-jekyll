@@ -2,14 +2,13 @@
 published: true
 layout: post
 title: 'Entrevista: Tiago Moraes da Ovni Studios (parte 2)'
-companies: ''
+companies: 'Ovni Studios'
 categories: Interview
-tags: ios android ovni-studios wii facebook entrevista
+tags: ios android ovni-studios wii entrevista
 ---
-<span style="font-size: small;">> <span style="font-size: x-small;">Por Daniel Mello (</span><a href="http://twitter.com/#!/own1e" target="_blank"><span style="font-size: x-small;">@own1e</span></a>
-> <span style="font-size: x-small;">) em c</span><span style="font-size: x-small;">olaboração para o jogosdaqui.</span></span>
+[@own1e](http://twitter.com/#!/own1e) em colaboração para o jogosdaqui.
 
-> Confira a segunda e última parte da entrevista com Tiago Moraes da Ovni Studios.
+Confira a segunda e última parte da entrevista com Tiago Moraes da Ovni Studios.
 
 ## Sobre os jogos de vocês, apresente o que vocês já fizeram
 > Tiago Moraes: Trabalhamos com advergames também, mas é mais para que a gente possa sobreviver. Como é serviço, ele só entra em produção quando já tem um negócio fechado com o cliente. Temos uma política de só trabalhar com algo que seja importante para filosofia da empresa, pra gente olhar o nosso portfólio no futuro e ver que teve algo interessante. Foram três serviços: o projeto do Tang, que foi para um evento só, em que exploramos bastante os recursos do Wiimote, com sensor de movimento e tal. Tínhamos interesse em colocá-lo no Nintendo Wii, mas não deu certo por causa de todo esse filtro. Foi rodado em um PC mesmo, mas com controle do Wii com Wii Motion Plus. Depois dele veio o Fiat Uno Race, para iPhone, que é um joguinho bem divertido e completo, embora seja um serviço. Tem integração com rede social, achievements... tem bem cara de produto mesmo. Está disponível de graça na App Store. Aí veio o jogo do Copa Placar, para a Editora Abril, um jogo de futebol pra iPhone, iPad e browsers. É bem divertido também, tem um gameplay diferenciado: não é muito parecido com simulador, tem uma jogabilidade mais arcade. Nós exploramos a interface tanto do iPhone como do iPad para simplificar o gameplay, para que os jogadores conseguissem se divertir mais, em vez de oferecer um gameplay adaptado como em FIFA, Winning Eleven ou Real Soccer. Mesmo os jogadores que jogam FIFA e WE se divertiram mais com esse gameplay diferente do que jogando uma versão adaptada destes dois. Sobre o Dodgeball, é nosso primeiro produto e que tanto nos orgulha. Por mais que nós tenhamos publicado outros aplicativos, é frustrante não ter categoria jogos na App Store do Brasil. Hoje já está disponível em todas as seções de games da App Store no mundo inteiro, mas tivemos de trocar a categoria. No fim, esse jogo foi muito mais um laboratório do que um o projeto que a gente esperasse retorno financeiro

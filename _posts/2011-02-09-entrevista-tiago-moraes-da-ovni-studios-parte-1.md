@@ -2,14 +2,13 @@
 published: true
 layout: post
 title: 'Entrevista: Tiago Moraes da Ovni Studios (parte 1)'
-companies: ''
+companies: 'Ovni Studios'
 categories: Interview
-tags: ios  devworks-game-technology ovni-studios sao-paulo video facebook entrevista
+tags: ios  devworks-game-technology ovni-studios sao-paulo video entrevista
 ---
-<span style="font-size: small;">> <span style="font-size: x-small;">Por Daniel Mello (</span><a href="http://twitter.com/#!/own1e" target="_blank"><span style="font-size: x-small;">@own1e</span></a>
-> <span style="font-size: x-small;">) em c</span><span style="font-size: x-small;">olaboração para o jogosdaqui.</span></span>
+[@own1e](http://twitter.com/#!/own1e) em colaboração para o jogosdaqui.
 
-#### Estúdio fundado há pouco mais de um ano, mas já com projetos de empresas como Fiat e editora Abril: esta é a Ovni Studios, sediada em São Paulo. Fomos atrás do cabeça da companhia, Tiago Moraes, para saber mais sobre a indústria e o mercado nacional e internacional, além das perspectivas para o futuro. Na primeira parte, um apanhado sobre o começo dele no desenvolvimento de jogos, a dura realidade do Brasil e até uns pitacos na Gameloft.
+Estúdio fundado há pouco mais de um ano, mas já com projetos de empresas como Fiat e editora Abril: esta é a Ovni Studios, sediada em São Paulo. Fomos atrás do cabeça da companhia, Tiago Moraes, para saber mais sobre a indústria e o mercado nacional e internacional, além das perspectivas para o futuro. Na primeira parte, um apanhado sobre o começo dele no desenvolvimento de jogos, a dura realidade do Brasil e até uns pitacos na Gameloft.
 
 ## Fale um pouco de você e do seu trabalho na Ovni
 > Tiago Moraes: Eu sou o Tiago Moraes, trabalho na indústria de jogos aqui do Brasil há mais de 10 anos. A primeira empresa onde eu trabalhei e que mexia com algo relacionado a desenvolvimento foi a Brasoft , que começou como uma distribuidora de jogos de outras empresas do exterior e depois começou a fazer o trabalho de publicação também. No início nós fazíamos mais um trabalho de localização dos jogos (incluindo todos da Lucas Arts). Era uma das principais empresas que mexiam com jogos, não no desenvolvimento, mas com uma representação grande no brasi
@@ -27,17 +26,13 @@ tags: ios  devworks-game-technology ovni-studios sao-paulo video facebook entrev
 > Tiago Moraes: Sim, nosso foco são os jogos casuais independente da plataforma. A gente tem de minimizar nosso esforço para estar em mais plataformas possiveis.
 
 {% vimeo 17389408 %}
-<center><a href="{{ site.baseurl }}/2010/12/27/dodgeball-safari/">Dodgeball Safari</a>
-, game para iPod/iPhone</center>
+{% caption Dodgeball Safari, game para iPod/iPhone %}
 
 ## Ao mesmo tempo que é mais acessível desenvolver para iOS e Facebook, a concorrência deve ser muito grande também. Vocês fazem um trabalho no marketing para encontrar o caminho de distribuir o jogo?
 > Tiago Moraes: Com esses modelo de distribuição digital, agora você pode fazer sua publicação. Você mesmo cria uma conta nessas lojas digitais e coloca seu jogo lá, com critério bem menor que uma publisher tradicional pede. Como essas lojas não tem muitos critérios, ficaram cheias de jogos. Assim, por mais que não haja publisher, o trabalho dele voltou a ser importante... é preciso desse selo de qualidade do publisher para as pessoas baixarem de olho fechado.
 
 ## Vocês já fizeram advergames do Uno, do Tang e da revista Placar. Já pensaram no caminho inverso, de ir atrás e licenciar uma marca conhecida e atingir uma audiência maior?
 > Tiago Moraes: Tentamos com algumas marcas bem aceitas no mercado nacional e internacional, mas dificilmente a conta fecha nesse modelo de negócio. Antes, a quantia que estava com o desenvolvedor era bem menor do que geralmente é trabalhado hoje: pela Apple você realmente fica com uma quantia grande de cada cópia vendida, mas no micropagamento se ganha pela quantidade em vez da qualidade, é realmente muito complicado de fazer a conta fechar.
-
-[caption id="attachment_1830" align="aligncenter" width="320"]
- Fiat Uno Color Race: um dos games desenvolvidos pela Ovni Studios para iPod/iPhone[/caption]
 
 ## A gente vê a Gameloft fazendo cópia de muita coisa...
 > Tiago Moraes: É, a Gameloft é realmente um caso excepcional. Eles realmente copiam todo game design, trocam a skin, vendem milhões e mesmo assim são cópias bem interessantes, são jogos &quot;triple A&quot; de mobile.
@@ -46,4 +41,4 @@ tags: ios  devworks-game-technology ovni-studios sao-paulo video facebook entrev
 > Tiago Moraes: Sim, todos os feedbacks que os brasileiros recebem das publicadores internacionais é sempre o mesmo: que o brasileiro quer sempre fazer algo revolucionário, não em complexidade, mas em querer uma mecânica nova, que ninguém viu antes. Mas se pensar como um negócio, às vezes é melhor pegar vários elementos de jogos que fizeram sucesso para ter um retorno mínimo garantido.
 
 
-> Em breve você poderá conferir a segunda parte da entrevista de Tiago Moraes para o jogosdaqui, onde abordamos mais as produções da própria Ovni e os planos futuros deles.
+Em breve você poderá conferir a segunda parte da entrevista de Tiago Moraes para o jogosdaqui, onde abordamos mais as produções da própria Ovni e os planos futuros deles.

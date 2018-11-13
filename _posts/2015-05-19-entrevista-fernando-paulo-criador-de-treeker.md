@@ -2,13 +2,11 @@
 published: true
 layout: post
 title: 'Entrevista: Fernando Paulo, criador de Treeker'
-companies: ''
+companies: 'Blusoft Studios'
 categories: Interview
-tags: steam windows video greenlight ps4 wii-u wii big-festival evento blusoft-studios demo facebook entrevista
+tags: steam windows video greenlight ps4 wii-u wii big-festival blusoft-studios entrevista
 ---
-O unico integrante da <a href="https://www.facebook.com/bluboxsoft" target="_blank">Blusoft Studios</a>
-, o gamedev Fernando Paulo é a mente criativa por de trás do game <a href="{{ site.baseurl }}/2015/05/17/games-brasileiros-finalistas-no-big-festival-2015/">Treeker: Os Óculos Perdidos</a>
-. Na entrevista abaixo Fernando fala um pouco sobre sua experiência de gamedev, como foi desenvolver Treeker, a repercussão do game e os próximos projetos.
+O unico integrante da [Blusoft Studios](https://www.facebook.com/bluboxsoft), o gamedev Fernando Paulo é a mente criativa por de trás do game [Treeker: Os Óculos Perdidos]({{ site.baseurl }}/2015/05/17/games-brasileiros-finalistas-no-big-festival-2015/). Na entrevista abaixo Fernando fala um pouco sobre sua experiência de gamedev, como foi desenvolver Treeker, a repercussão do game e os próximos projetos.
 
 ## Para contextualizar o leitor, conte um pouco da tua história no gamedev?
 > Fernando Paulo: Eu me formei em Design de Jogos em 2012, e depois disso fiz alguns trabalhos freelance, principalmente com modelagem 3D. Treeker foi meu primeiro jogo comercial, então basicamente esse jogo foi meu primeiro passo como desenvolvedor de jogos comercialmente.
@@ -16,8 +14,8 @@ O unico integrante da <a href="https://www.facebook.com/bluboxsoft" target="_bla
 ## E a ideia do enredo e gameplay do Treeker, como surgiu?
 > Fernando Paulo: É difícil saber de onde exatamente surgiu o enredo. Primeiro eu pensei na mecânica principal do jogo (que seria o uso dos óculos pra poder ver objetos que não poderiam ser vistos de outra forma), e conforme eu desenvolvia, os detalhes do enredo foram surgindo. Eu quis fazer algo que inicialmente parecesse fantasia, mas que por trás disso tudo tivesse conceitos relacionados ao universo em geral.
 
-[caption id="attachment_3258" align="aligncenter" width="640"]
- Treeker: Os Óculos Perdidos, game criado por Fernando Paulo[/caption]
+{% screenshot BluboxSoft_Treeker_02.jpg %}
+{% caption Treeker: Os Óculos Perdidos, game criado por Fernando Paulo %}
 
 ## Que engine e tecnologias utilizaste no desenvolvimento do game?
 > Fernando Paulo: Usei a engine Unity 3D, Photoshop pras texturas e interface, Soundbooth pra editar os efeitos sonoros e Maya pra modelagem 3D (conceito). Devido às licenças do Maya, usei também Daz3D pra criar os modelos finais a serem exportados pro jogo
@@ -31,8 +29,8 @@ O unico integrante da <a href="https://www.facebook.com/bluboxsoft" target="_bla
 ## Vamos falar um pouco mais sobre o mundo de Treeker, o que o jogador pode esperar durante a jornada?
 > Fernando Paulo: Pode esperar um pouco de desafio e algumas mecânicas diferentes e que podem parecer até estranhas, como os elementos de plataforma em primeira pessoa. O enredo é mais misterioso, o jogador deve explorar o local em busca de detalhes e prestar bastante atenção, caso queira entender o que realmente está acontecendo em relação à história. No geral o jogo não força o jogador a seguir a história, e tem certa liberdade, sem ser algo totalmente linear.
 
-[caption id="attachment_3253" align="aligncenter" width="640"]
- Treeker e seu visual 3D estiloso[/caption]
+{% screenshot BluboxSoft_Treeker_03.jpg %}
+{% caption Treeker e seu visual 3D estiloso %}
 
 ## O game tem um visual 3D bem peculiar e estiloso. Quais foram tuas inspirações durante o desenvolvimento da arte do game?
 > Fernando Paulo: Eu decidi usar esse visual em junho do ano passado, e naquela época não existiam muitos jogos ou artes nesse estilo. Acredito que o pouco que existia como referência me influenciou, que é um estilo com polígonos bem aparentes. Eu fiz uns modelos e gostei do resultado. Iria facilitar também o desenvolvimento, então segui nesse estilo. Nos últimos meses esse estilo se tornou bastante popular entre os desenvolvedores indie, mas não era algo que eu havia previsto na época
