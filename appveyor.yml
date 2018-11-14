@@ -2,7 +2,7 @@ image: ubuntu
   
 install:
 - sh: sudo apt-get update
-- sh: sudo apt-get -y install ruby2.5 ruby2.5-dev
+- sh: sudo apt-get -y install ruby2.5.3
 - sh: sudo gem install jekyll
 
 build_script:
