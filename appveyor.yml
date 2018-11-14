@@ -2,7 +2,7 @@ image: ubuntu
   
 install:
 - sh: sudo apt-get update
-- sh: sudo apt-get install ruby-full
+- sh: sudo apt-get -y install ruby-full
 - sh: sudo gem install jekyll
 - sh: jekyll -v
 
