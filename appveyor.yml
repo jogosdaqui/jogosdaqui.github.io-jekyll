@@ -4,16 +4,6 @@ environment:
   SITE_REPO_TOKEN: 
     secure: 9J4+3PqRqzTDiC280JthRE4EVP8YqK67eEDJmyD+2s+j8H/R5TyrJJJNnpOejxCH
 
--
-  branches:
-    only:
-      - master
-  environment:
-    SITE_REPO: https://github.com/jogosdaqui/jogosdaqui.github.io.git
--
-  environment:
-    SITE_REPO: https://github.com/jogosdaqui/jogosdaqui.github.io-staging.git
-
 install:
 - sh: sudo apt-get update
 - sh: sudo apt-get -y install curl
@@ -23,15 +13,22 @@ install:
 - sh: gem install jekyll bundler
 
 build_script:
-- sh: bundle install
-- sh: git config --global credential.helper "store --file ~/.git-credentials"
-- ps: git config --global user.email $env:APPVEYOR_REPO_COMMIT_AUTHOR_EMAIL
-- ps: git config --global user.name $env:APPVEYOR_REPO_COMMIT_AUTHOR
-- ps: Add-Content "~/.git-credentials" "https://$($env:SITE_REPO_TOKEN):x-oauth-basic@github.com`n"
-- ps: git clone $env:SITE_REPO _site
-- sh: bundle exec jekyll build
-- sh: cd _site
-- sh: echo Last update = `date` > info.html
-- sh: git add .
-- ps: git commit -m "$($env:APPVEYOR_REPO_COMMIT_MESSAGE)"
-- sh: git push
+- ps: | 
+    bundle install
+    git config --global credential.helper "store --file ~/.git-credentials"
+    git config --global user.email $env:APPVEYOR_REPO_COMMIT_AUTHOR_EMAIL
+    git config --global user.name $env:APPVEYOR_REPO_COMMIT_AUTHOR
+    Add-Content "~/.git-credentials" "https://$($env:SITE_REPO_TOKEN):x-oauth-basic@github.com"
+
+    if ($env:APPVEYOR_REPO_BRANCH -eq "master") {
+      git clone https://github.com/jogosdaqui/jogosdaqui.github.io.git _site
+    } else {
+      git clone https://github.com/jogosdaqui/jogosdaqui.github.io-staging.git _site
+    }
+    
+    bundle exec jekyll build
+    cd _site
+    echo Last update = `date` > info.html
+    git add .
+    git commit -m "$($env:APPVEYOR_REPO_COMMIT_MESSAGE)"
+    git push
