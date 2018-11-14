@@ -7,8 +7,10 @@ module Jekyll
 
     def render(context)
       galleryDir = GalleryGenerator::getRelativeDir(context.environments.first['page']['path'])
+      site = context.registers[:site]
+      
       "<video width='640' height='360' autoplay muted loop>
-          <source src='../../../../images/galleries/#{galleryDir}/#{@text}' type='video/mp4'>
+          <source src='#{site.baseurl}/images/galleries/#{galleryDir}/#{@text}' type='video/mp4'>
           Your browser does not support the video tag.
        </video>"
     end

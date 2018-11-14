@@ -10,7 +10,7 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
-      searchResultTemplate: '<li><a href="{{ site.url }}{url}">{title}</a></li>',
+      searchResultTemplate: '<li><a href="{{ site.baseurl }}{url}">{title}</a></li>',
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
