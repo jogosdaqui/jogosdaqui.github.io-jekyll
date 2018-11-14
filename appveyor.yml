@@ -47,8 +47,8 @@ build_script:
 - ps: git commit -m "$($env:APPVEYOR_REPO_COMMIT_MESSAGE)"
 - ps: | 
     if ($env:APPVEYOR_REPO_BRANCH -eq "master") {
-      git push https://giacomelli:$($env:SITE_REPO_TOKEN)@github.com/jogosdaqui/jogosdaqui.github.io.git _site
+      git push https://giacomelli:$($env:SITE_REPO_TOKEN)@github.com/jogosdaqui/jogosdaqui.github.io.git
     } else {
-      git push https://giacomelli:$($env:SITE_REPO_TOKEN)@github.com/jogosdaqui/jogosdaqui.github.io-staging.git _site
+      git push https://giacomelli:$($env:SITE_REPO_TOKEN)@github.com/jogosdaqui/jogosdaqui.github.io-staging.git 
     }
     
