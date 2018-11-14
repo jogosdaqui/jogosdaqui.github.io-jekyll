@@ -1,3 +1,4 @@
+{% if page.gallery != false %}
 {% assign galleryName = page.path | galleryname %} 
 {% assign gallery = site.data['galleries'][galleryName] %} 
 
@@ -20,6 +21,8 @@
   {% endif %}
 {% endif %}
 
+{% if pictures.size > 0 %}
+<h2>Galeria de imagens</h2>
 <center>
   {% if pictures.size > 1 %}
   <ul id="lightSlider">
@@ -29,12 +32,14 @@
         </li>
     {% endfor %}
   </ul>
-  {% elsif pictures.size == 1 %}
+  {% else %}
       <img src="../../../../../{{ gallery.first }}"/> 
   {% endif %}
  </center>
+ {% endif %}
 
 {% if pictures.size > 1 %}
+
 <script type="text/javascript">
   $(document).ready(function() {
    $('#lightSlider').lightSlider({
@@ -54,4 +59,5 @@
     });
   });
 </script>
+{% endif %}
 {% endif %}
