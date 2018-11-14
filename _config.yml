@@ -62,7 +62,7 @@ tag_feed_dir: tags
 tag_permalink_style: pretty
 
 # The release of Jekyll Now that you're using
-version: v3.6.2
+version: v3.8.5 # Utilize a mesma do gemfile.
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
@@ -138,11 +138,14 @@ plugins:
 # Exclude these files from your production _site
 exclude:
     - Gemfile
-    - Gemfile.lock
+    - Gemfile.lockgit
     - LICENSE
     - README.md
     - CNAME
     - startJekyll.sh
+    - startJekyll.cmd
     - buildSite.sh
     - node_modules/
     - node_modules/cypress/
+    - appveyor.yml
+    - CODE_OF_CONDUCT.md
