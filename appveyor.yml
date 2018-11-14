@@ -13,13 +13,12 @@ install:
 - sh: gem install jekyll bundler
 
 build_script:
+- sh: bundle install
+- sh: git config --global credential.helper "store --file ~/.git-credentials"
+- ps: git config --global user.email $env:APPVEYOR_REPO_COMMIT_AUTHOR_EMAIL
+- ps: git config --global user.name $env:APPVEYOR_REPO_COMMIT_AUTHOR
+- ps: Add-Content "~/.git-credentials" "https://$($env:SITE_REPO_TOKEN):x-oauth-basic@github.com"
 - ps: | 
-    bundle install
-    git config --global credential.helper "store --file ~/.git-credentials"
-    git config --global user.email $env:APPVEYOR_REPO_COMMIT_AUTHOR_EMAIL
-    git config --global user.name $env:APPVEYOR_REPO_COMMIT_AUTHOR
-    Add-Content "~/.git-credentials" "https://$($env:SITE_REPO_TOKEN):x-oauth-basic@github.com"
-
     # Se for branch 'master', então publica no https://jogosdaqui.gitub.io
     # caso não seja qualquer outro branch, então publica no staging: https://jogosdaqui.github.io/jogosdaqui.github.io-staging
     if ($env:APPVEYOR_REPO_BRANCH -eq "master") {
@@ -36,11 +35,9 @@ build_script:
       sed -i -e 's/description: O maior banco de dados sobre os games desenvolvidos no Brasil/description: STAGING/g' _config.yml
       cat _config.yml
     } 
-    
-    bundle exec jekyll build
-    cd _site
-    echo Last update = `date` > info.html
-    
-    git add .
-    git commit -m "$($env:APPVEYOR_REPO_COMMIT_MESSAGE)"
-    git push
+- sh: bundle exec jekyll build
+- sh: cd _site
+- sh: echo Last update = `date` > info.html
+- sh: git add .
+- ps: git commit -m "$($env:APPVEYOR_REPO_COMMIT_MESSAGE)"
+- sh: git push
