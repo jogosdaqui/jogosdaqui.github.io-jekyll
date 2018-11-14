@@ -1,7 +1,9 @@
 ![](images/jogosdaqui-logo-header.png)
 
-[![Build status](https://ci.appveyor.com/api/projects/status/h9ptxpyj30ah3mva/branch/master?svg=true)](https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll)
-[![License](http://img.shields.io/:license-MIT-blue.svg)](https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll/master/LICENSE)
+| Branch  | Status  | 
+|---|---|---|
+| master  | [![Build status](https://ci.appveyor.com/api/projects/status/4ko0vxfa62584597/branch/master?svg=true)](https://ci.appveyor.com/project/giacomelli/jogosdaqui-github-io-jekyll/branch/master)  | 
+| develop  | [![Build status](https://ci.appveyor.com/api/projects/status/4ko0vxfa62584597/branch/develop?svg=true)](https://ci.appveyor.com/project/giacomelli/jogosdaqui-github-io-jekyll/branch/develop)  | 
 
 
 Site Jekyll utilizado para gerar o [https://jogosdaqui.github.io](https://jogosdaqui.github.io).
