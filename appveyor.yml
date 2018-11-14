@@ -15,12 +15,12 @@ install:
 build_script:
 - sh: bundle install
 - sh: git config --global credential.helper "store --file ~/.git-credentials"
-- sh: git config --global user.email %APPVEYOR_REPO_COMMIT_AUTHOR_EMAIL%
-- sh: git config --global user.name %APPVEYOR_REPO_COMMIT_AUTHOR%
+- ps: git config --global user.email $env:APPVEYOR_REPO_COMMIT_AUTHOR_EMAIL
+- ps: git config --global user.name $env:APPVEYOR_REPO_COMMIT_AUTHOR
 - ps: Add-Content "~/.git-credentials" "https://$($env:SITE_REPO_TOKEN):x-oauth-basic@github.com`n"
 - sh: git clone https://github.com/jogosdaqui/jogosdaqui.github.io.git _site
 - sh: bundle exec jekyll build
 - sh: cd _site
 - sh: git add .
-- sh: git commit -m "%APPVEYOR_REPO_COMMIT_MESSAGE%"
+- sh: git commit -m "$($env:APPVEYOR_REPO_COMMIT_MESSAGE)"
 - sh: git push
