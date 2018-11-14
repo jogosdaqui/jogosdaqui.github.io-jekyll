@@ -3,7 +3,17 @@ image: ubuntu
 environment:
   SITE_REPO_TOKEN: 
     secure: 9J4+3PqRqzTDiC280JthRE4EVP8YqK67eEDJmyD+2s+j8H/R5TyrJJJNnpOejxCH
-  
+
+-
+  branches:
+    only:
+      - master
+  environment:
+    SITE_REPO: https://github.com/jogosdaqui/jogosdaqui.github.io.git
+-
+  environment:
+    SITE_REPO: https://github.com/jogosdaqui/jogosdaqui.github.io-staging.git
+
 install:
 - sh: sudo apt-get update
 - sh: sudo apt-get -y install curl
@@ -18,7 +28,7 @@ build_script:
 - ps: git config --global user.email $env:APPVEYOR_REPO_COMMIT_AUTHOR_EMAIL
 - ps: git config --global user.name $env:APPVEYOR_REPO_COMMIT_AUTHOR
 - ps: Add-Content "~/.git-credentials" "https://$($env:SITE_REPO_TOKEN):x-oauth-basic@github.com`n"
-- sh: git clone https://github.com/jogosdaqui/jogosdaqui.github.io.git _site
+- ps: git clone $env:SITE_REPO _site
 - sh: bundle exec jekyll build
 - sh: cd _site
 - sh: echo Last update = `date` > info.html
