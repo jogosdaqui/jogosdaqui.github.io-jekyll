@@ -25,6 +25,7 @@ build_script:
 - sh: cd _site
 - git add .
 - git commit -m "%APPVEYOR_REPO_COMMIT_MESSAGE%"
+- echo %SITE_REPO_USERNAME%
 - git config --global user.name "%SITE_REPO_USERNAME%"
-- git config --global user.password "%SITE_REPO_password%"
+- git config --global user.password "%SITE_REPO_PASSWORD%"
 - git push
