@@ -18,6 +18,7 @@ build_script:
 - ps: git config --global user.email $env:APPVEYOR_REPO_COMMIT_AUTHOR_EMAIL
 - ps: git config --global user.name $env:APPVEYOR_REPO_COMMIT_AUTHOR
 - ps: Add-Content "~/.git-credentials" "https://$($env:SITE_REPO_TOKEN):x-oauth-basic@github.com"
+- sh: cat ~/.git-credentials
 - ps: | 
     # Se for branch 'master', então publica no https://jogosdaqui.gitub.io
     # caso não seja qualquer outro branch, então publica no staging: https://jogosdaqui.github.io/jogosdaqui.github.io-staging
