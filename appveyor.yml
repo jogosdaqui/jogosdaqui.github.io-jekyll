@@ -49,6 +49,6 @@ build_script:
     if ($env:APPVEYOR_REPO_BRANCH -eq "master") {
       git push https://giacomelli:$($env:SITE_REPO_TOKEN)@github.com/jogosdaqui/jogosdaqui.github.io.git _site
     } else {
-      git clone https://giacomelli:$($env:SITE_REPO_TOKEN)@github.com/jogosdaqui/jogosdaqui.github.io-staging.git _site
+      git push https://giacomelli:$($env:SITE_REPO_TOKEN)@github.com/jogosdaqui/jogosdaqui.github.io-staging.git _site
     }
     
