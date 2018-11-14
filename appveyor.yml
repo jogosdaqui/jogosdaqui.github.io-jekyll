@@ -2,11 +2,9 @@ image: ubuntu
   
 install:
 - sh: sudo apt-get update
-- sh: sudo apt-get -y install curl
-- sh: sudo curl -L https://get.rvm.io | bash -s stable --ruby
-- sh: sudo rvm get stable --autolibs=enable
-- sh: sudo rvm install ruby
-- sh: sudo gem install jekyll bundler
+- sh: sudo apt-get install ruby-full
+- sh: sudo gem install jekyll
+- sh: jekyll -v
 
 build_script:
 - sh: bundle exec jekyll build
@@ -14,8 +12,3 @@ build_script:
 artifacts:
   - path: _site/** 
     name: Generated jogosdaqui.gitub.io
-  - path: /home/appveyor/.rvm/log/**/*.log
-    name: logs
-
-
-    
