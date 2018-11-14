@@ -22,10 +22,10 @@ build_script:
     # Se for branch 'master', então publica no https://jogosdaqui.gitub.io
     # caso não seja qualquer outro branch, então publica no staging: https://jogosdaqui.github.io/jogosdaqui.github.io-staging
     if ($env:APPVEYOR_REPO_BRANCH -eq "master") {
-      echo O repositório de produção será atualizado.
+      echo 'O repositório de produção será atualizado.'
       git clone https://github.com/jogosdaqui/jogosdaqui.github.io.git _site
     } else {
-      echo O repositório de staging será atualizado.
+      echo 'O repositório de staging será atualizado.'
       git clone https://github.com/jogosdaqui/jogosdaqui.github.io-staging.git _site
     }
     
@@ -45,4 +45,9 @@ build_script:
 - sh: echo Last update = `date` > info.html
 - sh: git add .
 - ps: git commit -m "$($env:APPVEYOR_REPO_COMMIT_MESSAGE)"
-- sh: git push
+- ps: | 
+    if ($env:APPVEYOR_REPO_BRANCH -eq "master") {
+      git push https://github.com/jogosdaqui/jogosdaqui.github.io.git
+    } else {
+      git clone https://github.com/jogosdaqui/jogosdaqui.github.io-staging.git
+    }
