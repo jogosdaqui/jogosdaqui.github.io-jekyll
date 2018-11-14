@@ -1,8 +1,6 @@
 image: ubuntu
 
 environment:
-  SITE_REPO_USERNAME:
-    secure: 9kKs9SWW9bJ2C6dHkb3EfQ==
   SITE_REPO_TOKEN: 
     secure: 9J4+3PqRqzTDiC280JthRE4EVP8YqK67eEDJmyD+2s+j8H/R5TyrJJJNnpOejxCH
   
@@ -19,9 +17,10 @@ build_script:
 - sh: git config --global credential.helper store
 - sh: git config --global user.email %APPVEYOR_REPO_COMMIT_AUTHOR_EMAIL%
 - sh: git config --global user.name %APPVEYOR_REPO_COMMIT_AUTHOR%
-- sh: git clone https://$env:SITE_REPO_TOKEN@github.com/jogosdaqui/jogosdaqui.github.io.git _site
+- ps: Add-Content "$env:USERPROFILE\.git-credentials" "https://$($env:SITE_REPO_TOKEN):x-oauth-basic@github.com`n"
+- sh: git clone https://github.com/jogosdaqui/jogosdaqui.github.io.git _site
 - sh: bundle exec jekyll build
 - sh: cd _site
 - sh: git add .
 - sh: git commit -m "%APPVEYOR_REPO_COMMIT_MESSAGE%"
-- sh: git push https://$env:SITE_REPO_TOKEN@github.com/jogosdaqui/jogosdaqui.github.io.git
+- sh: git push
