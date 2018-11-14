@@ -174,7 +174,18 @@ O logo de cada post é automático adicionado no topo da página caso exista alg
 {% screenshot nome-da-imagem.png %}
 ```
 
-> Veja um exemplo em [https://jogosdaqui.github.io/2015/04/22/entrevista-claudio-lins](https://jogosdaqui.github.io/2015/04/22/entrevista-claudio-lins)
+### Como adiciono um pequeno vídeo .mp4 numa posição específica de um post?
+
+* Siga os passos do `Como localizo a pasta de imagens de um post?`
+
+* Adicione o arquivo de vídeo na pasta.
+* Então adicione o código abaixo no post:
+
+```
+{% video nome-do-video.mp4 %}
+```
+
+> Veja um exemplo em [https://jogosdaqui.github.io/2015/09/14/imagens-da-semana-13](https://jogosdaqui.github.io/2015/09/14/imagens-da-semana-13)
 
 ### Como adiciono um subtítulo/legenda em uma imagem?
 Se você deseja colocar um texto para explicar um imagem, utilize o código abaixo no post:
@@ -219,3 +230,20 @@ Se você deseja colocar um texto para explicar um imagem, utilize o código abai
 ```
 
 > Veja um exemplo em [https://jogosdaqui.github.io/2015/05/13/previa-de-horizon-chase-da-aquiris-game-studio](https://jogosdaqui.github.io/2015/05/13/previa-de-horizon-chase-da-aquiris-game-studio)
+
+### Como desabilitar uma galeria de imagens?
+Se você tem um post onde quer utilizar apenas as imagens entre o texto, mas não deseja uma galeria de imagens no final do post, então adicione o metadado `gallery: false`:
+
+```markdown
+---
+published: true
+layout: post
+title: 'Título do post'
+companies: 'Empresa que desenvolveu o jogo'
+categories: 'Categoria do post'
+tags: 'tags'
+gallery: false
+---
+```
+
+> Veja um exemplo em [https://jogosdaqui.github.io/2015/09/14/imagens-da-semana-13](https://jogosdaqui.github.io/2015/09/14/imagens-da-semana-13)
