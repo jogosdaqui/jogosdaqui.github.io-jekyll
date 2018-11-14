@@ -2,7 +2,7 @@ image: ubuntu
   
 install:
 - sh: sudo apt-get update
-- sh: sudo apt-get -y install ruby-full=2.4\*
+- sh: sudo apt-get -y install ruby-full=2.5.3
 - sh: sudo gem install jekyll
 
 build_script:
@@ -12,4 +12,4 @@ build_script:
 
 artifacts:
   - path: _site/** 
-    name: Generated jogosdaqui.gitub.io
+    name: jogosdaqui.gitub.io.zip
