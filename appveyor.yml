@@ -2,14 +2,15 @@ image: ubuntu
   
 install:
 - sh: sudo apt-get update
-- sh: sudo apt-get install -y ruby ruby-dev make build-essential
-- sh: sudo gem install jekyll bundler
+- sh: sudo apt-get -y install curl
+- sh: \curl -L https://get.rvm.io | bash -s stable --ruby
+- sh: rvm get stable --autolibs=enable
+- sh: rvm install ruby
+- sh: gem install jekyll bundler
 
 build_script:
-- sh: ls 
-- sh: bundle install  
 - sh: bundle exec jekyll build
 
 artifacts:
   - path: _site/** 
-    name: jogosdaqui.gitub.io.zip
+    name: Generated jogosdaqui.gitub.io
