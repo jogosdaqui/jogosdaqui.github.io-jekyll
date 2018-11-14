@@ -1,4 +1,11 @@
 image: ubuntu
+
+environment:
+  clone_folder: c:\gs
+  SITE_REPO_USERNAME: 9kKs9SWW9bJ2C6dHkb3EfQ==
+    secure: 
+  SITE_REPO_PASSWORD: 9J4+3PqRqzTDiC280JthRE4EVP8YqK67eEDJmyD+2s+j8H/R5TyrJJJNnpOejxCH
+    secure: 	
   
 install:
 - sh: sudo apt-get update
@@ -18,4 +25,6 @@ build_script:
 - sh: cd _site
 - git add .
 - git commit -m "%APPVEYOR_REPO_COMMIT_MESSAGE%"
+- git config --global user.name "%SITE_REPO_USERNAME%"
+- git config --global user.password "%SITE_REPO_password%"
 - git push
