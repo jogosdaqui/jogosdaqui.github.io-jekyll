@@ -4,9 +4,10 @@ install:
 - sh: sudo apt-get update
 - sh: sudo apt-get -y install ruby-full
 - sh: sudo gem install jekyll
-- sh: jekyll -v
 
 build_script:
+- sh: ls 
+- sh: bundle install  
 - sh: bundle exec jekyll build
 
 artifacts:
