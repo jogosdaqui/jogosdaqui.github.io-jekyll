@@ -1,7 +1,7 @@
 ![](images/jogosdaqui-logo-header.png)
 
 | Branch  | Status  | 
-|---|---|---|
+|---|---|
 | master  | [![Build status](https://ci.appveyor.com/api/projects/status/4ko0vxfa62584597/branch/master?svg=true)](https://ci.appveyor.com/project/giacomelli/jogosdaqui-github-io-jekyll/branch/master)  | 
 | develop  | [![Build status](https://ci.appveyor.com/api/projects/status/4ko0vxfa62584597/branch/develop?svg=true)](https://ci.appveyor.com/project/giacomelli/jogosdaqui-github-io-jekyll/branch/develop)  | 
 
