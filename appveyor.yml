@@ -2,10 +2,10 @@ image: ubuntu
 
 environment:
   clone_folder: c:\gs
-  SITE_REPO_USERNAME: 9kKs9SWW9bJ2C6dHkb3EfQ==
-    secure: 
-  SITE_REPO_PASSWORD: 9J4+3PqRqzTDiC280JthRE4EVP8YqK67eEDJmyD+2s+j8H/R5TyrJJJNnpOejxCH
-    secure: 	
+  SITE_REPO_USERNAME:
+    secure: 9kKs9SWW9bJ2C6dHkb3EfQ==
+  SITE_REPO_PASSWORD: 
+    secure: 9J4+3PqRqzTDiC280JthRE4EVP8YqK67eEDJmyD+2s+j8H/R5TyrJJJNnpOejxCH
   
 install:
 - sh: sudo apt-get update
