@@ -15,9 +15,9 @@ install:
 build_script:
 - sh: bundle install
 - sh: git config --global credential.helper "store --file ~/.git-credentials"
-- ps: git config --global user.email $env:APPVEYOR_REPO_COMMIT_AUTHOR_EMAIL
-- ps: git config --global user.name $env:APPVEYOR_REPO_COMMIT_AUTHOR
 - ps: Add-Content "~/.git-credentials" "https://$($env:SITE_REPO_TOKEN):x-oauth-basic@github.com"
+- ps: git config --global user.email giacomelli@gmail.com
+- ps: git config --global user.name giacomelli
 - ps: | 
     # Se for branch 'master', então publica no https://jogosdaqui.gitub.io
     # caso não seja qualquer outro branch, então publica no staging: https://jogosdaqui.github.io/jogosdaqui.github.io-staging
@@ -45,9 +45,4 @@ build_script:
 - sh: echo Last update = `date` > info.html
 - sh: git add .
 - ps: git commit -m "$($env:APPVEYOR_REPO_COMMIT_MESSAGE)"
-- ps: | 
-    if ($env:APPVEYOR_REPO_BRANCH -eq "master") {
-      git push https://github.com/jogosdaqui/jogosdaqui.github.io.git
-    } else {
-      git clone https://github.com/jogosdaqui/jogosdaqui.github.io-staging.git
-    }
+- sh: git push
