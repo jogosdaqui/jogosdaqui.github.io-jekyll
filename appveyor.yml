@@ -21,6 +21,7 @@ build_script:
 - sh: git clone https://github.com/jogosdaqui/jogosdaqui.github.io.git _site
 - sh: bundle exec jekyll build
 - sh: cd _site
+- sh: echo Last update: `date` > info.html
 - sh: git add .
 - ps: git commit -m "$($env:APPVEYOR_REPO_COMMIT_MESSAGE)"
 - sh: git push
