@@ -1,10 +1,9 @@
 image: ubuntu
 
 environment:
-  clone_folder: c:\gs
   SITE_REPO_USERNAME:
     secure: 9kKs9SWW9bJ2C6dHkb3EfQ==
-  SITE_REPO_PASSWORD: 
+  SITE_REPO_TOKEN: 
     secure: 9J4+3PqRqzTDiC280JthRE4EVP8YqK67eEDJmyD+2s+j8H/R5TyrJJJNnpOejxCH
   
 install:
@@ -20,12 +19,9 @@ build_script:
 - git config --global credential.helper store
 - git config --global user.email %APPVEYOR_REPO_COMMIT_AUTHOR_EMAIL%
 - git config --global user.name %APPVEYOR_REPO_COMMIT_AUTHOR%
-- sh: git clone https://github.com/jogosdaqui/jogosdaqui.github.io.git _site
+- sh: git clone https://$env:SITE_REPO_TOKEN@github.com/jogosdaqui/jogosdaqui.github.io.git _site
 - sh: bundle exec jekyll build
 - sh: cd _site
 - git add .
 - git commit -m "%APPVEYOR_REPO_COMMIT_MESSAGE%"
-- echo $env:SITE_REPO_USERNAME
-- git config --global user.name $env:SITE_REPO_USERNAME
-- git config --global user.password $env:SITE_REPO_PASSWORD
 - git push
