@@ -22,5 +22,5 @@ build_script:
 - sh: bundle exec jekyll build
 - sh: cd _site
 - sh: git add .
-- sh: git commit -m "$($env:APPVEYOR_REPO_COMMIT_MESSAGE)"
+- ps: git commit -m "$($env:APPVEYOR_REPO_COMMIT_MESSAGE)"
 - sh: git push
