@@ -9,6 +9,7 @@ install:
 - sh: gem install jekyll bundler
 
 build_script:
+- sh: bundle install
 - sh: bundle exec jekyll build
 
 artifacts:
