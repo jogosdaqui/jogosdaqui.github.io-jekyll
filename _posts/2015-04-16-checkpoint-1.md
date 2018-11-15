@@ -4,10 +4,8 @@ layout: post
 title: 'Checkpoint #1'
 companies: ''
 categories: Column
-tags: odin-game-studio steam greenlight ps4 psvita division-five demo cat-nigiri taw-studio previa checkpoint
+tags: odin-game-studio division-five cat-nigiri taw-studio checkpoint coluna
 ---
-
-
 ## #1
 [A homenagem do pessoal da Taw Studio a seu co-fundador, diretor e game designer Lucas Jock, falecido no último dia 13](https://twitter.com/TawStudio/status/58853869170393088)
 

@@ -4,10 +4,8 @@ layout: post
 title: 'Checkpoint #9'
 companies: ''
 categories: Column
-tags: ios android aquiris-game-studio  behold-studios chroma-squad insert-coins odin-game-studio rpg tilt webcore windows-phone windows big-festival evento big-starter mgaia-studio contra-labs facebook previa checkpoint corrida
+tags: aquiris-game-studio behold-studios insert-coins odin-game-studio tilt webcore big-festival big-starter mgaia-studio contra-labs  checkpoint coluna
 ---
-
-
 ## #1
 [Falamos do livro-game A Cidade Dos Que Descem Pela Escada: Terceiro Andar]({{ site.baseurl }}/2015/05/30/a-cidade-dos-que-descem-pela-escada-terceiro-andar)
 

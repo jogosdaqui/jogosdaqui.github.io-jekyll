@@ -4,10 +4,8 @@ layout: post
 title: 'Checkpoint #8'
 companies: ''
 categories: Column
-tags: aquiris-game-studio  steam greenlight swordtales supernova-indie-games big-starter evento bad-minions gamepad iduna-game-studio crazy-minds-game-studios protomini-multimedia facebook previa checkpoint trilha-sonora
+tags: aquiris-game-studio swordtales supernova-indie-games bad-minions gamepad iduna-game-studio crazy-minds-game-studios protomini-multimedia checkpoint coluna
 ---
-
-
 ## #1
 [Post da Protomini Multimedia no Steam agradecendo a comunidade pelo game Bernie Needs Love ter recebido o sinal verde na plataforma Greenlight](http://steamcommunity.com/sharedfiles/filedetails/updates/25536644)
 

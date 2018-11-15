@@ -4,10 +4,8 @@ layout: post
 title: 'Checkpoint #2'
 companies: ''
 categories: Column
-tags: invent4 adjogosrs axis-game-day evento powerup checkpoint
+tags: invent4 adjogosrs axis-game-day powerup checkpoint coluna
 ---
-
-
 ## #1
 [O evento AXIS Game Day, que acontece hoje, com diversas palestras de gamedevs brasileiros]({{ site.baseurl }}/2015/04/17/axis-game-day)
 

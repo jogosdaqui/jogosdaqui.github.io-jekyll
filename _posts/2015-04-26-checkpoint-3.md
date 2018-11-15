@@ -4,10 +4,8 @@ layout: post
 title: 'Checkpoint #3'
 companies: ''
 categories: Column
-tags: behold-studios chroma-squad steam adjogosrs xbox-one xbox wii-u wii swordtales demo entrevista checkpoint
+tags: behold-studios steam adjogosrs swordtales checkpoint coluna
 ---
-
-
 ## #1
 [Evento do Museu do Videogame Itinerante, onde os jogadores podem conhecer e jogar clássicos das décadas de 70, 80, 90 e 2000]({{ site.baseurl }}/2015/04/21/museu-do-videogame-itinerante)
 
