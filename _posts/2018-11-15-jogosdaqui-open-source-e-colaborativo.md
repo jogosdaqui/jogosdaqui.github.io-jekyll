@@ -30,7 +30,7 @@ Todo esse material está disponível no [GitHub do jogosdaqui](https://github.co
 ## Colaborativo
 Espero que tornando-o open source, o jogosdaqui também comece a receber novos conteúdos de forma colaborativa através da comunidade de jogadores e desenvolvedores de games nacionais.
 
-Existem formas de desenvolvedores e não desenvolvedores colaborarem com o jogosdaqui, veja em mais detalhes na [nossa página Sobre]({{ site.baseurl}}/sobre).
+Existem formas de desenvolvedores e não desenvolvedores colaborarem com o jogosdaqui, veja em mais detalhes na [nossa página Colabore]({{ site.baseurl}}/colabore).
 
 ## Agradecimentos
 Gostaria de agradecer a todos que colaboraram e incentivaram o jogosdaqui todos esses anos: muito obrigado!
