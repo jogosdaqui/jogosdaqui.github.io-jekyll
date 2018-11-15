@@ -35,4 +35,4 @@ _Atualizado 13/05/14:_
 KSShaezer - [https://twitter.com/KSShaezer/status/597920017909305345](https://twitter.com/KSShaezer/status/597920017909305345)
 {% screenshot ChromaSquad_FanArts_KSShaezer.png %}
 
-Você fez ou conhece mais alguma fan art de game brasileiro? [Entre em contato conosco]({{ site.baseurl }}/sobre/).
+Você fez ou conhece mais alguma fan art de game brasileiro? [Entre em contato conosco]({{ site.baseurl }}/faq/#contato).
