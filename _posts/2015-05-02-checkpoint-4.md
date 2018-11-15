@@ -4,10 +4,8 @@ layout: post
 title: 'Checkpoint #4'
 companies: ''
 categories: Column
-tags: chroma-squad behold-studios insert-coins odin-game-studio steam video brazil-gets-unreal evento qubyte-interactive greenlight ps4 garage-227 labindie cupcake-sweet-entertainment awoker-games bgs previa checkpoint
+tags: behold-studios insert-coins odin-game-studio brazil-gets-unreal qubyte-interactive garage-227 labindie cupcake-sweet-entertainment awoker-games bgs checkpoint coluna
 ---
-
-
 ## #1
 [O game Mundo Canibal Apocalipse chega no Steam Greenlight. Jogo e voto obrigatórios para quem gosta do humor dos irmãos Piologo](http://gamereporter.uol.com.br/mundo-canibal-apocalipse-steam)
 

@@ -4,10 +4,8 @@ layout: post
 title: 'Checkpoint #6'
 companies: ''
 categories: Column
-tags: aquiris-game-studio  chroma-squad behold-studios steam swordtales big-festival evento garage-227 big-green-pillow rockhead-games labindie vortex-game-studios division-five entrevista previa checkpoint corrida
+tags: aquiris-game-studio behold-studios swordtales big-festival garage-227 big-green-pillow rockhead-games labindie vortex-game-studios division-five checkpoint coluna
 ---
-
-
 ## #1
 [A Curve Digital anunciou que publicará o game Porcupine da Big Green Pillow ainda este mês](https://twitter.com/CurveDigital/status/59775538841977241)
 

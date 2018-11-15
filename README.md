@@ -111,8 +111,9 @@ então a pasta de imagens dele é dele é image/galleries/2005/09/19/aeroporto-8
 published: true
 layout: post
 title: 'Título do post'
+author: 'Nome do autor do post'
 companies: 'Empresa que desenvolveu o jogo'
-categories: 'Categoria do post'
+categories: Categoria do post
 tags: 'tags'
 ---
 ```
@@ -122,6 +123,7 @@ tags: 'tags'
 * **published**: define se o post aparecerá no site ou não. Por padrão sempre `true`.
 * **layout**: define o layout. Sempre `post`.
 * **title**: define o título do post. Ex.: `Aeroporto 83`.
+* **author**: o seu nome.
 * **compaines**: o nome da empresa que desenvolveu o game. Ex.: `Tilt`.
 * **categories**: define a categoria do post. Atualmente temos essas categorias: 
   * News
