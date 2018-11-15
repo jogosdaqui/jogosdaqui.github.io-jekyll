@@ -3,20 +3,20 @@ layout: nil
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - {{ page.tag }}</title>
- <link href="http://example.com{{ page.url }}" rel="self"/>
- <link href="http://example.com/tag/{{ page.tag }}.html"/>
+ <title>jogosdaqui - {{ page.tag }}</title>
+ <link href="{{ site.baseurl }}/{{ page.url }}" rel="self"/>
+ <link href="{{ site.baseurl }}/tag/{{ page.tag }}.html"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://example.com/tag/{{ page.tag }}.html</id>
+ <id>{{ site.baseurl }}/tag/{{ page.tag }}.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  {% for post in page.posts %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="http://example.com{{ post.url }}"/>
+   <link href="{{ site.baseurl }}/{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://example.com{{ post.id }}</id>
+   <id>{{ site.baseurl }}/{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
  {% endfor %}

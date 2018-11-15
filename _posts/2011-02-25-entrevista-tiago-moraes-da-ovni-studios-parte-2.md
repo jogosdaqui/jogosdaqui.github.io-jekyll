@@ -2,12 +2,11 @@
 published: true
 layout: post
 title: 'Entrevista: Tiago Moraes da Ovni Studios (parte 2)'
+author: Daniel Mello
 companies: 'Ovni Studios'
 categories: Interview
 tags: ios android ovni-studios wii entrevista
 ---
-[@own1e](http://twitter.com/#!/own1e) em colaboração para o jogosdaqui.
-
 Confira a segunda e última parte da entrevista com Tiago Moraes da Ovni Studios.
 
 ## Sobre os jogos de vocês, apresente o que vocês já fizeram
