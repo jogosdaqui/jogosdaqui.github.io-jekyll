@@ -2,9 +2,9 @@
 published: true
 layout: post
 title: 'TILT online :: Game Console (playon) 1.2'
-companies: ''
+companies: 'Tilt'
 categories: News
-tags: tilt
+tags: tilt press-release
 ---
 
 
