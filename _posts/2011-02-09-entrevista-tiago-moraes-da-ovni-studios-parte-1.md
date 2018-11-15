@@ -2,12 +2,11 @@
 published: true
 layout: post
 title: 'Entrevista: Tiago Moraes da Ovni Studios (parte 1)'
+author: Daniel Mello
 companies: 'Ovni Studios'
 categories: Interview
 tags: ios  devworks-game-technology ovni-studios sao-paulo video entrevista
 ---
-[@own1e](http://twitter.com/#!/own1e) em colaboração para o jogosdaqui.
-
 Estúdio fundado há pouco mais de um ano, mas já com projetos de empresas como Fiat e editora Abril: esta é a Ovni Studios, sediada em São Paulo. Fomos atrás do cabeça da companhia, Tiago Moraes, para saber mais sobre a indústria e o mercado nacional e internacional, além das perspectivas para o futuro. Na primeira parte, um apanhado sobre o começo dele no desenvolvimento de jogos, a dura realidade do Brasil e até uns pitacos na Gameloft.
 
 ## Fale um pouco de você e do seu trabalho na Ovni
