@@ -7,8 +7,10 @@ module Jekyll
 
     def render(context)
       galleryDir = GalleryGenerator::getRelativeDir(context.environments.first['page']['path'])
+      site = context.registers[:site]
+
       "<center>
-        <img src='../../../../images/galleries/#{galleryDir}/#{@text}'>
+        <img src='#{site.baseurl}/images/galleries/#{galleryDir}/#{@text}'>
       </center>"
     end
   end

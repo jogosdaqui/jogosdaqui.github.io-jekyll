@@ -49,6 +49,12 @@ gem install jekyll bundler
 ```
 * Mais detalhes em: [https://jekyllrb.com/docs/](https://jekyllrb.com/docs/)
 
+Execute o bundle install
+
+```shell
+bundle install
+```
+> Esse comando é necessário apenas na primeira vez.
 
 Execute o arquivo `startJekyll.sh` (Mac/Linux) ou o arquivo `startJekyll.cmd` (Windows) na pasta raiz do projeto para iniciar o Jekyll. Assim que a geração do site estiver finalizada, você poderá acessá-lo em [http://localhost:4000](http://localhost:4000).
 

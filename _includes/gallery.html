@@ -27,13 +27,13 @@
   {% if pictures.size > 1 %}
   <ul id="lightSlider">
     {% for pic in pictures %}
-        <li data-thumb="../../../../../{{ pic }}">
-          <img src="../../../../../{{ pic }}"/>        
+        <li data-thumb="{{ site.baseurl }}/{{ pic }}">
+          <img src="{{ site.baseurl }}/{{ pic }}"/>        
         </li>
     {% endfor %}
   </ul>
   {% else %}
-      <img src="../../../../../{{ gallery.first }}"/> 
+      <img src="{{ site.baseurl }}/{{ gallery.first }}"/> 
   {% endif %}
  </center>
  {% endif %}
