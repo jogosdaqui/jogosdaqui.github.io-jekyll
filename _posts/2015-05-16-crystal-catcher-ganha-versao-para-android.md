@@ -12,6 +12,6 @@ Foi assim que em 2012 descrevemos o game [Crystal Catcher]({{ site.baseurl }}/20
 
 Para quem curte um endless runner, Crystal Catcher é uma ótima pedida.
 
-## Vídeo de Crystal Catcher## 
+## Vídeo de Crystal Catcher
 {% youtube NwI9T9ooMKE %}
 
