@@ -1,7 +1,9 @@
 ![](images/jogosdaqui-logo-header.png)
 
-[![Build status](https://ci.appveyor.com/api/projects/status/h9ptxpyj30ah3mva/branch/master?svg=true)](https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll)
-[![License](http://img.shields.io/:license-MIT-blue.svg)](https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll/master/LICENSE)
+| Branch  | Status  | 
+|---|---|
+| master  | [![Build status](https://ci.appveyor.com/api/projects/status/4ko0vxfa62584597/branch/master?svg=true)](https://ci.appveyor.com/project/giacomelli/jogosdaqui-github-io-jekyll/branch/master)  | 
+| develop  | [![Build status](https://ci.appveyor.com/api/projects/status/4ko0vxfa62584597/branch/develop?svg=true)](https://ci.appveyor.com/project/giacomelli/jogosdaqui-github-io-jekyll/branch/develop)  | 
 
 
 Site Jekyll utilizado para gerar o [https://jogosdaqui.github.io](https://jogosdaqui.github.io).
@@ -47,6 +49,12 @@ gem install jekyll bundler
 ```
 * Mais detalhes em: [https://jekyllrb.com/docs/](https://jekyllrb.com/docs/)
 
+Execute o bundle install
+
+```shell
+bundle install
+```
+> Esse comando é necessário apenas na primeira vez.
 
 Execute o arquivo `startJekyll.sh` (Mac/Linux) ou o arquivo `startJekyll.cmd` (Windows) na pasta raiz do projeto para iniciar o Jekyll. Assim que a geração do site estiver finalizada, você poderá acessá-lo em [http://localhost:4000](http://localhost:4000).
 
@@ -173,7 +181,28 @@ O logo de cada post é automático adicionado no topo da página caso exista alg
 ```
 {% screenshot nome-da-imagem.png %}
 ```
-> Onde `nome-da-imagem.png` é o nome do arquivo de imagem adicionado na pasta de imagens do post.
+
+### Como adiciono um pequeno vídeo .mp4 numa posição específica de um post?
+
+* Siga os passos do `Como localizo a pasta de imagens de um post?`
+
+* Adicione o arquivo de vídeo na pasta.
+* Então adicione o código abaixo no post:
+
+```
+{% video nome-do-video.mp4 %}
+```
+
+> Veja um exemplo em [https://jogosdaqui.github.io/2015/09/14/imagens-da-semana-13](https://jogosdaqui.github.io/2015/09/14/imagens-da-semana-13)
+
+### Como adiciono um subtítulo/legenda em uma imagem?
+Se você deseja colocar um texto para explicar um imagem, utilize o código abaixo no post:
+
+```
+{% caption Treeker: Os Óculos Perdidos, game criado por Fernando Paulo %}
+```
+
+> Veja um exemplo em [https://jogosdaqui.github.io/2015/05/19/entrevista-fernando-paulo-criador-de-treeker](https://jogosdaqui.github.io/2015/05/19/entrevista-fernando-paulo-criador-de-treeker)
 
 ### Como adiciono um vídeo do YouTube em um post?
 * Obtenha o id do vídeo da url
@@ -209,3 +238,20 @@ O logo de cada post é automático adicionado no topo da página caso exista alg
 ```
 
 > Veja um exemplo em [https://jogosdaqui.github.io/2015/05/13/previa-de-horizon-chase-da-aquiris-game-studio](https://jogosdaqui.github.io/2015/05/13/previa-de-horizon-chase-da-aquiris-game-studio)
+
+### Como desabilitar uma galeria de imagens?
+Se você tem um post onde quer utilizar apenas as imagens entre o texto, mas não deseja uma galeria de imagens no final do post, então adicione o metadado `gallery: false`:
+
+```markdown
+---
+published: true
+layout: post
+title: 'Título do post'
+companies: 'Empresa que desenvolveu o jogo'
+categories: 'Categoria do post'
+tags: 'tags'
+gallery: false
+---
+```
+
+> Veja um exemplo em [https://jogosdaqui.github.io/2015/09/14/imagens-da-semana-13](https://jogosdaqui.github.io/2015/09/14/imagens-da-semana-13)

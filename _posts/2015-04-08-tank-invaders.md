@@ -2,20 +2,15 @@
 published: true
 layout: post
 title: 'Tank Invaders'
-companies: ''
+companies: 'Mgaia Studio'
 categories: Game
-tags: ios android sbgames evento windows-phone windows mgaia-studio
+tags: ios android sbgames evento windows-phone mgaia-studio
 ---
-No jogo para <a href="https://itunes.apple.com/app/id815229338">iOS</a>
-, <a href="https://play.google.com/store/apps/details?id=br.com.mothergaia.tank">Android</a>
- e <a href="http://windowsphone.com/s?appid=c24702ff-0328-45d8-b28a-6c3d178fa9eb">Windows Phone</a>
- você é um soldado no controle de mísseis, metralhadoras, pulsos eletromagnéticos, armas nucleares e uma infinidade de power-ups. Seu objetivo é destruir Terror, o maligno líder militar das forças inimigas.
+No jogo para [iOS](https://itunes.apple.com/app/id815229338), [Android](https://play.google.com/store/apps/details?id=br.com.mothergaia.tank) e [Windows Phone](http://windowsphone.com/s?appid=c24702ff-0328-45d8-b28a-6c3d178fa9eb) você é um soldado no controle de mísseis, metralhadoras, pulsos eletromagnéticos, armas nucleares e uma infinidade de power-ups. Seu objetivo é destruir Terror, o maligno líder militar das forças inimigas.
 
 A melhor definição o estilo do game Tank Invaders da Mgaia Studio é o que a própria empresa dá: o único FPS shoot'em up.  A visão do jogo, como pode ser visto nas imagens e vídeo abaixo é no  estilo de clássicos shoot'em up, entretanto você não vê a sua "nave", pois a visão é primeira pessoa, então chegamos a definição de estilo dado pelo Mgaia.
 
 A jogabilidade de Tank Invaders funciona muito bem para a tela touch, pois é necessária muita agilidade para disparar nos diversos inimigos existentes no campo de visão, além de evitar acertar veículos de aliados e combinar power-ups para destruir tudo que está na tela.
-
-<center></center>
 
 A Mgaia foi virtuosa na produção do game, desde os gráficos 3D que combinam muito bem com a ação, como a parte sonora que, além dos efeitos e da trilha, ainda possui personagens com vozes reais, como o General Rogers e a Tenente Miranda, dando aquele ar de filmes de ação dos anos 80/90. Em certas horas é como se estivéssemos num filme do Rambo.
 
@@ -29,7 +24,4 @@ Por todas suas qualidades técnicas e pela diversão que proporciona, Tank Invad
 
 {% youtube HO7L192oCqI %}
 
-Gostou do game, então aproveite e baixe-o gratuitamente: <a href="https://itunes.apple.com/app/id815229338">iOS</a>
-, <a href="https://play.google.com/store/apps/details?id=br.com.mothergaia.tank">Android</a>
- e <a href="http://windowsphone.com/s?appid=c24702ff-0328-45d8-b28a-6c3d178fa9eb">Windows Phone</a>
-.
+Gostou do game, então aproveite e baixe-o gratuitamente: [iOS](https://itunes.apple.com/app/id815229338), [Android](https://play.google.com/store/apps/details?id=br.com.mothergaia.tank) e [Windows Phone](http://windowsphone.com/s?appid=c24702ff-0328-45d8-b28a-6c3d178fa9eb).

@@ -2,12 +2,11 @@
 published: true
 layout: post
 title: 'Entrevista: Gametrack'
-companies: ''
+companies: 'Devworks Game Technology'
 categories: Interview
 tags: devworks-game-technology gametrack entrevista esporte
 ---
-Em agosto deste ano foi lançado o 1° portal de jogos banda larga do Brasil: <a href="http://www.gametrack.com.br" target="_blank">Gametrack</a>
-.
+Em agosto deste ano foi lançado o 1° portal de jogos banda larga do Brasil: [Gametrack](http://www.gametrack.com.br).
 
 O Gametrack é um portal produzido e mantido pela desenvolvedora brasileira Devworks Game Technology. Possui conteúdo exclusivo, como por exemplo a versão online do famoso WAR, jogo de tabuleiro da Grow que já fazia muito sucesso na sua forma convencional e que vem mantendo esse sucesso na forma online.
 
@@ -24,20 +23,17 @@ O site jogosdaqui entrevistou Marcelo Carvalho (um dos fundadores da Devworks) s
 ## Hoje o Gametrack possui 2 jogos multiplayer: WAR e Super Trunfo, ambos versões online de jogos de sucesso da Grow. Os jogadores podem esperar mais jogos convencionais sendo 'portados' para o Gametrack?
 > Marcelo Carvalho: Sem dúvida. Tem mais 2 jogos famosos na fila: Imagem&amp;Ação e Rummikub (um dos jogos mais vendidos do mundo). O Imagem&amp;Ação é um desses jogos que o jogador só vai conseguir jogar adequadamente se possuir banda larga, pois enquanto um está desenhando, os outros estão tentando adivinhar a resposta. Do Rummikub, ainda não posso dar muitos detalhes, mas no ano quem vem terá o &quot;World Rummikub Champioship&quot; na Holanda (Evento realizado a cada 3 anos) e as chances são grandes de a seletiva brasileira ser realizada no Gametrack.
 
-[caption id="attachment_2589" align="aligncenter" width="320"]
- Super Trunfo: mais um jogo famoso "portado" para o Gametrack[/caption]
+{% screenshot superTrunfo.jpg %}
+{% caption Super Trunfo: mais um jogo famoso "portado" para o Gametrack %}
 
 ## Além dos jogos multiplayer, o portal também conta com 6 jogos singleplayer: Vôlei de Praia, Pato Possante, Pebolim 3D, Xadrez, Reversi e Jogo de Cintura. O que o jogador pode esperar de cada um desses jogos?
 > Marcelo Carvalho: São jogos divertidos. E o pessoal tem jogado principalmente o Vôlei de praia e o Xadrez (que tem uma Inteligência Artificial bastante desafiadora). Pretendemos colocar mais 4 jogos single-player no ar até o final do ano, incluindo o jogo de Dominó. A tendência é produzir jogos mais complexos no futuro, mas o foco inicial dessa complexidade é nos jogos multiplayer.
 
-<center>
-> Os jogos singleplayer do Gametrack</center>
-
 ## Quais os jogos de maior sucesso entre os jogadores do Gametrack?
 > Marcelo Carvalho: Sem dúvida, é o jogo de WAR. Foram criadas até comunidades do Orkut para quem joga WAR no Gametrack. São mais de 7 que temos notícias. Uma delas, a &quot;Eu jogo war no Gametrack&quot;, tem mais de 150 membros.
 
-[caption id="attachment_2597" align="aligncenter" width="320"]
- WAR: o jogo de maior sucesso no Gametrack[/caption]
+{% screenshot war.jpg %}
+{% caption WAR: o jogo de maior sucesso no Gametrack %}
 
 ## Um campeonato de WAR online seria bem divertido, o Gametrack promove alguma forma de campeonatos entre os jogadores do portal?
 > Marcelo Carvalho: Ainda não estamos promovendo, mas pretendemos realizar campeonatos no futuro. Mesmo não sendo organizado por nós, já há um campeonato em vias de começar. Uma comunidade do Orkut está organizando um grande campeonato de WAR que vai começar no dia 19/11. É a comunidade &quot;Campeonato de WAR no Gametrack&quot; que tem limite de 128 participantes. Não estamos participando da organização, mas ficamos muito felizes que os jogadores estejam se organizando.
@@ -48,4 +44,4 @@ O site jogosdaqui entrevistou Marcelo Carvalho (um dos fundadores da Devworks) s
 ## A Devworks está desenvolvendo novos jogos para o Gametrack?
 > Marcelo Carvalho: Sim, nos próximos 3 meses, colocaremos mais 4 jogos single-player no ar e mais 2 jogos multiplayer. No que vem, traremos MUITAS surpresas boas para os assinantes do portal.
 
-> Fique atento ao jogosdaqui para conferir em primeira mão os próximos lançamentos do portal Gametrack.
+Fique atento ao jogosdaqui para conferir em primeira mão os próximos lançamentos do portal Gametrack.
