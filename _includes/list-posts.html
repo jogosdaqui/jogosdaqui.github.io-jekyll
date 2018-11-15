@@ -1,5 +1,11 @@
 <div class="posts">
+{% assign postCount = 0 %} 
 {% for post in include.posts %}
+    {% assign postCount = postCount | plus: 1 %}
+    {% assign mod = postCount | modulo: 5  %}
+    {% if mod == 0 %}
+        {% include ad.html %} 
+    {% endif %}
     <article class="post">
 
     <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
