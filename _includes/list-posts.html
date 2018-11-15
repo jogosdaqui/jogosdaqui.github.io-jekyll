@@ -2,8 +2,7 @@
 {% assign postCount = 0 %} 
 {% for post in include.posts %}
     {% assign postCount = postCount | plus: 1 %}
-    {% assign mod = postCount | modulo: 5  %}
-    {% if mod == 0 %}
+    {% if postCount == 5 %}
         {% include ad.html %} 
     {% endif %}
     <article class="post">
@@ -26,8 +25,8 @@
 <ul class="pager">
     {% if paginator.page_trail %}
         {% if paginator.previous_page %}
-            <a href="{{ paginator.first_page_path | replace: 'index.html', '' }}" class="previous">&lt;&lt;</a>&nbsp;&nbsp; 
-            <a href="{{ paginator.previous_page_path | replace: 'index.html', '' }}" class="previous">&lt;</a>
+            <a href="{{ paginator.first_page_path | prepend: site.baseurl | replace: 'index.html', '' }}" class="previous">&lt;&lt;</a>&nbsp;&nbsp; 
+            <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: 'index.html', '' }}" class="previous">&lt;</a>
         {% endif %}   
 
         {% for trail in paginator.page_trail %}
@@ -35,8 +34,8 @@
         {% endfor %}
         
         {% if paginator.next_page %}
-            <a href="{{ paginator.next_page_path | replace: 'index.html', '' }}" class="next">&gt;</a>&nbsp;&nbsp;
-            <a href="{{ paginator.last_page_path | replace: 'index.html', '' }}" class="next">&gt;&gt;</a>
+            <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: 'index.html', '' }}" class="next">&gt;</a>&nbsp;&nbsp;
+            <a href="{{ paginator.last_page_path | prepend: site.baseurl | replace: 'index.html', '' }}" class="next">&gt;&gt;</a>
         {% endif %} 
     {% endif %}
 </ul>
