@@ -4,10 +4,8 @@ layout: post
 title: 'Checkpoint #5'
 companies: ''
 categories: Column
-tags: chroma-squad behold-studios icon-games insert-coins splitplay steam video qubyte-interactive greenlight ps4 swordtales garage-227 division-five humble-store checkpoint
+tags: behold-studios icon-games insert-coins splitplay qubyte-interactive greenlight swordtales garage-227 division-five humble-store checkpoint coluna
 ---
-
-
 ## #1
 [A Icon Games comemorando a marca de 180.000 downloads de seu game Escape from Alcatraz](https://twitter.com/ICONGames/status/59452353241723289)
 
