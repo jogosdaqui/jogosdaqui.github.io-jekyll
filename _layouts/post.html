@@ -34,7 +34,11 @@ layout: default
     {{ page.date | date: "%d/%m/%Y" }}
   </div>
   {% include tags.html %}
-  {% include ad.html %} 
+
+  {% if content.size > 500 %}
+    {% include ad.html %} 
+  {% endif %}
+
   {% include disqus.html %}
 
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
