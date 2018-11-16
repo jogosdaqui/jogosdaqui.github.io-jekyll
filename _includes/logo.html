@@ -1,6 +1,7 @@
 {% assign galleryName = include.path | galleryname %} 
 {% assign gallery = site.data['galleries'][galleryName] %} 
 
+{{ pic }}
 <center>
   {% for pic in gallery %}
     {% if pic contains 'logo' %}
