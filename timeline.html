@@ -1,0 +1,66 @@
+---
+layout: page
+permalink: /jogos/timeline
+title: Timeline dos jogos brasileiros
+---
+{% assign games = site.categories.Game | sort: 'date' %}
+Timeline de {{ games.size }} jogos brasileiros.
+
+<script src="{{ site.baseurl }}/libs/vis/vis.js"></script>
+<link href="{{ site.baseurl }}/libs/vis/vis.css" rel="stylesheet" type="text/css" />
+
+<div id="mynetwork"></div>
+
+<script type="text/javascript">
+// create an array with nodes
+var nodes = new vis.DataSet([
+ {% for game in games %}
+    {% assign currentdate = game.date | date: "%Y" %}
+    {% if currentdate != date %}
+        {id: {{ currentdate }}, label: '{{ currentdate }}'},
+        {% assign date = currentdate %} 
+    {% endif %}
+    {id: "{{ game.url }}", label: "{{ game.title }}"},
+  {% endfor %}  
+]);
+
+// create an array with edges
+var edges = new vis.DataSet([
+  {% for game in games %}
+   {from: "{{ game.date | date: '%Y' }}", to: "{{ game.url }}"},
+  {% endfor %}  
+]);
+
+// create a network
+var container = document.getElementById('mynetwork');
+var data = {
+  nodes: nodes,
+  edges: edges
+};
+var options = {
+    width: '100%',
+    height: '800px'
+};
+var network = new vis.Network(container, data, options);
+</script>
+
+
+<!-- <div id="visualization"></div>
+
+<script type="text/javascript">
+// DOM element where the Timeline will be attached
+var container = document.getElementById("visualization");
+
+// Create a DataSet (allows two way data-binding)
+var items = new vis.DataSet([
+{% for game in games %}
+   {content: "{{ game.title }}", start: "{{ game.date  | date: "%Y-%m-%d" }}"},
+{% endfor %}    
+]);
+
+// Configuration for the Timeline
+var options = {};
+
+// Create a Timeline
+var timeline = new vis.Timeline(container, items, options);
+</script> -->
