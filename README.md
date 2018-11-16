@@ -1,4 +1,4 @@
-![](images/jogosdaqui-logo-header.png)
+![](assets/jogosdaqui-logo-header.png)
 
 | Branch  | Status  | 
 |---|---|
@@ -14,13 +14,11 @@ A publicação é feita automaticamente via AppVeyor toda vez que o branch maste
 
 --------
 
-# Setup
+# Colaborando via pull-request
 ###  Crie um fork 
-
 Crie um fork do [https//github.com/jogosdaqui/jogosdaqui.github.io-jekyll](https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll/fork).
 
 ### Clone o repositório
-
 Abra um terminal/console e digite: 
 
 ```shell
@@ -29,37 +27,32 @@ git clone https://github.com/username/jogosdaqui.github.io-jekyll.git
 > Onde `username` é o seu username no GitHub
 
 ### Faça checkout do branch `develop`
-
 ```shell
 git checkout develop
 ```
 ### Realize as alterações
-
 Veja no FAQ abaixo dicas de como realizar determinadas alterações.
  
-### Teste suas alterações
-
+### Instale o Jekyll
 > Se você ainda não tem o Jekyll instalado na sua máquina siga os passos abaixo: 
-> 
+ 
 * [Instale um ambiente de desenvolvimento Ruby](https://jekyllrb.com/docs/installation/)
 * Instale o Jekyll
-> 
+ 
 ```shell
 gem install jekyll bundler
 ```
 * Mais detalhes em: [https://jekyllrb.com/docs/](https://jekyllrb.com/docs/)
-
-Execute o bundle install
+* Execute o bundle install
 
 ```shell
 bundle install
 ```
-> Esse comando é necessário apenas na primeira vez.
 
+### Teste suas alterações
 Execute o arquivo `startJekyll.sh` (Mac/Linux) ou o arquivo `startJekyll.cmd` (Windows) na pasta raiz do projeto para iniciar o Jekyll. Assim que a geração do site estiver finalizada, você poderá acessá-lo em [http://localhost:4000](http://localhost:4000).
 
 ### Envie suas alterações ao GitHub
-
 Adicione os aquivos alterados, faça o commit e push: 
 
 ```shell
@@ -70,12 +63,14 @@ git push
 > Onde `Mensagem` é uma descrição das alterações realizadas.
 
 ### Crie o pull request
-
 Abra o navegador e acesse seu fork do repositório no [https://github.com](https://github.com), após selecione a aba `branches` e clique no botão `New pull request`.
 ![](_docs/new-pull-request-button.png)
 
-# FAQ
+> Aguarde a revisão do pull-request pela equipe do jogosdaqui.
 
+--------
+
+# FAQ
 ## Como localizo um arquivo de um post?
 * Entre na pasta `_post`
 * Localize o post
@@ -83,17 +78,18 @@ Abra o navegador e acesse seu fork do repositório no [https://github.com](https
 > Por exemplo, se a URL do post é https://jogosdaqui.github.io/2005/09/19/aeroporto-83
 então o arquivo dele é _posts/2005-09-19-aeroporto-83.md
 
-## Como localizo a pasta de imagens de um post?
-* Entre na pasta image/galleries
-* Localize a pasta de imagens do post
+## Como localizo a pasta de assets de um post?
+* Entre na pasta assets
+* Localize a subpasta de assets do post
 
 > Por exemplo, se a URL do post é https://jogosdaqui.github.io/2005/09/19/aeroporto-83
-então a pasta de imagens dele é dele é image/galleries/2005/09/19/aeroporto-83
+então a pasta de assets dele é assets/2005/09/19/aeroporto-83
 
 > Todo post possui uma galeria no final do texto mostrando todas as imagens dessa pasta, exceto a imagem `logo`.
 
 ## Como crio um novo post?
 * Entre na pasta `_post`
+* Entre na pasta do ano de publicação do post. Por exemplo `2018`
 * Crie um arquivo `.md` com o nome no seguinte formato: `yyyy-MM-dd-nome-do-post.md`
 
 > **Onde**:
@@ -137,16 +133,16 @@ tags: 'tags'
 
 * Escreva o conteúdo do post.
 
-> Abaixo dos metadados, logo após o `---` você pode escrever o texto do post em formato Markdown. No post, além do texto, você pode incluir recursos, como outras imagens (diretamente da pasta de imagens do post), vídeos do youtube/vimeo e áudios do SoundCloud. Verifique o restando do FAQ para mais detalhes de como adicionar esses recursos no seu post.
+> Abaixo dos metadados, logo após o `---` você pode escrever o texto do post em formato Markdown. No post, além do texto, você pode incluir recursos, como outras imagens (diretamente da pasta de assets do post), vídeos do youtube/vimeo e áudios do SoundCloud. Verifique o restando do FAQ para mais detalhes de como adicionar esses recursos no seu post.
 
 ## Como altero um post?
 * Siga os passos do `Como localizo um arquivo de um post?`
 * Edite o arquivo em um editor de Markdown ou texto.
 
 ## Como altero o logo de um post?
-O logo de cada post é automático adicionado no topo da página caso exista algum arquivo `logo.(png|jpg|gif)` na pasta de imagens do post.
+O logo de cada post é automático adicionado no topo da página caso exista algum arquivo `logo.(png|jpg|gif)` na pasta de assets do post.
 
-* Siga os passos do `Como localizo a pasta de imagens de um post?`
+* Siga os passos do `Como localizo a pasta de assets de um post?`
 * Altere ou adicione o arquivo `logo.(png|jpg|gif)` na pasta.
 
 ### Como altero tags de um post?
@@ -172,8 +168,7 @@ O logo de cada post é automático adicionado no topo da página caso exista alg
   * Promo 
 
 ### Como adiciono uma screenshot numa posição específica de um post?
-
-* Siga os passos do `Como localizo a pasta de imagens de um post?`
+* Siga os passos do `Como localizo a pasta de assets de um post?`
 
 > Todo post possui uma galeria no final do texto mostrando todas as imagens dessa pasta, exceto a imagem `logo`.
 
@@ -186,7 +181,7 @@ O logo de cada post é automático adicionado no topo da página caso exista alg
 
 ### Como adiciono um pequeno vídeo .mp4 numa posição específica de um post?
 
-* Siga os passos do `Como localizo a pasta de imagens de um post?`
+* Siga os passos do `Como localizo a pasta de assets de um post?`
 
 * Adicione o arquivo de vídeo na pasta.
 * Então adicione o código abaixo no post:

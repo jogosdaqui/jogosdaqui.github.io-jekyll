@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Blazing Chrome vai desafiar jogadores no Nintendo Switch, PlayStation 4 e PC no começo de 2019'
+author: Joymasher
 companies: 'Joymasher'
 categories: News
 tags: joymasher press-release switch ps4 windows
