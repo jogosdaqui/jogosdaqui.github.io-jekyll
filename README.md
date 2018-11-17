@@ -1,4 +1,4 @@
-![](assets/jogosdaqui-logo-header.png)
+![](src/assets/jogosdaqui-logo-header.png)
 
 | Branch  | Status  | 
 |---|---|
@@ -66,7 +66,7 @@ git push
 
 ### Crie o pull request
 Abra o navegador e acesse seu fork do repositório no [https://github.com](https://github.com), após selecione a aba `branches` e clique no botão `New pull request`.
-![](_docs/new-pull-request-button.png)
+![](docs/images/new-pull-request-button.png)
 
 > Aguarde a revisão do pull-request pela equipe do jogosdaqui.
 
