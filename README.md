@@ -1,4 +1,4 @@
-![](assets/jogosdaqui-logo-header.png)
+![](src/assets/jogosdaqui-logo-header.png)
 
 | Branch  | Status  | 
 |---|---|
@@ -23,6 +23,7 @@ Abra um terminal/console e digite:
 
 ```shell
 git clone https://github.com/username/jogosdaqui.github.io-jekyll.git
+cd jogosdaqui.github.io-jekyll
 ```
 > Onde `username` é o seu username no GitHub
 
@@ -46,6 +47,7 @@ gem install jekyll bundler
 * Execute o bundle install
 
 ```shell
+cd src
 bundle install
 ```
 
@@ -64,7 +66,7 @@ git push
 
 ### Crie o pull request
 Abra o navegador e acesse seu fork do repositório no [https://github.com](https://github.com), após selecione a aba `branches` e clique no botão `New pull request`.
-![](_docs/new-pull-request-button.png)
+![](docs/images/new-pull-request-button.png)
 
 > Aguarde a revisão do pull-request pela equipe do jogosdaqui.
 
@@ -72,14 +74,14 @@ Abra o navegador e acesse seu fork do repositório no [https://github.com](https
 
 # FAQ
 ## Como localizo um arquivo de um post?
-* Entre na pasta `_post`
+* Entre na pasta `src/_posts`
 * Localize o post
 
 > Por exemplo, se a URL do post é https://jogosdaqui.github.io/2005/09/19/aeroporto-83
 então o arquivo dele é _posts/2005-09-19-aeroporto-83.md
 
 ## Como localizo a pasta de assets de um post?
-* Entre na pasta assets
+* Entre na pasta `src/assets`
 * Localize a subpasta de assets do post
 
 > Por exemplo, se a URL do post é https://jogosdaqui.github.io/2005/09/19/aeroporto-83
@@ -88,7 +90,7 @@ então a pasta de assets dele é assets/2005/09/19/aeroporto-83
 > Todo post possui uma galeria no final do texto mostrando todas as imagens dessa pasta, exceto a imagem `logo`.
 
 ## Como crio um novo post?
-* Entre na pasta `_post`
+* Entre na pasta `src/_posts`
 * Entre na pasta do ano de publicação do post. Por exemplo `2018`
 * Crie um arquivo `.md` com o nome no seguinte formato: `yyyy-MM-dd-nome-do-post.md`
 
