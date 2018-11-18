@@ -2,9 +2,9 @@
 published: true
 layout: post
 title: 'Nishi Aqua Fight'
-companies: ''
+companies: 'Z80 Software'
 categories: Game
-tags: 
+tags: z80-software mobile tiro
 ---
 Seu nome é Nishi, um bravo aventureiro contratado por uma organização secreta para salvar a água do planeta Terra.
 
