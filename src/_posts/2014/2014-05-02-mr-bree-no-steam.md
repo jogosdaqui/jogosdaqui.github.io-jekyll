@@ -20,4 +20,4 @@ Para quem ainda n&#227;o conhece Mr. Bree+, leia um pouco do jogo descrito pela 
  
 O game j&#225; foi premiado diversas vezes, como: Melhor jogo para PC (SBGames 2012), Melhor trilha sonora original (Game Music Brasil 2012), Melhor som (SBGames 2012), Melhor Arte (SBGames 2011) e Brasil Revelation (Big Festival 2012).
  
-Mr. Bree+ ter&#225; um desconto de 33% na Steam durante sua semana de lan&#231;amento, ent&#227;o aproveite, [acesse sua conta Steam e diverta-se](http://store.steampowered.com/app/264220/).
+Mr. Bree+ ter&#225; um desconto de 33% na Steam durante sua semana de lan&#231;amento, ent&#227;o aproveite, [acesse sua conta Steam e divirta-se](http://store.steampowered.com/app/264220/).

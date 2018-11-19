@@ -17,4 +17,4 @@ A ODI, [que possui outros jogos](http://www.odientertainment.com/projetos/) , pr
  
 {% youtube VGsXLa84bUI %}
  
-Gostou? Ent&#227;o acesse o [Google Play ](https://play.google.com/store/apps/details?id=com.odientertainment.superflappysoccerball") e diverta-se.
+Gostou? Ent&#227;o acesse o [Google Play ](https://play.google.com/store/apps/details?id=com.odientertainment.superflappysoccerball") e divirta-se.
