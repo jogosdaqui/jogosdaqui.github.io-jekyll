@@ -7,13 +7,15 @@ categories: News
 tags: steam video big-festival taw-studio
 ---
 
-A equipe da brasileira [Taw Studio](http://tawstudio.com/) est&#225; de parab&#233;ns, pois ap&#243;s muito trabalho e dedica&#231;&#227;o na [campanha Greenlight](http://jogosdaqui.blog.uol.com.br/arch2013-05-01_2013-05-31.html#2013_05-02_19_08_27-154784552-0), seu fant&#225;stico game [Mr. Bree+](http://store.steampowered.com/app/264220/)foi finalmente lan&#231;ado 
+A equipe da brasileira [Taw Studio](http://tawstudio.com/) est&#225; de parab&#233;ns, pois ap&#243;s muito trabalho e dedica&#231;&#227;o na campanha Greenlight, seu fant&#225;stico game [Mr. Bree+](http://store.steampowered.com/app/264220/) foi finalmente lan&#231;ado 
 na [Steam](http://store.steampowered.com/app/264220/), a maior plataforma de distribui&#231;&#227;o de jogos do mundo!
  
 Para quem ainda n&#227;o conhece Mr. Bree+, leia um pouco do jogo descrito pela pr&#243;pria equipe de desenvolvimento:
  
 > Mr. Bree+ &#233; um game de aventura e plataforma hardcore, totalmente desafiador, enriquecido com um incr&#237;vel aspecto visual e musical.  
+> 
 > S&#227;o 60 n&#237;veis de puro desafio, revelando ao longo do progresso, eventos passados obscuros que contam a hist&#243;ria do nosso her&#243;i, um porco fazendeiro, pai de fam&#237;lia, o Mr. Bree.  
+> 
 > Uma boa compara&#231;&#227;o para exemplificar a mec&#226;nica do jogo s&#227;o alguns dos jogos que n&#243;s amamos: Super Meat Boy, Megaman and Castlevania!&quot;
 
 {% youtube mzrQbqYW4KI %}
