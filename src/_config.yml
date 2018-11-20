@@ -55,9 +55,9 @@ highlighter: rouge
 #permalink: pretty
 permalink: /:year/:month/:day/:title 
 
-tag_page_layout: tag_page
+tag_page_layout: tag-page
 tag_page_dir: tags
-tag_feed_layout: tag_feed
+tag_feed_layout: tag-feed
 tag_feed_dir: tags
 tag_permalink_style: pretty
 
