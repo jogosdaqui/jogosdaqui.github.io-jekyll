@@ -6,8 +6,8 @@ companies: ''
 categories: News
 tags: hoplon
 ---
-A tecnologia brasileira ganha destaque na GDC (Game Developers Conference 2006), que acontece nos dias 20 a 24 de mar&ccedil;o, em San Jose, na Calif&oacute;rnia. O presidente da <a href="{{ site.baseurl }}/index.php?p=cl&amp;t=19&amp;idd=11">Hoplon Infotainment</a>
-, desenvolvedora do game <a href="{{ site.baseurl }}/index.php?p=c&amp;id=48">Taikodon</a>
+A tecnologia brasileira ganha destaque na GDC (Game Developers Conference 2006), que acontece nos dias 20 a 24 de mar&ccedil;o, em San Jose, na Calif&oacute;rnia. O presidente da Hoplon Infotainment
+, desenvolvedora do game Taikodon
 , Tarqu&iacute;nio Teles vai falar no dia 22, sobre a parceria entre a empresa catarinense e a IBM, na palestra Postmortem of a Full 3D Action MMOG in 20 Months: How Crazy Brazilians Created a Single Shard Game that Traverses the Depths of Space (Desenvolvendo um MMOG de a&ccedil;&atilde;o totalmente 3D em 20 meses: Como brasileiros loucos criaram um game de universo &uacute;nico que atravessa as profundezas do espa&ccedil;o).  <br />
 <br />
 
