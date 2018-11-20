@@ -6,7 +6,7 @@ companies: 'PalmSoft Tecnologia'
 categories: Interview
 tags: palmsoft-tecnologia mobile rpg entrevista
 ---
-A {% company PalmSoft Tecnologia %} é uma empresa catarinense desenvolvedora de in&uacute;meros jogos para celular, entre eles est&atilde;o: os famosos {%post Crimson After Dusk %} e {% post PalmSoft Drag Racer %}.
+A {% company PalmSoft Tecnologia %} é uma empresa catarinense desenvolvedora de in&uacute;meros jogos para celular, entre eles est&atilde;o: os famosos {% post Crimson After Dusk %} e {% post PalmSoft Drag Racer %}.
 
 O jogosdaqui entrevistou Dennis Kerr Coelho, 25 anos, diretor t&eacute;cnico da PalmSoft Tecnologia.
 
