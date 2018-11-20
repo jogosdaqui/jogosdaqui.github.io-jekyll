@@ -6,7 +6,7 @@ companies: 'PalmSoft Tecnologia'
 categories: Interview
 tags: palmsoft-tecnologia mobile rpg entrevista
 ---
-A PalmSoft Tecnologia é uma empresa catarinense desenvolvedora de in&uacute;meros jogos para celular, entre eles est&atilde;o: os famosos Crimson After Dusk e PalmSoft Drag Racer.
+A {% company PalmSoft Tecnologia %} é uma empresa catarinense desenvolvedora de in&uacute;meros jogos para celular, entre eles est&atilde;o: os famosos {% post Crimson After Dusk %} e {% post PalmSoft Drag Racer %}.
 
 O jogosdaqui entrevistou Dennis Kerr Coelho, 25 anos, diretor t&eacute;cnico da PalmSoft Tecnologia.
 
@@ -24,16 +24,16 @@ O jogosdaqui entrevistou Dennis Kerr Coelho, 25 anos, diretor t&eacute;cnico da 
 > Dennis: Isso &eacute; relativo. O melhor jogo &eacute; o Crimson After Dusk, um jogo de encher os olhos que poderia muito bem sair para GBA. &Eacute; um RPG de mais de 15 horas,e aproximadamente 150 mapas. Quem gosta de Castlevania adoraria jogar Crimson. Mas, pelo fato de ser tecnologicamente muito avan&ccedil;ado, a sua base de celulares &eacute; muito restrita, o que n&atilde;o o faz nosso maio sucesso comercial. Nosso maior sucesso comercial &eacute; um jogo de corrida de arrancada, Drag Racer.
 
 ## Como os jogadores podem comprar os jogos da PalmSoft?
-> Dennis: Hoje, nossos jogos s&atilde;o vendidos atrav&eacute;s das operadoras Claro, Brasil Telecom, Telemig e Tele Amaz&ocirc;nia. Temos um &uacute;nico jogo, o Crimson After Dusk, que est&aacute; a venda no site handango ([www.handango.com](http://www.handango.com). No site, quem mora fora do Brasil ou quem possui celular de outra operadora, pode adquirir o jogo (mas apenas quem possui celular Nokia N60).
+> Dennis: Hoje, nossos jogos s&atilde;o vendidos atrav&eacute;s das operadoras Claro, Brasil Telecom, Telemig e Tele Amaz&ocirc;nia. Temos um &uacute;nico jogo, o Crimson After Dusk, que est&aacute; a venda no site handango [www.handango.com](http://www.handango.com). No site, quem mora fora do Brasil ou quem possui celular de outra operadora, pode adquirir o jogo (mas apenas quem possui celular Nokia N60).
 
 ## Poderia citar alguns jogos e suas respectivas operadoras?
 > Dennis: Atualmente vendemos os jogos: 
 > 
-> * Shadows of Malquidious
-> * War of Malquidious
-> * Drag Racer
-> * Fencer Duel
-> * Red Hood
+> * {% post Shadows of Malquidious %}
+> * {% post War of Malquidious %}
+> * {% post PalmSoft Drag Racer %}
+> * {% post Fencer Duel %}
+> * {% post Red Hood Racing %}
 > 
 nas operadoras Claro, Brasil Telecom, Telemig e Tele Amaz&ocirc;nia.
 
@@ -47,7 +47,7 @@ nas operadoras Claro, Brasil Telecom, Telemig e Tele Amaz&ocirc;nia.
 ## O que os jogadores podem esperar para os pr&oacute;ximos meses?
 > Dennis: Temos alguns jogos em desenvolvimento, como Inferi Dii, que far&aacute; os jogadores mais velhos lembrarem do jogo Golden Axe. 
 > 
-> Tamb&eacute;m temos o Tank Mission III, que est&aacute; em fase de negocia&ccedil;&atilde;o, e mostrar&aacute; efeito e jogabilidade dificilmente vista em celulares.
+> Tamb&eacute;m temos o {% post Tank Mission 3 %}, que est&aacute; em fase de negocia&ccedil;&atilde;o, e mostrar&aacute; efeito e jogabilidade dificilmente vista em celulares.
 > 
 > E, para finalizar, temos o RPG Essence, que vai mostrar o grande salto de qualidade que a empresa est&aacute; dando. Ele &eacute; um RPG com uma hist&oacute;ria envolvente e gr&aacute;ficos compar&aacute;veis aos vistos no SNes e no MegaDrive.
 
