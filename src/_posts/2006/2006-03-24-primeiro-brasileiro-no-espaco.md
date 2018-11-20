@@ -16,7 +16,7 @@ tags: continuum rts green-land-studios oniria hoplon
         <tr>
             <td width="70" style="text-align: center;">
 
-            <td valign="middle" bgcolor="#ddddd5" align="left"><font size="2"> <a href="{{ site.baseurl }}/index.php?p=c&amp;id=28">Contato</a>
+            <td valign="middle" bgcolor="#ddddd5" align="left"><font size="2"> Contato
 </font>
             <td width="70">
 
@@ -26,7 +26,7 @@ tags: continuum rts green-land-studios oniria hoplon
         <tr>
             <td width="70">
 
-            <td valign="middle" bgcolor="#ddddd5" align="left"><a href="{{ site.baseurl }}/index.php?p=c&amp;id=128"><font size="2"> For&ccedil;a Andr&ocirc;meda <br /></font></a>
+            <td valign="middle" bgcolor="#ddddd5" align="left"></font>
 
             <td width="70">
 
@@ -56,11 +56,11 @@ tags: continuum rts green-land-studios oniria hoplon
         <tr>
             <td width="70">
 
-            <td valign="middle" bgcolor="#ddddd5" align="left"><font size="2"> <a href="{{ site.baseurl }}/index.php?p=c&amp;id=5">Outlive</a>
+            <td valign="middle" bgcolor="#ddddd5" align="left"><font size="2"> Outlive
 </font>
             <td width="70">
 
-            <td valign="middle" bgcolor="#ddddd5" align="left"><a href="{{ site.baseurl }}/index.php?p=c&amp;id=23"><font size="2"> V.T.O.L.</font></a>
+            <td valign="middle" bgcolor="#ddddd5" align="left"> V.T.O.L.</font>
                
         
     </tbody>
