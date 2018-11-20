@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Imagens da semana #11'
+author: Diego Giacomelli
 companies: ''
 categories: Column
 tags: miniboss joymasher reiza-studios ninja-garage-studio mgaia-studio big-green-pillow aquiris-game-studio imagens-da-semana coluna

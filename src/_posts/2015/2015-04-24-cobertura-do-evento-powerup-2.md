@@ -6,8 +6,7 @@ companies: ''
 categories: Event
 tags: southlogic-studios adjogosrs ludum-dare swordtales rockhead-games powerup evento ubisoft
 ---
-Quarta-feira na universade Feevale aconteceu a segunda edição do evento <a title="PowerUp #2" href="{{ site.baseurl }}/2015/04/17/powerup-2/">PowerUp</a>
-, o jogosdaqui esteve lá para apreciar as palestras e alguns jogos que foram desenvolvidos durante a Ludum Dare.
+Quarta-feira na universade Feevale aconteceu a segunda edição do evento  [PowerUp]({{ site.baseurl }}/2015/04/17/powerup-2/), o jogosdaqui esteve lá para apreciar as palestras e alguns jogos que foram desenvolvidos durante a Ludum Dare.
 
 O evento teve auditório lotado e foi dividido em dois momentos, o primeiro com duas palestras de desenvolvedores de jogos e o segundo momento onde jogos produzidos durante a última Ludum Dare receberam feedback de empresas associadas a ADjogosRS.
 
@@ -15,7 +14,7 @@ O evento teve auditório lotado e foi dividido em dois momentos, o primeiro com 
 A primeira palestra do Alessandro Martinello, sócio fundador e diretor artístico da Swordtales, mostrando um pouco da experiência adquirida durante o desenvolvimento do game Toren que tem previsão de lançamento para o próximo dia 12 de maio. Alessandro com seu jeito irreverente fez uma palestra muito divertida e enriquecedora.
 
 [caption id="attachment_2197" align="aligncenter" width="428"]
- Palestra de Alessandro Martinello[/caption]
+Palestra de Alessandro Martinello[/caption]
 
 Christian Lykawka, co-fundador da Rockhead Games, trabalha na indústria de games desde 1996. No passado também fundou a empresa Southlogic Studios que foi vendida para a Ubisoft em 2009, apresentou a segunda palestra mostrando o making of do próximo game mobile da Rockhead, o Starlit Adventures. Os vídeos e o gameplay nos deixaram com uma grande expectativa e com aquela vontade de jogar o game. A espera não deve ser longa, já que o game tem lançamento previsto para 14 de maio.
 

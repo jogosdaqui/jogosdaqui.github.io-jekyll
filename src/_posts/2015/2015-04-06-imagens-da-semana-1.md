@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Imagens da semana #1'
+author: Diego Giacomelli
 companies: ''
 categories: Column
 tags: behold-studios splitplay ilusis-interactive joymasher reiza-studios splitplay swordtales division-five imagens-da-semana coluna

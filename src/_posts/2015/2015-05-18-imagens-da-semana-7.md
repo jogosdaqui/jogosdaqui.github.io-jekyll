@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Imagens da semana #7'
+author: Diego Giacomelli
 companies: ''
 categories: Column
 tags: behold-studios chroma-squad qubyte-interactive joymasher swordtales ninja-garage-studio iduna-game-studio garage-227 rockhead-games imagens-da-semana coluna

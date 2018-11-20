@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Imagens da semana #5'
+author: Diego Giacomelli
 companies: ''
 categories: Column
 tags: behold-studios odin-game-studio joymasher imgnation-studios bighut-ames swordtales mgaia-studio vortex-game-studios imagens-da-semana coluna

@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Checkpoint #5'
+author: Diego Giacomelli
 companies: ''
 categories: Column
 tags: behold-studios icon-games insert-coins splitplay qubyte-interactive greenlight swordtales garage-227 division-five humble-store checkpoint coluna

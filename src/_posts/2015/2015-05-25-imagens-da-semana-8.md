@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Imagens da semana #8'
+author: Diego Giacomelli
 companies: ''
 categories: Column
 tags: aquiris-game-studio joymasher big-green-pillow reiza-studios iduna-game-studio mgaia-studio garage-227 imagens-da-semana coluna

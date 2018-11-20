@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Imagens da semana #4'
+author: Diego Giacomelli
 companies: ''
 categories: Column
 tags: behold-studios qubyte-interactive mgaia-studio garage-227 vortex-game-studios division-five imagens-da-semana coluna
