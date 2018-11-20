@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: 'PalmSoft Drag Racer'
-companies: ''
+companies: 'PalmSoft Tecnologia'
 categories: Game
 tags: palmsoft-tecnologia mobile
 ---

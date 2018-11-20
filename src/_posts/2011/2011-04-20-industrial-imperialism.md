@@ -5,7 +5,7 @@ title: 'Industrial Imperialism'
 author: Marcelo Andrade Tabone
 companies: 'PalmSoft Tecnologia'
 categories: Game
-tags: palmsoft-tecnologia mobile
+tags: palmsoft-tecnologia web
 ---
 O jogo Industrial Imperialism, da brasileira PalmSoft, foi considerado o primeiro MMO brasileiro gratuito baseado em web.
 

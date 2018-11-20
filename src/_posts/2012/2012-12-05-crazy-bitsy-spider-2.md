@@ -6,8 +6,8 @@ companies: ''
 categories: News
 tags: ios android video dead-mushroom
 ---
-<a href="http://www.deadmushroom.com/?page_id=27" target="_blank">Crazy Bitsy Spider</a>
- é um action puzzle para iOS e Android, da brasileira <a href="http://www.deadmushroom.com/" target="_blank">Dead Mushroom</a>
+[Crazy Bitsy Spider](http://www.deadmushroom.com/?page_id=27)
+ é um action puzzle para iOS e Android, da brasileira [Dead Mushroom](http://www.deadmushroom.com/)
 , onde o jogador controla uma simpática aranha que deve  construir suas teias e capturar os diversos insetos que passam pelo cenário. O desafio está em se alimentar de uma variedade determinada de insetos a cada fase para progredir no jogo, tudo isso com uma trilha sonora no melhor estilo Bob Mcferrin, trilha essa que dá o tom ao jogo, e gráficos cartoon caprichados.
 
  
@@ -48,9 +48,9 @@ O game é um ótimo action puzzle que se encaixa perfeitamente nas telas de toqu
 {% youtube 4eG1wEilmS8 %}
 
  
-<strong>Crazy Bitsy Spider é um game free, acesse <a href="http://itunes.apple.com/us/app/crazy-bitsy-spider-free-game/id503029408?mt=8" target="_blank">App Store</a>
- ou <a href="https://play.google.com/store/apps/details?id=br.com.imaxgames.crazybitsyspider&amp;feature=search_result" target="_blank">Google Play</a>
- e </strong><strong>diverta-se.</strong>
+<strong>Crazy Bitsy Spider é um game free, acesse [App Store](http://itunes.apple.com/us/app/crazy-bitsy-spider-free-game/id503029408?mt=8)
+ ou [Google Play](https://play.google.com/store/apps/details?id=br.com.imaxgames.crazybitsyspider&amp;feature=search_result)
+ e </strong><strong>divirta-se.</strong>
 
  
 
