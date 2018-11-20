@@ -1,6 +1,6 @@
 ---
 name: Bug
-about: Crie um bug para nos ajudar a melhorar o jogosdaqui
+about: Crie um bug para nos ajudar a corrigir o jogosdaqui
 
 ---
 

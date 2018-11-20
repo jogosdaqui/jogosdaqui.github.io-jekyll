@@ -6,8 +6,8 @@ companies: ''
 categories: News
 tags: tilt
 ---
-Est&aacute; saindo do forno mais um projeto especial da <a href="{{ site.baseurl }}/index.php?p=cl&amp;t=19&amp;idu=29">TILT online</a>
-, que re&uacute;ne o lan&ccedil;amento dos novos recursos do sistema de <a href="{{ site.baseurl }}/index.php?p=cl&amp;t=19&amp;idc=2">adventures</a>
+Est&aacute; saindo do forno mais um projeto especial da TILT online
+, que re&uacute;ne o lan&ccedil;amento dos novos recursos do sistema de adventures
  interativos, com a id&eacute;ia de divulga&ccedil;&atilde;o dos jogos nacionais em um modelo de jogo.<br /><br />
 
 

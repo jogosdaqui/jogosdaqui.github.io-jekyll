@@ -17,8 +17,8 @@ Ap&oacute;s boa repercurs&atilde;o o em jornais, revistas e internet.
 
 <p align="center"> 
 
-A <a href="{{ site.baseurl }}/index.php?p=cl&amp;t=19&amp;idd=65">Edward Multim&iacute;dia</a>
- junto com a Alphachannel estar&aacute; promovendo, dia 13 de Dezembro, na escola t&eacute;cnica de games e computa&ccedil;&atilde;o gr&aacute;fica Alphachannel uma palestra sobre o jogo <a href="{{ site.baseurl }}/index.php?p=c&amp;id=476">Esquadr&atilde;o Zumbi</a>
+A Edward Multim&iacute;dia
+ junto com a Alphachannel estar&aacute; promovendo, dia 13 de Dezembro, na escola t&eacute;cnica de games e computa&ccedil;&atilde;o gr&aacute;fica Alphachannel uma palestra sobre o jogo Esquadr&atilde;o Zumbi
 .
 
 Na palestra ser&atilde;o abordados o conceito, cria&ccedil;&atilde;o e produ&ccedil;&atilde;o do jogo e proje&ccedil;&otilde;es futuras.

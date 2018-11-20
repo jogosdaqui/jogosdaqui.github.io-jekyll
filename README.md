@@ -254,3 +254,23 @@ gallery: false
 ```
 
 > Veja um exemplo em [https://jogosdaqui.github.io/2015/09/14/imagens-da-semana-13](https://jogosdaqui.github.io/2015/09/14/imagens-da-semana-13)
+
+### Como referenciar/linkar outros posts?
+* Utilize a tag `post` passando como argumento o título do post a qual se deseja referenciar
+> Por exemplo, se você deseja referenciar o post "Crimson After Dusk", utilize a tag dessa forma:
+
+```markdown
+{% post Crimson After Dusk %}
+```
+
+> Veja um exemplo em [https://jogosdaqui.github.io/2006/03/28/entrevista-palmsoft-tecnologia](https://jogosdaqui.github.io/2006/03/28/entrevista-palmsoft-tecnologia)
+
+### Como referenciar/linkar empresas?
+* Utilize a tag `company` passando como argumento o nome da empresa a qual se deseja referenciar
+> Por exemplo, se você deseja referenciar a empresa "PalmSoft Tecnologia", utilize a tag dessa forma:
+
+```markdown
+{% company PalmSoft Tecnologia %}
+```
+
+> Veja um exemplo em [https://jogosdaqui.github.io/2006/03/28/entrevista-palmsoft-tecnologia](https://jogosdaqui.github.io/2006/03/28/entrevista-palmsoft-tecnologia)

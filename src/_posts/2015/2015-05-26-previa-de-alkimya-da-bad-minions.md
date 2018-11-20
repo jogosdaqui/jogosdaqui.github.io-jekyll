@@ -11,7 +11,7 @@ O físico e matemático Isaac Newton, um dos cientistas mais importantes da hist
 
 ## Alquimia
 
-Não somos alquimistas, mas sabemos ver quando um projeto em desenvolvimento tem tudo para se transmutar em um grande game e foi isso que percebemos ao ver o alpha trailer que a brasiliense Bad Minions](http://www.badminions.com/) liberou, junto com algumas imagens, mostrando como está ficando o seu novo projeto, um jogo de aventura e RPG baseado em títulos como Legend of Zelda, Diablo, Goof Troop e The Witcher. Dentro de um universo em que a base de tudo se resume em mistura, e a **alquimia** sendo o centro da constituição de todas as coisas, daí o nome do game e a consultoria de Newton.
+Não somos alquimistas, mas sabemos ver quando um projeto em desenvolvimento tem tudo para se transmutar em um grande game e foi isso que percebemos ao ver o alpha trailer que a brasiliense [Bad Minions](http://www.badminions.com/) liberou, junto com algumas imagens, mostrando como está ficando o seu novo projeto, um jogo de aventura e RPG baseado em títulos como Legend of Zelda, Diablo, Goof Troop e The Witcher. Dentro de um universo em que a base de tudo se resume em mistura, e a **alquimia** sendo o centro da constituição de todas as coisas, daí o nome do game e a consultoria de Newton.
 
 ## História
 > A história gira em torno de Seth, um rapaz que acorda no meio de um lugar cheio de mistério e perigos e não lembra ao certo do por que está ali. Dotado de poucas lembranças sobre conhecimento de alquimia, terá que sobreviver neste lugar e descobrir exatamente qual a sua função e por que se encontra neste ambiente inóspito. (Felipe Costa da Bad Minions)
