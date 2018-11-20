@@ -5,7 +5,7 @@ module Jekyll
     end
 
     def categorytitle(input)
-      case input[0]
+      case input[0] 
       when 'News'
         'Notícias'
       when 'Preview'
@@ -16,7 +16,7 @@ module Jekyll
         'Jogos'
       when 'Interview'
         'Entrevistas'
-      when 'Events'
+      when 'Event'
         'Eventos'
       when 'Column'
         'Colunas'
