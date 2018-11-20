@@ -2,12 +2,13 @@
 published: true
 layout: post
 title: 'Checkpoint #6'
+author: Diego Giacomelli
 companies: ''
 categories: Column
 tags: aquiris-game-studio behold-studios swordtales big-festival garage-227 big-green-pillow rockhead-games labindie vortex-game-studios division-five checkpoint coluna
 ---
 ## #1
-[A Curve Digital anunciou que publicará o game Porcupine da Big Green Pillow ainda este mês](https://twitter.com/CurveDigital/status/59775538841977241)
+[A Curve Digital anunciou que publicará o game Porcunipine da Big Green Pillow ainda este mês](https://twitter.com/CurveDigital/status/59775538841977241)
 
 ## #2
 [Chegou ao fim a campanha de TurboLink, game da Division Five, no Collective da Square Enix]({{ site.baseurl }}/2015/05/10/campanha-do-turbolink-no-collective-esta-chegando-ao-fim/)

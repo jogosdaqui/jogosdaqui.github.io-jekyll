@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Imagens da semana #13'
+author: Diego Giacomelli
 companies: ''
 categories: Column
 tags: aquiris-game-studio double-dash joymasher iduna-game-studio mgaia-studio black-river-studios rogue-snail imagens-da-semana coluna

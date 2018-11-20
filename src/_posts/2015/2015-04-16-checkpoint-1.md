@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Checkpoint #1'
+author: Diego Giacomelli
 companies: ''
 categories: Column
 tags: odin-game-studio division-five cat-nigiri taw-studio checkpoint coluna

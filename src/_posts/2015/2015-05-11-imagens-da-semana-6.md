@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Imagens da semana #6'
+author: Diego Giacomelli
 companies: ''
 categories: Column
 tags: aquiris-game-studio  odin-game-studio joymasher kimeric-labs cupcake-sweet-entertainment imagens-da-semana coluna

@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Checkpoint #8'
+author: Diego Giacomelli
 companies: ''
 categories: Column
 tags: aquiris-game-studio swordtales supernova-indie-games bad-minions gamepad iduna-game-studio crazy-minds-game-studios protomini-multimedia checkpoint coluna

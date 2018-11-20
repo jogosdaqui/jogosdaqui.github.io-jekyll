@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Checkpoint #7'
+author: Diego Giacomelli
 companies: ''
 categories: Column
 tags: aquiris-game-studio behold-studios insert-coins odin-game-studio cyber-rhino-studios reiza-studios big-festival duak-entertainment contra-labs gamepolitan thinkbox-games big-green-pillow gametek little-leds crazy-minds-game-studios protomini-multimedia rockhead-games checkpoint coluna

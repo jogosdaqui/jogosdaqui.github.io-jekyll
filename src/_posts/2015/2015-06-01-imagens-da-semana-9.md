@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Imagens da semana #9'
+author: Diego Giacomelli
 companies: ''
 categories: Column
 tags: aquiris-game-studio ninja-garage-studio mgaia-studio reiza-studios protomini-multimedia imagens-da-semana coluna

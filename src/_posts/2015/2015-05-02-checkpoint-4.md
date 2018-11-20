@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Checkpoint #4'
+author: Diego Giacomelli
 companies: ''
 categories: Column
 tags: behold-studios insert-coins odin-game-studio brazil-gets-unreal qubyte-interactive garage-227 labindie cupcake-sweet-entertainment awoker-games bgs checkpoint coluna

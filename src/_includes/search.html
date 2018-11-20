@@ -10,19 +10,14 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{{ site.baseurl }}{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>

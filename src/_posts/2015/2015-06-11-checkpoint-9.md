@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Checkpoint #9'
+author: Diego Giacomelli
 companies: ''
 categories: Column
 tags: aquiris-game-studio behold-studios insert-coins odin-game-studio tilt webcore big-festival big-starter mgaia-studio contra-labs  checkpoint coluna

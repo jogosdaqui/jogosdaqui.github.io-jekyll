@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Imagens da semana #10'
+author: Diego Giacomelli
 companies: ''
 categories: Column
 tags: chroma-squad behold-studios zanardi-and-liza southbox-game-studio gametek aquiris-game-studio ninja-garage-studio imagens-da-semana coluna

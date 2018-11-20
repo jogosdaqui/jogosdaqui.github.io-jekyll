@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Imagens da semana #12'
+author: Diego Giacomelli
 companies: ''
 categories: Column
 tags: aquiris-game-studio qubyte-interactive southbox-game-studio prosperity-games imagens-da-semana coluna
