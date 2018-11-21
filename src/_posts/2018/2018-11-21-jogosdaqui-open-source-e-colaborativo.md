@@ -18,10 +18,10 @@ O jogosdaqui nasceu em 2005 e já foi um site próprio em PHP, um blog do UOL Jo
 Para que esse material não fosse perdido, pois de alguma forma todo o conteúdo do site ajuda a contar a história do desenvolvimento de jogos brasileiros, tomei a decisão de tornar o jogosdaqui open source.
 
 Atualmente temos as seguintes estatísticas: 
-* Notícias: 358
-* Prévias: 65
-* Jogos: 199
-* Entrevistas: 8
+* Notícias: 355
+* Prévias: 66
+* Jogos: 200
+* Entrevistas: 9
 * Eventos: 34
 * Colunas: 26
 
@@ -41,6 +41,6 @@ Fica meu agradecimento especial as pessoas que junto comigo em 2005 fundaram o j
 * Sulema Muñoz Andreassy
 
 
-_Espero que gostem da iniciativa e que também venham em algum momento a colaborar.  
-Forca sempre!  
-Diego Giacomelli_
+> Espero que gostem da iniciativa e que também venham em algum momento a colaborar.  
+Força sempre!  
+Diego Giacomelli
