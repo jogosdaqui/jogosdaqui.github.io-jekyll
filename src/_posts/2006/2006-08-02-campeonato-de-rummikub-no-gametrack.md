@@ -6,5 +6,5 @@ companies: ''
 categories: News
 tags: gametrack
 ---
-Ser&aacute; realizado nos dias 26 e 27 de agosto de 2006, a Etapa Online do Circuito  Brasileiro  de  Rummikub&reg;, um dos jogos de tabuleiro mais vendidos do mundo. Essa etapa do circuito acontecer&aacute; no Gametrack.<br /><br />Leia mais...
+Será realizado nos dias 26 e 27 de agosto de 2006, a Etapa Online do Circuito  Brasileiro  de  Rummikub&reg;, um dos jogos de tabuleiro mais vendidos do mundo. Essa etapa do circuito acontecerá no Gametrack.<br /><br />Leia mais...
 

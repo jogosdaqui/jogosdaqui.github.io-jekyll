@@ -6,6 +6,6 @@ companies: ''
 categories: Game
 tags: mobile
 ---
-Na noite a estrada parece n&atilde;o ter  fim.  Uma parada em uma  whiskeria para  tomar uma dose &eacute;  necessaria, mas  parece que os  malfeitores n&atilde;o buscam  divers&atilde;o,  e sim... encrenca. 
+Na noite a estrada parece não ter  fim.  Uma parada em uma  whiskeria para  tomar uma dose é  necessaria, mas  parece que os  malfeitores não buscam  diversão,  e sim... encrenca. 
 
-D&ecirc; um jeito neles e cuidado para  n&atilde;o  acertar as atendentes  testando seus  reflexos nesse  incr&iacute;vel shooter em  primeira  pessoa.
+Dê um jeito neles e cuidado para  não  acertar as atendentes  testando seus  reflexos nesse  incrível shooter em  primeira  pessoa.

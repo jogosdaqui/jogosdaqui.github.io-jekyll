@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Tank Invaders'
+author: Diego Giacomelli
 companies: 'Mgaia Studio'
 categories: Game
 tags: ios android sbgames evento windows-phone mgaia-studio

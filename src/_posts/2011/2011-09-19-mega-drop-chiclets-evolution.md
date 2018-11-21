@@ -7,17 +7,17 @@ categories: News
 tags: ios android ovni-studios video facebook
 ---
  
-J&#225; pensou em enfrentar a Mega Rampa? E que tal fazer isso num game para iPhone, IPad, Android mobile, Android tablets e Facebook?
+Já pensou em enfrentar a Mega Rampa? E que tal fazer isso num game para iPhone, IPad, Android mobile, Android tablets e Facebook?
  
 
 
-Essa &#233; a proposta do game Mega Drop Chiclets Evolution da brasileira Ovni Studios em parceria com a McCann e Kraft Foods.
-A jogabilidade do game &#233; simples: suba no alto da Mega Rampa, escolha for&#231;a e dire&#231;&#227;o e realize quantas manobras conseguir at&#233; colidir com as caixas.
+Essa é a proposta do game Mega Drop Chiclets Evolution da brasileira Ovni Studios em parceria com a McCann e Kraft Foods.
+A jogabilidade do game é simples: suba no alto da Mega Rampa, escolha força e direção e realize quantas manobras conseguir até colidir com as caixas.
 
  
-Nas vers&#245;es mobile o jogador pode acessar a rede social do OpenFeint para dividir com os amigos e com a comunidade, suas conquistas e pontua&#231;&#227;o. Na vers&#227;o para facebook o jogador pode enviar convites para os amigos e desafi&#225;-los atrav&#233;s das mensagens postadas no mural. O jogo conta tamb&#233;m com ranking global e ranking entre os pr&#243;prios amigos.
+Nas versões mobile o jogador pode acessar a rede social do OpenFeint para dividir com os amigos e com a comunidade, suas conquistas e pontuação. Na versão para facebook o jogador pode enviar convites para os amigos e desafiá-los através das mensagens postadas no mural. O jogo conta também com ranking global e ranking entre os próprios amigos.
  
 {% vimeo 25875745 %}
  
-Conhe&#231;a mais no <a href="http://www.ovnistudios.com/chiclets" target="_blank">site oficial</a>
+Conheça mais no <a href="http://www.ovnistudios.com/chiclets" target="_blank">site oficial</a>
 .

@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Luke at the Stars'
+author: Diego Giacomelli
 companies: 'Alpaca Team'
 categories: Game
 tags: android video alpaca-team blackberry

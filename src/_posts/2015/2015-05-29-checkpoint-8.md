@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Checkpoint #8'
+author: Diego Giacomelli
 companies: ''
 categories: Column
 tags: aquiris-game-studio swordtales supernova-indie-games bad-minions gamepad iduna-game-studio crazy-minds-game-studios protomini-multimedia checkpoint coluna
@@ -31,7 +32,7 @@ tags: aquiris-game-studio swordtales supernova-indie-games bad-minions gamepad i
 [Galera do Iduna Game Studio celebrando o sinal verde do Steam Greenlight para o game Mustache in Hell](https://twitter.com/idunagamestudio/status/603650929519415297)
 
 ## #9
-[Veja nossa coletânea de fan arts do game Toren]({{ site.baseurl }}/2015/05/27/fan-arts-de-toren-da-swordtales/)
+[Veja nossa coletânea de fan arts do game Toren]({{ site.baseurl }}/2015/05/27/fan-arts-de-toren-da-swordtales)
 
 ## #10
-[Jogamos Carcará - Asas da Justiça da cearense Supernova Indie Games]({{ site.baseurl }}/2015/05/28/carcara-asas-da-justica/)
+[Jogamos Carcará - Asas da Justiça da cearense Supernova Indie Games]({{ site.baseurl }}/2015/05/28/carcara-asas-da-justica)

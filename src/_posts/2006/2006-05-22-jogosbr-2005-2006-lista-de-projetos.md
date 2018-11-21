@@ -6,5 +6,5 @@ companies: ''
 categories: News
 tags: jogosbr
 ---
-O JogosBR liberou as rela&ccedil;&otilde;es de projetos enviados para os concursos de Projetos de Demos Jog&aacute;veis e Jogos Completos de Baixo Or&ccedil;amento.<br /><br />Dia 7 de junho ser&atilde;o conhecidos os projetos vencedores dessas listas.<br /><br />Veja as listas ...
+O JogosBR liberou as relações de projetos enviados para os concursos de Projetos de Demos Jogáveis e Jogos Completos de Baixo Orçamento.<br /><br />Dia 7 de junho serão conhecidos os projetos vencedores dessas listas.<br /><br />Veja as listas ...
 

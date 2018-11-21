@@ -16,12 +16,10 @@ Você também pode procriar seus cavalos, e observar o crescimento do potro, des
 
 Nas corridas é que os cavalos se enfrentam, mas não será fácil vencer, pois seus competidores também estão atrás da vitória.
 
-<center></center>
-
 Uma cidade completamente 3D, simulação dia-noite, gráficos de alta qualidade, corridas empolgantes e muita diversão esperam por você em Pferderennstall.
 Um jogo de estratégia, divertido para todas as idades.
 
-<span style="font-weight: bold;">Características principais:</span>
+## Características principais
 Gráficos completamente 3D
 Simulação Dia-Noite em tempo real
 Três modos de jogo
@@ -31,7 +29,7 @@ Corridas inteligentes, disputa realística
 Alta qualidade gráfica
 Três oponentes
 Evolução e desenvolvimento estratégico
-Livre para todas idades&lt;
+Livre para todas idades
 Dezenas de horas de diversão
 
 {% youtube 25Na5NPFPks %}

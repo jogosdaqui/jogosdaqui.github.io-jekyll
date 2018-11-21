@@ -6,7 +6,7 @@ companies: ''
 categories: Preview
 tags: palmsoft-tecnologia mobile
 ---
-Hugo Tiberius &eacute; o seu nome, a sua miss&atilde;o &eacute; lutar por gl&oacute;ria, fama e fortuna em v&aacute;rias arenas.<br /><br />Esse &eacute; Gladiarena, jogo em desenvolvimento pela PalmSoft Tecnologia
-.  Gladiarena &eacute; um jogo de a&ccedil;&atilde;o
+Hugo Tiberius é o seu nome, a sua missão é lutar por glória, fama e fortuna em várias arenas.<br /><br />Esse é Gladiarena, jogo em desenvolvimento pela PalmSoft Tecnologia
+.  Gladiarena é um jogo de ação
  para celular
- com visual  2D onde o jogador tem uma vis&atilde;o a&eacute;rea do cen&aacute;rio e personagens. A movimenta&ccedil;&atilde;o pode ser feita em quatro dire&ccedil;&otilde;es e tamb&eacute;m h&aacute; 3 tipos de armas a disposi&ccedil;&atilde;o para derrubar seus inimigos: espada, lan&ccedil;a e arco.<br /><br />Algumas imagens do jogo:<br /><br />
+ com visual  2D onde o jogador tem uma visão aérea do cenário e personagens. A movimentação pode ser feita em quatro direções e também há 3 tipos de armas a disposição para derrubar seus inimigos: espada, lança e arco.<br /><br />Algumas imagens do jogo:<br /><br />

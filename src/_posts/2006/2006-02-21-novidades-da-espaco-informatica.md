@@ -6,6 +6,6 @@ companies: ''
 categories: News
 tags: espaco-informatica
 ---
-Segundo Augusto Bulow da Espa&ccedil;o Inform&aacute;tica
-, a empresa est&aacute; desenvolvendo um jogo com previs&atilde;o de lan&ccedil;amento para o final do primeiro semestre de 2006 e tamb&eacute;m tem planos para outro jogo para o segundo semestre.<br /><br />Sobre o lan&ccedil;amento de Der Pferderennstall
- no Brasil, Augusto confirma que a Espa&ccedil;o Inform&aacute;tica est&aacute; em negocia&ccedil;&otilde;es, por&eacute;m ainda n&atilde;o h&aacute; uma data definida para o lan&ccedil;amento.<br />
+Segundo Augusto Bulow da Espaço Informática
+, a empresa está desenvolvendo um jogo com previsão de lançamento para o final do primeiro semestre de 2006 e também tem planos para outro jogo para o segundo semestre.<br /><br />Sobre o lançamento de Der Pferderennstall
+ no Brasil, Augusto confirma que a Espaço Informática está em negociações, porém ainda não há uma data definida para o lançamento.<br />

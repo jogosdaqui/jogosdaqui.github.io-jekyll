@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Space Lander'
+author: Diego Giacomelli
 companies: 'Vortex Game Studios'
 categories: Game
 tags: steam video greenlight vortex-game-studios

@@ -6,6 +6,6 @@ companies: ''
 categories: News
 tags: previa
 ---
-Quer ser um membro da pol&iacute;cia paulistana e ajudar a acabar com a onda de viol&ecirc;ncia atual?<br />Se voc&ecirc; respondeu que sim, ent&atilde;o precisa ler a pr&eacute;via de Esquadr&atilde;o Zumbi, jogo em desenvolvimento pela Edward Multm&iacute;dia
- onde o jogador estar&aacute; na pele de um membro da elite da pol&iacute;cia paulistana.<br /><br />Leia mais...
+Quer ser um membro da polícia paulistana e ajudar a acabar com a onda de violência atual?<br />Se você respondeu que sim, então precisa ler a prévia de Esquadrão Zumbi, jogo em desenvolvimento pela Edward Multmídia
+ onde o jogador estará na pele de um membro da elite da polícia paulistana.<br /><br />Leia mais...
 

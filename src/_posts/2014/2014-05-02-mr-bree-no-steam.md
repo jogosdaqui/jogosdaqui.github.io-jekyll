@@ -7,19 +7,19 @@ categories: News
 tags: steam video big-festival taw-studio
 ---
 
-A equipe da brasileira [Taw Studio](http://tawstudio.com/) est&#225; de parab&#233;ns, pois ap&#243;s muito trabalho e dedica&#231;&#227;o na campanha Greenlight, seu fant&#225;stico game [Mr. Bree+](http://store.steampowered.com/app/264220/) foi finalmente lan&#231;ado 
-na [Steam](http://store.steampowered.com/app/264220/), a maior plataforma de distribui&#231;&#227;o de jogos do mundo!
+A equipe da brasileira [Taw Studio](http://tawstudio.com/) está de parabéns, pois após muito trabalho e dedicação na campanha Greenlight, seu fantástico game [Mr. Bree+](http://store.steampowered.com/app/264220/) foi finalmente lançado 
+na [Steam](http://store.steampowered.com/app/264220/), a maior plataforma de distribuição de jogos do mundo!
  
-Para quem ainda n&#227;o conhece Mr. Bree+, leia um pouco do jogo descrito pela pr&#243;pria equipe de desenvolvimento:
+Para quem ainda não conhece Mr. Bree+, leia um pouco do jogo descrito pela própria equipe de desenvolvimento:
  
-> Mr. Bree+ &#233; um game de aventura e plataforma hardcore, totalmente desafiador, enriquecido com um incr&#237;vel aspecto visual e musical.  
+> Mr. Bree+ é um game de aventura e plataforma hardcore, totalmente desafiador, enriquecido com um incrível aspecto visual e musical.  
 > 
-> S&#227;o 60 n&#237;veis de puro desafio, revelando ao longo do progresso, eventos passados obscuros que contam a hist&#243;ria do nosso her&#243;i, um porco fazendeiro, pai de fam&#237;lia, o Mr. Bree.  
+> São 60 níveis de puro desafio, revelando ao longo do progresso, eventos passados obscuros que contam a história do nosso herói, um porco fazendeiro, pai de família, o Mr. Bree.  
 > 
-> Uma boa compara&#231;&#227;o para exemplificar a mec&#226;nica do jogo s&#227;o alguns dos jogos que n&#243;s amamos: Super Meat Boy, Megaman and Castlevania!&quot;
+> Uma boa comparação para exemplificar a mecânica do jogo são alguns dos jogos que nós amamos: Super Meat Boy, Megaman and Castlevania!"
 
 {% youtube mzrQbqYW4KI %}
  
-O game j&#225; foi premiado diversas vezes, como: Melhor jogo para PC (SBGames 2012), Melhor trilha sonora original (Game Music Brasil 2012), Melhor som (SBGames 2012), Melhor Arte (SBGames 2011) e Brasil Revelation (Big Festival 2012).
+O game já foi premiado diversas vezes, como: Melhor jogo para PC (SBGames 2012), Melhor trilha sonora original (Game Music Brasil 2012), Melhor som (SBGames 2012), Melhor Arte (SBGames 2011) e Brasil Revelation (Big Festival 2012).
  
-Mr. Bree+ ter&#225; um desconto de 33% na Steam durante sua semana de lan&#231;amento, ent&#227;o aproveite, [acesse sua conta Steam e divirta-se](http://store.steampowered.com/app/264220/).
+Mr. Bree+ terá um desconto de 33% na Steam durante sua semana de lançamento, então aproveite, [acesse sua conta Steam e divirta-se](http://store.steampowered.com/app/264220/).

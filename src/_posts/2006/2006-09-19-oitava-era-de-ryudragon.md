@@ -10,6 +10,6 @@ Ryudragon
 , famoso jogo de RPG
  online
  da Decadium Studios
-, iniciar&aacute; sua oitava Era na pr&oacute;xima segunda-feira, dia 25 de setembro.<br /><br />Os ganhadores de cada Era recebem pr&ecirc;mios reais, aproveite e fa&ccedil;a seu cadastro gratuitamente neste <a href="http://www.ryudragon.com/registro.php" target="_blank">link</a>
+, iniciará sua oitava Era na próxima segunda-feira, dia 25 de setembro.<br /><br />Os ganhadores de cada Era recebem prêmios reais, aproveite e faça seu cadastro gratuitamente neste <a href="http://www.ryudragon.com/registro.php" target="_blank">link</a>
 .<br /><br />Saiba mais sobre Ryudragon...
 

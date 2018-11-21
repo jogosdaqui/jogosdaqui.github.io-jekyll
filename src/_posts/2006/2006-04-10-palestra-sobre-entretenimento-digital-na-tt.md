@@ -6,15 +6,15 @@ companies: ''
 categories: Event
 tags: 
 ---
-Para voc&ecirc; que gosta de jogar, mas tamb&eacute;m deseja desenvolver jogos, a Technology &amp; Training uma institui&ccedil;&atilde;o de ensino focada no desenvolvimento de jogos eletr&ocirc;nicos estar&aacute; promovendo no dia 11/04/2006 no Rio de Janeiro uma palestra gratu&iacute;ta sobre Entretenimento Digital, que estar&aacute; abordando os seguintes t&oacute;picos:<br />
+Para você que gosta de jogar, mas também deseja desenvolver jogos, a Technology & Training uma instituição de ensino focada no desenvolvimento de jogos eletrônicos estará promovendo no dia 11/04/2006 no Rio de Janeiro uma palestra gratuíta sobre Entretenimento Digital, que estará abordando os seguintes tópicos:<br />
 <ul style="text-align: left;">
-    <li>Que mercado &eacute; esse</li>
-    <li>Quais s&atilde;o as oportunidades</li>
+    <li>Que mercado é esse</li>
+    <li>Quais são as oportunidades</li>
     <li>Onde se trabalha</li>
     <li>Quanto se ganha</li>
     <li>Como entrar nele<br /></li>
 </ul>
  
 
- Para maiores informa&ccedil;&otilde;es sobre a palestra, acesse: <a target="_blank" href="http://www.ttnet.com.br/email_palestra_2006">http://www.ttnet.com.br/email_palestra_2006</a>
+ Para maiores informações sobre a palestra, acesse: <a target="_blank" href="http://www.ttnet.com.br/email_palestra_2006">http://www.ttnet.com.br/email_palestra_2006</a>
 .

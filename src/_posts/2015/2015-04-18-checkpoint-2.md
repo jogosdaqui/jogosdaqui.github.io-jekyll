@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Checkpoint #2'
+author: Diego Giacomelli
 companies: ''
 categories: Column
 tags: invent4 adjogosrs axis-game-day powerup checkpoint coluna

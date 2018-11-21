@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
+author: Diego Giacomelli
 title: 'Pixuleco - O Jogo'
 companies: 'Icon Games'
 categories: Game

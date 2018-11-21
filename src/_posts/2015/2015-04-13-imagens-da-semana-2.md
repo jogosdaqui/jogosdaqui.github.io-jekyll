@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Imagens da semana #2'
+author: Diego Giacomelli
 companies: ''
 categories: Column
 tags: arc-gen behold-studios odin-game-studio reiza-studios swordtales mgaia-studio big-green-pillow cat-nigiri imagens-da-semana coluna

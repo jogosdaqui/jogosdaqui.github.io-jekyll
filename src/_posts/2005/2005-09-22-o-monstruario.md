@@ -6,16 +6,16 @@ companies: ''
 categories: Game
 tags: 
 ---
-Caxy Gamb&aacute; encontra o Monstru&aacute;rio Caxy Gamb&aacute;, o protagonista dessa hist&oacute;ria su-real, tenta refugiar-se da chuva em uma casa abandonada. Mexendo onde n&atilde;o deve, o gamb&aacute; acaba libertando as mais assustadoras criaturas, dentre elas, Dr&aacute;cula, Frankenstein, Z&eacute; do Caix&atilde;o e muitos outros.
+Caxy Gambá encontra o Monstruário Caxy Gambá, o protagonista dessa história su-real, tenta refugiar-se da chuva em uma casa abandonada. Mexendo onde não deve, o gambá acaba libertando as mais assustadoras criaturas, dentre elas, Drácula, Frankenstein, Zé do Caixão e muitos outros.
 
 
 
 
-Agora o &uacute;nico jeito de sair dessa mans&atilde;o assombrada &eacute; livrar-se de todos os monstros e passar por muitos desafios. Se voc&ecirc; est&aacute; acostumado com os outros adventures, onde o protagonista nunca morre... esque&ccedil;a... a morte lhe espera a cada clique. 
+Agora o único jeito de sair dessa mansão assombrada é livrar-se de todos os monstros e passar por muitos desafios. Se você está acostumado com os outros adventures, onde o protagonista nunca morre... esqueça... a morte lhe espera a cada clique. 
 
 
 
 
-Voc&ecirc; ainda pode ler tudo sobre os monstros, em uma verdadeira enciclop&eacute;dia do horror, al&eacute;m de assistir a cenas dos mais cl&aacute;ssicos filmes de terror. Um jogo assustadoramente engra&ccedil;ado, com a participa&ccedil;&atilde;o sobrenatural de Z&eacute; do Caix&atilde;o.
+Você ainda pode ler tudo sobre os monstros, em uma verdadeira enciclopédia do horror, além de assistir a cenas dos mais clássicos filmes de terror. Um jogo assustadoramente engraçado, com a participação sobrenatural de Zé do Caixão.
 
 

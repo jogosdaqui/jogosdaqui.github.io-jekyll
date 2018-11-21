@@ -6,7 +6,7 @@ companies: 'Blusoft Studios'
 categories: Interview
 tags: steam windows video greenlight ps4 wii-u wii big-festival blusoft-studios entrevista
 ---
-O unico integrante da [Blusoft Studios](https://www.facebook.com/bluboxsoft), o gamedev Fernando Paulo é a mente criativa por de trás do game [Treeker: Os Óculos Perdidos]({{ site.baseurl }}/2015/05/17/games-brasileiros-finalistas-no-big-festival-2015/). Na entrevista abaixo Fernando fala um pouco sobre sua experiência de gamedev, como foi desenvolver Treeker, a repercussão do game e os próximos projetos.
+O unico integrante da [Blusoft Studios](https://www.facebook.com/bluboxsoft), o gamedev Fernando Paulo é a mente criativa por de trás do game [Treeker: Os Óculos Perdidos]({{ site.baseurl }}/2015/05/17/games-brasileiros-finalistas-no-big-festival-2015). Na entrevista abaixo Fernando fala um pouco sobre sua experiência de gamedev, como foi desenvolver Treeker, a repercussão do game e os próximos projetos.
 
 ## Para contextualizar o leitor, conte um pouco da tua história no gamedev?
 > Fernando Paulo: Eu me formei em Design de Jogos em 2012, e depois disso fiz alguns trabalhos freelance, principalmente com modelagem 3D. Treeker foi meu primeiro jogo comercial, então basicamente esse jogo foi meu primeiro passo como desenvolvedor de jogos comercialmente.
@@ -35,7 +35,7 @@ O unico integrante da [Blusoft Studios](https://www.facebook.com/bluboxsoft), o 
 ## O game tem um visual 3D bem peculiar e estiloso. Quais foram tuas inspirações durante o desenvolvimento da arte do game?
 > Fernando Paulo: Eu decidi usar esse visual em junho do ano passado, e naquela época não existiam muitos jogos ou artes nesse estilo. Acredito que o pouco que existia como referência me influenciou, que é um estilo com polígonos bem aparentes. Eu fiz uns modelos e gostei do resultado. Iria facilitar também o desenvolvimento, então segui nesse estilo. Nos últimos meses esse estilo se tornou bastante popular entre os desenvolvedores indie, mas não era algo que eu havia previsto na época
 
-## Recentemente Treeker tornou-se o primeiro game brasileiro a figurar como &quot;Melhor jogo&quot; do BIG Festival, além de também aparecer como candidato nas categorias &quot;Melhor arte&quot; e &quot;Revelação Brasil&quot;. Você esperava tamanho sucesso?
+## Recentemente Treeker tornou-se o primeiro game brasileiro a figurar como "Melhor jogo" do BIG Festival, além de também aparecer como candidato nas categorias "Melhor arte" e "Revelação Brasil". Você esperava tamanho sucesso?
 > Fernando Paulo: Eu esperava que talvez o Treeker fosse finalista na categoria Melhor Arte, pois o visual foi algo que trabalhei em cima pra deixar agradável. Mesmo assim, devido à concorrência, eu tinha em mente que talvez o jogo não fosse finalista em nenhuma categoria. Um dia antes da divulgação pública dos finalistas recebi email sendo informado de que o jogo era finalista na categoria Melhor Jogo. Porém eu não tinha percebido que é o primeiro jogo brasileiro a participar desta categoria. Fui descobrir isso apenas no dia seguinte quando saíram as notícias, junto com outro email informando que o jogo é finalista também nas categorias Melhor Arte e Revelação Brasil, então fiquei bastante surpreso e feliz.
 
 ## Para finalizarmos, qual será o próximo projeto da Blubox Soft?

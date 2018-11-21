@@ -7,9 +7,9 @@ categories: News
 tags: aquiris-game-studio ovni-studios video dead-mushroom joymasher swordtales demo devoid-games skahal-studios studio-avante bivissoft
 ---
 No final de 2012 fizemos uma enquete perguntando 
-> Quais games desenvolvidos no Brasil voc&#234; jogou em 2012?&quot;. Tivemos diversos games citados, alguns ainda em beta ou demo, a maioria deles voc&#234;s conferiram aqui mesmo no blog durante o ano.
+> Quais games desenvolvidos no Brasil você jogou em 2012?". Tivemos diversos games citados, alguns ainda em beta ou demo, a maioria deles vocês conferiram aqui mesmo no blog durante o ano.
 
-Para mostrar o resultado a voc&#234;s, montamos a lista abaixo mostrando um v&#237;deo de cada um dos games.  
+Para mostrar o resultado a vocês, montamos a lista abaixo mostrando um vídeo de cada um dos games.  
 Confiram!
 
 {% post Crazy Bitsy Spider %} da Dead Mushroom
@@ -45,7 +45,7 @@ Confiram!
 [Ships N' Battles da Skahal Studios](http://skahal.github.io/games/ships-n-battles)
 {% youtube 8qVJPZkMaRc %}
 
-{% post Shuffle Puzzle  %} de Fernando Mart&#237;nez e Paulo Eduardo
+{% post Shuffle Puzzle  %} de Fernando Martínez e Paulo Eduardo
 {% youtube s4PjeLAe7O4 %}
 
 {% post TriboT %} da deVoid Games

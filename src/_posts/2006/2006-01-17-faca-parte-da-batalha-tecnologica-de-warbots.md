@@ -6,7 +6,7 @@ companies: 'Délirus Entertainment'
 categories: News
 tags: acao delirus-entertainment
 ---
-A [Délirus Entertainment]({{ site.baseurl }}/index.php?p=cl&amp;t=19&amp;idd=40) acaba de lançar o hotsite do jogo Warbots para PC.
+A {% company Délirus Entertainment %} acaba de lançar o hotsite do jogo Warbots para PC.
 
 Warbots, jogo de ação e estratégia, mostra que no futuro a guerra não será mais entre homens, mas de homens contra robôs. Nesta guerra você estará do lado dos robôs.
 

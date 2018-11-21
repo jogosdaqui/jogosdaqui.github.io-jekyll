@@ -8,7 +8,7 @@ tags: palmsoft-tecnologia mobile previa
 ---
 Drag Racer
 , um dos maiores sucessos da Palmsoft
-, ganhar&aacute; uma nova vers&atilde;o. As v&aacute;rias novidades do jogo de corrida
+, ganhará uma nova versão. As várias novidades do jogo de corrida
  para celular
- est&atilde;o entre novos pilotos, carros e cen&aacute;rios.<br /><br />Veja a pr&eacute;via...
+ estão entre novos pilotos, carros e cenários.<br /><br />Veja a prévia...
 

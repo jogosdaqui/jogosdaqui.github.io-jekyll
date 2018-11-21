@@ -2,11 +2,12 @@
 published: true
 layout: post
 title: 'Starlit Adventures'
+author: Diego Giacomelli
 companies: 'Rockhead Games'
 categories: Game
 tags: ios android video rockhead-games
 ---
-[Starlit Adventures](http://www.starlitadventures.com/) é o novo game da gaúcha [Rockhead Games](http://rockheadgames.com/), de jogos como [Master of Words]({{ site.baseurl }}/2013/05/20/master-of-words/) e Pixel Shaper, foi fundada em 2010 por Christian Lykawka e Fernando D’Andrea, os mesmos que anos antes fundaram a {% company Southlogic Studios %}, famosa por games como {% post Guimo %} e {% post Trophy Hunter 2003 %}.
+[Starlit Adventures](http://www.starlitadventures.com/) é o novo game da gaúcha [Rockhead Games](http://rockheadgames.com/), de jogos como [Master of Words]({{ site.baseurl }}/2013/05/20/master-of-words) e Pixel Shaper, foi fundada em 2010 por Christian Lykawka e Fernando D’Andrea, os mesmos que anos antes fundaram a {% company Southlogic Studios %}, famosa por games como {% post Guimo %} e {% post Trophy Hunter 2003 %}.
 
 ## Lançamento mundial
 A Rockhead lançou o game para [iOS](https://itunes.apple.com/au/app/starlit-adventures/id960404802?l=pt&ls=1&mt=8) e [Android](https://play.google.com/store/apps/details?id=com.rockhead.starlit) na América Latina, Austrália e Nova Zelândia. Também existem negociações com um publisher para lançar o jogo no mercado japonês. Além disso tem planos para expandir o rico universo de Starlit para outras mídias.

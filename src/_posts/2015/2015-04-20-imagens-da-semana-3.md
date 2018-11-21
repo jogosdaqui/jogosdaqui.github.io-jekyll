@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Imagens da semana #3'
+author: Diego Giacomelli
 companies: ''
 categories: Column
 tags: swordtales aquiris-game-studio behold-studios mgaia-studios invent4 reiza-studios garage-227 otus-game-studio imagens-da-semana coluna

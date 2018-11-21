@@ -6,4 +6,4 @@ companies: 'SimpleWare Games'
 categories: Game
 tags: simpleware-games
 ---
-Em Petrakas Malabares o jogador se tornar&aacute; um talentoso malabarista. O objetivo &eacute; controlar o personagem e tentar equilibrar o maior n&uacute;mero de pedras no menor tempo poss&iacute;vel, pois o jogador precisa ser r&aacute;pido antes que o tempo acabe.<br /><br />Praticando malabarismo com um homem das cavernas, a divers&atilde;o est&aacute; garantida.
+Em Petrakas Malabares o jogador se tornará um talentoso malabarista. O objetivo é controlar o personagem e tentar equilibrar o maior número de pedras no menor tempo possível, pois o jogador precisa ser rápido antes que o tempo acabe.<br /><br />Praticando malabarismo com um homem das cavernas, a diversão está garantida.

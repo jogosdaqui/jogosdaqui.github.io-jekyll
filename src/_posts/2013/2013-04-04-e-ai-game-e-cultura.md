@@ -7,13 +7,13 @@ categories: News
 tags: facebook
 ---
  
-No dia 06 de abril acontecer&#225; no Festival Baixo Centro, S&#227;o Paulo, o evento &quot;E a&#237;, Game &#233; Cultura?&quot;, onde alunos de programa&#231;&#227;o de jogos realizar&#227;o um debate discutindo se jogos podem ser considerados cultura ou n&#227;o.
+No dia 06 de abril acontecerá no Festival Baixo Centro, São Paulo, o evento "E aí, Game é Cultura?", onde alunos de programação de jogos realizarão um debate discutindo se jogos podem ser considerados cultura ou não.
  
 
  
-O tema central emerge da pol&#234;mica criada a partir das recentes declara&#231;&#245;es da Ministra da Cultura, que teria dito que &quot;Game n&#227;o &#233; cultura&quot;.
+O tema central emerge da polêmica criada a partir das recentes declarações da Ministra da Cultura, que teria dito que "Game não é cultura".
  
-<strong>> Mais informa&#231;&#245;es em:</strong>
+<strong>> Mais informações em:</strong>
 Facebook: <a href="http://facebook.com/gamexcultura" target="_blank">facebook.com/gamexcultura</a>
 
 <a href="http://facebook.com/gamexcultura" target="_blank"></a>

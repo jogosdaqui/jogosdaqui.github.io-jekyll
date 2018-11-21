@@ -7,6 +7,6 @@ categories: Preview
 tags: palmsoft-tecnologia mobile previa
 ---
 Um jogo de luta
-, para celular, com cinco belas e sensuais lutadoras, &eacute; isso que promete a catarinense PalmSoft
- para Cat Fighters, um dos seus pr&oacute;ximos lan&ccedil;amentos.<br /><br />Veja a pr&eacute;via...
+, para celular, com cinco belas e sensuais lutadoras, é isso que promete a catarinense PalmSoft
+ para Cat Fighters, um dos seus próximos lançamentos.<br /><br />Veja a prévia...
 

@@ -20,10 +20,10 @@ timezone: America/Sao_Paulo
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: giacomelli+jogosdaqui@gmail.com
   facebook:
   flickr:
-  github: jogosdaqui/jogosdaqui.github.io-jekyll
+  github: jogosdaqui
   instagram:
   linkedin:
   pinterest:
@@ -55,9 +55,9 @@ highlighter: rouge
 #permalink: pretty
 permalink: /:year/:month/:day/:title 
 
-tag_page_layout: tag_page
+tag_page_layout: tag-page
 tag_page_dir: tags
-tag_feed_layout: tag_feed
+tag_feed_layout: tag-feed
 tag_feed_dir: tags
 tag_permalink_style: pretty
 

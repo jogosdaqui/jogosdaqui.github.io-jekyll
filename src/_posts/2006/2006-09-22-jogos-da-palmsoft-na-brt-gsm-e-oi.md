@@ -6,7 +6,7 @@ companies: ''
 categories: News
 tags: palmsoft-tecnologia mobile
 ---
-Os jogos da empresa catarinense <a href="../../../index.php?p=cl&amp;t=19&amp;idd=38">PalmSoft</a>
-, desenvolvedora de sucessos como <a href="../../../index.php?p=c&amp;id=242">Drag Racer</a>
- e <a href="../../../index.php?p=c&amp;id=460">Cat Fighters</a>
-, come&ccedil;aram a ser vendidos na &uacute;ltima quarta-feira pela Oi e pela Brasil Telecom GSM. Ao todo, s&atilde;o 16 jogos que passam a ser disponibilizados tanto nos sites das operadoras quanto pelo celular, via WAP. Os jogos continuam no cat&aacute;logo da Claro, Teleamaz&ocirc;nia e Telemig.
+Os jogos da empresa catarinense PalmSoft
+, desenvolvedora de sucessos como Drag Racer
+ e Cat Fighters
+, começaram a ser vendidos na última quarta-feira pela Oi e pela Brasil Telecom GSM. Ao todo, são 16 jogos que passam a ser disponibilizados tanto nos sites das operadoras quanto pelo celular, via WAP. Os jogos continuam no catálogo da Claro, Teleamazônia e Telemig.

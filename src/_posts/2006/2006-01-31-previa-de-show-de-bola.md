@@ -6,6 +6,6 @@ companies: ''
 categories: Preview
 tags: meantime previa
 ---
-Futebol &eacute; uma paix&atilde;o nacional. A Meantime
- sabe muito bem disso e j&aacute; est&aacute; preparando o seu jogo de futebol.<br /><br />Show de Bola est&aacute; em desenvolvimento, mas j&aacute; promete muita divers&atilde;o e boas risadas na tela do celular.<br /><br />Confira a pr&eacute;via ...
+Futebol é uma paixão nacional. A Meantime
+ sabe muito bem disso e já está preparando o seu jogo de futebol.<br /><br />Show de Bola está em desenvolvimento, mas já promete muita diversão e boas risadas na tela do celular.<br /><br />Confira a prévia ...
 

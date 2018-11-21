@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Checkpoint #3'
+author: Diego Giacomelli
 companies: ''
 categories: Column
 tags: behold-studios steam adjogosrs swordtales checkpoint coluna
