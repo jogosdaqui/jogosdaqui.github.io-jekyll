@@ -7,7 +7,7 @@ module Jekyll
 
     def render(context)
       site = context.registers[:site]
-      post =  site.posts.docs.find {|p| p.data['title'] == @postTitle}
+      post =  site.posts.docs.find {|p| p.data['title'].casecmp(@postTitle) == 0}
 
       if post == nil
         puts "[PostTag] WARNING: did not find a post with title '#{@postTitle}'."
