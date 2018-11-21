@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Starlit Adventures'
+author: Diego Giacomelli
 companies: 'Rockhead Games'
 categories: Game
 tags: ios android video rockhead-games

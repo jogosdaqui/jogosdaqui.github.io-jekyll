@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Totem Destroyer Deluxe'
+author: Diego Giacomelli
 companies: 'Cats in the Sky'
 categories: Game
 tags: mac windows cats-in-the-sky puzzle

@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Mahjong Max'
+author: Diego Giacomelli
 companies: 'Icon Games'
 categories: Game
 tags: icon-games mac windows video

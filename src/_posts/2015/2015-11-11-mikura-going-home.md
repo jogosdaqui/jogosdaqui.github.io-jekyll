@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Mikura Going Home'
+author: Diego Giacomelli
 companies: 'Quadro-a-Quadro'
 categories: Game
 tags: ios android video quadro-a-quadro

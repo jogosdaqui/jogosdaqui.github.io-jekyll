@@ -3,6 +3,7 @@ published: true
 layout: post
 title: 'Hipercubo'
 companies: 'Studio Avante'
+author: Diego Giacomelli
 categories: Game
 tags: ios sbgames evento studio-avante
 ---

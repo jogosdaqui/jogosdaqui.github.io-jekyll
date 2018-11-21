@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'V de Vinagre'
+author: Diego Giacomelli
 companies: 'Flux Game Studio'
 categories: Game
 tags: sbgames video facebook flux-game-studio

@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Calango For Kids'
+author: Diego Giacomelli
 companies: 'Tinfoil Hat Studios'
 categories: Game
 tags: ios sbgames evento video tinfoil-hat-studios
