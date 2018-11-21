@@ -6,24 +6,12 @@ companies: ''
 categories: Event
 tags: 
 ---
-Ap&oacute;s boa repercurs&atilde;o o em jornais, revistas e internet.
+Após boa repercursão o em jornais, revistas e internet.
 
- 
+A Edward Multimídia junto com a Alphachannel estará promovendo, dia 13 de Dezembro, na escola técnica de games e computação gráfica Alphachannel uma palestra sobre o jogo Esquadrão Zumbi.
 
-<p align="center"> 
+Na palestra serão abordados o conceito, criação e produção do jogo e projeções futuras.
 
-<center>
- 
+Inscrições gratuitas no site [www.alphachannel.com.br](http://www.alphachannel.com.br) ou pelo fone é 5572 8377.
 
-<p align="center"> 
-
-A Edward Multim&iacute;dia
- junto com a Alphachannel estar&aacute; promovendo, dia 13 de Dezembro, na escola t&eacute;cnica de games e computa&ccedil;&atilde;o gr&aacute;fica Alphachannel uma palestra sobre o jogo Esquadr&atilde;o Zumbi
-.
-
-Na palestra ser&atilde;o abordados o conceito, cria&ccedil;&atilde;o e produ&ccedil;&atilde;o do jogo e proje&ccedil;&otilde;es futuras.
-
-Inscri&ccedil;&otilde;es gratuitas no site <a href="http://www.alphachannel.com.br" target="_blank">www.alphachannel.com.br</a>
- ou pelo fone &eacute; 5572 8377.
-
-Uma oportunidade imperd&iacute;vel para quem &eacute; f&atilde; de jogos e est&aacute; interessado em como foi produzido o jogo Esquadr&atilde;o Zumbi.
+Uma oportunidade imperdível para quem é fã de jogos e está interessado em como foi produzido o jogo Esquadrão Zumbi.

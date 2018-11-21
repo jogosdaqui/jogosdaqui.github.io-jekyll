@@ -6,5 +6,5 @@ companies: ''
 categories: News
 tags: gametrack
 ---
-O portal Gametrack acaba de lan&ccedil;ar mais um jogo para sua se&ccedil;&atilde;o singleplayer. <br /><br />Com este lan&ccedil;amento o portal j&aacute; conta com 10 jogos singleplayer e 4 multiplayer.<br /><br />Leia mais...
+O portal Gametrack acaba de lançar mais um jogo para sua seção singleplayer. <br /><br />Com este lançamento o portal já conta com 10 jogos singleplayer e 4 multiplayer.<br /><br />Leia mais...
 

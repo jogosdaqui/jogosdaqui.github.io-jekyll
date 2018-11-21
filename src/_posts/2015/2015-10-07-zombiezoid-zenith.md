@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'ZombieZoid - Zenith'
+author: Diego Giacomelli
 companies: 'Adhoc Games'
 categories: Game
 tags: adhoc-games acao steam video ps4 demo

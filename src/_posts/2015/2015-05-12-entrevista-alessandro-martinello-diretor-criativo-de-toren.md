@@ -13,7 +13,7 @@ E outra porque acreditamos que um jogo tão autoral quanto Toren deve ser antes 
 
 Dito isso, para comemorar o lançamento de Toren fizemos um bate-papo com o Alessandro Martinello, diretor criativo de Toren, o resultado é a entrevista que você confere agora.
 
-## Nas tuas palestras ouvimos a história de como nasceu o jogo, se me lembro bem foi algo como &quot;o jogo nasceu como uma ideia simples de mecânica de gameplay: o quanto seria divertido uma menina subindo numa torre!&quot;. O que mais pode nos contar desse processo inicial de criação do jogo?"
+## Nas tuas palestras ouvimos a história de como nasceu o jogo, se me lembro bem foi algo como "o jogo nasceu como uma ideia simples de mecânica de gameplay: o quanto seria divertido uma menina subindo numa torre!". O que mais pode nos contar desse processo inicial de criação do jogo?"
 > Alessandro Martinello: Que vimos com cuidado as habilidades de cada membro do time antes de começar a nutrir ideias. Luiz tinha 2 anos de experiencia em unity 3D, Conrado era animador 3D e eu formado em cinema com veia de diretor de arte. Então sabiamos que seria um game 3D que teria foco em artes antes de começar as ideias. 
 
 ## Toren é o primeiro game a utilizar a Lei Rouanet. Conseguir isso deve ter sido um grande desafio, mas não tão grande quanto otimizar os shaders do game, certo?

@@ -7,4 +7,4 @@ categories: News
 tags: demo jogosbr
 ---
 O JogosBR
- encerrou, a meia-noite, as inscri&ccedil;&otilde;es para os Concursos de Demo Jog&aacute;vel e Jogos de Baixo Or&ccedil;amento.<br />Os projetos ser&atilde;o avaliados por uma comiss&atilde;o julgadora.<br /><br />Agora &eacute; esperar o dia 19 de maio, para conhecermos os vencedores.
+ encerrou, a meia-noite, as inscrições para os Concursos de Demo Jogável e Jogos de Baixo Orçamento.<br />Os projetos serão avaliados por uma comissão julgadora.<br /><br />Agora é esperar o dia 19 de maio, para conhecermos os vencedores.

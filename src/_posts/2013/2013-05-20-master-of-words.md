@@ -9,30 +9,30 @@ tags: ios android windows-phone windows rockhead-games
 
  
 Deveria ter feito esse post sobre o <a href="http://masterofwords.net/" target="_blank">Master of Words</a>
-, da ga&#250;cha <a href="http://www.rockheadgames.com/" target="_blank">Rockhead Games</a>
-, na semana passada, mas quando comecei a jog&#225;-lo, n&#227;o parei mais e o post ficou pra hoje :)
+, da gaúcha <a href="http://www.rockheadgames.com/" target="_blank">Rockhead Games</a>
+, na semana passada, mas quando comecei a jogá-lo, não parei mais e o post ficou pra hoje :)
  
 
  
-O game &#233; basicamente um ca&#231;a-palavras com uma pequena combina&#231;&#227;o da mec&#226;nica de Tetris. Dif&#237;cil dizer a raz&#227;o de um game t&#227;o simples ter me cativado tanto. Talvez a resposta esteja na pergunta: a genialidade est&#225; na simplicidade.
+O game é basicamente um caça-palavras com uma pequena combinação da mecânica de Tetris. Difícil dizer a razão de um game tão simples ter me cativado tanto. Talvez a resposta esteja na pergunta: a genialidade está na simplicidade.
  
 
  
-Voc&#234; recebe uma grade de letras e precisa montar alguma palavra com ela, quanto maior a palavra mais pontos ganha, al&#233;m disso as letras que possuem uma estrela d&#227;o mais pontos e se voc&#234; ainda fizer uma palavra utilizando uma linha ou coluna completa, mais pontos tamb&#233;m.
+Você recebe uma grade de letras e precisa montar alguma palavra com ela, quanto maior a palavra mais pontos ganha, além disso as letras que possuem uma estrela dão mais pontos e se você ainda fizer uma palavra utilizando uma linha ou coluna completa, mais pontos também.
  
 
  
 O jogo conta com power-ups, como embaralhador, estrelas cadentes, salve a bandeja e descongelar tudo.
-Um pequeno easter egg: tente escrever um &quot;palavr&#227;o&quot; e veja o som que faz ;)
+Um pequeno easter egg: tente escrever um "palavrão" e veja o som que faz ;)
  
 
  
-Master of Words &#233; simples e muito bem acabado. Uma das coisas mais legais &#233; que voc&#234; sempre joga online contra diversas pessoas ao redor do mundo que est&#227;o na mesma sala e no final consegue ver em que posi&#231;&#227;o ficou na rodada. Os rankings de todos os jogadores podem ser acompanhados tamb&#233;m pelo site do game: <a href="http://masterofwords.net/rankings/" target="_blank">http://masterofwords.net/rankings/</a>
+Master of Words é simples e muito bem acabado. Uma das coisas mais legais é que você sempre joga online contra diversas pessoas ao redor do mundo que estão na mesma sala e no final consegue ver em que posição ficou na rodada. Os rankings de todos os jogadores podem ser acompanhados também pelo site do game: <a href="http://masterofwords.net/rankings/" target="_blank">http://masterofwords.net/rankings/</a>
 
  
-Com todas as qualidades que tem e com seu grande fator de competi&#231;&#227;o, gra&#231;as ao multiplayer, Master of Words tem todo o potencial para ser um hit... talvez o pr&#243;ximo &quot;DrawSomething&quot;... o tempo dir&#225;!
+Com todas as qualidades que tem e com seu grande fator de competição, graças ao multiplayer, Master of Words tem todo o potencial para ser um hit... talvez o próximo "DrawSomething"... o tempo dirá!
  
-Master of Words est&#225; dispon&#237;vel gratuitamente para <a href="https://itunes.apple.com/us/app/master-of-words/id580299053?ls=1&mt=8" target="_blank">iOS</a>
+Master of Words está disponível gratuitamente para <a href="https://itunes.apple.com/us/app/master-of-words/id580299053?ls=1&mt=8" target="_blank">iOS</a>
  e <a href="https://play.google.com/store/apps/details?id=com.rockhead.master_of_words&hl=en" target="_blank">Android</a>
 .
-A Rockhead promente para breve uma vers&#227;o Windows Phone.
+A Rockhead promente para breve uma versão Windows Phone.

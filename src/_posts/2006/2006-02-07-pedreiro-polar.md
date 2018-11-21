@@ -6,4 +6,4 @@ companies: 'Devworks Game Technology'
 categories: Game
 tags: devworks-game-technology
 ---
-Voc&ecirc; &eacute; um construtor de iglus e precisa prepar&aacute;-los com os blocos de neve. O problema &eacute; que &eacute; necess&aacute;rio atravessar o rio gelado levando apenas um bloco por vez at&eacute; o iglu.<br /><br />Cuidado para n&atilde;o cair no rio e perder uma vida. Outros perigos como bolas de neve e pinguins muito bravos precisam ser evitados tamb&eacute;m.
+Você é um construtor de iglus e precisa prepará-los com os blocos de neve. O problema é que é necessário atravessar o rio gelado levando apenas um bloco por vez até o iglu.<br /><br />Cuidado para não cair no rio e perder uma vida. Outros perigos como bolas de neve e pinguins muito bravos precisam ser evitados também.

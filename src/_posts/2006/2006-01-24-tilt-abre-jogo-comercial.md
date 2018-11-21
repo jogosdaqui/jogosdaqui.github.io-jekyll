@@ -7,5 +7,5 @@ categories: News
 tags: tilt
 ---
 A TILT online
- inaugurou hoje uma nova se&ccedil;&atilde;o, chamada passo-a-passo. &Eacute; uma se&ccedil;&atilde;o dedicada a projetos espec&iacute;ficos de programa&ccedil;&atilde;o e constru&ccedil;&atilde;o de prot&oacute;tipos de jogos em Delphi.<br /><br />Para o lan&ccedil;amento da nova se&ccedil;&atilde;o, a TILT disponibilzou o fonte de um jogo lan&ccedil;ado em 1992.<br /><br />Essa &eacute; para quem, al&eacute;m de jogar, gosta de fazer seus pr&oacute;prios jogos.<br /><br />Leia mais ....
+ inaugurou hoje uma nova seção, chamada passo-a-passo. É uma seção dedicada a projetos específicos de programação e construção de protótipos de jogos em Delphi.<br /><br />Para o lançamento da nova seção, a TILT disponibilzou o fonte de um jogo lançado em 1992.<br /><br />Essa é para quem, além de jogar, gosta de fazer seus próprios jogos.<br /><br />Leia mais ....
 

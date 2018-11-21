@@ -6,6 +6,6 @@ companies: ''
 categories: News
 tags: abragames entrevista
 ---
-A &uacute;ltima NewsAbragames de 2006 j&aacute; est&aacute; no ar. Nesta edi&ccedil;&atilde;o podemos conferir as mensagens de final de ano de Marcelo Carvalho (presidente da Abragames) e Andr&eacute; Penha (VP de comunica&ccedil;&atilde;o e marketing).<br /><br />Veja a review do jogo Natu T&aacute;xi da D&eacute;lirus Entertainment
-, a agenda de eventos e cursos, uma entrevista com Bernardo Manfredini, consultor de neg&oacute;cios da Softex / Abragames, novos associados e muito mais.<br /><br /><a href="http://www.dcoder.com.br/abragames/index.php" target="_blank">Confira a newsletter...</a>
+A última NewsAbragames de 2006 já está no ar. Nesta edição podemos conferir as mensagens de final de ano de Marcelo Carvalho (presidente da Abragames) e André Penha (VP de comunicação e marketing).<br /><br />Veja a review do jogo Natu Táxi da Délirus Entertainment
+, a agenda de eventos e cursos, uma entrevista com Bernardo Manfredini, consultor de negócios da Softex / Abragames, novos associados e muito mais.<br /><br /><a href="http://www.dcoder.com.br/abragames/index.php" target="_blank">Confira a newsletter...</a>
 

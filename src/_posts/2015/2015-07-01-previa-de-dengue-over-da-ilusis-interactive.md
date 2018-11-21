@@ -18,7 +18,7 @@ Se há décadas conseguimos, com controle e conscientização, eliminar o vetor 
 
 
 ## Gameplay
-Segundo a equipe de desenvolvimento de Dengue Over, durante a jornada contra a dengue o jogador passa por todas as casas da rua e cada uma é baseada em diferentes tipos de minigames. Alguns deles são estilo Seek &amp; Find, Simulação, Bate papo com os vizinhos no formato de trivias, Quebra cabeças na montagem de cartazes, Match 3 sobre focos e sintomas da Dengue e até um jogo de plataforma onde você é o mosquito procurando focos de água parada para depositar seus ovos. Além de abordar todo conteúdo sobre a dengue, o mosquito e prevenção o jogo ainda vem com um conjunto de atividades externas e de sala de aula para que o aprendizado seja espalhado para os pais, vizinhos e comunidade.
+Segundo a equipe de desenvolvimento de Dengue Over, durante a jornada contra a dengue o jogador passa por todas as casas da rua e cada uma é baseada em diferentes tipos de minigames. Alguns deles são estilo Seek & Find, Simulação, Bate papo com os vizinhos no formato de trivias, Quebra cabeças na montagem de cartazes, Match 3 sobre focos e sintomas da Dengue e até um jogo de plataforma onde você é o mosquito procurando focos de água parada para depositar seus ovos. Além de abordar todo conteúdo sobre a dengue, o mosquito e prevenção o jogo ainda vem com um conjunto de atividades externas e de sala de aula para que o aprendizado seja espalhado para os pais, vizinhos e comunidade.
 
 
 

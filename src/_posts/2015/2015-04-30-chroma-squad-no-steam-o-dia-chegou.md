@@ -7,7 +7,7 @@ categories: News
 tags: behold-studios chroma-squad rpg steam crowdfunding
 ---
 A <a href="{{ site.baseurl }}/tags/behold-studios/">Behold Studios</a>
-, que já fez bonito com games como <a href="http://beholdstudios.com.br/games/knights-of-pen-paper/" target="_blank">Knights of Pen &amp; Paper</a>
+, que já fez bonito com games como <a href="http://beholdstudios.com.br/games/knights-of-pen-paper/" target="_blank">Knights of Pen & Paper</a>
  e <a href="http://beholdstudios.com.br/games/monster-jam/" target="_blank">Monster Jam</a>
 , é a protagonista de um dos mais esperados lançamentos do ano, claro que estamos falando de <a href="http://chromasquad.com/" target="_blank">Chroma Squad</a>
  a grande empreitada que começou em meados de 2013 numa <a href="https://www.kickstarter.com/projects/1893273284/chroma-squad-manager-game-with-japanese-style-supe/" target="_blank">campanha no Kickstarter</a>

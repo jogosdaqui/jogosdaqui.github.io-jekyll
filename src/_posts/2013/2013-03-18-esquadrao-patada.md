@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Esquadrão Patada'
+author: Diego Giacomelli
 companies: 'Pankeka Games'
 categories: Game
 tags: ios video pankeka-games puzzle

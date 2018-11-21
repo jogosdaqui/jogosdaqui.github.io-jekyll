@@ -6,5 +6,5 @@ companies: ''
 categories: News
 tags: 
 ---
-Foi publicado no caderno Link do jornal Estad&atilde;o, uma mat&eacute;ria falando do <span style="font-weight: bold; color: rgb(255, 153, 0);">jogosdaqui</span><span style="color: rgb(255, 153, 0);">.</span><br /><br /><a target="_blank" href="http://www.link.estadao.com.br/index.cfm?id_conteudo=6641">Leia a mat&eacute;ria...</a>
+Foi publicado no caderno Link do jornal Estadão, uma matéria falando do <span style="font-weight: bold; color: rgb(255, 153, 0);">jogosdaqui</span><span style="color: rgb(255, 153, 0);">.</span><br /><br /><a target="_blank" href="http://www.link.estadao.com.br/index.cfm?id_conteudo=6641">Leia a matéria...</a>
 

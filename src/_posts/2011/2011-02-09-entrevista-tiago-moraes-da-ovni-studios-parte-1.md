@@ -34,7 +34,7 @@ Estúdio fundado há pouco mais de um ano, mas já com projetos de empresas como
 > Tiago Moraes: Tentamos com algumas marcas bem aceitas no mercado nacional e internacional, mas dificilmente a conta fecha nesse modelo de negócio. Antes, a quantia que estava com o desenvolvedor era bem menor do que geralmente é trabalhado hoje: pela Apple você realmente fica com uma quantia grande de cada cópia vendida, mas no micropagamento se ganha pela quantidade em vez da qualidade, é realmente muito complicado de fazer a conta fechar.
 
 ## A gente vê a Gameloft fazendo cópia de muita coisa...
-> Tiago Moraes: É, a Gameloft é realmente um caso excepcional. Eles realmente copiam todo game design, trocam a skin, vendem milhões e mesmo assim são cópias bem interessantes, são jogos &quot;triple A&quot; de mobile.
+> Tiago Moraes: É, a Gameloft é realmente um caso excepcional. Eles realmente copiam todo game design, trocam a skin, vendem milhões e mesmo assim são cópias bem interessantes, são jogos "triple A" de mobile.
 
 ## Quem faz a coisa séria fica decepcionado com isso?
 > Tiago Moraes: Sim, todos os feedbacks que os brasileiros recebem das publicadores internacionais é sempre o mesmo: que o brasileiro quer sempre fazer algo revolucionário, não em complexidade, mas em querer uma mecânica nova, que ninguém viu antes. Mas se pensar como um negócio, às vezes é melhor pegar vários elementos de jogos que fizeram sucesso para ter um retorno mínimo garantido.

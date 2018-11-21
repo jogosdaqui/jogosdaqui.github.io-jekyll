@@ -7,5 +7,5 @@ categories: News
 tags: 
 ---
 Uma semana de muitas novidades para o jogo Estradas Esburacadas
- da SR-Games. <br />A empresa acaba de liberar dezenas de novas imagens e dois novos v&iacute;deos do jogo em desenvolvimento.<br /><br />Leia mais...
+ da SR-Games. <br />A empresa acaba de liberar dezenas de novas imagens e dois novos vídeos do jogo em desenvolvimento.<br /><br />Leia mais...
 

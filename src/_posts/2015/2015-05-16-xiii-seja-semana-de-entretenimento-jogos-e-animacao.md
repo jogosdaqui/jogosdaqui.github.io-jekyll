@@ -26,7 +26,7 @@ Quarta-feira - 20 de maio
 	<li>15:30 às 16:00 Casa dos Quadrinhos: Geraldo Araújo</li>
 	<li>16:30 às 17:20 O Cartoon nos Meios de Comunicação: Lucas Libanio</li>
 	<li>17:30 às 18:20 Concept Art em Suportes Diversos: Eduardo Bernardes</li>
-	<li>13:30 às 17:30 Minicurso: C# Avançado &amp; Unity 3D: Helbert Gomes</li>
+	<li>13:30 às 17:30 Minicurso: C# Avançado & Unity 3D: Helbert Gomes</li>
 </ul>
  
 

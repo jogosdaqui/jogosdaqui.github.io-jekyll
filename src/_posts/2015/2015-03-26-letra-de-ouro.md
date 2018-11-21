@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Letra de Ouro'
+author: Diego Giacomelli
 companies: 'Cupcake Sweet Entertainment'
 categories: Game
 tags: ios android facebook cupcake-sweet-entertainment

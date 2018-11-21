@@ -7,7 +7,7 @@ categories: Preview
 tags: devworks-game-technology gametrack previa
 ---
 O jogo de futebol
- com pinos &eacute; uma das pr&oacute;ximas atra&ccedil;&otilde;es do portal Gametrack
+ com pinos é uma das próximas atrações do portal Gametrack
 .<br /><br />A Devworks
- liberou as primeiras informa&ccedil;&otilde;es sobre o jogo. Pinogol 3D ser&aacute; mais um jogo multiplayer do portal.<br /><br />Veja a pr&eacute;via...
+ liberou as primeiras informações sobre o jogo. Pinogol 3D será mais um jogo multiplayer do portal.<br /><br />Veja a prévia...
 

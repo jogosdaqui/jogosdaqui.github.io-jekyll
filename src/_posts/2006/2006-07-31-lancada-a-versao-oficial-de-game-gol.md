@@ -6,5 +6,5 @@ companies: ''
 categories: News
 tags: o2-games
 ---
-Ap&oacute;s 3 meses de beta testes e mais de 12 mil inscritos, Game Gol foi oficialmente lan&ccedil;ado.<br /><br />A meta da empresa O2 Games &eacute; de 72 mil usu&aacute;rios at&eacute; o final de 2006.<br /><br />Leia mais...
+Após 3 meses de beta testes e mais de 12 mil inscritos, Game Gol foi oficialmente lançado.<br /><br />A meta da empresa O2 Games é de 72 mil usuários até o final de 2006.<br /><br />Leia mais...
 

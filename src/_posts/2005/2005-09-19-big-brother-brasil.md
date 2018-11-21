@@ -6,18 +6,18 @@ companies: ''
 categories: Game
 tags: reality-show globo
 ---
-O jogo Big Brother Brasil foi baseado no programa de televis&atilde;o de grande sucesso em v&aacute;rios pa&iacute;ses do mundo e que tamb&eacute;m teve um grande sucesso pelas ondas da Rede Globo. 
+O jogo Big Brother Brasil foi baseado no programa de televisão de grande sucesso em vários países do mundo e que também teve um grande sucesso pelas ondas da Rede Globo. 
 
 
 
 
 
-O jogador pode entrar neste &quot;virtual reality show&quot; como um dos 12 personagens dispon&iacute;veis, cada um com suas pr&oacute;prias caracter&iacute;sticas pessoais.
+O jogador pode entrar neste "virtual reality show" como um dos 12 personagens disponíveis, cada um com suas próprias características pessoais.
 
 
 
 
-O jogo segue as mesmas regras do programa de TV, onde os participantes se relacionam dentro de uma casa, lutando para n&atilde;o serem eliminados pelo p&uacute;blico.
+O jogo segue as mesmas regras do programa de TV, onde os participantes se relacionam dentro de uma casa, lutando para não serem eliminados pelo público.
 
 
 

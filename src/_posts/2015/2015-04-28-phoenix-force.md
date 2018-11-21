@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: 'Phoenix Force'
-companies: 'Awoker Games '
+author: Diego Giacomelli
+companies: 'Awoker Games'
 categories: Game
 tags: ios android splitplay steam windows-phone awoker-games
 ---

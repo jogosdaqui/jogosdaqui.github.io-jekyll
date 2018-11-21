@@ -6,7 +6,7 @@ companies: ''
 categories: Preview
 tags: 
 ---
-A SR-Games vai colocar super m&aacute;quinas para rodar em estradas esburacadas e no seu PC. &Eacute; isso que promete o primeiro t&iacute;tulo da empresa, Estradas Esburacadas est&aacute; em in&iacute;cio de desenvolvimento, mas j&aacute; mostra imagens com grande potencial.<br /><br />O jogo com previs&atilde;o de lan&ccedil;amento para novembro de 2006, colocar&aacute; o jogador num campeonato de velocidade, no controle de carros potentes pelas ruas e estradas de S&atilde;o Paulo.<br /><br />Por enquanto podemos ver imagens de um Audi TT com varia&ccedil;&otilde;es de cores e acess&oacute;rios. Ser&aacute; poss&iacute;vel a tunagem de v&aacute;rios aspectos do carro, para isso ser&aacute; necess&aacute;rio ganhar dinheiro vencendo as v&aacute;rias corridas do jogo.<br /><br />
+A SR-Games vai colocar super máquinas para rodar em estradas esburacadas e no seu PC. É isso que promete o primeiro título da empresa, Estradas Esburacadas está em início de desenvolvimento, mas já mostra imagens com grande potencial.<br /><br />O jogo com previsão de lançamento para novembro de 2006, colocará o jogador num campeonato de velocidade, no controle de carros potentes pelas ruas e estradas de São Paulo.<br /><br />Por enquanto podemos ver imagens de um Audi TT com variações de cores e acessórios. Será possível a tunagem de vários aspectos do carro, para isso será necessário ganhar dinheiro vencendo as várias corridas do jogo.<br /><br />
  
 
  

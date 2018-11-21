@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Lava Girl - Demolition Puzzle'
+author: Diego Giacomelli
 companies: 'Sudio Ho'
 categories: Game
 tags: android studio-ho

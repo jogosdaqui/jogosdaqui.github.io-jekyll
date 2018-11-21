@@ -7,12 +7,12 @@ categories: News
 tags: palmsoft-tecnologia mobile
 ---
 <p align="justify">A empresa catarinense PalmSoft Tecnologia
- lan&ccedil;a dois novos jogos para celular
+ lança dois novos jogos para celular
 : Fighters of Caribbean, jogo de luta
- entre piratas e o jogo de a&ccedil;&atilde;o
+ entre piratas e o jogo de ação
  Gladiarena.
 
-<br />Os jogos s&atilde;o publicados pela MDEV
+<br />Os jogos são publicados pela MDEV
  e podem ser encontrados nas operadoras: Claro, Brasil Telecom GSM, Teleamazonia e Telemig.
 <p align="justify"><br />
 

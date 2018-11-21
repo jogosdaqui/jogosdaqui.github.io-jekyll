@@ -6,7 +6,7 @@ companies: ''
 categories: Game
 tags: devworks-game-technology puzzle
 ---
-Bears &amp; Bees da <a href="http://www.devworks.com.br/" target="_blank">DevWorks </a>
+Bears & Bees da <a href="http://www.devworks.com.br/" target="_blank">DevWorks </a>
 éum jogo estilo quebra-cabeça onde o jogador precisa alimentar um urso feroz e faminto com mel, muito mel.
 
 Para conseguir isso o jogador tem uma colméia a sua disposição, basta juntar 3 favos de mel em forma de triângulo, toda vez que isso acontece o pote de mel do urso recebe mais mel.

@@ -6,4 +6,4 @@ companies: ''
 categories: Preview
 tags: palmsoft-tecnologia mobile rpg
 ---
-A Palmsoft liberou imagens do jogo em desenvolvimento Essence.  Nas imagens j&aacute; podemos observar um cen&aacute;rio interno, um paladino e magos.<br /><br />Segundo a equipe da Palmsoft, Essence promete levar os jogos da empresa a um novo n&iacute;vel de qualidade.<br /><br />
+A Palmsoft liberou imagens do jogo em desenvolvimento Essence.  Nas imagens já podemos observar um cenário interno, um paladino e magos.<br /><br />Segundo a equipe da Palmsoft, Essence promete levar os jogos da empresa a um novo nível de qualidade.<br /><br />

@@ -11,7 +11,7 @@ tags: video psvita big-festival evento big-starter facebook previa
 Assim começava o desenho animado de um dos brinquedos mais famosos e populares do mundo, que já foram conhecidos aqui no Brasil como Falcon, depois Comandos em Ação e agora G.I. Joe, dependendo de qual é a sua geração você os conheceu de forma diferente, talvez não apenas na forma de bonecos, pois eles fizeram parte da cultura pop de várias décadas, de maneira mais vigorosa durante os anos 80/90, contando com revistas em quadrinhos, a divertida série animada que passou na TV aberta por quase uma década e mais recentemente com filmes.
 ## Dog Duty
 <a href="https://www.facebook.com/dogdutygame" target="_blank">Dog Duty</a>
- é um game da brasiliense <a href="http://zanardiliza.com/" target="_blank">Zanardi &amp; Liza</a>
+ é um game da brasiliense <a href="http://zanardiliza.com/" target="_blank">Zanardi & Liza</a>
  que se inspira na clássica brincadeira de bonecos ou action-figures.
 
 > Inicialmente, a inspiração veio dos Comandos em Ação, mas, como fatalmente ocorriam nas brincadeiras, sempre entrava um He-man, uma Tartaruga Ninja no meio das brincadeiras, para engrossar os exércitos de plástico. Uma verdadeira 'Toy Story'. (comenta Leonardo Zimbres)

@@ -133,7 +133,7 @@ tags: 'tags'
   * Promo 
 * **tags**: define as tags do post separadas por espaço, sempre em letras minúsculas, sem acentos e espaços substituídos por hífen. Ex.: tilt micro-sistemas
 
-* Escreva o conteúdo do post.
+* Escreva o conteúdo do post utilizando o formato [Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
 > Abaixo dos metadados, logo após o `---` você pode escrever o texto do post em formato Markdown. No post, além do texto, você pode incluir recursos, como outras imagens (diretamente da pasta de assets do post), vídeos do youtube/vimeo e áudios do SoundCloud. Verifique o restando do FAQ para mais detalhes de como adicionar esses recursos no seu post.
 

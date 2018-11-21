@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Crystal Catcher'
+author: Diego Giacomelli
 companies: 'Crazy Minds Game Studio'
 categories: Game
 tags: ios video crazy-minds-game-studio
