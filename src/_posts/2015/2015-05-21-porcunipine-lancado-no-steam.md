@@ -12,7 +12,7 @@ O jogo está sendo publicado para PC pela publisher britânica Curve Digital. Pa
 ## 
 
 ## Conheça Porcunipine
-Ficou curioso sobre o game? Então confira <a href="{{ site.baseurl }}/2015/05/21/porcunipine/">nosso post</a>
+Ficou curioso sobre o game? Então confira [nosso post]({{ site.baseurl }}/2015/05/21/porcunipine)
  sobre a experiência de jogar Porcunipine ou acesse a <a href="http://store.steampowered.com/app/352620/" target="_blank">página do game no Steam</a>
 .
 ## Confira o vídeo do famoso PewDiePie jogando "o game da bunda"

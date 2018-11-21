@@ -20,13 +20,13 @@ A Espaço não revela muito sobre os novos projetos que vem por ai, mas nos gara
 ## Sobre a Espaço Informática
 Com sede em Porto Alegre, RS, a empresa atua com desenvolvimento de jogos desde 1999. <b><i>Winguel</i></b> é o quinto jogo produzido pela empresa, que tem seus títulos publicados em mais de quinze paises. Os jogos produzidos pela empresa são:
 <ul>
-	<li><a href="{{ site.baseurl }}/2005/09/19/hades2/">Hades2</a>
+	<li>[Hades2]({{ site.baseurl }}/2005/09/19/hades2)
 </li>
-	<li><a href="{{ site.baseurl }}/2005/09/20/christmas-magic/">Christmas Magic</a>
+	<li>[Christmas Magic]({{ site.baseurl }}/2005/09/20/christmas-magic)
 </li>
-	<li><a href="{{ site.baseurl }}/2005/09/20/matchball-tennis/">Matchball Tennis</a>
+	<li>[Matchball Tennis]({{ site.baseurl }}/2005/09/20/matchball-tennis)
 </li>
-	<li><a href="{{ site.baseurl }}/2005/09/22/der-pferderennstall/">Der Pferderennstall</a>
+	<li>[Der Pferderennstall]({{ site.baseurl }}/2005/09/22/der-pferderennstall)
 </li>
 	<li>Winguel</li>
 </ul>

@@ -12,5 +12,5 @@ O <a href="http://www.taikodom.com.br/hot_egs/index.jsp?pg=dia2/home" target="_b
 Você também poder viajar nos <a href="http://www.taikodom.com.br/index.jsp?pg=gal_videos" target="_blank">vídeos do jogo</a>
 .
 
-<a href="{{ site.baseurl }}/tags/taikodom/">Leia mais sobre o Taikodom...</a>
+[Leia mais sobre o Taikodom...]({{ site.baseurl }}/tags/taikodom)
 .

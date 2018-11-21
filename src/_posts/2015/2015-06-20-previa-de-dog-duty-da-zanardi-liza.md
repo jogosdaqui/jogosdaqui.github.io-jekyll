@@ -37,5 +37,5 @@ Na imagem abaixo podemos conhecer quatro deles: Madness, o especialista em explo
 ## Plataformas e lançamento
 Dog Duty tem previsão de lançamento para o final de 2015, sendo o PS Vita a primeira plataforma a ser contemplada, mas a equipe de desenvolvimento ainda pretende lançar versões para PC e consoles.
 
-O game foi um dos <a href="{{ site.baseurl }}/2015/06/09/conheca-os-games-selecionados-no-big-starter/">8 selecionados</a>
+O game foi um dos [8 selecionados]({{ site.baseurl }}/2015/06/09/conheca-os-games-selecionados-no-big-starter)
  no BIG Starter 2015 do BIG Festival.

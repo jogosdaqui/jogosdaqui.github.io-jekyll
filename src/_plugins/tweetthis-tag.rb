@@ -8,7 +8,12 @@ module Jekyll
     end
 
     def render(context)
-      '<a href="https://twitter.com/intent/tweet?text=' + CGI.escape(@text) + '">' + @text + '</a>'
+      site = context.registers[:site]
+      siteUrl = site.config['url'];
+      preparedText = @text.gsub '{{ site.url }}', siteUrl
+      tweetText = CGI.escape(preparedText)
+      
+      '<a href="https://twitter.com/intent/tweet?text=' + tweetText + '">' + preparedText + '</a>'
     end
   end
 end
