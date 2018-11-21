@@ -1,3 +1,5 @@
+require "i18n"
+
 module Jekyll
   class CompanyTag < Liquid::Tag
     def initialize(tag_name, text, tokens)
@@ -7,7 +9,12 @@ module Jekyll
 
     def render(context)
       site = context.registers[:site]
-      companyTag = @companyName.gsub(' ', '-').downcase
+      
+      # Utiliza o transliterate para remover os acentos para utilziar na busca da tag.
+      I18n.available_locales = [:en]
+      companyTag = I18n.transliterate(@companyName.gsub(' ', '-').downcase) 
+
+      # Busca a tag.
       company = site.tags.find {|t| t[0] == companyTag}
      
       if company == nil
