@@ -33,7 +33,7 @@ O game está atualmente em closed beta e será lançado para iOS e Android no fi
 
 Steam, PS4, Nintendo 3DS e Playstation Vita também são plataformas na mira dos desenvolvedores de Peronio.
 
-O game foi um dos <a href="{{ site.baseurl }}/2015/06/09/conheca-os-games-selecionados-no-big-starter/">8 selecionados</a>
+O game foi um dos [8 selecionados]({{ site.baseurl }}/2015/06/09/conheca-os-games-selecionados-no-big-starter)
  no BIG Starter 2015 do BIG Festival.
 ## Teaser de Peronio
 {% vimeo 123133018 %}

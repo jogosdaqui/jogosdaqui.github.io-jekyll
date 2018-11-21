@@ -32,7 +32,7 @@ Existe uma grande variedade de armas para enfrentar os inimigos, além delas tam
 ## Plataformas e lançamento
 O jogo que está em desenvolvimento há apenas 7 meses tem previsão de lançamento para o primeiro semestre de 2016, saindo inicialmente para Windows e Mac, mas a equipe de desenvolvimento não descarta a possibilidade do game sair para consoles.
 
-O game foi um dos <a href="{{ site.baseurl }}/2015/06/09/conheca-os-games-selecionados-no-big-starter/">8 selecionados</a>
+O game foi um dos [8 selecionados]({{ site.baseurl }}/2015/06/09/conheca-os-games-selecionados-no-big-starter)
  no BIG Starter 2015 do BIG Festival.
 ## Teaser de Massive Madness
 {% youtube y8U9VdUcRns %}

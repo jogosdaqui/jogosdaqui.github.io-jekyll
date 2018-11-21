@@ -6,7 +6,7 @@ companies: ''
 categories: Promo
 tags: promocao steam video qubyte-interactive
 ---
-A QUByte Interactive nos enviou 3 Steam keys do seu <a href="{{ site.baseurl }}/2015/05/05/revelado-novo-game-da-qubyte-interactive-recruits/">novo game Recruits - Make Heroes. Make History.</a>
+A QUByte Interactive nos enviou 3 Steam keys do seu [novo game Recruits - Make Heroes. Make History.]({{ site.baseurl }}/2015/05/05/revelado-novo-game-da-qubyte-interactive-recruits)
  para sortearmos entre nossos leitores.
 
 ## Para participar da promoção, siga os passos abaixo:

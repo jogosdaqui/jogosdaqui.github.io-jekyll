@@ -8,7 +8,7 @@ tags: abragames evento gamepad
 ---
 O VIII GAMEPAD – Seminário de Games e Tecnologia contará com apresentação de papers, mostra de jogos, palestras e workshops.
 
-Dentre os palestrantes teremos: Cristiano Silva da Samsung, Tiago Rech e Klos Cunha da Ottus Game Studio falando do game <a href="{{ site.baseurl }}/2015/03/25/teaser-de-fragmentorum-alba/">Fragmentorum Alba</a>
+Dentre os palestrantes teremos: Cristiano Silva da Samsung, Tiago Rech e Klos Cunha da Ottus Game Studio falando do game [Fragmentorum Alba]({{ site.baseurl }}/2015/03/25/teaser-de-fragmentorum-alba)
 , Ronaldo de Azevedo do canal Gato Galáctico e Agustín Cordes falando do desenvolvimento do <a href="http://www.senscape.net/asylum/" target="_blank">game Asylum</a>
 .
 ## Confira a programação completa do VIII Gamepad

@@ -15,7 +15,7 @@ Confira abaixo as cidades que já estão confirmadas, os locais e as datas dos e
 ### Recife/PE
 * **Onde**:  Shopping Recife, Rua Pe. Carapuceiro, 777 - Boa Viagem.
 * **Quando**:  11/04 A 26/04
-<br><br>
+
 ### Pelotas/RS
 * **Onde**: Centro de Eventos Fenadoce, avenida Presidente João Goulart - Fragata
 * **Quando**:  27/05 A 14/06

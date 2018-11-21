@@ -48,7 +48,7 @@ A previsão de lançamento do game é para janeiro de 2016, sendo que os dois pr
 A equipe também está procurando ONGs e instituições que tratem essas condições para que as crianças tenham acesso ao jogo desde cedo.
 
 
-O game foi um dos <a href="{{ site.baseurl }}/2015/06/09/conheca-os-games-selecionados-no-big-starter/">8 selecionados</a>
+O game foi um dos [8 selecionados]({{ site.baseurl }}/2015/06/09/conheca-os-games-selecionados-no-big-starter)
  no BIG Starter 2015 do BIG Festival e recebeu o prêmio de Melhor Jogo Educativo.
 
 ## Vídeo de Fófuuu

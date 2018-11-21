@@ -6,7 +6,7 @@ companies: 'Espaço Informática'
 categories: News
 tags: espaco-informatica
 ---
-Depois de grande sucesso na Alemanha, a [Espaço Informática](http://www.espacoinf.com/) lança <a href="{{ site.baseurl }}/2005/09/22/der-pferderennstall/">Der Pferderennstall</a> na França, com o nome Hippodrome Tycoon.
+Depois de grande sucesso na Alemanha, a [Espaço Informática](http://www.espacoinf.com/) lança [Der Pferderennstall]({{ site.baseurl }}/2005/09/22/der-pferderennstall) na França, com o nome Hippodrome Tycoon.
 
 A versão brasileira, que se chamará Jóquei Clube, ainda está sem data de lançamento definida:
 
