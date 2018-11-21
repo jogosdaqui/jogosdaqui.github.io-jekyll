@@ -17,5 +17,5 @@ No vídeo podemos conferir diversas fases do game além de alguns chefões de en
 
 Além do vídeo acima, também já falamos do CKE em outros momentos:
 
-* [Prévia de Gryphon Knight Epic]({{ site.baseurl }}/2015/04/09/previa-de-gryphon-knight-epic/)
-* [Insert Coins: Gryphon Knight Epic – Gameplay e Entrevista]({{ site.baseurl }}/2015/05/06/insert-coins-gryphon-knight-epic-gameplay-e-entrevista/)
+* [Prévia de Gryphon Knight Epic]({{ site.baseurl }}/2015/04/09/previa-de-gryphon-knight-epic)
+* [Insert Coins: Gryphon Knight Epic – Gameplay e Entrevista]({{ site.baseurl }}/2015/05/06/insert-coins-gryphon-knight-epic-gameplay-e-entrevista)

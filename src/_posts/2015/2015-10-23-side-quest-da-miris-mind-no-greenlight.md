@@ -16,7 +16,7 @@ Segundo a Miris Mind, o game une elementos de combate beat ‘em up, com uma his
 
 
 
-> Enquanto isso um jovem e insistente aprendiz de vilão se esforça para impedir o herói de terminar essa inusitada jornada repleta de ação, hordas de inimigos e até um cavaleiro lendário. (comenta a equipe")
+> Enquanto isso um jovem e insistente aprendiz de vilão se esforça para impedir o herói de terminar essa inusitada jornada repleta de ação, hordas de inimigos e até um cavaleiro lendário. (comenta a equipe)
 
 
 

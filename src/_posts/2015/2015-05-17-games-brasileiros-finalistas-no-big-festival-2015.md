@@ -6,7 +6,7 @@ companies: ''
 categories: News
 tags: video joymasher swordtales big-festival evento bombservice long-hat-house
 ---
-A organização do [BIG Festival]({{ site.baseurl }}/2015/03/27/big-festival-2015/), primeiro e único festival de jogos independentes da América Latina, revelou durante a semana os finalistas da edição de 2015.
+A organização do [BIG Festival]({{ site.baseurl }}/2015/03/27/big-festival-2015), primeiro e único festival de jogos independentes da América Latina, revelou durante a semana os finalistas da edição de 2015.
 
 Apesar de ser um evento de âmbito continental, o festival, por ser realizado no Brasil, tem uma categoria chamada "Revelação Brasil", que privilegia os games produzidos no país, onde podemos conferir vários jogos daqui bem conhecidos.
 
