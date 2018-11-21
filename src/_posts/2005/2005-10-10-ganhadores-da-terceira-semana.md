@@ -21,5 +21,4 @@ Cada ganhador receberá 1 número serial <span style="font-weight: bold; color: 
 
 Estes foram os ganhadores da terceira semana, já são 15 ganhadores e ainda temos mais uma semana de promoção.
 
-Não perca esta oportunidade, <a href="../../../index.php?p=r">cadastre-se</a>
- agora!
+Não perca esta oportunidade, cadastre-se agora!

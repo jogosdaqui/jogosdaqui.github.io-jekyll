@@ -20,7 +20,7 @@ tags: continuum rts green-land-studios oniria hoplon
 </font>
             <td width="70">
 
-            <td valign="middle" bgcolor="#ddddd5" align="left"><font><a href="../../../index.php?p=c&amp;id=39"><font size="2"> Solaris 1.0.4.</font></a>
+            <td valign="middle" bgcolor="#ddddd5" align="left"><font> Solaris 1.0.4.</font>
 </font>
         
         <tr>
@@ -30,27 +30,27 @@ tags: continuum rts green-land-studios oniria hoplon
 
             <td width="70">
 
-            <td valign="middle" bgcolor="#ddddd5" align="left"><font size="2"> </font><a href="../../../index.php?p=c&amp;id=118"><font size="2"> Space Hero</font></a>
+            <td valign="middle" bgcolor="#ddddd5" align="left"><font size="2"> </font> Space Hero</font>
 
         
         <tr>
             <td width="70" style="font-family: Arial;">
 
-            <td valign="middle" bgcolor="#ddddd5" align="left"><font><a href="../../../index.php?p=c&amp;id=14"><font size="2"> Hades2</font></a>
+            <td valign="middle" bgcolor="#ddddd5" align="left"><font> Hades2</font>
 </font>
             <td width="70" style="font-family: Arial;">
 
-            <td valign="middle" bgcolor="#ddddd5" align="left" style="font-family: Arial;"><font size="2"><a href="../../../index.php?p=c&amp;id=48">Taikodom</a>
+            <td valign="middle" bgcolor="#ddddd5" align="left" style="font-family: Arial;"><font size="2">Taikodom
 </font>
         
         <tr>
             <td width="70" style="font-family: Arial;">
 
-            <td valign="middle" bgcolor="#ddddd5" align="left"><font><a href="../../../index.php?p=c&amp;id=81"><font size="2"> Impacto Alpha</font></a>
+            <td valign="middle" bgcolor="#ddddd5" align="left"><font> Impacto Alpha</font>
 </font>
             <td width="70" style="font-family: Arial;">
 
-            <td valign="middle" bgcolor="#ddddd5" align="left" style="font-family: Arial;"><font><a href="../../../index.php?p=c&amp;id=37"><font size="2"> Terra - Destino Final</font></a>
+            <td valign="middle" bgcolor="#ddddd5" align="left" style="font-family: Arial;"><font> Terra - Destino Final</font>
 </font>
         
         <tr>

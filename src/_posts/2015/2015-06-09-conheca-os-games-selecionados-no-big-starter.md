@@ -4,8 +4,8 @@ layout: post
 title: 'Conheça os games selecionados no BIG Starter 2015'
 author: Diego giacomelli
 companies: ''
-categories: Preview
-tags: ovni-studios sao-paulo video webcore ilusis-interactive rogue-snail big-festival evento big-starter bad-minions previa
+categories: News
+tags: ovni-studios sao-paulo video webcore ilusis-interactive rogue-snail big-festival evento big-starter bad-minions
 ---
 O [BIG Festival](http://www.bigfestival.com.br/"), evento que chega na sua 3º edição em 2015, acontecerá entre 27 de junho a 5 de julho de 2015 no Centro Cultural São Paulo. O festival é composto por diversas seções ou subeventos, entre eles está o BIG Starter, onde gamedevs nacionais poderão demonstrar seus games em desenvolvimento para especialistas e investidores da área. Dentre centenas de inscritos apenas 8 jogos foram selecionados como finalistas.
 
