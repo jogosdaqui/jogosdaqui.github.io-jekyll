@@ -13,7 +13,7 @@ No dia do lançamento de Toren publicamos uma [entrevista com Alessandro Martine
 ## Gameplay com bom humor
 
 
-> Dá pra cortar o mato? Não é Zelda! (comentário nos primeiros segundos do gameplay")
+> Dá pra cortar o mato? Não é Zelda! (comentário nos primeiros segundos do gameplay)
 
 > Abriu a porta da esperança...porta número 1? Tem um monstro (comenta ijimero)
 

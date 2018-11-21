@@ -15,4 +15,4 @@ Apesar dos gráficos cartoons e uma jogabilidade simples, que deve agradar o pú
  
 {% youtube VMJoVbZx0Y8 %}
 
-Esquadrão Patada é compatível com iPhone, iPod e iPad, e está [gratuito na App Store](https://itunes.apple.com/br/app/esquadrao-patada-puzzles-divertidos/id521571988?ls=1&amp;mt=8").
+Esquadrão Patada é compatível com iPhone, iPod e iPad, e está [gratuito na App Store](https://itunes.apple.com/br/app/esquadrao-patada-puzzles-divertidos/id521571988?ls=1&amp;mt=8).
