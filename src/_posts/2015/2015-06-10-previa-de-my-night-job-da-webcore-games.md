@@ -36,6 +36,6 @@ Como é possível ver no vídeo abaixo que mostra a mansão onde o jogador foi a
 ## Plataformas e lançamento
 Deve ser lançado exclusivamente para o PS4 no primeiro trimestre de 2016 e com a possibilidade de Xbox One e Steam serem brindados com versões alternativas no futuro.
 
-O game foi um dos [8 selecionados]({{ site.baseurl }}/2015/06/09/conheca-os-games-selecionados-no-big-starter/) no BIG Starter 2015 do BIG Festival.
+O game foi um dos [8 selecionados]({{ site.baseurl }}/2015/06/09/conheca-os-games-selecionados-no-big-starter) no BIG Starter 2015 do BIG Festival.
 
 **Groovy!**

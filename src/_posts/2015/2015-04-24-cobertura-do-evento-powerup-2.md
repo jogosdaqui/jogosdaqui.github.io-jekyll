@@ -8,7 +8,7 @@ categories: Event
 tags: southlogic-studios adjogosrs ludum-dare swordtales rockhead-games powerup evento ubisoft
 gallery: false
 ---
-Quarta-feira na universade Feevale aconteceu a segunda edição do evento  [PowerUp]({{ site.baseurl }}/2015/04/17/powerup-2/), o jogosdaqui esteve lá para apreciar as palestras e alguns jogos que foram desenvolvidos durante a Ludum Dare.
+Quarta-feira na universade Feevale aconteceu a segunda edição do evento  [PowerUp]({{ site.baseurl }}/2015/04/17/powerup-2), o jogosdaqui esteve lá para apreciar as palestras e alguns jogos que foram desenvolvidos durante a Ludum Dare.
 
 O evento teve auditório lotado e foi dividido em dois momentos, o primeiro com duas palestras de desenvolvedores de jogos e o segundo momento onde jogos produzidos durante a última Ludum Dare receberam feedback de empresas associadas a ADjogosRS.
 

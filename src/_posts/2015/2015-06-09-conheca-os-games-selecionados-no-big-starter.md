@@ -11,7 +11,7 @@ O [BIG Festival](http://www.bigfestival.com.br), evento que chega na sua 3º edi
 
 Entramos em contato com as equipes de desenvolvimento para sabermos mais sobre os projetos, neste post você poderá conferir alguns trailers e imagens dos selecionados e durante os próximos dias faremos prévias de cada um dos games que estarão no BIG Starter 2015.
 
-O primeiro deles é o game Alkimya da Bad Minios que já fizemos uma prévia há alguns dias, confira: [Prévia de Alkimya da Bad Minions]({{ site.baseurl }}/2015/05/26/previa-de-alkimya-da-bad-minions/)
+O primeiro deles é o game Alkimya da Bad Minios que já fizemos uma prévia há alguns dias, confira: [Prévia de Alkimya da Bad Minions]({{ site.baseurl }}/2015/05/26/previa-de-alkimya-da-bad-minions)
 
 
 ### Finalistas na categoria entretenimento

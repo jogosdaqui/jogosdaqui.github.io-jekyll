@@ -6,7 +6,7 @@ companies: 'Blusoft Studios'
 categories: Interview
 tags: steam windows video greenlight ps4 wii-u wii big-festival blusoft-studios entrevista
 ---
-O unico integrante da [Blusoft Studios](https://www.facebook.com/bluboxsoft), o gamedev Fernando Paulo é a mente criativa por de trás do game [Treeker: Os Óculos Perdidos]({{ site.baseurl }}/2015/05/17/games-brasileiros-finalistas-no-big-festival-2015/). Na entrevista abaixo Fernando fala um pouco sobre sua experiência de gamedev, como foi desenvolver Treeker, a repercussão do game e os próximos projetos.
+O unico integrante da [Blusoft Studios](https://www.facebook.com/bluboxsoft), o gamedev Fernando Paulo é a mente criativa por de trás do game [Treeker: Os Óculos Perdidos]({{ site.baseurl }}/2015/05/17/games-brasileiros-finalistas-no-big-festival-2015). Na entrevista abaixo Fernando fala um pouco sobre sua experiência de gamedev, como foi desenvolver Treeker, a repercussão do game e os próximos projetos.
 
 ## Para contextualizar o leitor, conte um pouco da tua história no gamedev?
 > Fernando Paulo: Eu me formei em Design de Jogos em 2012, e depois disso fiz alguns trabalhos freelance, principalmente com modelagem 3D. Treeker foi meu primeiro jogo comercial, então basicamente esse jogo foi meu primeiro passo como desenvolvedor de jogos comercialmente.
