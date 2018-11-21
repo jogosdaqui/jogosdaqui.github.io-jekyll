@@ -6,7 +6,7 @@ companies: ''
 categories: News
 tags: palmsoft-tecnologia mobile
 ---
-Como anunciado anteriormente a PalmSoft Tecnologia acaba de lan&ccedil;ar War of Malquidious
+Como anunciado anteriormente a PalmSoft Tecnologia acaba de lançar War of Malquidious
  e PalmSoft Drag Racer
  .<br /><br />Confira os dois jogos na nossa galeria...
 

@@ -6,7 +6,7 @@ companies: ''
 categories: News
 tags: palmsoft-tecnologia mobile rpg
 ---
-H&aacute; muito tempo, magos constru&iacute;ram tr&ecirc;s portais para canalizar a ess&ecirc;ncia da magia do universo.<br />Este &eacute; o in&iacute;cio da hist&oacute;ria de Essence, um RPG
- t&aacute;tico em desenvolvimento pela Palmsoft Tecnologia
-.<br /><br />A empresa liberou novas imagens e detalhes sobre o enredo do jogo.<br /><br />Confira a pr&eacute;via...
+Há muito tempo, magos construíram três portais para canalizar a essência da magia do universo.<br />Este é o início da história de Essence, um RPG
+ tático em desenvolvimento pela Palmsoft Tecnologia
+.<br /><br />A empresa liberou novas imagens e detalhes sobre o enredo do jogo.<br /><br />Confira a prévia...
 

@@ -64,8 +64,8 @@ Confira os vídeos abaixo mostrando um pouco de cada um dos games brasileiros fi
 ### Inovação
 * [Nova-111​](http://www.bigfestival.com.br/jogos/ver/794)
 * [​Find the Line​](http://www.bigfestival.com.br/jogos/ver/806)
-* [​Plug &amp; Play​](http://www.bigfestival.com.br/jogos/ver/818)
-* [​Tribal &amp; Error​](http://www.bigfestival.com.br/jogos/ver/1069)
+* [​Plug & Play​](http://www.bigfestival.com.br/jogos/ver/818)
+* [​Tribal & Error​](http://www.bigfestival.com.br/jogos/ver/1069)
 * [​Event[0]​](http://www.bigfestival.com.br/jogos/ver/1169)
 
 ### Melhor som
@@ -75,7 +75,7 @@ Confira os vídeos abaixo mostrando um pouco de cada um dos games brasileiros fi
 * [​Mekazoo​](http://www.bigfestival.com.br/jogos/ver/923)
 * [​Thumper​](http://www.bigfestival.com.br/jogos/ver/1086)
 
-### Educação &amp; Aprendizado
+### Educação & Aprendizado
 * [Synonymy](http://www.bigfestival.com.br/jogos/ver/811)
 * [Learn Japanese with Tako - Hiragana, Katakana, Kanji and Romaji​](http://www.bigfestival.com.br/jogos/ver/857)
 * [​Niche - a genetics survival game​](http://www.bigfestival.com.br/jogos/ver/930)
@@ -90,7 +90,7 @@ Confira os vídeos abaixo mostrando um pouco de cada um dos games brasileiros fi
 * [​Event[0]​](http://www.bigfestival.com.br/jogos/ver/1169)
 
 ### Melhor arte
-* [Plug &amp; Play​](http://www.bigfestival.com.br/jogos/ver/818)
+* [Plug & Play​](http://www.bigfestival.com.br/jogos/ver/818)
 * [​Treeker: Os Óculos Perdidos​](http://www.bigfestival.com.br/jogos/ver/841)
 * [​Lumino City​](http://www.bigfestival.com.br/jogos/ver/958)
 * [​This War of Mine​](http://www.bigfestival.com.br/jogos/ver/966)

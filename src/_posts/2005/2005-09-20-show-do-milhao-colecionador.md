@@ -6,19 +6,19 @@ companies: ''
 categories: Game
 tags: sbt show-do-milhao
 ---
-Todas as emo&ccedil;&otilde;es do programa de televis&atilde;o &quot;<span style="font-weight: bold;">Show do Milh&atilde;o</span>&quot; do SBT agora com as 4 edi&ccedil;&otilde;es em um s&oacute; CD num total de 9000 perguntas. Brinque com <span style="font-weight: bold;">Silvio Santos</span> no jogo mais excitante da TV Brasileira.
+Todas as emoções do programa de televisão "<span style="font-weight: bold;">Show do Milhão</span>" do SBT agora com as 4 edições em um só CD num total de 9000 perguntas. Brinque com <span style="font-weight: bold;">Silvio Santos</span> no jogo mais excitante da TV Brasileira.
  
 
 
 
 
-Os recursos dispon&iacute;veis na TV tamb&eacute;m est&atilde;o nesse jogo, e o jogador poder&aacute; pedir ajuda &agrave;s cartas, &agrave; plat&eacute;ia, aos universit&aacute;rios, ou ainda pular tr&ecirc;s perguntas para alcan&ccedil;ar a pontua&ccedil;&atilde;o m&aacute;xima de R$ 1.000.000,00 (fict&iacute;cia)...
+Os recursos disponíveis na TV também estão nesse jogo, e o jogador poderá pedir ajuda às cartas, à platéia, aos universitários, ou ainda pular três perguntas para alcançar a pontuação máxima de R$ 1.000.000,00 (fictícia)...
 
-Desafie Silvio Santos no Show do Milh&atilde;o!
-
-
+Desafie Silvio Santos no Show do Milhão!
 
 
-Os pr&ecirc;mios conquistados durante as partidas s&atilde;o fict&iacute;cios e meramente ilustrativos, n&atilde;o havendo forma real de premia&ccedil;&atilde;o ou gratifica&ccedil;&atilde;o aos jogadores.
+
+
+Os prêmios conquistados durante as partidas são fictícios e meramente ilustrativos, não havendo forma real de premiação ou gratificação aos jogadores.
 
 

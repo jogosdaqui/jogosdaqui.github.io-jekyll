@@ -10,4 +10,4 @@ O RPG
  online
  Ryudragon
 , da Decadium Studios
-, entrou em transi&ccedil;&atilde;o de Era. <br />Os vencedores da 6&ordf; Era foram conhecidos e premiados.<br /><br />Do dia 25 de maio at&eacute; 12 de junho o jogo estar&aacute; na chamada Era Beta, onde todos os jogadores ter&atilde;o privil&eacute;gios para testar as novidades da pr&oacute;xima Era.<br /><br />No dia 19 de junho ser&aacute; iniciada a 7&ordf; Era de Ryudragon, para a alegria dos seus milhares de jogadores.
+, entrou em transição de Era. <br />Os vencedores da 6aª Era foram conhecidos e premiados.<br /><br />Do dia 25 de maio até 12 de junho o jogo estará na chamada Era Beta, onde todos os jogadores terão privilégios para testar as novidades da próxima Era.<br /><br />No dia 19 de junho será iniciada a 7aª Era de Ryudragon, para a alegria dos seus milhares de jogadores.

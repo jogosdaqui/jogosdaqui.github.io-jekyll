@@ -6,5 +6,5 @@ companies: ''
 categories: Event
 tags: pernambuco
 ---
-Para quem mora em Recife e est&aacute; curioso em conhecer mais sobre as empresas de desenvolvimento de jogos locais, vai acontecer dia 20 de maio a EGR (Ecossistema de games do Recife), o primeiro evento relacionado a desenvolvimento de jogos no Recife.<br /><br />Leia mais sobre o evento ...
+Para quem mora em Recife e está curioso em conhecer mais sobre as empresas de desenvolvimento de jogos locais, vai acontecer dia 20 de maio a EGR (Ecossistema de games do Recife), o primeiro evento relacionado a desenvolvimento de jogos no Recife.<br /><br />Leia mais sobre o evento ...
 

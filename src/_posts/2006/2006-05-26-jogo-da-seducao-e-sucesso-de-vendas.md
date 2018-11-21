@@ -6,7 +6,7 @@ companies: ''
 categories: News
 tags: palmsoft-tecnologia mobile
 ---
-Jogo da Sedu&ccedil;&atilde;o
-, jogo oficial do Reality Show do canal Band, foi lan&ccedil;ado h&aacute; pouco tempo, mas j&aacute; &eacute; um sucesso de vendas segundo sua produtora. O jogo j&aacute; lidera o ranking de mais vendidos da PalmSoft 
-no m&ecirc;s de maio.<br /><br />Leia mais...
+Jogo da Sedução
+, jogo oficial do Reality Show do canal Band, foi lançado há pouco tempo, mas já é um sucesso de vendas segundo sua produtora. O jogo já lidera o ranking de mais vendidos da PalmSoft 
+no mês de maio.<br /><br />Leia mais...
 

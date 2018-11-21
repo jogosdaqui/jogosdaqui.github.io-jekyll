@@ -7,13 +7,13 @@ categories: News
 tags: preloud-studios
 ---
 <p align="justify">A Preloud
- anuncia o lan&ccedil;amento do jogo Lissy &ndash; Und Ihre Freunde, adventure
- 3D para o mercado infantil de l&iacute;ngua alem&atilde;
+ anuncia o lançamento do jogo Lissy - Und Ihre Freunde, adventure
+ 3D para o mercado infantil de língua alemã
 .
 
-<p align="justify">O jogo foi lan&ccedil;ado, atrav&eacute;s da Caipirinha Games
-, na Alemanha, Su&iacute;&ccedil;a e &Aacute;ustria e tem lan&ccedil;amento previsto para mar&ccedil;o e abril na Fran&ccedil;a e Holanda.
+<p align="justify">O jogo foi lançado, através da Caipirinha Games
+, na Alemanha, Suíça e Áustria e tem lançamento previsto para março e abril na França e Holanda.
 
-<p align="justify"><br />Al&eacute;m de Lissy, a Preloud prepara mais tr&ecirc;s jogos para serem lan&ccedil;ados esse ano na Europa e Estados Unidos.
+<p align="justify"><br />Além de Lissy, a Preloud prepara mais três jogos para serem lançados esse ano na Europa e Estados Unidos.
 
-<p align="justify">Em breve, Lissy &ndash; Und Ihre Freunde estar&aacute; no <strong><font color="#ff9900">jogosdaqui</font></strong>.
+<p align="justify">Em breve, Lissy - Und Ihre Freunde estará no <strong><font color="#ff9900">jogosdaqui</font></strong>.

@@ -7,5 +7,5 @@ categories: News
 tags: palmsoft-tecnologia mobile
 ---
 A PalmSoft Tecnologia
- est&aacute; desenvolvendo Tank Mission 3, terceiro jogo da famosa s&eacute;ria Tank Mission.<br /><br />Veja a pr&eacute;via ...
+ está desenvolvendo Tank Mission 3, terceiro jogo da famosa séria Tank Mission.<br /><br />Veja a prévia ...
 

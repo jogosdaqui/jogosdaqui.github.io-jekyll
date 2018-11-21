@@ -14,7 +14,7 @@ tags: behold-studios insert-coins odin-game-studio brazil-gets-unreal qubyte-int
 [Starlit Adventures, game brasileiro de aventura-plataforma com gráficos fantásticos, será lançado no próximo mês]({{ site.baseurl }}/2015/04/27/previa-de-starlit-adventures/)
 
 ## #3
-[Artigo no site Marketing &amp; Games sobre o jogo para PS4 Better later than DEAD da Odin Game Studio ](http://www.marketingegames.com.br/better-late-than-dead-odin-ps4)
+[Artigo no site Marketing & Games sobre o jogo para PS4 Better later than DEAD da Odin Game Studio ](http://www.marketingegames.com.br/better-late-than-dead-odin-ps4)
 
 ## #4
 [Veja nossa análise do shoot ‘em up Phoenix Force da Awoker Games]({{ site.baseurl }}/2015/04/28/phoenix-force/)
