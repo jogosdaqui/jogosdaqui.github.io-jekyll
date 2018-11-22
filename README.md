@@ -1,4 +1,4 @@
-![](assets/jogosdaqui-logo-header.png)
+![](src/assets/jogosdaqui-logo-header.png)
 
 | Branch  | Status  | 
 |---|---|
@@ -23,6 +23,7 @@ Abra um terminal/console e digite:
 
 ```shell
 git clone https://github.com/username/jogosdaqui.github.io-jekyll.git
+cd jogosdaqui.github.io-jekyll
 ```
 > Onde `username` é o seu username no GitHub
 
@@ -46,6 +47,7 @@ gem install jekyll bundler
 * Execute o bundle install
 
 ```shell
+cd src
 bundle install
 ```
 
@@ -64,7 +66,7 @@ git push
 
 ### Crie o pull request
 Abra o navegador e acesse seu fork do repositório no [https://github.com](https://github.com), após selecione a aba `branches` e clique no botão `New pull request`.
-![](_docs/new-pull-request-button.png)
+![](docs/images/new-pull-request-button.png)
 
 > Aguarde a revisão do pull-request pela equipe do jogosdaqui.
 
@@ -72,14 +74,14 @@ Abra o navegador e acesse seu fork do repositório no [https://github.com](https
 
 # FAQ
 ## Como localizo um arquivo de um post?
-* Entre na pasta `_post`
+* Entre na pasta `src/_posts`
 * Localize o post
 
 > Por exemplo, se a URL do post é https://jogosdaqui.github.io/2005/09/19/aeroporto-83
 então o arquivo dele é _posts/2005-09-19-aeroporto-83.md
 
 ## Como localizo a pasta de assets de um post?
-* Entre na pasta assets
+* Entre na pasta `src/assets`
 * Localize a subpasta de assets do post
 
 > Por exemplo, se a URL do post é https://jogosdaqui.github.io/2005/09/19/aeroporto-83
@@ -88,7 +90,7 @@ então a pasta de assets dele é assets/2005/09/19/aeroporto-83
 > Todo post possui uma galeria no final do texto mostrando todas as imagens dessa pasta, exceto a imagem `logo`.
 
 ## Como crio um novo post?
-* Entre na pasta `_post`
+* Entre na pasta `src/_posts`
 * Entre na pasta do ano de publicação do post. Por exemplo `2018`
 * Crie um arquivo `.md` com o nome no seguinte formato: `yyyy-MM-dd-nome-do-post.md`
 
@@ -131,7 +133,7 @@ tags: 'tags'
   * Promo 
 * **tags**: define as tags do post separadas por espaço, sempre em letras minúsculas, sem acentos e espaços substituídos por hífen. Ex.: tilt micro-sistemas
 
-* Escreva o conteúdo do post.
+* Escreva o conteúdo do post utilizando o formato [Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
 > Abaixo dos metadados, logo após o `---` você pode escrever o texto do post em formato Markdown. No post, além do texto, você pode incluir recursos, como outras imagens (diretamente da pasta de assets do post), vídeos do youtube/vimeo e áudios do SoundCloud. Verifique o restando do FAQ para mais detalhes de como adicionar esses recursos no seu post.
 
@@ -252,3 +254,23 @@ gallery: false
 ```
 
 > Veja um exemplo em [https://jogosdaqui.github.io/2015/09/14/imagens-da-semana-13](https://jogosdaqui.github.io/2015/09/14/imagens-da-semana-13)
+
+### Como referenciar/linkar outros posts?
+* Utilize a tag `post` passando como argumento o título do post a qual se deseja referenciar
+> Por exemplo, se você deseja referenciar o post "Crimson After Dusk", utilize a tag dessa forma:
+
+```markdown
+{% post Crimson After Dusk %}
+```
+
+> Veja um exemplo em [https://jogosdaqui.github.io/2006/03/28/entrevista-palmsoft-tecnologia](https://jogosdaqui.github.io/2006/03/28/entrevista-palmsoft-tecnologia)
+
+### Como referenciar/linkar empresas?
+* Utilize a tag `company` passando como argumento o nome da empresa a qual se deseja referenciar
+> Por exemplo, se você deseja referenciar a empresa "PalmSoft Tecnologia", utilize a tag dessa forma:
+
+```markdown
+{% company PalmSoft Tecnologia %}
+```
+
+> Veja um exemplo em [https://jogosdaqui.github.io/2006/03/28/entrevista-palmsoft-tecnologia](https://jogosdaqui.github.io/2006/03/28/entrevista-palmsoft-tecnologia)

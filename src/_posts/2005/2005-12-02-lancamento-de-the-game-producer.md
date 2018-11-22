@@ -1,0 +1,13 @@
+---
+published: true
+layout: post
+title: 'Lançamento de The Game Producer'
+companies: ''
+categories: News
+tags: tilt
+---
+A TILT online lança oficialmente The Game Producer.
+
+O jogo é um simulador de produtora de games, onde o jogador pode ser um profissional da indústria dos jogos eletrônicos.
+
+[Confira aqui The Game Producer...]({{ site.baseurl }}/2005/11/18/the-game-producer)

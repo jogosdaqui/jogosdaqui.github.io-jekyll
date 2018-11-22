@@ -1,0 +1,9 @@
+---
+published: true
+layout: post
+title: 'Southlogic, Scooby-Doo! Who&#39;s Watching Who?'
+companies: ''
+categories: News
+tags: rio-grande-do-sul southlogic-studios psp
+---
+A Southlogic Studios anunciou o lançamento mundial do jogo Scooby-Doo! Who's Watching Who? para a plataforma PSP (PlayStation Portable). O game, publicado pela THQ e licenciado pela gigante de entretenimento mundial Warner Bros Interactive Entertainment, está disponível para venda nos Estados Unidos. O desenvolvimento do game foi feito pela Savage Entertainment com participação da Southlogic Studios, empresa gaucha localizada em Porto Alegre/RS, na criação da arte.<br /><br />Scooby-Doo! Who's Watching Who? resgata o charme de um dos mais populares personagens dos desenhos animados, que já encantou várias gerações.<br /><br />Mais uma vez Scooby e sua turma estão de volta, dessa vez para provar em um reality show quem é a melhor equipe de caça-fantasmas.<br />Para competir com a equipe da Mystery S.A está a equipe Ghost Scene Investigators, que pretende provar que seus meios são os mais eficazes para concluir trabalhos sobrenaturais. Dessa forma quem tiver o melhor desempenho vence a competição. A bordo da Máquina dos Mistérios nossos personagens terão de viajar por diversos lugares diferentes em buscas de lendas e histórias sobre qualquer tipo de assombração e tentar desmascarar os trambiqueiros.<br />A novidade fica por conta das vozes que serão dubladas pelos atores do desenho animado, para envolver ainda mais o jogador no clima dramático e irônico da série. O jogo promete ainda diversos enigmas e quebra-cabeças.<br />

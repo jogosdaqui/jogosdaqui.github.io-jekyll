@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<h2>{{ page.tag }}</h2>
+{% assign categories = null %}
+{% assign posts = page.posts | sort:'categories' %}
+{% for post in posts %}
+  {% if categories != post.categories%}
+    {% if categories != null %}
+      </ul>
+    {% endif %}
+    {% assign categories = post.categories %}
+    <h3>{{ categories | categorytitle}}</h3>
+    <ul>
+  {% endif %}
+  <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> ({{ post.date | date: "%d/%m/%Y" }})</li>
+{% endfor %}

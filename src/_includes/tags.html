@@ -1,0 +1,5 @@
+<span>
+    {% for tag in page.tags %}
+        <a href="{{ site.baseurl }}/tags/{{ tag | slugify }}" class="post-tag"><i class="fas fa-tag"></i>&nbsp;{{ tag }}</a>
+    {% endfor %}
+</span>

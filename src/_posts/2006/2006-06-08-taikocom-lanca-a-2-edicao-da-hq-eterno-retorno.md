@@ -1,0 +1,13 @@
+---
+published: true
+layout: post
+title: 'Taikocom lança a 2° edição da HQ Eterno Retorno'
+companies: ''
+categories: News
+tags: hoplon rpg
+---
+Depois de "Convocação", edição número zero da mini-série, a catarinense Hoplon Infotainment acaba de lançar uma nova revista em quadrinhos baseada no game online desenvolvido pela empresa. Para os admiradores da versão HQ do game que ficaram com vontade de mais aventura, a nova edição da revista promete empolgar o leitor com muita ação. A idéia da publicação, que ganha um novo episódio a cada dois meses, é auxiliar o jogador a entender o universo do Taikodom. "Num game massivo lidamos ao mesmo tempo com um público muito grande, em momentos distintos. A revista é uma oportunidade de falar diretamente com cada leitor, uma experiência individual e mais íntima , explica Tarqüínio Teles, presidente da Hoplon.<br />
+
+<br /><br /><br /><br /><br />
+Eduardo Ferrara, ilustrador da revista que está há 17 anos neste mercado, também acredita que a Grafic Novel tem uma vital importância para compreender o intrincado universo do Taikodom e seus fundamentos e não economiza elogios para a publicação. "Os gráficos são maravilhosos. Apesar de trabalhar na área há alguns anos, fiquei na expectativa nas primeiras reuniões, pois o que os autores me apresentaram era algo totalmente novo, conceitos arrojados e infinitas possibilidades", conta o desenhista, que juntou o traço do mangá - um estilo de quadrinho oriental - com o desenho europeu para dar um diferencial na revista. "Quem leu o número Zero da série vai perceber que o número um está bem superior, não apenas na trama mais pela qualidade gráfica que se refina progressivamente", acrescenta.<br /><br />Esta nova edição da Graphic Novel narra as aventuras de Gao Jung, um ex-agente da polícia internacional antiterrorismo do século XXI que, após despertar cento e cinqüenta anos depois de sua morte, tem a difícil missão de enfrentar a imortalidade como um castigo. Assim como Gao, o leitor vai descobrir que viver e morrer à luz de um futuro tecnológico quase milagroso, mas irredutivelmente imperfeito, é muito mais que simplesmente fazer parte do jogo.<br /><br />O universo Taikodom foi criado e desenvolvido junto com o escritor Gerson Lodi-Ribeiro. A Graphic Novel tem o roteiro assinado pelo jornalista Roctavio de Castro, com argumentos de Tarqüínio Teles e Cristóvão Buzzarello, da Hoplon. O desenho e a arte final são do ilustrador Eduardo Ferrara, que desenvolveu projetos como Metal Metal Djambers, Antimatéria, Zuretas, ilustrações para RPG e editoriais. O download da edição pode ser feita no <a href="http://www.taikodom.com.br">www.taikodom.com.br</a>
+.

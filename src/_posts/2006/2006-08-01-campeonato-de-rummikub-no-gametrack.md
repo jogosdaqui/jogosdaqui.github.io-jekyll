@@ -1,0 +1,10 @@
+---
+published: true
+layout: post
+title: 'Campeonato de Rummikub no Gametrack'
+companies: ''
+categories: News
+tags: gametrack
+---
+ Será realizado nos dias 26 e 27 de agosto de 2006, a Etapa Online do   Circuito  Brasileiro  de  Rummikub&reg;, um dos jogos de tabuleiro mais vendidos do mundo. Essa etapa do circuito acontecerá no Gametrack (<a href="http://www.gametrack.com.br" target="_blank">www.gametrack.com.br</a>
+).<br /> <br /> A Inscrição no campeonato é gratuita. Para se inscrever, é preciso se cadastrar no Gametrack e seguir o processo de inscrição disponível no portal. As inscrições podem ser realizadas até o dia 20 de agosto. O vencedor da etapa online irá disputar a final presencial em São Paulo. Se vencer a final, poderá representar o Brasil no 6th World Rummikub Championship de 03 a 06 de Novembro de 2006 no Hotel Chateau St.Gerlach em Maastricht na Holanda, com todas as despesas paga pela Grow Jogos e Brinquedos, detentora dos direitos do Rummikub no Brasil.<br /> <br /> Além  do  torneio,  os  interessados  poderão  conhecer  e  praticar  o  jogo. Após o cadastro, é possível ganhar um brinde para experimentar todo o conteúdo do Gametrack por 5 dias. Quem quiser jogar fora do período do campeonato, pode optar pela assinatura com valor a partir de R$7,90/mês.    <br /> <br /><span style="font-weight: bold;"> História</span> <br /> O  Rummikub&reg;  é  um  jogo  israelense  de  tabuleiro  criado  na  década  de  30,  difundido  por  diversas  partes  do  mundo  a  partir  da  década  de  50.  Atualmente,  é  o  terceiro  jogo  mais  vendido  no  mundo,  comercializado  em  52  países  e  impresso  em  24  idiomas.  Em  2003,  ocorreu  o  primeiro  circuito  brasileiro  de  Rummikub&reg;,  cujo  vencedor representou  o  Brasil  no  campeonato  mundial,  realizado  na  Suíça,  ficando  em  sétimo  lugar  na  classificação  geral.

@@ -13,6 +13,7 @@ install:
 - sh: gem install jekyll bundler
 
 build_script:
+- sh: cd src
 - sh: bundle install
 - sh: git config --global credential.helper "store --file ~/.git-credentials"
 - ps: git config --global user.email $env:APPVEYOR_REPO_COMMIT_AUTHOR_EMAIL

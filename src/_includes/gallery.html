@@ -1,0 +1,63 @@
+{% if page.gallery != false %}
+{% assign galleryName = page.path | galleryname %} 
+{% assign gallery = site.data['galleries'][galleryName] %} 
+
+<link type="text/css" rel="stylesheet" href="{{ site.baseurl }}/libs/lightslider/css/lightslider.css" />                  
+<script src="{{ site.baseurl }}/libs/lightslider/js/lightslider.js"></script>
+{% assign pictures = "" | split: ',' %} 
+{% if gallery.size > 1 %}
+  {% for pic in gallery %}
+    {% if gallery.first == null %}
+    {% elsif pic contains 'logo' %}
+    {% else %}
+      {% assign pictures = pictures | push: pic %}
+    {% endif %}
+  {% endfor %}
+{% elsif gallery.size == 1  %}
+  {% if gallery.first == null %}
+  {% elsif gallery.first contains 'logo' %} 
+  {% else %}
+    {% assign pictures = pictures | push: pic %}
+  {% endif %}
+{% endif %}
+
+{% if pictures.size > 0 %}
+<h2>Galeria de imagens</h2>
+<center>
+  {% if pictures.size > 1 %}
+  <ul id="lightSlider">
+    {% for pic in pictures %}
+        <li data-thumb="{{ site.baseurl }}/{{ pic }}">
+          <img src="{{ site.baseurl }}/{{ pic }}"/>        
+        </li>
+    {% endfor %}
+  </ul>
+  {% else %}
+      <img src="{{ site.baseurl }}/{{ pictures.first }}"/> 
+  {% endif %}
+ </center>
+ {% endif %}
+
+{% if pictures.size > 1 %}
+
+<script type="text/javascript">
+  $(document).ready(function() {
+   $('#lightSlider').lightSlider({
+        gallery: true,
+        pager: true,
+        controls: false,
+        thumbItem: 8,
+        item: 1,
+        loop: false,
+        slideMargin: 0,
+        autoWidth: true,
+        adaptiveHeight: true,
+        mode: "fade",
+        useCSS: true,
+        cssEasing: 'ease',
+        easing: 'linear'
+    });
+  });
+</script>
+{% endif %}
+{% endif %}
