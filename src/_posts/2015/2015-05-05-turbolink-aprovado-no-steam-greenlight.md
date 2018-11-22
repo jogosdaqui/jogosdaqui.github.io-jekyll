@@ -13,11 +13,11 @@ A equipe de desenvolvimento do game ainda tem uma grande batalha pela frente, po
  está ativa e precisa dos jogadores para ser aprovada e assim o game poderá ser apoiado no Kickstarter pele Square Enix ou até financiado pela empresa.
 ## Conheça o TurboLink
 <ul>
-	<li><a href="{{ site.baseurl }}/2015/04/03/previa-de-turbolink/">Prévia de TurboLink</a>
+	<li>[Prévia de TurboLink]({{ site.baseurl }}/2015/04/03/previa-de-turbolink)
 </li>
-	<li><a href="{{ site.baseurl }}/2015/04/14/turbolink-no-square-enix-collective/">TurboLink no Square Enix Collective</a>
+	<li>[TurboLink no Square Enix Collective]({{ site.baseurl }}/2015/04/14/turbolink-no-square-enix-collective)
 </li>
-	<li><a href="{{ site.baseurl }}/2015/04/23/lancado-a-demo-de-turbolink/">Lançada a demo de TurboLink</a>
+	<li>[Lançada a demo de TurboLink]({{ site.baseurl }}/2015/04/23/lancado-a-demo-de-turbolink)
 </li>
 </ul>
 

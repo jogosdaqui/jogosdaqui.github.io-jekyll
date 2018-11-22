@@ -6,7 +6,7 @@ companies: ''
 categories: News
 tags: playmove video
 ---
-Em julho passado <a href="{{ site.baseurl }}/2015/07/20/playtable-busca-desenvolvedores/">falamos aqui no jogosdaqui</a>
+Em julho passado [falamos aqui no jogosdaqui]({{ site.baseurl }}/2015/07/20/playtable-busca-desenvolvedores)
  que a catarinense PlayMove estava abrindo o cadastro para empresas interessadas em produzir jogos para sua PlayTable, primeira mesa digital com jogos educativos do Brasil.
 
 ## Xmile e Playmove

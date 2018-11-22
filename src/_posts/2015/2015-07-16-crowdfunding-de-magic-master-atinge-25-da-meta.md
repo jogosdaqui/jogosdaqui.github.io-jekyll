@@ -6,7 +6,7 @@ companies: ''
 categories: News
 tags: video mopix crowdfunding
 ---
-Há alguns dias falamos do início da campanha de <a href="{{ site.baseurl }}/2015/07/06/crowdfunding-de-magic-master/">crowdfunding do game Master Magic</a>
+Há alguns dias falamos do início da campanha de [crowdfunding do game Master Magic]({{ site.baseurl }}/2015/07/06/crowdfunding-de-magic-master)
  da produtora brasileira Mopix. Hoje recebemos uma boa notícia: o jogo já atingiu 25% de sua meta na campanha que ainda tem 45 dias até seu deadline.
 
 

@@ -6,7 +6,7 @@ companies: ''
 categories: News
 tags: steam video qubyte-interactive ps3 xbox-one xbox wii-u wii
 ---
-Semana passada <a href="{{ site.baseurl }}/2015/04/30/qubyte-interactive-produzindo-novo-game/">anunciamos</a>
+Semana passada [anunciamos]({{ site.baseurl }}/2015/04/30/qubyte-interactive-produzindo-novo-game)
  que a gamedev brasileira QUByte Interactive estava produzindo um novo game  de estratégia com muitos elementos de ação, inspirado em clássicos top-down shooter, como Cannon Fodder do SNES.
 
 Hoje a QUbyte revelou oficialmente o jogo, trata-se de <a href="http://www.recruitsgame.com/" target="_blank">Recruits - Make Heroes. Make History</a>

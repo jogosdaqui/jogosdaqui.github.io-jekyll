@@ -26,15 +26,12 @@ layout: default
   
   <div class="entry">
     {% include logo.html path=page.path %}
+    {% include date.html %}
     {% include company.html %}
-    {% include author.html %}
-    {% include colabore.html %}
+    {% include author.html %} 
+    {% include colabore.html %} 
     {{ content }}
     {% include gallery.html %}
-  </div>
-
-  <div class="date">
-    {{ page.date | date: "%d/%m/%Y" }}
   </div>
   {% include tags.html %}
 

@@ -15,23 +15,20 @@ Abaixo os locais e as datas de realização das edições do evento:
 Universidade Federal Fluminense
 Av. Gal. Milton Tavares de Souza, Niterói-RJ
 04/05/2015 - 10:00
-<br><br>
 
 ## Brazil Gets Unreal - SÃO PAULO
 Escola Politécnica da Universidade de São Paulo
 Av. Prof. Luciano Gualberto, travessa 3, 380 - Butantã, São Paulo-SP
 06/05/2015 - 10:00
-<br><br>
 
 ## Brazil Gets Unreal - RECIFE
 Faculdades Integradas Barros Melo
 Av. Transamazônica, 405, Olinda-PE
 08/05/2015 - 10:00
-<br><br>
 
 ## Brazil Gets Unreal - FORTALEZA
 Universidade de Fortaleza
 Av. Washington Soares, 1321, Fortaleza-CE
 09/05/2015 - 10:00
 
-Mais informações em: <a href="https://www.unrealengine.com/blog/brazil-gets-unreal" target="_blank">https://www.unrealengine.com/blog/brazil-gets-unreal</a>
+Mais informações em: [https://www.unrealengine.com/blog/brazil-gets-unreal](https://www.unrealengine.com/blog/brazil-gets-unreal)

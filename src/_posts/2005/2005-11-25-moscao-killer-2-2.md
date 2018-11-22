@@ -21,7 +21,7 @@ Os jogadores sem licença oficial do jogo poderão jogá-lo normalmente, na vers
 
 Com mais este lançamento a TILT reforça o modelo de jogo, que se baseia em grupos de jogadores online, sem no entanto ter um servidor central oficial operando. Isso abre uma série de possibilidades para o jogo, como ser usado por grupos de amigos internautas, lan houses, lan partys ou mesmo em rede local.
 
-<a href="{{ site.baseurl }}/2005/11/25/moscao-killer/">Confira Moscão Killer na nossa galeria.</a>
+[Confira Moscão Killer na nossa galeria.]({{ site.baseurl }}/2005/11/25/moscao-killer)
 
 
 Página oficial: <a href="http://www.tilt.net/moscao/game.htm" target="_blank">http://www.tilt.net/moscao/game.htm</a>

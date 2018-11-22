@@ -26,7 +26,7 @@ Segundo a equipe de desenvolvimento de Dengue Over, durante a jornada contra a d
 ## Plataformas e lançamento
 O game que será voltado para escolas ainda não tem uma data de lançamento e deve sair para para PCs e mobile.
 
-O game foi um dos <a href="{{ site.baseurl }}/2015/06/09/conheca-os-games-selecionados-no-big-starter/">8 selecionados</a>
+O game foi um dos [8 selecionados]({{ site.baseurl }}/2015/06/09/conheca-os-games-selecionados-no-big-starter)
  no BIG Starter 2015 do BIG Festival.
 
 

@@ -6,7 +6,7 @@ companies: ''
 categories: News
 tags: android linux mac windows video supernova-indie-games
 ---
-No final de maio <a href="{{ site.baseurl }}/2015/05/28/carcara-asas-da-justica/">falamos do game Carcará - Asas da Justiça</a>
+No final de maio [falamos do game Carcará - Asas da Justiça]({{ site.baseurl }}/2015/05/28/carcara-asas-da-justica)
  que, naquele momento, tinha versão apenas para Android.
 
 A equipe da Supernova Indie Games entrou em contato conosco para informar a boa notícia: o game acaba de ganhar sua versão PC, disponível para <a href="http://www.mediafire.com/download/0drde200ahdi5pl/carcara_mac_5_1.4.zip" target="_blank">Mac</a>

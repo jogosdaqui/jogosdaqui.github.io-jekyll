@@ -17,7 +17,7 @@ Segundo a TILT online, nas próximas versões do Game Console será possível jo
 Veja no <a style="font-weight: bold; color: #ff9900;" href="{{ site.baseurl }}/tags/tilt">jogosdaqui</a>
  alguns jogos da TILT online que estão disponíveis no Game Console.
 
-Confira o <a href="{{ site.baseurl }}/2005/09/24/tilt-online-game-console-playon-1-2/">press release</a>
+Confira o [press release]({{ site.baseurl }}/2005/09/24/tilt-online-game-console-playon-1-2)
 .
 
 Mais informações sobre o lançamento no site oficial do <a href="http://www.tilt.net/playon/">Game Console</a>
