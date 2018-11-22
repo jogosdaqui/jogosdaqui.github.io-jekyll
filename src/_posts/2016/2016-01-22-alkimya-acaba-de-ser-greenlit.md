@@ -4,7 +4,7 @@ layout: post
 title: 'Alkimya acaba de ser Greenlit'
 author: Bad Minions
 companies: 'Bad Minions'
-categories: news
+categories: News
 tags: bad-minions press-release steam windows mac linux
 ---
 Arrume o seu laboratório, separe seus ingredientes e prepare-se para a ação. O estúdio brasileiro Bad Minions foio Greenlit pela Steam e está anunciando um novo jogo baseado no universo da alquimia:

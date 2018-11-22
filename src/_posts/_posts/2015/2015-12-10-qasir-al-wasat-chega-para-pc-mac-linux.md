@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: 'Qasir al-Wasat chega para PC, Mac e Linux'
-author: 
+author: Aduge Studio
 companies: 'Aduge Studio'
 categories: News
 tags: aduge-studio zueira-digital press-release windows mac linux steam humble-store nuuvem
