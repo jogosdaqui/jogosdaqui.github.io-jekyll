@@ -31,7 +31,7 @@ Por sua originalidade, desafio e qualidade técnica, Phoenix Force é um deleite
 
 O jogo multiplataforma está disponível para:
 * [iOS](https://itunes.apple.com/us/app/id904743508?mt=8)
-* Android
+* [Android](https://play.google.com/store/apps/details?id=com.awokergames.phoenixforce&hl=pt_BR)
 * [Windows Phone](http://www.windowsphone.com/s?appid=90b9eae4-8f5d-453f-81c9-eb815dfab189)
 * [SplitPlay](http://www.splitplay.com/pt/games/phoenix-force)
 * [Steam](http://store.steampowered.com/app/332480)

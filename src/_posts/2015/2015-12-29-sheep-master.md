@@ -15,3 +15,8 @@ Várias missões são realizadas ao longo do game: recuperar ovelhas perdidas, p
 
 ## Teaser de Sheep Master
 {% youtube Kfq8VVFgu-E %}
+
+## Plataformas
+Sheep Master está disponível para:
+* [Android](https://play.google.com/store/apps/details?id=com.sunland.SheepMaster&hl=pt_BR)
+* [iOS](https://itunes.apple.com/br/app/sheep-master-jogo-crist%C3%A3o/id1001220973?mt=8)
