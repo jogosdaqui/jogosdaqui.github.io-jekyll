@@ -2,12 +2,12 @@
 published: true
 layout: post
 title: 'CrossFox Ágil da Microways'
-companies: ''
+companies: 'Microways'
 categories: News
-tags: 
+tags: microways
 ---
-O novo jogo para celulares
- da Microways
- é um jogo de corrida
- para a campanha publicitária do automóvel CrossFox.<br /><br />O jogo pode ser baixado gratuitamente do site oficial.<br /><br />Confira...
+O novo jogo para celulares da Microways é um jogo de corrida para a campanha publicitária do automóvel CrossFox.
 
+O jogo pode ser baixado gratuitamente do site oficial.<
+
+Confira {% post CrossFox Ágil %}...
