@@ -4,7 +4,7 @@ layout: post
 title: 'Ayrton Senna&#39;s Best Lap'
 companies: 'Meantime'
 categories: Game
-tags: meantime corrida
+tags: meantime corrida mobile
 ---
 Ligue os motores e se prepare! A volta de classificação está prestes a começar, e você deve usar toda a sua experiência e precisão, e ter nervos de aço para alcançar a Pole Position.
 
