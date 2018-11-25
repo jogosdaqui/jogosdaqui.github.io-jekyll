@@ -48,6 +48,7 @@ build_script:
       } 
     }
 - sh: bundle exec jekyll build
+ 
 - ps: | 
     if (!$env:APPVEYOR_PULL_REQUEST_NUMBER)
     {

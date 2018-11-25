@@ -2,16 +2,18 @@
 published: true
 layout: post
 title: 'Tank Invaders atinge mais de 300 mil downloads'
-companies: ''
+author: Diego Giacomelli
+companies: 'Mgaia Studio'
 categories: News
-tags: ios windows-phone windows mgaia-studio
+tags: ios android windows-phone mgaia-studio
+gallery: false
 ---
 Como diria o General Rogers: "Temos novidades do campo de batalha, soldado!".
 
-Na semana passada falamos de [Tank Invaders]({{ site.baseurl }}/2015/04/08/tank-invaders)
- da Mgaia Studio e parece que o game vem agradando os donos de dispositivos móveis, pois ele atingiu a marca de mais de 300.000 downloads desde seu lançamento.
+Na semana passada falamos de {% post Tank Invaders %} da Mgaia Studio e parece que o game vem agradando os donos de dispositivos móveis, pois ele atingiu a marca de mais de 300.000 downloads desde seu lançamento.
 
-A Mgaia tentou uma estratégia diferente de lançamento, iniciando o primeiro lançamento pelo Windows Phone e percebeu que ainda existe uma carência de jogos de qualidade naquela app store. Os dados abaixo demonstram que os usuários do OS da Microsoft realmente gostaram do jogo.
+A {% company Mgaia Studio %} tentou uma estratégia diferente de lançamento, iniciando o primeiro lançamento pelo Windows Phone e percebeu que ainda existe uma carência de jogos de qualidade naquela app store. Os dados abaixo demonstram que os usuários do OS da Microsoft realmente gostaram do jogo.
 
 Downloads do game até o momento:
 
+{% screenshot downloads.png %}
