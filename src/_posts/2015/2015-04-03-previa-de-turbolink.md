@@ -5,7 +5,7 @@ title: 'Prévia de TurboLink'
 author: Diego Giacomelli
 companies: 'Division Five'
 categories: Preview
-tags: crowdfunding division-five previa
+tags: crowdfunding division-five previa corrida
 ---
 A equipe de desenvolvimento da Division Five entrou em contato conosco via Twitter falando sobre o game que estão desenvolvendo: TurboLink.
 

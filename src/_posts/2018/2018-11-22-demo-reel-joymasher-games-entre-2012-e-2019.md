@@ -14,7 +14,6 @@ O game de tiro, inspirado em clássicos da era 16 bits como Contra, tem deixado 
 
 {% screenshot ellon-musk-tweet.png %}
 
-
 ## Demo reel
 Criamos o demo reel abaixo para celebrar a obra da JoyMasher desde 2012 até a sua atual produção: Blazing Chrome, confira!
 

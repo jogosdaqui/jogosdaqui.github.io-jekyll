@@ -5,7 +5,7 @@ title: 'Heist and Run'
 author: 'Diego Giacomelli'
 companies: 'Oding Game Studio'
 categories: Game
-tags: ios odin-game-studio mobile
+tags: ios odin-game-studio mobile corrida
 ---
 A [Odin Game Studio](http://www.odingamestudio.com.br/) estréia no mundo mobile com o game Heist and Run.
 
