@@ -5,7 +5,7 @@ module Jekyll
     end
 
     def categorytitle(input)
-      case input[0] 
+      case input.gsub /[\[\]"]/, ''
       when 'News'
         'Notícias'
       when 'Preview'

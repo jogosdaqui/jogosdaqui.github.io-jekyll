@@ -5,7 +5,7 @@
 <center>
   {% for pic in gallery %}
     {% if pic contains 'logo' %}
-      <img src="{{ site.baseurl }}/{{ pic }}" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="{{ site.baseurl }}/{{ pic }}" style="max-height: 200px;"/> 
       {% break %}       
     {% endif %}
   {% endfor %}
