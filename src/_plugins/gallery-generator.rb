@@ -5,7 +5,9 @@ module Jekyll
 
 			Dir.glob('assets/*/*/*/*').each do |dir|
 				galleryName = GalleryGenerator::getGalleryName(dir)
-				site.data['galleries'][galleryName] = Dir.glob(dir +  '/*').select {|f| File.file? f};
+				site.data['galleries'][galleryName] = Dir.glob(dir +  '/*')
+				.select {|f| File.file? f}
+				.sort_by {|f| f}
 			end
 		end
 
