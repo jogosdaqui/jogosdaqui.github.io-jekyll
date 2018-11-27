@@ -49,9 +49,12 @@
         {{ content }}
       </div>
       <div class="right-bar-container">
-          {% include highlight-box.html title="Notícias" posts=site.posts category="News" %}
-          {% include highlight-box.html title="Prévias" posts=site.posts category="Preview" %}
-          {% include highlight-box.html title="Jogos" posts=site.posts category="Game" %}
+          {% include highlight-box.html title="Jogos em destaque" posts=site.posts category="Game" tag="ios" %}
+          {% include highlight-box.html title="Jogos para iOS" posts=site.posts category="Game" tag="ios" %}
+          {% include highlight-box.html title="Jogos para Android" posts=site.posts tag="android" %}
+          {% include highlight-box.html title="Documentários" posts=site.posts tag="documentario" %}
+          {% include highlight-box.html title="Eventos" posts=site.posts category="Event" %}
+          {% include highlight-box.html title="Entrevistas" posts=site.posts category="Interview" %}
       </div>
   </div>
   
