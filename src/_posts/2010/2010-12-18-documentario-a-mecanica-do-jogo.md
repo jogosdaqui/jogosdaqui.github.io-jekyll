@@ -5,7 +5,7 @@ title: 'Documentário "A Mecânica do Jogo"'
 author: Diego Giacomelli
 companies: ''
 categories: News
-tags: documentario hoplon ubisoft FPS
+tags: hoplon ubisoft documentario
 ---
 "A Mecânica do Jogo" mostra diversos aspectos sobre a indústria de desenvolvimento de games brasileira. 
 
