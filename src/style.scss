@@ -106,7 +106,7 @@ a {
   }
 }
 
-p a, li a, div a {
+p a, li a, div > a {
   text-decoration: underline;
 }
 
