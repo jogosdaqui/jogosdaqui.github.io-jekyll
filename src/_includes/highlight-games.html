@@ -1,0 +1,14 @@
+<div class="highlight-games">
+    <div class="highlight-games-title">Jogos em destaque</div>
+    <hr>
+    {% assign games = site.posts | where_exp:"item", "item.categories contains 'Game'" %}
+    <ul>
+    {% for game in games limit:5 %}
+        <li>
+            <a href="{{ game.url }}">
+                {{ game.title }}
+            </a>
+        </li>
+    {% endfor %}
+    </ul>
+</div>

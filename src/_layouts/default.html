@@ -47,8 +47,13 @@
     </div>
 
     <div id="main" role="main" class="container">
-      {{ content }}
-    </div>
+      <div class="content-container">
+        {{ content }}
+      </div>
+      <div class="right-bar-container">
+          {% include highlight-games.html %}
+      </div>
+  </div>
   
     <div class="wrapper-footer">
       <div class="container">
