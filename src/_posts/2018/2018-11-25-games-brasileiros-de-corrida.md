@@ -5,7 +5,7 @@ title: 'Games brasileiros de corrida'
 author: Diego Giacomelli
 companies: ''
 categories: News
-tags: corrida locz-games icon-games perceptum leandro-correia mra palmSoft-tecnologia mdev initia-tecnologia meantime lúmen-technology edward-multimídia microways odin-game-studio division-five aquiris-game-studio
+tags: corrida locz-games icon-games perceptum leandro-correia mra palmSoft-tecnologia mdev initia-tecnologia meantime lumen-technology edward-multimídia microways odin-game-studio division-five aquiris-game-studio
 ---
 Domingo, dia dos amantes de corrida acompanharem a F1.
 
