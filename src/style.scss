@@ -23,30 +23,27 @@ body {
 	background: $white;
   font-family: robotoregular, Arial, sans-serif;
   color: $darkGray;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 1.4;
 }
 
 .container {
   margin: 0 auto;
-  min-width: 800px;
-  max-width: 1010px;
   padding: 0 10px;
-  width: 100%;
+  width: 75%;
 }
 
 .content-container {
-  min-width: 800px;
-  max-width: 800px;
   display: inline-block;
   vertical-align: top;
+  width: 70%;
 }
 
 .right-bar-container {
-  margin-left: 10px;
-  max-width: 200px;
   display: inline-block;
   vertical-align: top;
+  margin-left: 1%;
+  width: 24%;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -207,7 +204,7 @@ img {
 .site-info {
   float: left;
   min-width: 70%;
-  text-align: center;
+  margin-left: 20px;
  
   @include mobile {
     float: none;
@@ -415,7 +412,7 @@ ul.paper li a { color: black; }
 ul.pager li.selected { background-color: $theme-color; }
 
 .highlight-box {
-  width: 175px;
+  width: 87%;
 }
 
 .highlight-box-title {
@@ -430,8 +427,9 @@ ul.pager li.selected { background-color: $theme-color; }
   font-family: 'Roboto', sans-serif;
   font-size: 11px;
   text-overflow: clip;
-  width: 125px;
+  min-width: 85px;
   text-transform: uppercase;
+  white-space: nowrap;
 }
 
 .highlight-box-title:after {
@@ -458,7 +456,7 @@ ul.pager li.selected { background-color: $theme-color; }
   border-top: 1px solid #ff7200;
   margin-top: 0.1em;
   padding: 0;
-  width: 175px;
+  width: 130%;
 }
 
 .highlight-box a {

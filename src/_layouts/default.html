@@ -26,11 +26,6 @@
       <div class="container">
         <header class="masthead clearfix">
           <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
-
-          <div class="site-info">
-            <p class="site-description">{{ site.description }}</p>
-          </div>
-
           <nav>
             <a href="{{ site.baseurl }}/noticias" class="menu-item">Notícias</a>
             <a href="{{ site.baseurl }}/previas" class="menu-item">Prévias</a>
@@ -41,6 +36,9 @@
             <a href="{{ site.baseurl }}/faq" class="menu-item">FAQ</a>
             <a href="{{ site.baseurl }}/colabore" class="menu-item">Colabore</a>
           </nav>
+          <div class="site-info">
+              <p class="site-description">{{ site.description }}</p>
+            </div>  
           {% include search.html %}
         </header>
       </div>
