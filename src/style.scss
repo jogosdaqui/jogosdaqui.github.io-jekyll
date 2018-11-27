@@ -30,7 +30,7 @@ body {
 .container {
   margin: 0 auto;
   min-width: 800px;
-  max-width: 1000px;
+  max-width: 1010px;
   padding: 0 10px;
   width: 100%;
 }
@@ -43,6 +43,7 @@ body {
 }
 
 .right-bar-container {
+  margin-left: 10px;
   max-width: 200px;
   display: inline-block;
   vertical-align: top;
@@ -413,11 +414,11 @@ ul.pager li { display: inline; border: 1px solid black; border-radius: 10%; padd
 ul.paper li a { color: black; }
 ul.pager li.selected { background-color: $theme-color; }
 
-.highlight-games {
+.highlight-box {
   width: 175px;
 }
 
-.highlight-games-title {
+.highlight-box-title {
   height: 29px;
   padding: 0;
   position: relative;
@@ -433,7 +434,7 @@ ul.pager li.selected { background-color: $theme-color; }
   text-transform: uppercase;
 }
 
-.highlight-games-title:after {
+.highlight-box-title:after {
   color: $theme-color;
   content: '';
   display: block;
@@ -449,7 +450,7 @@ ul.pager li.selected { background-color: $theme-color; }
   border-right: 0 none;
 }
 
-.highlight-games hr {
+.highlight-box hr {
   border-width: 2px;
   display: block;
   height: 1px;
@@ -460,7 +461,7 @@ ul.pager li.selected { background-color: $theme-color; }
   width: 175px;
 }
 
-.highlight-games a {
+.highlight-box a {
   text-decoration: none;
 }
 

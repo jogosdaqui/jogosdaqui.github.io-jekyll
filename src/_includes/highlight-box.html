@@ -1,0 +1,15 @@
+<div class="highlight-box">
+    <div class="highlight-box-title">{{ include.title }}</div>
+    <hr>
+    {% assign filter = "item.categories contains '" | append: include.category | append: "'" %}
+    {% assign posts = include.posts | where_exp:"item", filter %}
+    <ul>
+    {% for post in posts limit:3 %}
+        <li>
+            <a href="{{ post.url }}">
+                {{ post.title }}
+            </a>
+        </li>
+    {% endfor %}
+    </ul>
+</div>

@@ -51,7 +51,9 @@
         {{ content }}
       </div>
       <div class="right-bar-container">
-          {% include highlight-games.html %}
+          {% include highlight-box.html title="Notícias" posts=site.posts category="News" %}
+          {% include highlight-box.html title="Prévias" posts=site.posts category="Preview" %}
+          {% include highlight-box.html title="Jogos" posts=site.posts category="Game" %}
       </div>
   </div>
   
