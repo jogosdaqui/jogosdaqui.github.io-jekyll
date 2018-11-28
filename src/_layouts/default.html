@@ -39,7 +39,6 @@
           <div class="site-info">
               <p class="site-description">{{ site.description }}</p>
             </div>  
-          {% include search.html %}
         </header>
       </div>
     </div>
@@ -50,6 +49,7 @@
       </div>
       <div class="right-bar-container">
           {% include ad.html %}
+          {% include search.html %}
           {% include highlight-box.html title="Jogos em destaque" posts=site.posts category="Game" %}
           {% include highlight-box.html title="Jogos iOS" posts=site.posts category="Game" tag="ios" %}
           {% include highlight-box.html title="Jogos Android" posts=site.posts category="Game" tag="android" %}
