@@ -23,13 +23,10 @@ Recentemente o game foi o vencedor da categoria "Jogo de Entretenimento" do BIG 
 
 Além da ação tática, o game também se destaca por sua arte, tendo um estilo visual extremamente colorido e criativo.
 
-
+{% youtube SI5QTiWWGO4 %}
 
 ## Open source
 Outro fato muito legal sobre o game é que a Rogue Snail abriu o código fonte do Relic Hunters Zero,  que está disponível no GitHub: [https://github.com/mventurelli/relichunterszero](https://github.com/mventurelli/relichunterszero). Se você tambem é [programador](https://github.com/giacomelli), vai querer conferir o game "mais de perto" e talvez até contribuir com ele. Para quem se interessou, o Mark Venturelli postou um tutorial mostrando como [adicionar uma nova arma ao game](http://www.roguesnail.com/how-to-make-your-own-gun-in-relic-hunters-zero/).
 
 ## Plataformas e lançamento
 O game tem previsão de lançamento para 18 de agosto no [Steam](http://store.steampowered.com/app/382490/). A primeira plataforma a receber o game será o Windows, todavia Mac e Linux estão nos planos da Rogue Snail, mas ainda sem previsão.
-
-## Trailer de Relic Hunters Zero
-{% youtube SI5QTiWWGO4 %}
