@@ -10,7 +10,7 @@
     <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
     <div class="entry">
-    {% include logo.html path=post.path %}
+    {% include logo.html logo=post.logo %}
     
     {{ post.content | strip_html | truncatewords: 50 }}
     </div>
