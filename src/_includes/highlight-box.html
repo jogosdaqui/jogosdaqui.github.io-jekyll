@@ -5,7 +5,8 @@
     <script>
         $.getJSON("{{ site.baseurl }}/search.json", function(json) {
             function addItem(post) {
-                var title = post.title.replace('&#39;', "'");
+                var title = post.title.replace(/&#39;/g, "'")
+                title = title.replace(/&amp;#39;/g, "'")
                 $("[list='{{ include.title }}']").append("<li><a href='" + post.url + "'>" + title + "</a></li>");
             }
             
