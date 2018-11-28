@@ -20,7 +20,7 @@ module Jekyll
         'Eventos'
       when 'Column'
         'Colunas'
-      when 'Promotion'
+      when 'Promo'
         'Promoções'
       else
         input

@@ -2,9 +2,9 @@
 published: true
 layout: post
 title: 'Big Brother Brasil 3D On-Line'
-companies: ''
+companies: 'Green Land Studios'
 categories: Game
-tags: reality-show
+tags: green-land-studios reality-show
 ---
 Bem vindo ao BBB OnLine, como no programa de grande audiência em todo Brasil, você vai interagir online, em tempo real, com outros participantes da casa. 
 

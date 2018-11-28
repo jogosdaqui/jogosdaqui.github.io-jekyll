@@ -1,12 +1,19 @@
 {% assign galleryName = include.path | galleryname %} 
 {% assign gallery = site.data['galleries'][galleryName] %} 
+{% assign imageHeight = include.imageHeight | default:"200px" %}
+{% assign imageWidth = include.imageWidth | default:"100%" %}
+{% assign centralized = include.centralized | default:true %}
 
 {{ pic }}
+{%if centralized %}
 <center>
+{% endif %} 
   {% for pic in gallery %}
     {% if pic contains 'logo' %}
-      <img src="{{ site.baseurl }}/{{ pic }}" style="max-height: 200px;"/> 
+      <img src="{{ site.baseurl }}/{{ pic }}" style="max-height: {{ imageHeight }};max-width: {{ imageWidth }};"/> 
       {% break %}       
     {% endif %}
   {% endfor %}
- </center>
+{%if centralized %}
+</center>
+{% endif %} 
