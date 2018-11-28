@@ -26,11 +26,6 @@
       <div class="container">
         <header class="masthead clearfix">
           <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
-
-          <div class="site-info">
-            <p class="site-description">{{ site.description }}</p>
-          </div>
-
           <nav>
             <a href="{{ site.baseurl }}/noticias" class="menu-item">Notícias</a>
             <a href="{{ site.baseurl }}/previas" class="menu-item">Prévias</a>
@@ -41,14 +36,29 @@
             <a href="{{ site.baseurl }}/faq" class="menu-item">FAQ</a>
             <a href="{{ site.baseurl }}/colabore" class="menu-item">Colabore</a>
           </nav>
-          {% include search.html %}
+          <div class="site-info">
+              <p class="site-description">{{ site.description }}</p>
+            </div>  
         </header>
       </div>
     </div>
 
     <div id="main" role="main" class="container">
-      {{ content }}
-    </div>
+      <div class="content-container">
+        {{ content }}
+      </div>
+      <div class="right-bar-container">
+          {% include ad.html %}
+          {% include search.html %}
+          {% include highlight-box.html title="Jogos em destaque" posts=site.posts category="Game" %}
+          {% include highlight-box.html title="Jogos iOS" posts=site.posts category="Game" tag="ios" %}
+          {% include highlight-box.html title="Jogos Android" posts=site.posts category="Game" tag="android" %}
+          {% include highlight-box.html title="Jogos Windows" posts=site.posts category="Game" tag="windows" %}
+          {% include highlight-box.html title="Documentários" posts=site.posts tag="documentario" %}
+          {% include highlight-box.html title="Entrevistas" posts=site.posts category="Interview" %}
+          {% include highlight-box.html title="Eventos" posts=site.posts category="Event" %}
+      </div>
+  </div>
   
     <div class="wrapper-footer">
       <div class="container">

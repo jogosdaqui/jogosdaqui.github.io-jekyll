@@ -8,7 +8,7 @@ categories: News
 tags: ios android rockhead-games aquiris-game-studio mgaia-studio demo-reel
 gallery: false
 ---
-Criamos esse demo reel abaixo com uma seleção de 3 incríveis games brasileiros disponíveis na para iOS e Android, confira:
+Criamos esse demo reel abaixo com uma seleção de 3 incríveis games brasileiros disponíveis para iOS e Android, confira:
 
 {% youtube 1geWiHlg2rw %}
 

@@ -5,7 +5,7 @@ title: 'Space Lander'
 author: Diego Giacomelli
 companies: 'Vortex Game Studios'
 categories: Game
-tags: steam video greenlight vortex-game-studios
+tags: video greenlight vortex-game-studios
 ---
 > Ground control to Major Tom  
 Ground control to Major Tom  

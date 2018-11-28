@@ -2,9 +2,9 @@
 published: true
 layout: post
 title: 'Acquaria O Jogo'
-companies: ''
+companies: 'Green Land Studios'
 categories: Game
-tags: 
+tags: green-land-studios
 ---
 De um ambiente desolador surge uma história exuberante. ACQUÁRIA mostra um futuro distante, no qual o "Planeta Azul" já não pode ser assim chamado. A Terra está praticamente esgotada, após agressões constantes à natureza.
 

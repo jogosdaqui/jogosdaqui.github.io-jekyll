@@ -5,7 +5,7 @@ title: 'Master of Words'
 author: Diego Giacomelli
 companies: 'Rockhead Games'
 categories: Game
-tags: ios android windows-phone windows rockhead-games
+tags: ios android windows-phone rockhead-games
 ---
 Deveria ter feito esse post sobre o [Rockhead Games](http://www.rockheadgames.com/), na semana passada, mas quando comecei a jogá-lo, não parei mais e o post ficou pra hoje :)
  
