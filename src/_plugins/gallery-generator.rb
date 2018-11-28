@@ -13,6 +13,7 @@ module Jekyll
 
 		def self.getGalleryName(folder)
 			galleryName = folder.dup
+			galleryName.sub! /.+\/_posts\//, ''
 			galleryName.sub! 'assets/', ''
 			galleryName.sub! /\d{4}\/(\d{4})/, '\1'
 			galleryName.gsub! '/', '-'
