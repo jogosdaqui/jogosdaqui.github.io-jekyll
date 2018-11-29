@@ -9,7 +9,7 @@ name: jogosdaqui
 description: A maior fonte colaborativa sobre games desenvolvidos no Brasil
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /assets/jogosdaqui-avatar.png
+avatar: https://jogosdaqui.github.io/assets/jogosdaqui-avatar.png
 
 timezone: America/Sao_Paulo
 
