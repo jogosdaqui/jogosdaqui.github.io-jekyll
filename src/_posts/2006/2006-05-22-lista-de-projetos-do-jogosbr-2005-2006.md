@@ -4,18 +4,219 @@ layout: post
 title: 'Lista de projetos do JogosBR 2005/2006'
 companies: ''
 categories: News
-tags: devworks-game-technology green-land-studios jynx-playware demo jogosbr decadium-studios imax-games
+tags: jogosbr devworks-game-technology green-land-studios jynx-playware demo jogosbr decadium-studios imax-games
 ---
 As listas de projetos enviados para os concursos do JogosBR 2005/2006 foi liberada, confira abaixo os gráficos de projetos por estado e as listas completas:
-<br />
 
-<br />
-<span style="font-weight: bold;">Jogos Completos de Baixo Orçamento<br /><br /></span>
+## Jogos Completos de Baixo Orçamento
+* A Traça Teca - Reconstruindo a História do Brasil
+  * Imax Games Entretenimento - SP
 
- 1- A Traça Teca - Reconstruindo a História do Brasil<br />Imax Games Entretenimento - SP<br /><br />2- Animaliens<br />Dogma Graphics - RJ<br /><br />3- As Aventuras de Kiko, o Mico<br />Jynx Playware Ltda - PE<br /><br />4- BAIUKA - Jogo para avaliação de múltiplas inteligências<br />RKE475 comunicação s\c ltda - PA<br /><br />5- Cabo de Guerra (TugWars)<br />Rage Comunicação Interativa LTDA - RS<br /><br />6-Cauim em Amazônia Urgente<br />AC System Consultoria em Informática Ltda - SP<br /><br />7- CaveDays<br />Insólita Studios - SP<br /><br />8- Confederados<br />Ciclope Ltda - MG<br /><br />9- CuanaToon<br />Calibre Desenvolvimento de Software Ltda - PR<br /><br />10- Deuses do Tabuleiro - O Juízo Final<br />Devworks Game Technology - SP<br /><br />11- Direção Furiosa<br />Sant Computação Gráfica - SP<br /><br />12-Eldorado: Em Busca do Tesouro Perdido<br />Outline Interactive Ltda - AM<br /><br />13- Estradas Esburacadas - São Paulo<br />SR-Games-SP<br /><br />14- Fórmula Brasil<br />LGB Consultores Associados Ltda - RS<br /><br />15- Formula S<br />Public Object Informática Ltda - PR<br /><br />16- Jogo do Arraial<br />Mega Finish LTDA - SP<br /><br />17- La Capitale<br />Fundação de Fomento à Tecnologia e à Ciência - Virtualize Jogos Eletrônicos (Incubada) - BA<br /><br />18- Lobo do Mar: batalhas navais para a libertação da América do Sul<br />Teiaoito Tecnologia Educacional Ltda - SP<br /><br />19- Maggie<br />Interama Jogos Eletrônicos - ES<br /><br />20- O Detetive - O Caso Portinari<br />Decadium Studios Ltda. - RS<br /><br />21- Peixis! A disputa subaquatica!<br />Virsat Sistemas Comerciais - MG<br /><br />22- Portal<br />Katecnet Comercio e Serviços de Inf. Ltda - CE<br /><br />23- Shotguns n Goblins - The Shaman will Dead<br />Ludens Artis Serviços em Informática Ltda - RS<br /><br />24- The Xtremers<br />Tibet Filme - RJ<br /><br />25- Turminha Querubim - Karangas Turbinadas<br />Licch - Criação e Desenvolvimento de Materiais Artísticos - PR<br /><br />26- Universim<br />Manifesto Game Studio - PE<br /><br />27- V.T.O.L. (Vertical Take Off Landing)<br />GreenLang Studios - SP<br /><br />28- Villa Rica<br />44 Bico Largo Multimídia - SP<br /><br />29 -Você é o Chefe (The Chief)<br />FourX Development Ltda - PR<br /><br />30- Warbots3D<br />Tempo Soluções em Informática LTDA - SP<br /><br /><br />
-<span style="font-weight: bold;">Projetos de Demos Jogáveis<br />
+* Animaliens
+  * Dogma Graphics - RJ
 
-1- Clóviz- DF<br />2- 1000 Gols: Um Craque Virtual - PR<br />3- A Era da Razão - RS<br />4- Acauã: O Resgate das Lendas Brasileiras - BA<br />5- Agentes Secretos - SP<br />6- Almas de Miliath -SP<br />7- Alpha - SP<br />8- Amazônia - O Feitiço das Águas - RJ<br />9-Amazônia Brasil -SP<br />10-Amazônia Vermelha -PR<br />11-Anagramas do Professor Corujoão -PE<br />12-Anjos em Batalha -PR<br />13-Aorta -SP<br />14-ARARA, O JOGO -PA<br />15-Aruanda: aprendendo com os Orixás -BA<br />16-As Aventuras de Davi -BA<br />17-As aventuras de Vitinho no Folclore Brasileiro -RJ<br />18-AuZar, em Busca de Osíris -RS<br />19-Azura Redemption -MS<br />20-Big Bang -SP<br />21-BiXo -SP<br />22-Boomwar -PR<br />23-Brasil Combat: Resgate Alien -SP<br />24-Brasilia Tropicalis -RJ<br />25-Braventuras -RJ<br />26-Cangaço -RS<br />27-Carnaval -RS<br />28-Cataclisma -DF<br />29-CineFalcatrua S.A. -RS<br />30-Cofre das Trevas -SP<br />31-Conspiração Dumont -RJ<br />32-Cool (Colegial OnLine) -PR<br />33-Copa Brasil de Turismo -RS<br />34-Dalirius -SP<br />35-Detetive BR -SC<br />36-Dó Ré Mi Fábula -SP<br />37-É GOL! -SP<br />38-Em Trânsito -SP<br />39-Escovadaço -SP<br />40-Fábrica de Tudo -PE<br />41-Flora-RJ<br />42-Formula Galaxy -SP<br />43-Fórmula Galaxy -MG<br />44-Fórmula Galaxy -SP<br />45-Fronteira -RS<br />46-FRONTEIRA -SP<br />47-Fuga de Anhatomirim -SC<br />48-Fúria Verde -MT<br />49-Futebol de Botão -RJ<br />50-Futebol de Botão -RJ<br />51-Game do Curt-RS<br />52-Game Engine de Luta 2D Multiplataforma : Demo Fight-SP<br />53-General Helix - A Conspiração de Agamamus -SP<br />54-GuardianBot -CE<br />55-HARPAZO - Guerra nas Regiões Celestiais -SP<br />56-Harpia Velocidade Máxima -SP<br />57-Hiparcus - Expedições Arqueológicas -PE<br />58-Humatronic - Evolução dos robôs -SP<br />59-Império em Guerra-MG<br />60-&Iacute;ndios -SP<br />61-Inferno -PR<br />62-Jogo dos Erros -SP<br />63-Kalua: Start-Up Tycoon -SP<br />64-Kuran -SP<br />65-Labirintus Minotaurus Eletronicus -SC<br />66-Lendas Animadas -RJ<br />67-Léx -ES<br />68-Magnata do Podrão-RJ<br />69-Memo Yumi, um aprendiz do Horóscopo Chinês -PR<br />70-metal gear 4 -SP<br />71-Missão Marte-SP<br />72-Música S.A -PR<br />73-MúsicoSIM! -BA<br />74-NASCIDO HÁ DEZ MIL ANOS ATRÁS -SP<br />75-NaveXXX -SP<br />76-Noite Mitológica Brasileira-RJ<br />77-Nova Genesis -PR<br />78-O Cara com a Pá -SP<br />79-O Decreto de Ansar -SP<br />80-O Mistério do Vôo sem Planos-RJ<br />81-O NÁUFRAGO -SP<br />82-O Rapto dos Sacis-RJ<br />83-Operação Shogun -PR<br />84-Os Discípulos do Crime -RJ<br />85-Os homens das cavernas -SP<br />86-Pain -SP<br />87-Pátria Amada -SP<br />88-Peixis! Uma disputa subaquática! -MG<br />89-Perdidos no Marajó -PA<br />90-Piolhos - um jogo com os pés na cabeça -SP<br />91-Pipa3D -SP<br />92-Plano Piloto - O Desafio de uma Nova Capital -DF<br />93-POKEMATS - O Desafio das Operações Matemáticas -MG<br />94-Prego Futebol -BA<br />95-Projeto FRONTEIRA -PR<br />96-Projeto Gênesis -DF<br />97-Quilombo -SC<br />98-RBTV - Rede Brasil de Televisão -SP<br />99-RESGATE FATAL -SP<br />100-Roça em Pé de Guerra -PE<br />101-Sangue Indígena -SP<br />102-Santos Dumont - A Conquista do Ar -SP<br />103-Search Underground-SC<br />104-Senciente -PI<br />105-Synapses -SC<br />106-Tartaruga -SP<br />107-TAxiBR -DF<br />
-108-The Weird Adventures of Verdox the Greenish -MG<br />
+* As Aventuras de Kiko, o Mico
+  * Jynx Playware Ltda - PE
 
-109-The Xtremers contra o Ciborgue DX-RJ<br />110-Transeunte -PE<br />111-TRANSEUNTE -SP<br />112-Transportando o Brasil -PR<br />113-Trem de Doido -MG<br />114-Três Dentro, Três Fora -PE<br />115-Uma aventura na Amazônia -RS<br />116-Viagem Pelo Corpo Humano - Uma Aventura 3D-PR<br />117-Vingador do Espaço-BA<br />118-VirtuaChess -SP<br />119-Zaori -SP<br />120-Zumbi, o rei dos Palmares -SP
+* BAIUKA - Jogo para avaliação de múltiplas inteligências
+  * RKE475 comunicação s\c ltda - PA
+
+* Cabo de Guerra (TugWars)
+  * Rage Comunicação Interativa LTDA - RS
+
+* Cauim em Amazônia Urgente
+  * AC System Consultoria em Informática Ltda - SP
+
+* CaveDays
+  * Insólita Studios - SP
+
+* Confederados
+  * Ciclope Ltda - MG
+
+* CuanaToon
+  * Calibre Desenvolvimento de Software Ltda - PR
+
+* Deuses do Tabuleiro - O Juízo Final
+  * Devworks Game Technology - SP
+
+* Direção Furiosa
+  * Sant Computação Gráfica - SP
+
+* Eldorado: Em Busca do Tesouro Perdido
+  * Outline Interactive Ltda - AM
+
+* Estradas Esburacadas - São Paulo
+  * SR-Games-SP
+
+* Fórmula Brasil
+  * LGB Consultores Associados Ltda - RS
+
+* Formula S
+  * Public Object Informática Ltda - PR
+
+* Jogo do Arraial
+  * Mega Finish LTDA - SP
+
+* La Capitale
+  * Fundação de Fomento à Tecnologia e à Ciência - Virtualize Jogos Eletrônicos (Incubada) - BA
+
+* Lobo do Mar: batalhas navais para a libertação da América do Sul
+  * Teiaoito Tecnologia Educacional Ltda - SP
+
+* Maggie
+  * Interama Jogos Eletrônicos - ES
+
+* O Detetive - O Caso Portinari
+  * Decadium Studios Ltda. - RS
+
+* Peixis! A disputa subaquatica!
+  * Virsat Sistemas Comerciais - MG
+
+* Portal
+  * Katecnet Comercio e Serviços de Inf. Ltda - CE
+
+* Shotguns n Goblins - The Shaman will Dead
+  * Ludens Artis Serviços em Informática Ltda - RS
+
+* The Xtremers
+  * Tibet Filme - RJ
+
+* Turminha Querubim - Karangas Turbinadas
+  * Licch - Criação e Desenvolvimento de Materiais Artísticos - PR
+
+* Universim
+  * Manifesto Game Studio - PE
+
+* V.T.O.L. (Vertical Take Off Landing)
+  * GreenLang Studios - SP
+
+* Villa Rica
+  * 44 Bico Largo Multimídia - SP
+
+* Você é o Chefe (The Chief)
+  * FourX Development Ltda - PR
+
+* Warbots3D
+  * Tempo Soluções em Informática LTDA - SP
+
+## Projetos de Demos Jogáveis
+* Clóviz- DF
+* 1000 Gols: Um Craque Virtual - PR
+* A Era da Razão - RS
+* Acauã: O Resgate das Lendas Brasileiras - BA
+* Agentes Secretos - SP
+* Almas de Miliath -SP
+* Alpha - SP
+* Amazônia - O Feitiço das Águas - RJ
+* Amazônia Brasil -SP
+* Amazônia Vermelha -PR
+* Anagramas do Professor Corujoão -PE
+* Anjos em Batalha -PR
+* Aorta -SP
+* ARARA, O JOGO -PA
+* Aruanda: aprendendo com os Orixás -BA
+* As Aventuras de Davi -BA
+* As aventuras de Vitinho no Folclore Brasileiro -RJ
+* AuZar, em Busca de Osíris -RS
+* Azura Redemption -MS
+* Big Bang -SP
+* BiXo -SP
+* Boomwar -PR
+* Brasil Combat: Resgate Alien -SP
+* Brasilia Tropicalis -RJ
+* Braventuras -RJ
+* Cangaço -RS
+* Carnaval -RS
+* Cataclisma -DF
+* CineFalcatrua S.A. -RS
+* Cofre das Trevas -SP
+* Conspiração Dumont -RJ
+* Cool (Colegial OnLine) -PR
+* Copa Brasil de Turismo -RS
+* Dalirius -SP
+* Detetive BR -SC
+* Dó Ré Mi Fábula -SP
+* É GOL! -SP
+* Em Trânsito -SP
+* Escovadaço -SP
+* Fábrica de Tudo -PE
+* Flora-RJ
+* Formula Galaxy -SP
+* Fórmula Galaxy -MG
+* Fórmula Galaxy -SP
+* Fronteira -RS
+* FRONTEIRA -SP
+* Fuga de Anhatomirim -SC
+* Fúria Verde -MT
+* Futebol de Botão -RJ
+* Futebol de Botão -RJ
+* Game do Curt-RS
+* Game Engine de Luta 2D Multiplataforma : Demo Fight-SP
+* General Helix - A Conspiração de Agamamus -SP
+* GuardianBot -CE
+* HARPAZO - Guerra nas Regiões Celestiais -SP
+* Harpia Velocidade Máxima -SP
+* Hiparcus - Expedições Arqueológicas -PE
+* Humatronic - Evolução dos robôs -SP
+* Império em Guerra-MG
+* Índios -SP
+* Inferno -PR
+* Jogo dos Erros -SP
+* Kalua: Start-Up Tycoon -SP
+* Kuran -SP
+* Labirintus Minotaurus Eletronicus -SC
+* Lendas Animadas -RJ
+* Léx -ES
+* Magnata do Podrão-RJ
+* Memo Yumi, um aprendiz do Horóscopo Chinês -PR
+* metal gear 4 -SP
+* Missão Marte-SP
+* Música S.A -PR
+* MúsicoSIM! -BA
+* NASCIDO HÁ DEZ MIL ANOS ATRÁS -SP
+* NaveXXX -SP
+* Noite Mitológica Brasileira-RJ
+* Nova Genesis -PR
+* O Cara com a Pá -SP
+* O Decreto de Ansar -SP
+* O Mistério do Vôo sem Planos-RJ
+* O NÁUFRAGO -SP
+* O Rapto dos Sacis-RJ
+* Operação Shogun -PR
+* Os Discípulos do Crime -RJ
+* Os homens das cavernas -SP
+* Pain -SP
+* Pátria Amada -SP
+* Peixis! Uma disputa subaquática! -MG
+* Perdidos no Marajó -PA
+* Piolhos - um jogo com os pés na cabeça -SP
+* Pipa3D -SP
+* Plano Piloto - O Desafio de uma Nova Capital -DF
+* POKEMATS - O Desafio das Operações Matemáticas -MG
+* Prego Futebol -BA
+* Projeto FRONTEIRA -PR
+* Projeto Gênesis -DF
+* Quilombo -SC
+* RBTV - Rede Brasil de Televisão -SP
+* RESGATE FATAL -SP
+* Roça em Pé de Guerra -PE
+* Sangue Indígena -SP
+* Santos Dumont - A Conquista do Ar -SP
+* Search Underground-SC
+* Senciente -PI
+* Synapses -SC
+* Tartaruga -SP
+* TAxiBR -DF
+* The Weird Adventures of Verdox the Greenish -MG
+* The Xtremers contra o Ciborgue DX-RJ
+* Transeunte -PE
+* TRANSEUNTE -SP
+* Transportando o Brasil -PR
+* Trem de Doido -MG
+* Três Dentro, Três Fora -PE
+* Uma aventura na Amazônia -RS
+* Viagem Pelo Corpo Humano - Uma Aventura 3D-PR
+* Vingador do Espaço-BA
+* VirtuaChess -SP
+* Zaori -SP
+* Zumbi, o rei dos Palmares -SP
