@@ -1,0 +1,3 @@
+{% if page.releaseDate != null %}
+<div class="post-info"><i class="fas fa-rocket"></i> Lançamento: {{ page.releaseDate | date: "%d/%m/%Y" }}</div>
+{% endif %}
