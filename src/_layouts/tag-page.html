@@ -2,7 +2,6 @@
 layout: default
 ---
 <h2>{{ page.tag }}</h2>
-{% assign categories = null %}
 {% assign categoriesPosts = page.posts | group_by:'categories' | sort:'categories' %}
 {% for categoryPost in categoriesPosts %}
     <ul>

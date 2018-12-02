@@ -4,7 +4,7 @@ layout: post
 title: 'MDEV: jogos para celular'
 companies: 'MDEV'
 categories: News
-tags: MDEV
+tags: mdev
 ---
 MDEV é uma distribuidora e desenvolvedor de jogos para celular genuinamente brasileira. 
 A MDEV é do estado de Santa Catarina, assim como a PalmSoft Tecnologia, uma de suas parceiras.
