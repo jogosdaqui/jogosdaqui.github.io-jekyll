@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: 'Bola de Gude'
-companies: ''
+companies: 'Icon Games'
 categories: Game
 tags: icon-games
 ---
@@ -13,7 +13,7 @@ No jogo Bola de Gude, o jogador pode jogar sozinho contra 3 jogadores controlado
 
 Graças aos gráficos 3D caprichados, a sensação ao jogar Bola de Gude é muito próxima ao jogo real. O jogador seleciona a direção para lançar a bolinha de gude e após, precisa acertar a força no medidor de intensidade.
 
-
+{% youtube h8bbbY6gX5I %}
 
 O jogo conta com dois modos de disputa: "búlica" e "mata-mata". No modo "búlica" o objetivo é ir e voltar nos três círculos que aparecem na fase. No modo "mata-mata", basta "tecar" uma bola e ela sai do campo de jogo.
 
