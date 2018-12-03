@@ -5,7 +5,7 @@ title: 'Crazy Bitsy Spider'
 author: Diego Giacomelli
 companies: 'Dead Mushroom'
 categories: Game
-tags: ios android video dead-mushroom
+tags: dead-mushroom puzzle ios android video 
 ---
 [Crazy Bitsy Spider](http://www.deadmushroom.com/?page_id=27) é um action puzzle para iOS e Android, da brasileira [Dead Mushroom](http://www.deadmushroom.com/), onde o jogador controla uma simpática aranha que deve  construir suas teias e capturar os diversos insetos que passam pelo cenário. O desafio está em se alimentar de uma variedade determinada de insetos a cada fase para progredir no jogo, tudo isso com uma trilha sonora no melhor estilo Bob Mcferrin, trilha essa que dá o tom ao jogo, e gráficos cartoon caprichados.
  
