@@ -21,7 +21,7 @@ O Brazil Game Awards acabou de [anunciar](https://brazilgameawards.com.br/conhec
 Em 2018, o Brazil Game Awards passou a eleger os melhores games do ano, não mais atrelado à Brasil Game Show.
 
 ## Demo reel
-Montamos o demo reel abaixo para que demonstra um pouco mais de cada um dos 5 games indicados:
+Montamos o demo reel abaixo que demonstra um pouco mais de cada um dos 5 games indicados:
 
 {% youtube rRhUCAJUMUg %}
 
