@@ -5,17 +5,17 @@ title: 'Porcunipine'
 author: Diego Giacomelli
 companies: 'Big Green Pillow'
 categories: Game
-tags: splitplay steam video ludum-dare big-green-pillow kongregate
+tags: big-green-pillow party-game splitplay steam video ludum-dare kongregate
 ---
 > "Lembro com muito carinho,
 >  que um dia já foram lindos porcos-espinho.
-
+>
 > Nada tinha a temer,
 >  pois com eles, inimigo nenhum podia mexer.
-
+>
 > Mas como o tempo inevitavelmente passou
 >  e seus fabulosos espinhos com ele levou
-
+>
 > ...a era da calvície e da chacina se inicia,
 >  então melhor sobreviver e curtir
 >  o que lhes resta com alegria."
@@ -59,7 +59,7 @@ Sabemos que o foco do game é o multiplayer local, mas ficamos curiosos de ver o
 ## Conclusão
 Finalizando, Porcunipine é um verdadeiro party game, que já é divertido singleplayer, mas perfeito para jogar multiplayer. Desse momento em diante os itens obrigatórios para as festas serão: amigos, bebidas, comida e, claro, Porcunipine na TV da sala.
 
-#@ Veja o trailer de Porcunipine
+## Veja o trailer de Porcunipine
 {% youtube FUMC9UyKjOQ %}
 
 ## Plataformas
