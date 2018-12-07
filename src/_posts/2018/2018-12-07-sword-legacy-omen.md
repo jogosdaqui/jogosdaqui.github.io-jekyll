@@ -11,7 +11,7 @@ Embarque em uma reedição sangrenta e brutal dos mitos do Rei Arthur como Uther
 
 		
 ## História do Projeto
-A carioca {% company Firecast Studio %} começou o desenvolvimento do [Sword Legacy: Omen] (https://www.swordlegacy.com/) em 2014. O pequeno estúdio, composto por apenas quatro pessoas, começou por prototipar novos mecanismos para um jogo tático baseado em turnos.
+A carioca {% company Firecast Studio %} começou o desenvolvimento do [Sword Legacy: Omen](https://www.swordlegacy.com/) em 2014. O pequeno estúdio, composto por apenas quatro pessoas, começou por prototipar novos mecanismos para um jogo tático baseado em turnos.
 
 Depois de desenvolver uma jogabilidade divertida e desafiadora, em 2015 uma parceria foi formada, com a também carioca, Fableware Narrative Design, outro estúdio independente focado em experiências baseadas em histórias. Desde então que o projeto evoluiu para uma propriedade intelectual transmídia, tendo o jogo como seu primeiro e principal produto.
 		
@@ -20,7 +20,7 @@ Em 2016, Sword Legacy: Omen participou de vários eventos e ganhou prêmios de p
 
 ## História e jogabilidade
 
-> Antes da Era de Ouro de Artur, nosso reino estava perdido, despedaçado e decadente; reinos dilacerados p
+> Antes da Era de Ouro de Artur, nosso reino estava perdido, despedaçado e decadente; reinos dilacerados
 
 O senhor da Mércia foi assassinado, seu amor raptado e sua casa não existe mais. Como Uther, você deve liderar seu bando de companheiros durante as missões cheias de desafios. Forje alianças desconfortáveis ​​para adquirir a mítica espada Excalibur e derrotar o sinistro duque obcecado pelo poder de Wessex.
 
