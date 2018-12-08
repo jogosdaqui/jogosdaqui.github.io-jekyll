@@ -17,6 +17,9 @@
     <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico?60a1fa" type="image/x-icon"/>
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 
+    <script src="{{ site.baseurl }}/libs/GreedNav/greedynav.js"></script>
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/libs/GreedNav/greedynav.css" />
+
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
     {% seo %}
   </head>
@@ -25,15 +28,19 @@
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl}}/assets/jogosdaqui-logo-header.png" /></a>
-          <nav>
-            <a href="{{ site.baseurl }}/noticias" class="menu-item">Notícias</a>
-            <a href="{{ site.baseurl }}/previas" class="menu-item">Prévias</a>
-            <a href="{{ site.baseurl }}/jogos" class="menu-item">Jogos</a>
-            <a href="{{ site.baseurl }}/entrevistas" class="menu-item">Entrevistas</a>
-            <a href="{{ site.baseurl }}/eventos" class="menu-item">Eventos</a>
-            <a href="{{ site.baseurl }}/colunas" class="menu-item">Colunas</a>
-            <a href="{{ site.baseurl }}/colabore" class="menu-item">Colabore</a>
+          <nav class="greedy">
+            <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl}}/assets/jogosdaqui-logo-header.png" /></a>
+            <ul class='links'>
+              <li><a href="{{ site.baseurl }}/noticias" class="menu-item">Notícias</a></li>
+              <li><a href="{{ site.baseurl }}/previas" class="menu-item">Prévias</a></li>
+              <li><a href="{{ site.baseurl }}/jogos" class="menu-item">Jogos</a></li>
+              <li><a href="{{ site.baseurl }}/entrevistas" class="menu-item">Entrevistas</a></li>
+              <li><a href="{{ site.baseurl }}/eventos" class="menu-item">Eventos</a></li>
+              <li><a href="{{ site.baseurl }}/colunas" class="menu-item">Colunas</a></li>
+              <li><a href="{{ site.baseurl }}/colabore" class="menu-item">Colabore</a></li>
+            </ul>
+            <button><i class="fas fa-bars"></i></button>
+            <ul class='hidden-links hidden'></ul>
           </nav>
           <div class="site-info">
               <p class="site-description">{{ site.description }}</p>
@@ -69,6 +76,5 @@
     </div>
 
     {% include analytics.html %}
-
   </body>
 </html>
