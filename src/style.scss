@@ -447,6 +447,10 @@ nav.greedy button.hidden {
   border-right: 0.5rem solid $theme-color !important;
 }
 
+nav.greedy button {
+  color: white;
+}
+
 nav.greedy li {
   list-style-type: none !important;
   background: $theme-color !important;
