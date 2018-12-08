@@ -209,8 +209,7 @@ img {
 
 .site-avatar {
   float: left;
-  margin-right: 15px;
-
+  
   @include mobile {
     float: none;
     display: block;
@@ -442,9 +441,24 @@ nav.greedy, nav.greedy button {
   border-radius: 3px;
 }
 
+nav.greedy button.hidden {
+  background: $theme-color !important;
+  border-right: 0.5rem solid $theme-color !important;
+}
+
 nav.greedy li {
   list-style-type: none !important;
   background: $theme-color !important;
+  border-radius: 3px;
+}
+
+nav.greedy ul.links {
+  justify-content: flex-start !important;
+  padding-left: 0px !important;
+}
+
+nav.greedy ul.hidden-links li {
+  padding: 10px !important;
 }
 
 nav.greedy button::after {
