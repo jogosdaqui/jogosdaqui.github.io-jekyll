@@ -5,7 +5,7 @@ title: 'Crystal Catcher'
 author: Diego Giacomelli
 companies: 'Crazy Minds Game Studio'
 categories: Game
-tags: crazy-minds-game-studio runner ios videocrazy-minds-game-studio 
+tags: crazy-minds-game-studio runner ios video
 ---
 Um runner com uma pitada de puzzle! Essa é a melhor maneira para descrever [Crystal Catcher](http://site.crazyminds.net/p/crystal-catcher.html), para iPhone e iPad, o último game da desenvolvedora brasileira [Crazy Minds Game Studio](http://site.crazyminds.net), que já esteve no jogosdaqui com o puzzle BLLUBY.
 
