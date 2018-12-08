@@ -122,6 +122,7 @@ p a, li a, div > a {
 ul, ol {
   margin: 15px 0;
   padding-left: 30px;
+  z-index: 9999;
 }
 
 ul {
@@ -209,8 +210,7 @@ img {
 
 .site-avatar {
   float: left;
-  margin-right: 15px;
-
+  
   @include mobile {
     float: none;
     display: block;
@@ -224,7 +224,7 @@ img {
 
 .site-info {
   float: left;
-  min-width: 70%;
+  min-width: 100%;
   margin-left: 20px;
  
   @include mobile {
@@ -250,6 +250,7 @@ img {
   color: $gray;
   font-size: 16px;
   margin-bottom: 0px;
+  text-align: center;
 
   @include mobile {
     margin: 3px 0;
@@ -429,11 +430,48 @@ footer {
 
 // Menu.
 .menu-item {
-  color: $theme-color;
+  color: white;
   font-family: 'Roboto', sans-serif;
   font-size: 14px;
   text-transform: uppercase;
   text-decoration: none;
+}
+
+nav.greedy, nav.greedy button {
+  background: $theme-color !important;
+  border-radius: 3px;
+}
+
+nav.greedy button.hidden {
+  background: $theme-color !important;
+  border-right: 0.5rem solid $theme-color !important;
+}
+
+nav.greedy button {
+  color: white;
+}
+
+nav.greedy li {
+  list-style-type: none !important;
+  background: $theme-color !important;
+  border-radius: 3px;
+}
+
+nav.greedy ul.links {
+  justify-content: flex-start !important;
+  padding-left: 0px !important;
+}
+
+nav.greedy ul.hidden-links li {
+  padding: 10px !important;
+}
+
+nav.greedy button::after {
+  background: white !important;
+  color: $theme-color !important;
+  border-radius: 20% !important;
+  border-width: 1px;
+  border-style: solid;
 }
 
 
@@ -473,6 +511,7 @@ ul.pager li.selected { background-color: $theme-color; }
   min-width: 85px;
   text-transform: uppercase;
   white-space: nowrap;
+  z-index: -9999;
 }
 
 .highlight-box-title:after {
