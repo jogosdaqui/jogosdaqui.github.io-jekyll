@@ -224,7 +224,7 @@ img {
 
 .site-info {
   float: left;
-  min-width: 70%;
+  min-width: 100%;
   margin-left: 20px;
  
   @include mobile {
@@ -250,6 +250,7 @@ img {
   color: $gray;
   font-size: 16px;
   margin-bottom: 0px;
+  text-align: center;
 
   @include mobile {
     margin: 3px 0;
@@ -437,13 +438,21 @@ footer {
 }
 
 nav.greedy, nav.greedy button {
-  background: #ff9900 !important;
+  background: $theme-color !important;
   border-radius: 3px;
 }
 
 nav.greedy li {
   list-style-type: none !important;
-  background: #ff9900 !important;
+  background: $theme-color !important;
+}
+
+nav.greedy button::after {
+  background: white !important;
+  color: $theme-color !important;
+  border-radius: 20% !important;
+  border-width: 1px;
+  border-style: solid;
 }
 
 
