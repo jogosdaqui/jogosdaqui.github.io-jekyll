@@ -4,7 +4,7 @@ layout: post
 title: 'Casseta & Planeta - Jogo da Memória'
 companies: 'Meantime'
 categories: Game
-tags: meantime
+tags: meantime puzzle mobile
 ---
 Como anda a sua memória? Fraca, cansada, precisando de uma forcinha? Apresentamos mais um revolucionário lançamento das organizações TABAJARA: o incrível MEMORY REFRESCATOR: Casseta & Planeta - Jogo da Memória, com os personagens do [Casseta & Planeta](http://www.casseta.com.br). Aproveite essa nova sensação e desafie sua memória descobrindo os pares certos e tentando bater recordes próprios e dos amigos.
 

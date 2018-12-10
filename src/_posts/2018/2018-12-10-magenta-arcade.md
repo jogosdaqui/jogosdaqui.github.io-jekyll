@@ -13,6 +13,7 @@ Magenta Arcade é um shooter de dedo, desenvolvido pela {% company Long Hat Hous
 ## Gameplay
 Torne-se um deus! Seu dedo é uma arma, mas também a sua maior fraqueza! Saiba escolher entre tocar na tela e subir seu dedo pra se defender!
 
+## História
 O Ciclo dos Desejos é um ritual sagrado para o povo! É onde você realiza os desejos das pessoas. Durante muitos ciclos, a paz reinou, mas tudo isso muda quando o irado Ivo Magenta realiza seu desejo vil. Agora, o desastre acontece, e você deverá dormir até o próximo ciclo. Ao acordar, tudo depende de você! 
 
 Use seu dedo pra destruir Ivo e seus lacaios robôs: a ordem do mundo está em suas mãos! 

@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Resultado da enquete "Quais games desenvolvidos no Brasil você já jogou?"'
+author: 'Diego Giacomelli'
 companies: ''
 categories: News
 tags: ios aquiris-game-studio  continuum rts diefox domino-box donsoft-entertainment erinia espaco-informatica fingertips graffiti-entertainment green-land-studios hoplon icon-games invent4 sulistas jynx-playware kidguru-studios nology livetouch miniboss mmorpg mother-gaia-studio musigames ovni-studios perceptum southlogic-studios tec-toy the-velopers webcore yellow-jam ps3 psp ttomax FPS

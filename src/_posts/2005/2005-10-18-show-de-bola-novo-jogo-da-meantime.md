@@ -2,9 +2,9 @@
 published: true
 layout: post
 title: 'Show de Bola, novo jogo da Meantime'
-companies: ''
+companies: 'Meantime'
 categories: News
-tags: meantime
+tags: meantime esporte futebol
 ---
 A Meantime lançará em breve, para os fãs do mais popular esporte do mundo, o jogo Show de Bola.
 
