@@ -23,12 +23,12 @@ $.getJSON("/search.json", function(json) {
     var posts = $(json).filter(function (i,p) {
         if(hasQuery(p, regex)) {
             if (lastCategory != p.category) {
-                resultElement.append("<h3>"+ getCategory(p) + " " + getIcon(p) + "</h3>" );
+                resultElement.append("<h3>"+ jd.getCategory(p) + " " + jd.getIcon(p) + "</h3>" );
                 lastCategoryElement = resultElement.append("<ul></ul>");
                 lastCategory = p.category;
             }
 
-            lastCategoryElement.append("<li title='" + getCategory(p) + "'><a href='" + p.url + "'>" + p.title + "</a></li>");
+            lastCategoryElement.append("<li title='" + jd.getCategory(p) + "'><a href='" + p.url + "'>" + p.title + "</a></li>");
         }
     });       
 });
@@ -37,44 +37,5 @@ function hasQuery(post, regex) {
     return post.title.search(regex) != -1
         || post.tags.search(regex) != -1
         || post.author.search(regex) != -1;
-}
-
-function getIcon(post) {
-    switch(post.category) {
-        case 'News':
-            return "{{ 'News' | categoryicon }}";
-        case 'Preview':
-            return "{{ 'Preview' | categoryicon }}";
-        case 'Game':
-            return "{{ 'Game' | categoryicon }}";
-        case 'Interview':
-            return "{{ 'Interview' | categoryicon }}";
-        case 'Event':
-            return "{{ 'Event' | categoryicon }}";
-        case 'Column':
-            return "{{ 'Column' | categoryicon }}";
-        case 'Promo':
-            return "{{ 'Promo' | categoryicon }}";
-    }
-}
-
-
-function getCategory(post) {
-    switch(post.category) {
-        case 'News':
-            return "{{ 'News' | categorytitle }}";
-        case 'Preview':
-            return "{{ 'Preview' | categorytitle }}";
-        case 'Game':
-            return "{{ 'Game' | categorytitle }}";
-        case 'Interview':
-            return "{{ 'Interview' | categorytitle }}";
-        case 'Event':
-            return "{{ 'Event' | categorytitle }}";
-        case 'Column':
-            return "{{ 'Column' | categorytitle }}";
-        case 'Promo':
-            return "{{ 'Promo' | categorytitle }}";
-    }
 }
 </script>
