@@ -23,12 +23,12 @@ $.getJSON("/search.json", function(json) {
     var posts = $(json).filter(function (i,p) {
         if(hasQuery(p, regex)) {
             if (lastCategory != p.category) {
-                resultElement.append("<h3>"+ getCategory(p) + "</h3>" + getIcon(p));
+                resultElement.append("<h3>"+ getCategory(p) + " " + getIcon(p) + "</h3>" );
                 lastCategoryElement = resultElement.append("<ul></ul>");
                 lastCategory = p.category;
             }
 
-            lastCategoryElement.append("<li title='" + getCategory(p) + "'><a href='" + p.url + "'>" + p.title + "</a> " + getIcon(p) + "</li>");
+            lastCategoryElement.append("<li title='" + getCategory(p) + "'><a href='" + p.url + "'>" + p.title + "</a></li>");
         }
     });       
 });
