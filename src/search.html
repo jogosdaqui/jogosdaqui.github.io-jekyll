@@ -1,0 +1,80 @@
+---
+layout: page
+permalink: /pesquisa/
+title: Pesquisa
+---
+
+<h3 id="search-result-title"></h3>
+<div id="search-result"></div>
+
+<script>
+var urlParams = new URLSearchParams(window.location.search);
+var query = urlParams.get('q');
+
+$('title').text($('title').text().replace('Pesquisa', query));
+$('#search-result-title').text("Resultado da pesquisa por \"" + query + "\"");
+var regex = new RegExp(query, "i");
+var resultElement = $("#search-result");
+
+$.getJSON("/search.json", function(json) {
+    var lastCategory = null;
+    var lastCategoryElement = null;
+
+    var posts = $(json).filter(function (i,p) {
+        if(hasQuery(p, regex)) {
+            if (lastCategory != p.category) {
+                resultElement.append("<h3>"+ getCategory(p) + "</h3>" + getIcon(p));
+                lastCategoryElement = resultElement.append("<ul></ul>");
+                lastCategory = p.category;
+            }
+
+            lastCategoryElement.append("<li title='" + getCategory(p) + "'><a href='" + p.url + "'>" + p.title + "</a> " + getIcon(p) + "</li>");
+        }
+    });       
+});
+
+function hasQuery(post, regex) {
+    return post.title.search(regex) != -1
+        || post.tags.search(regex) != -1
+        || post.author.search(regex) != -1;
+}
+
+function getIcon(post) {
+    switch(post.category) {
+        case 'News':
+            return "{{ 'News' | categoryicon }}";
+        case 'Preview':
+            return "{{ 'Preview' | categoryicon }}";
+        case 'Game':
+            return "{{ 'Game' | categoryicon }}";
+        case 'Interview':
+            return "{{ 'Interview' | categoryicon }}";
+        case 'Event':
+            return "{{ 'Event' | categoryicon }}";
+        case 'Column':
+            return "{{ 'Column' | categoryicon }}";
+        case 'Promo':
+            return "{{ 'Promo' | categoryicon }}";
+    }
+}
+
+
+function getCategory(post) {
+    switch(post.category) {
+        case 'News':
+            return "{{ 'News' | categorytitle }}";
+        case 'Preview':
+            return "{{ 'Preview' | categorytitle }}";
+        case 'Game':
+            return "{{ 'Game' | categorytitle }}";
+        case 'Interview':
+            return "{{ 'Interview' | categorytitle }}";
+        case 'Event':
+            return "{{ 'Event' | categorytitle }}";
+        case 'Column':
+            return "{{ 'Column' | categorytitle }}";
+        case 'Promo':
+            return "{{ 'Promo' | categorytitle }}";
+    }
+}
+</script>

@@ -7,25 +7,45 @@ module Jekyll
     def categorytitle(input)
       case input.gsub /[\[\]"]/, ''
       when 'News'
-        'Notícias'
+        return 'Notícias'
       when 'Preview'
-        'Prévias'
-      when 'News'
-        'Notícias'
+        return 'Prévias'
       when 'Game'
-        'Jogos'
+        return 'Jogos'
       when 'Interview'
-        'Entrevistas'
+        return 'Entrevistas'
       when 'Event'
-        'Eventos'
+        return 'Eventos'
       when 'Column'
-        'Colunas'
+        return 'Colunas'
       when 'Promo'
-        'Promoções'
+        return 'Promoções'
       else
-        input
+        return input
       end
     end
+
+    def categoryicon(input)
+      case input.gsub /[\[\]"]/, ''
+      when 'News'
+        iconName = 'newspaper'
+      when 'Preview'
+        iconName = 'eye'
+      when 'Game'
+        iconName = 'gamepad'
+      when 'Interview'
+        iconName = 'comments'
+      when 'Event'
+        iconName = 'chalkboard-teacher'
+      when 'Column'
+        iconName = 'comment-alt'
+      when 'Promo'
+        iconName = 'money-bill-alt'
+      end
+      
+      return "<i class='fas fa-#{iconName}'></i>"
+    end
+
   end
 end
   
