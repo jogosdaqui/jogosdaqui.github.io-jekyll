@@ -9,7 +9,7 @@ releaseDate: 2017
 tags: aquiris-game-studio fps windows mac linux press-release
 ---
 
-Quando falamos de [Ballistic em 2012]({ site.baseurl }/2012/11/14/ballistic-entra-em-fase-de-beta-teste-2) o game era um Free2Play para navegadores, ainda em fase beta.
+Quando falamos de [Ballistic em 2012]({{ site.baseurl }}/2012/11/14/ballistic-entra-em-fase-de-beta-teste-2) o game era um Free2Play para navegadores, ainda em fase beta.
 
 Ballistic Overkill foi redesenhado visando uma nova experiência para rodar em Windows, Mac e Linux.
 
@@ -25,7 +25,7 @@ Habilidades e armas são desbloqueadas à medida que você ganha experiência em
 
 ## Características
 
-* Maid de 80 arams, de pistolas, lançadores de granadas, SMGs, rifles de precisão, katanas, etc.
+* Maid de 80 armas, pistolas, lançadores de granadas, SMGs, rifles de precisão, katanas, etc.
 * 7 classes. Cada um com suas forças e fraquezas particulares. 
 * 10 mapas. Um museu, um parque corporativo, um shopping e até mesmo um hospital e uma fábrica abandonados. Eles vêm em todos os tamanhos, mas todos eles têm sua própria atmosfera, personalidade e um design que os torna únicos para jogar.
 * 4 modos de jogo. Todos os mapas têm vários modos de jogo disponíveis: Team Deathmatch, gratuito para todos, ponto de captura, King of the Hill. 		

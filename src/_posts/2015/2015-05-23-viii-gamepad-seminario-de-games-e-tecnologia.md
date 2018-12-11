@@ -8,31 +8,28 @@ tags: abragames evento gamepad
 ---
 O VIII GAMEPAD – Seminário de Games e Tecnologia contará com apresentação de papers, mostra de jogos, palestras e workshops.
 
-Dentre os palestrantes teremos: Cristiano Silva da Samsung, Tiago Rech e Klos Cunha da Ottus Game Studio falando do game [Fragmentorum Alba]({{ site.baseurl }}/2015/03/25/teaser-de-fragmentorum-alba)
-, Ronaldo de Azevedo do canal Gato Galáctico e Agustín Cordes falando do desenvolvimento do <a href="http://www.senscape.net/asylum/" target="_blank">game Asylum</a>
-.
+Dentre os palestrantes teremos: Cristiano Silva da Samsung, Tiago Rech e Klos Cunha da Ottus Game Studio falando do game [Fragmentorum Alba]({{ site.baseurl }}/2015/03/25/teaser-de-fragmentorum-alba), Ronaldo de Azevedo do canal Gato Galáctico e Agustín Cordes falando do desenvolvimento do [game Asylum](http://www.senscape.net/asylum/).
+
 ## Confira a programação completa do VIII Gamepad
 ## 29/05 - Sexta-feira:
-<ul>
-	<li>9h – Credenciamento</li>
-	<li>9h30min– Apresentação de papers (Coordenação Luís Carlos Petry - PUC-SP)</li>
-	<li>12h30min – Almoço</li>
-	<li>14h – Abertura – Fala institucional e ADJOGOS-RS</li>
-	<li>14h30min – Mostra de Jogos</li>
-	<li>17h – Intervalo</li>
-	<li>18h – Palestra 1 – Cristiano Silva - Samsung</li>
-	<li>18h40min – Palestra 2 –Tiago Rech e Klos Cunha – Ottus Game Studio – Fragmentorum</li>
-	<li>19h25min – Palestra 3 – Ronaldo de Azevedo – Gato Galáctico – Cuieo</li>
-	<li>20h15min – Mesa Redonda – Monsterbed, Epopeia, Grimm e Incubadora Feevale. Mediação: Sandro Manfredini – ABRAGAMES</li>
-	<li>21h – Palestra 4 – Agustín Cordes – Senscape – Desenvolvimento de Asylum</li>
-	<li>21h50min – Encerramento / Resultado da Mostra</li>
-</ul>
+* 9h – Credenciamento
+* 9h30min– Apresentação de papers (Coordenação Luís Carlos Petry - PUC-SP)
+* 12h30min – Almoço
+* 14h – Abertura – Fala institucional e ADJOGOS-RS
+* 14h30min – Mostra de Jogos
+* 17h – Intervalo
+* 18h – Palestra 1 – Cristiano Silva - Samsung
+* 18h40min – Palestra 2 –Tiago Rech e Klos Cunha – Ottus Game Studio – Fragmentorum
+* 19h25min – Palestra 3 – Ronaldo de Azevedo – Gato Galáctico – Cuieo
+* 20h15min – Mesa Redonda – Monsterbed, Epopeia, Grimm e Incubadora Feevale. Mediação: Sandro Manfredini – ABRAGAMES
+* 21h – Palestra 4 – Agustín Cordes – Senscape – Desenvolvimento de Asylum
+* 21h50min – Encerramento / Resultado da Mostra
+
 ## 30/05 - Sábado:
-<ul>
-	<li>9h – Workshop 1 – Produção de Áudio Dinâmico</li>
-	<li>10h – Workshop 2 – Otimização de Programação</li>
-	<li>11h – Workshop 3 – Substance</li>
-</ul>
+* 9h – Workshop 1 – Produção de Áudio Dinâmico
+* 10h – Workshop 2 – Otimização de Programação
+* 11h – Workshop 3 – Substance
+
 ### Dados do evento
 * **Nome**: VIII Gamepad
 * **Quando**: 29/05/15 das 9h às 22h e 30/05/15 das 9h às 12h

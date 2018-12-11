@@ -5,7 +5,7 @@ layout: default
 {% assign categoriesPosts = page.posts | group_by:'categories' | sort:'categories' %}
 {% for categoryPost in categoriesPosts %}
     <ul>
-      <h3>{{ categoryPost.name | categorytitle}}</h3>
+      <h3>{{ categoryPost.name | categorytitle}} {{ categoryPost.name | categoryicon}}</h3>
       {% assign sortedPosts = categoryPost.items | sort:'date' | reverse %}
       {% for post in sortedPosts %}
         <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> ({{ post.date | date: "%d/%m/%Y" }})</li>
