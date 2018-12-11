@@ -8,7 +8,7 @@
 <script>
     $('#search-input').keyup(function(e) {
       if(e.keyCode == 13) {
-        window.location.href = "/pesquisa?q=" + $('#search-input').val();
+        window.location.href = {{ site.baseurl }} "/pesquisa?q=" + $('#search-input').val();
       }
     });
 </script>

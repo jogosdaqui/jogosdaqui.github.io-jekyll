@@ -16,7 +16,7 @@ $('#search-result-title').text("Resultado da pesquisa por \"" + query + "\"");
 var regex = new RegExp(query, "i");
 var resultElement = $("#search-result");
 
-$.getJSON("/search.json", function(json) {
+$.getJSON("{{ site.baseurl }}/search.json", function(json) {
     var lastCategory = null;
     var lastCategoryElement = null;
 
