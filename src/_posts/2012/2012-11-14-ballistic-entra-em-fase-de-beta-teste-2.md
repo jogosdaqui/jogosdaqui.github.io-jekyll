@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Ballistic entra em fase de beta teste'
+author: 'Diego Giacomelli'
 companies: 'Aquiris Game Studio'
 categories: News
 tags: aquiris-game-studio video facebook
