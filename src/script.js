@@ -37,5 +37,8 @@ let jd = {
             case 'Promo':
                 return "{{ 'Promo' | categorytitle }}";
         }
-    }
+    },
+    escapeRegex: function escapeRegex(string) {
+        return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); // $& means the whole matched string
+      }
 }

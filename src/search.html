@@ -13,14 +13,17 @@ var query = urlParams.get('q');
 
 $('title').text($('title').text().replace('Pesquisa', query));
 $('#search-result-title').text("Resultado da pesquisa por \"" + query + "\"");
-var regex = new RegExp(query, "i");
 var resultElement = $("#search-result");
+resultElement.html("<i>Carregando...</i>");
+var regex = new RegExp(jd.escapeRegex(query), "i");
+
 
 $.getJSON("{{ site.baseurl }}/search.json", function(json) {
+    resultElement.text('');
     var lastCategory = null;
     var lastCategoryElement = null;
 
-    var posts = $(json).filter(function (i,p) {
+    $(json).filter(function (i,p) {
         if(hasQuery(p, regex)) {
             if (lastCategory != p.category) {
                 resultElement.append("<h3>"+ jd.getCategory(p) + " " + jd.getIcon(p) + "</h3>" );
@@ -31,6 +34,9 @@ $.getJSON("{{ site.baseurl }}/search.json", function(json) {
             lastCategoryElement.append("<li title='" + jd.getCategory(p) + "'><a href='" + p.url + "'>" + p.title + "</a></li>");
         }
     });       
+
+    if (resultElement.text().length == 0)
+        resultElement.html("<i>nenhum resultado encontrado</i>");
 });
 
 function hasQuery(post, regex) {
