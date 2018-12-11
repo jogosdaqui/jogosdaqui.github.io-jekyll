@@ -2,56 +2,53 @@
 published: true
 layout: post
 title: 'XIII SEJA (Semana de Entretenimento, Jogos e  Animação)'
+author: 'Diego Giacomelli'
 companies: ''
 categories: Event
 tags: evento
 ---
 A Semana de Entretenimento, Jogos e Animação (SEJA), promovida semestralmente pelo curso de Jogos Digitais da PUC - MG, chega na sua 13º edição tendo como destaque palestras sobre animação, artes, programação, experiências profissionais de ex-alunos, mercado de trabalho, serious games e mais, confira a programação abaixo:
 ## Programação do XIII SEJA
-Terça-feira - 19 de maio
-<ul>
-	<li>13:30 às 14:20 Desenvolvimento de Texturas Procedurais: Juliano Britto Silveira</li>
-	<li>14:30 às 15:20 Um Recém Formado na Indústria de Jogos: Bruno Gontijo</li>
-	<li>15:30 às 16:00 Casa dos Quadrinhos: Vitor Cafaggi</li>
-	<li>16:30 às 17:20 Achievement unlocked: Ronaldo Gazel</li>
-	<li>17:30 às 18:20 Realidade Virtual – Oculus Rift: Márcio Oya</li>
-	<li>13:30 às 17:30 Minicurso: Programação de Bézier: Alessandra Fernandes</li>
-</ul>
+
+
+### Terça-feira - 19 de maio
+* 13:30 às 14:20 Desenvolvimento de Texturas Procedurais: Juliano Britto Silveira
+* 14:30 às 15:20 Um Recém Formado na Indústria de Jogos: Bruno Gontijo
+* 15:30 às 16:00 Casa dos Quadrinhos: Vitor Cafaggi
+* 16:30 às 17:20 Achievement unlocked: Ronaldo Gazel
+* 17:30 às 18:20 Realidade Virtual – Oculus Rift: Márcio Oya
+* 13:30 às 17:30 Minicurso: Programação de Bézier: Alessandra Fernandes
+
  
 
-Quarta-feira - 20 de maio
-<ul>
-	<li>13:30 às 14:20 Construindo um Video Game Portátil: Samir Araújo</li>
-	<li>14:30 às 15:20 Falando de Dublagem e Animação: Fernando Mendonça</li>
-	<li>15:30 às 16:00 Casa dos Quadrinhos: Geraldo Araújo</li>
-	<li>16:30 às 17:20 O Cartoon nos Meios de Comunicação: Lucas Libanio</li>
-	<li>17:30 às 18:20 Concept Art em Suportes Diversos: Eduardo Bernardes</li>
-	<li>13:30 às 17:30 Minicurso: C# Avançado & Unity 3D: Helbert Gomes</li>
-</ul>
+### Quarta-feira - 20 de maio
+* 13:30 às 14:20 Construindo um Video Game Portátil: Samir Araújo
+* 14:30 às 15:20 Falando de Dublagem e Animação: Fernando Mendonça
+* 15:30 às 16:00 Casa dos Quadrinhos: Geraldo Araújo
+* 16:30 às 17:20 O Cartoon nos Meios de Comunicação: Lucas Libanio
+* 17:30 às 18:20 Concept Art em Suportes Diversos: Eduardo Bernardes
+* 13:30 às 17:30 Minicurso: C# Avançado & Unity 3D: Helbert Gomes
+
  
 
-Quinta-feira - 21 de maio
-<ul>
-	<li>13:30 às 14:20 Sunland - Desafios do empreendedor de jogos: Renato Dias</li>
-	<li>14:30 às 15:20 Animação – Combo Studio: Anderson Mahanski</li>
-	<li>15:30 às 16:00 Casa dos Quadrinhos: Marcio Fiorito</li>
-	<li>16:30 às 17:20 Como Monetizar Meus Jogos?: Pedro Lopes</li>
-	<li>17:30 às 18:20 Câmera, Imersão e Narrativa nos Videogames: Marcelo Victor Ferreira</li>
-	<li>13:30 às 17:30 Minicurso: Cenas Auditivas: Jordan Costa Montuori</li>
-	<li>13:30 às 17:30 Minicurso: Speed Sculpting : Eddie Viera</li>
-</ul>
- 
+### Quinta-feira - 21 de maio
+* 13:30 às 14:20 Sunland - Desafios do empreendedor de jogos: Renato Dias
+* 14:30 às 15:20 Animação – Combo Studio: Anderson Mahanski
+* 15:30 às 16:00 Casa dos Quadrinhos: Marcio Fiorito
+* 16:30 às 17:20 Como Monetizar Meus Jogos?: Pedro Lopes
+* 17:30 às 18:20 Câmera, Imersão e Narrativa nos Videogames: Marcelo Victor Ferreira
+* 13:30 às 17:30 Minicurso: Cenas Auditivas: Jordan Costa Montuori
+* 13:30 às 17:30 Minicurso: Speed Sculpting : Eddie Viera
 
-Sexta-feira - 22 de maio
-<ul>
-	<li>13:30 às 14:20 Greenlight e Indie House: Betu Souza</li>
-	<li>14:30 às 15:20 Som, Música e Imagem: Matheus Braga</li>
-	<li>15:30 às 16:00 Casa dos Quadrinhos: Wesley Soares</li>
-	<li>16:30 às 17:20 Show: Abreu Project</li>
-	<li>17:30 às 18:20 Show: Abreu Project</li>
-	<li>13:30 às 17:30 Minicurso: Blend Trees: Hugo Santiago Marques</li>
-	<li>13:30 às 17:30 Minicurso: Concept Art Avançado: Filipe Dilly</li>
-</ul>
+### Sexta-feira - 22 de maio
+* 13:30 às 14:20 Greenlight e Indie House: Betu Souza
+* 14:30 às 15:20 Som, Música e Imagem: Matheus Braga
+* 15:30 às 16:00 Casa dos Quadrinhos: Wesley Soares
+* 16:30 às 17:20 Show: Abreu Project
+* 17:30 às 18:20 Show: Abreu Project
+* 13:30 às 17:30 Minicurso: Blend Trees: Hugo Santiago Marques
+* 13:30 às 17:30 Minicurso: Concept Art Avançado: Filipe Dilly
+
 ### Dados do evento
 * **Nome**: "XIII SEJA
 * **Quando**: entre 19 e 22 de maio de 2015, das 13h30 às 18h20
