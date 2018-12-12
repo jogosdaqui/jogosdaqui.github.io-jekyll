@@ -5,7 +5,7 @@ title: 'Calango For Kids'
 author: Diego Giacomelli
 companies: 'Tinfoil Hat Studios'
 categories: Game
-tags: ios sbgames evento video tinfoil-hat-studios
+tags: tinfoil-hat-studios ios infnatil sbgames video 
 ---
 Ao ver o game Calango For Kids, da gaúcha Tinfoil Hat Studios, me lembrei do slogan do [SciCast](http://www.scicast.com.br/): 
 
