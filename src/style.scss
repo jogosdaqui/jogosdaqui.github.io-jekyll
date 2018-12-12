@@ -418,6 +418,14 @@ footer {
   border-width: 1px;
   padding: 16px 9px;
 }
+#search-button {
+  padding: 0;
+  float: right;
+  position: absolute;
+  margin-left: 10px;
+  height: 35px;
+  width: 35px;
+}
 
 #results-container {
   background: white;
@@ -426,6 +434,7 @@ footer {
   margin-top: 1px;
   padding-left: 5px !important;
   position: absolute;
+
 }
 
 // Menu.
