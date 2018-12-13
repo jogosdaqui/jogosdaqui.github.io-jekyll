@@ -334,10 +334,18 @@ nav {
 
 .post-thumb-logo {
   margin-right: 215px;
+
+  @include mobile {
+    margin-right: 115px;
+  }
 }
 
 .post-thumb img {
   width: 200px;
+
+  @include mobile {
+    width: 100px;
+  }
 }
 
 .post-thumb a {
