@@ -6,12 +6,14 @@
         {% include ad.html %} 
     {% endif %}
     <div class="post-thumb">
-        {% if post.logo != null %}
+        {% if post.logo == null %}
+        <span class="post-thumb-logo"><img src="{{ site.baseurl }}/assets/empty.png" /></span>
+        {% else %}
             <span class="post-thumb-logo"><img src="{{ site.baseurl }}/{{ post.logo }}" /></span>
         {% endif %}
         <a href="{{ site.baseurl }}{{ post.url }}">
             <h2>{{ post.title }}</h2>
-            <p>{{ post.content | strip_html | truncatewords: 35 }}</p>
+            <p>{{ post.content | strip_html | truncatewords: 25 }}</p>
         </a>
     </div>
 {% endfor %}
