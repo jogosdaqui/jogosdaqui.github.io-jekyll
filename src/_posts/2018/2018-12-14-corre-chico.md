@@ -7,7 +7,7 @@ companies: 'iMAX Games'
 categories: Game
 tags: imax-games android runner infantil turma-da-monica press-release
 ---
-Na roça ou na cidade, esse jogo vai fazer a cabeça da criançada! Chegou "[Corre, Chico!](https://play.google.com/store/apps/details?id=br.com.imaxgames.chicobento)", um jogo com a Turma do Chico Bento.
+Na roça ou na cidade, esse jogo vai fazer a cabeça da criançada! "[Corre, Chico!](https://play.google.com/store/apps/details?id=br.com.imaxgames.chicobento)", um jogo com a Turma do Chico Bento.
 
 ## Gameplay
 Ganhar a corrida contra o Zé Lelé é importante, mas tem um monte de outras coisas que você também não pode vacilar: desviar dos perigos, pegar muitas goiabas, melhorar as habilidades dos animais que te ajudam, tudo isso sempre tomando cuidado com a onça e o Nhô Lau!

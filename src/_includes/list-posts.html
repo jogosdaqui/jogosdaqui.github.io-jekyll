@@ -5,18 +5,19 @@
     {% if postCount == 5 %}
         {% include ad.html %} 
     {% endif %}
-    <article class="post">
-
-    <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-    <div class="entry">
-    {% include logo.html logo=post.logo %}
-    
-    {{ post.content | strip_html | truncatewords: 35 }}
+    <div class="post-thumb">
+        <div class="post-thumb-image-container">
+            {% if post.logo != null %}
+                <img src="{{ site.baseurl }}/{{ post.logo }}" />
+            {% endif %}
+        </div>
+        <div class="post-thumb-text-container">
+            <a href="{{ site.baseurl }}{{ post.url }}">
+                <h2>{{ post.title }}</h2>
+                <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
+            </a>
+        </div>
     </div>
-
-    <a href="{{ site.baseurl }}{{ post.url }}" class="button">Leia mais</a>
-    </article>
 {% endfor %}
 </div>
 
