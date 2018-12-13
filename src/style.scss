@@ -41,6 +41,7 @@ body {
   display: inline-block;
   vertical-align: top;
   width: 70%;
+  min-width: 600px;
 
   @include mobile {
     width: 100%;
@@ -329,17 +330,18 @@ nav {
 }
 
 .post-thumb-text-container {
-  // margin-left: 215px;
-  margin-right: 250px;
+  margin-left: 215px;
+  min-width: 200px;
+  // margin-right: 250px;
 }
 
 .post-thumb img {
   max-height: 150px;
   max-width: 200px;
   min-width: 100px;
-  // margin-right: 15px;
-  float: right;
-  border-radius: 10px;
+  margin-right: 15px;
+  float: left;
+  // border-radius: 10px;
 }
 
 .post-thumb a {
