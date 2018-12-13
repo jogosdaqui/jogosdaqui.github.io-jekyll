@@ -8,8 +8,8 @@ install:
 - sh: sudo apt-get update
 - sh: sudo apt-get -y install curl
 - sh: \curl -L https://get.rvm.io | bash -s stable --ruby
-- sh: rvm get stable --autolibs=enable
 - sh: rvm reload
+- sh: rvm get stable --autolibs=enable
 - sh: rvm install ruby
 - sh: gem install jekyll bundler
 
