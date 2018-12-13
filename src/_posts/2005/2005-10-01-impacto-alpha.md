@@ -4,7 +4,7 @@ layout: post
 title: 'Impacto Alpha'
 companies: 'Oniria Entertainment'
 categories: Game
-tags: oniria-entertainment tiro
+tags: oniria-entertainment shoot-em-up tiro
 ---
 Primeiro jogo desenvolvido pela Oniria Entertainment, em 2001.
 Foi publicado no Brasil pela Cia do Software e na Alemanha, Áustria e Suíça pela BHV Software.
