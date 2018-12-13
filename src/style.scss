@@ -41,11 +41,9 @@ body {
   display: inline-block;
   vertical-align: top;
   width: 70%;
-  min-width: 600px;
 
   @include mobile {
     width: 100%;
-    min-width: 70%;
   }
 }
 
