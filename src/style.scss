@@ -45,6 +45,7 @@ body {
 
   @include mobile {
     width: 100%;
+    min-width: 70%;
   }
 }
 
@@ -322,26 +323,23 @@ nav {
 }
 
 .post-thumb {
-  margin-bottom: 0px;
+  margin-bottom: 15px;
+  display: table;
 }
 
-.post-thumb-image-container {
-  // width: 200px;
-}
-
-.post-thumb-text-container {
-  margin-left: 215px;
+.post-thumb a, .post-thumb h2 {
   min-width: 200px;
-  // margin-right: 250px;
+
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.post-thumb-logo {
+  margin-right: 215px;
 }
 
 .post-thumb img {
-  max-height: 150px;
-  max-width: 200px;
-  min-width: 100px;
-  margin-right: 15px;
-  float: left;
-  // border-radius: 10px;
+  width: 200px;
 }
 
 .post-thumb a {

@@ -25,7 +25,7 @@ Você também pode cultivar sua própria fazendinha de goiabas e deixar o Chico 
 * Desafio e diversão garantida!
 
 ## Plataformas
-O jogos está dispnível para:
+O jogos está disponível para:
 
 * [Android](https://play.google.com/store/apps/details?id=br.com.imaxgames.chicobento)
 * [iOS](https://itunes.apple.com/br/app/corre-chico/id1031978178?mt=8)
