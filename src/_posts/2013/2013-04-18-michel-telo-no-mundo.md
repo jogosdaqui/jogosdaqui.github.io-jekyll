@@ -5,7 +5,7 @@ title: 'Michel Teló no Mundo'
 author: Diego Giacomelli
 companies: 'Doubleleft'
 categories: Game
-tags: ios android video facebook doubleleft
+tags: doubleleft runner ios android video 
 ---
 A [Doubleleft](https://www.facebook.com/doubleleft), desenvolvedora paulista conhecida pelos games [Garbageman](http://doubleleft.com/garbageman/) [Bob Burnquist's Dreamland](http://bbdreamland.com/), tem mais um game fazendo sucesso: [Michel Teló no Mundo](http://playmicheltelo.com/)
 
