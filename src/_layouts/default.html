@@ -8,8 +8,12 @@
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-   
+   <script>
+   gallerySlider = null;
+   </script>
     <script src="{{ site.baseurl }}/libs/jquery.min.js"></script>
+    <script src="{{ site.baseurl }}/libs/Waypoints/jquery.waypoints.min.js"></script>
+    <script src="{{ site.baseurl }}/libs/Waypoints/shortcuts/inview.min.js"></script>
     <script src="{{ site.baseurl }}/script.js"></script>
     
     <link rel="stylesheet" href="{{ site.baseurl }}/libs/fontawesome/css/all.min.css" />
@@ -78,9 +82,9 @@
     {% include analytics.html %}
     <script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@10.19.0/dist/lazyload.min.js"></script>
     <script>
-    var myLazyLoad = new LazyLoad({
-    elements_selector: ".lazy"
-  }); 
+    new LazyLoad({
+      elements_selector: ".lazy" 
+    }); 
   </script>
   </body>
 </html>

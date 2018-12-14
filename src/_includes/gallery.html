@@ -22,18 +22,18 @@
 {% endif %}
 
 {% if pictures.size > 0 %}
-<h2>Galeria de imagens</h2>
+<h2 id="gallery-title">Galeria de imagens</h2>
 <center>
   {% if pictures.size > 1 %}
   <ul id="lightSlider">
     {% for pic in pictures %}
         <li data-thumb="{{ site.baseurl }}/{{ pic }}">
-          <img src="{{ site.baseurl }}/{{ pic }}" alt="Screenshot do post"/>        
+          <img class="lazy" src="{{ site.baseurl }}/assets/jogosdaqui-avatar-grayscale.png" data-src="{{ site.baseurl }}/{{ pic }}" alt="Screenshot do post"/>        
         </li>
     {% endfor %}
   </ul>
   {% else %}
-      <img src="{{ site.baseurl }}/{{ pictures.first }}" alt="Screenshot do post"/> 
+      <img class="lazy" src="{{ site.baseurl }}/assets/jogosdaqui-avatar-grayscale.png" data-src="{{ site.baseurl }}/{{ pictures.first }}" alt="Screenshot do post"/> 
   {% endif %}
  </center>
  {% endif %}
@@ -41,23 +41,36 @@
 {% if pictures.size > 1 %}
 
 <script type="text/javascript">
-  $(document).ready(function() {
-   $('#lightSlider').lightSlider({
-        gallery: true,
-        pager: true,
-        controls: false,
-        thumbItem: 8,
-        item: 1,
-        loop: false,
-        slideMargin: 0,
-        autoWidth: true,
-        adaptiveHeight: true,
-        mode: "fade",
-        useCSS: true,
-        cssEasing: 'ease',
-        easing: 'linear'
-    });
+var initialized = false;
+var inview = new Waypoint.Inview({
+  element: document.getElementById('gallery-title'),
+  enter: function(direction) {
+    console.log('gallery enter on view')
+    initializeGallery();
+  }
+});
+
+function initializeGallery() {
+  if(initialized) return;
+  initialized = true;
+
+  console.log("starting gallery..");
+  $('#lightSlider').lightSlider({
+    gallery: true,
+    pager: true,
+    controls: false,
+    thumbItem: 8,
+    item: 1,
+    loop: false,
+    slideMargin: 0,
+    autoWidth: true,
+    adaptiveHeight: true,
+    mode: "fade",
+    useCSS: true,
+    cssEasing: 'ease',
+    easing: 'linear'
   });
+}
 </script>
 {% endif %}
 {% endif %}
