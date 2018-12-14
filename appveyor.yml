@@ -14,6 +14,7 @@ install:
 - sh: gem install jekyll bundler
 
 build_script:
+- sh: export JEKYLL_ENV="production" 
 - sh: cd src
 - sh: bundle install
 - sh: git config --global credential.helper "store --file ~/.git-credentials"
