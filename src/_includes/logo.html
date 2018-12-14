@@ -6,7 +6,7 @@
   {%if centralized %}
     <center>
   {% endif %} 
-    <img src="{{ site.baseurl }}/{{ include.logo }}" style="max-height: {{ imageHeight }};max-width: {{ imageWidth }};" alt="Logo do post"/> 
+    <img data-src="{{ site.baseurl }}/{{ include.logo }}" class="lazy" style="max-height: {{ imageHeight }};max-width: {{ imageWidth }};" alt="Logo do post"/> 
   {%if centralized %}
     </center>
   {% endif %} 
