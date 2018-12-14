@@ -28,12 +28,12 @@
   <ul id="lightSlider">
     {% for pic in pictures %}
         <li data-thumb="{{ site.baseurl }}/{{ pic }}">
-          <img src="{{ site.baseurl }}/{{ pic }}"/>        
+          <img src="{{ site.baseurl }}/{{ pic }}" alt="Screenshot do post"/>        
         </li>
     {% endfor %}
   </ul>
   {% else %}
-      <img src="{{ site.baseurl }}/{{ pictures.first }}"/> 
+      <img src="{{ site.baseurl }}/{{ pictures.first }}" alt="Screenshot do post"/> 
   {% endif %}
  </center>
  {% endif %}
