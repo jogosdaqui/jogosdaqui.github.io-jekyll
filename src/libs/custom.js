@@ -1,6 +1,3 @@
----
-layout: null
----
 let jd = {
     getIcon: function getIcon(post) {
         switch(post.category) {
