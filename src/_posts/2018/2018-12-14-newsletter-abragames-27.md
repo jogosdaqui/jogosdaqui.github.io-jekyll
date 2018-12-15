@@ -12,7 +12,7 @@ A Abragames (Associação Brasileira das Desenvolvedoras de Jogos Eletrônicos) 
 > Celebrar os caminho de sucesso de jogos brasileiros lançados e reconhecidos mundialmente: em 2018, muitos games chegaram ao mercado com destaque na imprensa internacional, além de terem recebido prêmios em festivais pelo mundo afora.
 
 * Galaxy of Pen & Paper, da Behold Studios, levou o prêmio de melhor narrativa no Indie Prize da Sérvia. 
-* {% post Sword Legacy Omen %}, da Fableware Narrative Design e da Firecast Studios, foi eleito o melhor jogo do Indie X, do Lisboa Games Week.
+* {% post Sword Legacy: Omen %}, da Fableware Narrative Design e da Firecast Studios, foi eleito o melhor jogo do Indie X, do Lisboa Games Week.
 * Pixel Ripped, da ARVORE Immersive Experiences, levou o troféu de Jogo mais inovador do mesmo evento. 
 * Dandara, da Long Hat House, foi o primeiro jogo brasileiro a estar na lista dos melhores games do ano elaborado pela Revista Time. 
 * Celeste, que teve a participação do Studio MiniBoss, conquistou dois prêmios no The Game Awards 2018, o de Melhor Jogo Independente e o de Impacto. 
