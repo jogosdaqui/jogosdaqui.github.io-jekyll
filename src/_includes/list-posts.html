@@ -1,3 +1,5 @@
+{% assign pager = include.pager | default:"true" %}
+
 <div class="posts">
 {% assign postCount = 0 %} 
 {% for post in include.posts %}
@@ -21,7 +23,7 @@
 </div>
 
 <!-- Pagination links -->
-{% if paginator.total_pages > 1 %}
+{% if pager == "true" && paginator.total_pages > 1 %}
 <ul class="pager">
     {% if paginator.page_trail %}
         {% if paginator.previous_page %}

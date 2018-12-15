@@ -8,6 +8,8 @@ name: jogosdaqui
 # Short bio or description (displayed in the header)
 description: A maior fonte colaborativa sobre games desenvolvidos no Brasil
 
+title_separator: "&#124;"
+
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://jogosdaqui.github.io/assets/jogosdaqui-avatar.png
 
@@ -87,7 +89,7 @@ pagination:
   #permalink: '/page/:num' # Pages are html files, linked jekyll extensionless permalink style.
 
   # Optional the title format for the paginated pages (supports :title for original page title, :num for pagination page number, :max for total number of pages)
-  title: ''
+  title: ':title'
 
   # Limit how many pagenated pages to create (default: 0, means all)
   limit: 0
