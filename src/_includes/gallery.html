@@ -1,9 +1,12 @@
+<script src="{{ site.baseurl }}/libs/Waypoints/jquery.waypoints.min.js"></script>
+<script src="{{ site.baseurl }}/libs/Waypoints/shortcuts/inview.min.js"></script>
+<link type="text/css" rel="stylesheet" href="{{ site.baseurl }}/libs/lightslider/css/lightslider.min.css" />                  
+<script src="{{ site.baseurl }}/libs/lightslider/js/lightslider.min.js"></script>
+    
 {% if page.gallery != false %}
 {% assign galleryName = page.path | galleryname %} 
 {% assign gallery = site.data['galleries'][galleryName] %} 
 
-<link type="text/css" rel="stylesheet" href="{{ site.baseurl }}/libs/lightslider/css/lightslider.css" />                  
-<script src="{{ site.baseurl }}/libs/lightslider/js/lightslider.js"></script>
 {% assign pictures = "" | split: ',' %} 
 {% if gallery.size > 1 %}
   {% for pic in gallery %}
@@ -28,12 +31,12 @@
   <ul id="lightSlider">
     {% for pic in pictures %}
         <li data-thumb="{{ site.baseurl }}/{{ pic }}">
-          <img class="lazy" src="{{ site.baseurl }}/assets/jogosdaqui-avatar-grayscale.png" data-src="{{ site.baseurl }}/{{ pic }}" alt="Screenshot do post"/>        
+          <img class="lazy" src="{{ site.baseurl }}/assets/loading-image.png" data-src="{{ site.baseurl }}/{{ pic }}" alt="Screenshot do post"/>        
         </li>
     {% endfor %}
   </ul>
   {% else %}
-      <img class="lazy" src="{{ site.baseurl }}/assets/jogosdaqui-avatar-grayscale.png" data-src="{{ site.baseurl }}/{{ pictures.first }}" alt="Screenshot do post"/> 
+      <img class="lazy" src="{{ site.baseurl }}/assets/loading-image.png" data-src="{{ site.baseurl }}/{{ pictures.first }}" alt="Screenshot do post"/> 
   {% endif %}
  </center>
  {% endif %}
@@ -45,16 +48,15 @@ var initialized = false;
 var inview = new Waypoint.Inview({
   element: document.getElementById('gallery-title'),
   enter: function(direction) {
-    console.log('gallery enter on view')
     initializeGallery();
   }
 });
 
 function initializeGallery() {
   if(initialized) return;
+  
   initialized = true;
 
-  console.log("starting gallery..");
   $('#lightSlider').lightSlider({
     gallery: true,
     pager: true,
