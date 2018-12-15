@@ -54,8 +54,7 @@ build_script:
     if (!$env:APPVEYOR_PULL_REQUEST_NUMBER)
     {
       cd _site
-      echo "Last update = $(Get-Date -Format g)" > info.html
-      echo "Branch = $($env:APPVEYOR_REPO_BRANCH)" >> info.html
+      echo "{ `"date`": `"$(Get-Date -Format g)`", `"branch`": `"$($env:APPVEYOR_REPO_BRANCH)`" }" > version.json
       git add .
       git commit -m "$($env:APPVEYOR_REPO_COMMIT_MESSAGE)"
       git push
