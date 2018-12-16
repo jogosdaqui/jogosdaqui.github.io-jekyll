@@ -3,6 +3,7 @@ published: true
 layout: post
 title: 'Corre, Chico!'
 author: 'Diego Giacomelli'
+date: '2018-12-14 10:00'
 companies: 'iMAX Games'
 categories: Game
 tags: imax-games android runner infantil turma-da-monica press-release

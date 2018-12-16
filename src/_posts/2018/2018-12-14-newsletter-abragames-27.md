@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Newsletter Abragames #27'
+date: '2018-12-14 13:30'
 author: 'Diego Giacomelli'
 companies: 'Abragames'
 categories: News
