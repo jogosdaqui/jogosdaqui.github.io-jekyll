@@ -2,17 +2,8 @@
 <html>
   <head>
     <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.name }} | {{ site.description }}</title>
-
     {% include meta.html %}
-
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <script src="{{ site.baseurl }}/libs/bundle.js"></script>
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/libs/bundle.css" />
-
-    <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico" type="image/x-icon"/>
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    {% include head-resources.html %}
   </head>
 
   <body>
