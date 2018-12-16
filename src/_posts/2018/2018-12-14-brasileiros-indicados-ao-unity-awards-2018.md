@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Brasileiros indicados ao Unity Awards 2018'
+date: '2018-12-14 20:10'
 author: 'Diego Giacomelli'
 companies: ''
 categories: News
