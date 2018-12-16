@@ -1,0 +1,18 @@
+---
+layout: null
+---
+
+/* INCLUDE: fontawesome */
+{% include_absolute libs/fontawesome/css/all.min.css %}
+
+/* INCLUDE: styel.css */
+{% include_absolute _site/style.css %}
+
+/* INCLUDE: Roboto */
+{% include_absolute libs/Roboto/all.css %}
+
+/* INCLUDE: GreedNav */
+{% include_absolute libs/GreedNav/greedynav.min.css %}
+
+/* INCLUDE: lightslider */
+{% include_absolute libs/lightslider/css/lightslider.min.css %}

@@ -1,26 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
-
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.name }} | {{ site.description }}</title>
     {% include meta.html %}
-
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
-    <script src="{{ site.baseurl }}/libs/jquery.min.js"></script>
-    <script src="{{ site.baseurl }}/script.js"></script>
-    
-    <link rel="stylesheet" href="{{ site.baseurl }}/libs/fontawesome/css/all.min.css" />
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link href="{{ site.baseurl }}/libs/Roboto/all.css" rel="stylesheet">
-
-    <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico?60a1fa" type="image/x-icon"/>
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-
-    <script src="{{ site.baseurl }}/libs/GreedNav/greedynav.js"></script>
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/libs/GreedNav/greedynav.css" />
+    {% include head-resources.html %}
   </head>
 
   <body>
@@ -30,7 +13,7 @@
           <nav class="greedy">
             <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl}}/assets/jogosdaqui-avatar-transparent.png" /></a>
             <ul class='links'>
-                <li><a href="{{ site.baseurl }}/" class="menu-item">jogosdaqui</a></li>
+              <li><a href="{{ site.baseurl }}/" class="menu-item">jogosdaqui</a></li>
               <li><a href="{{ site.baseurl }}/noticias" class="menu-item">Notícias</a></li>
               <li><a href="{{ site.baseurl }}/previas" class="menu-item">Prévias</a></li>
               <li><a href="{{ site.baseurl }}/jogos" class="menu-item">Jogos</a></li>
@@ -76,5 +59,6 @@
     </div>
 
     {% include analytics.html %}
+    {% include lazy-load.html %}
   </body>
 </html>

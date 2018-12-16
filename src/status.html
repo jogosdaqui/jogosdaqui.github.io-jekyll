@@ -1,0 +1,35 @@
+---
+layout: default
+title: Status
+---
+<h1>Última atualização</h1>
+<ul>
+  <li>Data: <span id="update-date"></span></li>
+  <li>Branch: <span id="update-branch"></span></li>
+</ul>
+
+<script>
+Notification.requestPermission().then(function(result) {
+  console.log(result);
+});
+
+function refreshVersion() {
+  $.getJSON("{{ site.baseurl }}/version.json", function(version) {
+      
+      var updateDate = $('#update-date').text();
+      if(Notification.permission === "granted" && updateDate.length > 0 && updateDate != version.date)
+        new Notification("Site atualizado", { icon: "{{ site.baseurl}}/assets/jogosdaqui-avatar-transparent.png", requireInteraction: true });
+      
+      $('#update-date').text(version.date);
+      $('#update-branch').text(version.branch);
+    });
+}
+
+$(document).ready(function() {
+  $.ajaxSetup({ cache: false });
+  refreshVersion();
+  setInterval(function() {
+    refreshVersion();
+  }, 5000);
+});
+</script>
