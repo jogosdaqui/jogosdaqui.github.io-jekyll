@@ -1,7 +1,3 @@
----
-layout: null
----
-
 /* INCLUDE: styel.css */
 {% include_absolute _site/libs/style.css %}
 

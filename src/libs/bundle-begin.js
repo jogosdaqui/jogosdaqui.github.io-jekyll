@@ -1,6 +1,3 @@
----
-layout: null
----
 // INCLUDE: jquery
 {% include_absolute libs/jquery.min.js %}
 
