@@ -1,0 +1,9 @@
+---
+layout: null
+---
+
+/* INCLUDE: styel.css */
+{% include_absolute _site/style.css %}
+
+/* INCLUDE: GreedNav */
+{% include_absolute libs/GreedNav/greedynav.min.css %}
