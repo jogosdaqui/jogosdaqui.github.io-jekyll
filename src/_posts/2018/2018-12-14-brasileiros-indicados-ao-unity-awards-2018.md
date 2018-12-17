@@ -6,7 +6,7 @@ date: '2018-12-14 20:10'
 author: 'Diego Giacomelli'
 companies: ''
 categories: News
-tags: unity-awards arvore-immersive-experiences
+tags: unity-awards arvore-immersive-experiences lucas-rizzotto
 ---
 
 A Unity, uma das maiores e mais usadas engines de games do mundo, também  é a principal ferramenta de desenvolvimento de muitas das gamedevs brasilerias acaba de anunciar os indicados ao seu prêmio anual, o Unity Awards. E temos brasileiros entre os indicados: 
