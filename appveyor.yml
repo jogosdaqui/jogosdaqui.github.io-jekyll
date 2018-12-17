@@ -48,6 +48,9 @@ build_script:
         echo 'Disallow: /' >> robots.txt
       } 
     }
+- sh: cd ..
+- sh: generate-css.sh
+- sh: cd src
 - sh: bundle exec jekyll build
  
 - ps: | 
