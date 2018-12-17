@@ -6,7 +6,7 @@ layout: null
 {% include_absolute libs/fontawesome/css/all.min.css %}
 
 /* INCLUDE: Roboto */
-{% include_absolute libs/Roboto/all.css %}
+{% include_absolute libs/Roboto/all.min.css %}
 
 /* INCLUDE: lightslider */
 {% include_absolute libs/lightslider/css/lightslider.min.css %}
