@@ -3,7 +3,7 @@
   <head>
     <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.name }} | {{ site.description }}</title>
     {% include meta.html %}
-    {% include head-resources.html %}
+    {% include resources-begin.html %}
   </head>
 
   <body>
@@ -57,7 +57,7 @@
         </footer>
       </div>
     </div>
-
+    {% include resources-end.html %}
     {% include analytics.html %}
     {% include lazy-load.html %}
   </body>
