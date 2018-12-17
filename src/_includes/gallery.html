@@ -40,11 +40,14 @@
 
 <script type="text/javascript">
 var initialized = false;
-var inview = new Waypoint.Inview({
-  element: document.getElementById('gallery-title'),
-  enter: function(direction) {
-    initializeGallery();
-  }
+
+$(document).ready(function() {
+  var inview = new Waypoint.Inview({
+    element: document.getElementById('gallery-title'),
+    enter: function(direction) {
+      initializeGallery();
+    }
+  });
 });
 
 function initializeGallery() {
