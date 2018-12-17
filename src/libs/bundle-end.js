@@ -1,6 +1,3 @@
----
-layout: null
----
 // INCLUDE: lazyload
 {% include_absolute libs/lazyload.min.js %}
 

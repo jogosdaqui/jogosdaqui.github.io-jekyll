@@ -1,7 +1,3 @@
----
-layout: null
----
-
 /* INCLUDE: fontawesome */
 {% include_absolute libs/fontawesome/css/all.min.css %}
 
