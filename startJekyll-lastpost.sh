@@ -1,4 +1,4 @@
 echo Starting...
 cd src
-bundle exec jekyll serve --incremental --future --limit_posts 1
+bundle exec jekyll serve --future --limit_posts 1
 cd ..
