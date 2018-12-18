@@ -21,7 +21,7 @@ html {
 
 body {
 	background: $white;
-  font-family: robotoregular, Arial, sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: $darkGray;
   font-size: 15px;
   line-height: 1.4;
@@ -408,6 +408,10 @@ footer {
 
 
 // Search.
+.search-box {
+  min-height: auto !important;
+}
+
 #search-input {
   font-family: 'Roboto', sans-serif;
   font-size: 12px;
@@ -499,6 +503,7 @@ ul.pager li.selected { background-color: $theme-color; }
 
 .highlight-box {
   width: 87%;
+  min-height: 115px;
 }
 
 .lslide, .lSPager li {

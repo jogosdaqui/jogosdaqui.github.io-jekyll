@@ -3,39 +3,9 @@
     <hr>
     <ul list="{{ include.title }}">
     <script>
-        $.getJSON("{{ site.baseurl }}/search.json", function(json) {
-            function addItem(post) {
-                var title = post.title.replace(/&#39;/g, "'")
-                title = title.replace(/&amp;#39;/g, "'")
-                $("[list='{{ include.title }}']").append("<li><a href='" + post.url + "'>" + title + "</a></li>");
-            }
-            
-            var posts = $(json).filter(function (i,p) {
-                var selected = true;
-
-                if ('{{ include.category }}' != '')
-                    selected = p.category == '{{ include.category }}';
-        
-                if (selected && '{{ include.tag }}' != '')
-                    selected = $.inArray('{{ include.tag }}', p.tags.split(', ')) != -1;
-                
-                return selected;
-            });
-
-            var indexes = [];
-
-            for(var i = 0; i < 3 && i < posts.length; i++)
-            {
-                
-                do {
-                    var index = Math.floor(Math.random() * posts.length);
-                } while($.inArray(index, indexes) != -1)
-
-                indexes.push(index);
-                addItem(posts[index]);
-            }        
-        });
-        
+        $(document).ready(function() {
+            jd.initializeHightlightBox('{{ include.title }}', '{{ include.category }}', '{{ include.tag }}');
+        });        
     </script>
     </ul>
 </div>
