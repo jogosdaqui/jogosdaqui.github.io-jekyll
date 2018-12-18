@@ -49,7 +49,7 @@ build_script:
       } 
     }
 - sh: cd ..
-- sh: ./generate-bunble.sh
+- sh: ./generate-bundle.sh
 - sh: cd src
 - sh: bundle exec jekyll build
  
