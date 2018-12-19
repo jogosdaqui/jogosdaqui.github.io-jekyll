@@ -4,10 +4,9 @@ layout: post
 title: 'Ballistic Overkill, desenvolvedores falam sobre o game'
 companies: ''
 categories: News
-tags: aquiris-game-studio  steam video
+tags: aquiris-game-studio devlog steam video
 ---
-A Aquiris Game Studio liberou algumas novidades sobre a versão do game Ballistic para o Steam: <a href="http://store.steampowered.com/app/296300/" target="_blank">Ballistic Overkill</a>
-.
+A Aquiris Game Studio liberou algumas novidades sobre a versão do game Ballistic para o Steam: [Ballistic Overkill](http://store.steampowered.com/app/296300/).
 
 A versão de Ballistic para navegadores continuará existindo e sendo mantida pela Aquiris, Arthur Bobany um dos game designers explica a escolha do nome Overkill:
 
@@ -23,8 +22,7 @@ Não, pois os games são diferentes, sendo o primeiro no modelo freemium e o Ove
 O preço durante o early access deve ser menos de R$ 20,00.
 
 ## Novos fóruns
-Lançados os novos fóruns da Aquiris: <a href="http://forum.aquiris.com.br/" target="_blank">http://forum.aquiris.com.br/</a>
- para que os jogadores possam discutir sobre os games da Aquiris, principalmente o Ballistic Overkill.
+Lançados os novos fóruns da Aquiris: [http://forum.aquiris.com.br/](http://forum.aquiris.com.br/) para que os jogadores possam discutir sobre os games da Aquiris, principalmente o Ballistic Overkill.
 
 ## Alterações no jogo
 Foram citadas diversos ajustes nas classes para melhorar o balanceamento, melhorias em performance e uma atualização da UX/UI do game.
