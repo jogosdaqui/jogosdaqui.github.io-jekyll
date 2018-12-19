@@ -81,5 +81,9 @@ var jd = {
                 });
             }
         });
+    },
+    removeAccents: function(value) {
+        if (value == null) return value;
+        return value.normalize('NFD').replace(/[\u0300-\u036f]/g, "");
     }
 }
