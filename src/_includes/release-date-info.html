@@ -1,0 +1,7 @@
+{% if page.releaseDate != null %}
+   {% if page.releaseDate.size == 8 %}
+    <div class="post-info"><i class="fas fa-rocket"></i> Lançamento: <span class="release-date">{{ page.releaseDate }}</span></div>
+    {% else %}
+    <div class="post-info"><i class="fas fa-rocket"></i> Lançamento: <span class="release-date">{{ page.releaseDate | date: "%d/%m/%Y" }}</span></div>
+    {% endif %}
+{% endif %}

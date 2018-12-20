@@ -1,7 +1,0 @@
-{% if page.releaseDate != null %}
-   {% if page.releaseDate.size == 8 %}
-    <div class="post-info"><i class="fas fa-rocket"></i> Lançamento: {{ page.releaseDate }}</div>
-    {% else %}
-    <div class="post-info"><i class="fas fa-rocket"></i> Lançamento: {{ page.releaseDate | date: "%d/%m/%Y" }}</div>
-    {% endif %}
-{% endif %}
