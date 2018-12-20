@@ -1,0 +1,18 @@
+{% assign category = page.categories[0] %}
+{% assign companiesSize = page.companies.size  %}
+
+{% if category == 'News' %}
+    <div class="post-info">{{ category | categoryicon }} Notícia{% if companiesSize > 0 %} sobre <span class="company-name">{{ page.companies }}</span>{% endif %}</div>
+{% elsif category == 'Preview' %}
+    <div class="post-info">{{ category | categoryicon }} Prévia{% if companiesSize > 0 %} do jogo em desenvolvido por <span class="company-name">{{ page.companies }}</span>{% endif %}</div>
+{% elsif category == 'Game' %}
+    <div class="post-info">{{ category | categoryicon }} Jogo{% if companiesSize > 0 %} desenvolvido por <span class="company-name">{{ page.companies }}</span>{% endif %}</div>
+{% elsif category == 'Inverview' %}
+    <div class="post-info">{{ category | categoryicon }} Entrevista{% if companiesSize > 0 %} sobre <span class="company-name">{{ page.companies }}</span>{% endif %}</div>
+{% elsif category == 'Event' %}
+    <div class="post-info">{{ category | categoryicon }} Evento{% if companiesSize > 0 %} de <span class="company-name">{{ page.companies }}</span>{% endif %}</div>
+{% elsif category == 'Column' %}
+    <div class="post-info">{{ category | categoryicon }} Coluna{% if companiesSize > 0 %} sobre <span class="company-name">{{ page.companies }}</span>{% endif %}</div>
+{% elsif category == 'Promo' %}
+    <div class="post-info">{{ category | categoryicon }}  Promoção{% if companiesSize > 0 %} sobre <span class="company-name">{{ page.companies }}</span>{% endif %}</div>
+{% endif %}
