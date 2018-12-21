@@ -8,7 +8,7 @@ companies: 'Among Giants'
 categories: Game
 tags: among-giants adventure open-world steam windows
 ---
-Distortions, do estúdio brasileiro {% company Among Giants %}, é uma jornada musical dirigida por uma história através de um mundo imaginário desconhecido onde o jogador terá que juntar fragmentos de memórias passadas para descobrir sua identidade. 
+Distortions, do estúdio brasileiro {% company Among Giants %}, é uma jornada musical através de um mundo imaginário desconhecido onde o jogador terá que juntar fragmentos de memórias passadas para descobrir sua identidade. 
 
 ## História
 > Uma garota acorda em um lugar estranho onde o tempo parece parado. Enquanto ela recupera sua identidade relembrando com a ajuda de um estranho homem mascarado, ela deve decidir o que deixar para trás para seguir em frente com sua vida e expectativas.
@@ -16,13 +16,13 @@ Distortions, do estúdio brasileiro {% company Among Giants %}, é uma jornada m
 > A menina então decide explorar este lugar surreal e desconhecido, logo encontrando um diário com algumas anotações. Esses escritos levam a um violino. Com sua música, a garota consegue moldar o mundo, criando efeitos e mudanças extraordinários. Com cada nova música, surge uma nova ferramenta.
 
 ## Gameplay
-Usando um violino como uma arma, onde suas músicas podem alterar ambientes e fazer amizade com criaturas estranhas ao longo do caminho.
+Usando um violino como uma arma, onde suas músicas podem alterar ambientes e ajudá-lo a fazer amizade com criaturas estranhas ao longo do caminho.
 
 > Uma aventura onde as músicas são suas armas e os contos de um diário, seu guia.
 > 
 > Controle a garota através dos mais diversos locais, como montanhas, florestas, cavernas, rios, lagos e até o mar, usando o poder de sua música para moldar o mundo ao seu redor. Crie pontes, explosões e barreiras. Torne-se invisível, mova pedras ao redor, aprenda a ouvir os sons do mundo e converse com ele através do seu violino.
 
-O jogo é um jogo singleplayer baseado na superação de experiências e relacionamentos passados.
+Um game singleplayer baseado na superação de experiências e relacionamentos passados.
 
 {% youtube us6fnD39TEI %}
 
@@ -36,12 +36,12 @@ Em Distorções, a progressão é dividida em três partes.
 * Uma de mundo aberto onde poderá decidir quais lugares deve ir primeiro.
 * Na terceira parte de Distorções, o jogador enfrentará uma mistura de aspectos de mundo aberto e linear.
 
-Segundo os criadores do jogo houve uma busca constante para que a progressão do jogo tivesse congruência e equilíbrio entre as linguagens usadas no cinema e no jogo: 
+Segundo os criadores, houve uma busca constante para que a progressão tivesse congruência e equilíbrio entre as linguagens usadas no cinema e no game: 
 
-> Os elementos visuais e narrativos do jogo foram inspirados em filmes como "Eternal Sunshine of the Spotless Mind" e "The Fountain", e jogos como "Shadow of Colossus" e "Silent Hill 2".
+> Os elementos visuais e narrativos foram inspirados em filmes como "Eternal Sunshine of the Spotless Mind" e "The Fountain", e jogos como "Shadow of Colossus" e "Silent Hill 2".
 
 ## Prêmios
-O game conta com um primor técnico incrível, facilmente comprovado pelas imagens abaixo e não por acaso já ganhou diversos prêmios em razão disto:
+Distortions conta com um primor técnico incrível, facilmente comprovado pelas imagens abaixo e não por acaso já ganhou diversos prêmios:
 
 * Vencedor, "Best of BGS10" - GameSpot / Brazil Game Show.
 * Vencedor, Best original idea - Spain international game festival (Azplay).
@@ -55,4 +55,4 @@ O game conta com um primor técnico incrível, facilmente comprovado pelas image
 * Indicado, "Best developing game" no Big starter do Brazilian International Game Festival (BIG).
 
 ## Plataformas
-O jogo está disponível para Windows diretamente no [Steam](https://store.steampowered.com/app/772500/Distortions/).
+Disponível para Windows diretamente no [Steam](https://store.steampowered.com/app/772500/Distortions/).
