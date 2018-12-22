@@ -6,7 +6,7 @@ date: '2018-12-22 19:00'
 author: 'Diego Giacomelli'
 companies: ''
 categories: News
-tags: aquiris-game-studio nintendo switch
+tags: qubyte-interactive long-hat-house aquiris-game-studio mad-mimic nintendo switch
 ---
 A Nintendo Life iniciou a [votação para os melhores games do ano de 2018 ](http://www.nintendolife.com/news/2018/12/feature_vote_for_your_2018_nintendo_game_of_the_year) e para o Switch temos pelo menos 5 jogos brasileiros concorrendo.
 
