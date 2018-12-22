@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: 'Crowdfunding de 99Vidas o jogo'
-companies: ''
+companies: 'QUByte Interactive'
 categories: News
 tags: mac windows video qubyte-interactive crowdfunding ps4 xbox-one xbox wii-u wii demo
 ---
