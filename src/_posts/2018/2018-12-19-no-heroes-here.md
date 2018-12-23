@@ -29,7 +29,7 @@ Os jogadores precisão trabalhar em equipe para tentar defender o castelo contra
 
 
 ## Modos, cenários e personagens
-Além do modo single-palyer, o game conta com modos co-op local e multiplayer.
+Além do modo singleplayer, o game conta com modos co-op local e multiplayer.
 
 Existem dois níveis de dificuldade: normal e hardcore (uma única vida para enfrentar todo o jogo).
 
