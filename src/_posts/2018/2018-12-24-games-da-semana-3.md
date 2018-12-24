@@ -2,11 +2,11 @@
 published: true
 layout: post
 title: 'Games da semana #3'
-date: '2018-12-24 11:00'
+date: '2018-12-24 11:30'
 author: 'Diego Giacomelli'
 companies: ''
 categories: Column
-tags: games-da-semana long-hat-house aquiris-game-studio invent4-entertainment imax-games arvore-immersive-experiencies lucas-rizzotto icon-games
+tags: games-da-semana qubyte-interactive long-hat-house among-giants cafundo-estudio mad-mimic aquiris-game-studio
 ---
 
 Confira o vídeo abaixo com alguns games que foram destaque no jogosdaqui na semana de 17 a 23 de dezembro de 2018:
