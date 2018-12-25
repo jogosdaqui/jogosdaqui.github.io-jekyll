@@ -12,12 +12,7 @@ tags: pocket-trap beat-em-up shoot-em-up co-op steam ps4 xbox-one windows
 Ninjin: Clash of Carrots, da {% company Pocket Trap %} é um jogo com gráficos pixel art inspirados em animes, onde você jogará como o coelho Ninjin ou a raposa Akai para derrotar o Shogun Moe e recuperar as cenouras roubadas.
 
 ## Gameplay
-O game é uma inusitada mescla dos gêneros beat 'em up e and shoot 'em up que deram origem a um side scrolling com uma ação intensa e frenética de aumentar os batimentos cardíacos, onde os heróis lutam com hordas de inimigos, tendo como cenário o Japão feudal.
-
-Entre os vários desafios que os heróis peludos terão que enfrentar, estão: 
-
-> desviar de foguetes, atravessar uma multidão de inimigos e
-chefes de batalha.
+O game é uma inusitada mescla dos gêneros beat 'em up e shoot 'em up que deram origem a um side scrolling com uma ação intensa e frenética de aumentar os batimentos cardíacos, onde os heróis lutam com hordas de inimigos, tendo como cenário o Japão feudal.
 
 {% youtube S0i6j6IKG7Q %}
 
