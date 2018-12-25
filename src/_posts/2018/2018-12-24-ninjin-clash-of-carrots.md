@@ -22,7 +22,7 @@ Conta com um modo co-op online ou local para até 2 jogadores.
 Também existe o modo de sobrevivência "Live TV Show", onde tenta-se combater as ondas de inimigos e ver quem consegue chegar o mais longe sem morrer.
 
 ## Customização
-Ninjin: Clash of Carros permite um alto grau de customização, com mais de 150 armas, máscaras, espadas, projéteis e outros itens, o que permite ao jogador evoluir seu personagem para enfrentar aqueles níveis que parecem intrasponíveis.
+Ninjin: Clash of Carrots permite um alto grau de customização, com mais de 150 armas, máscaras, espadas, projéteis e outros itens, o que permite ao jogador evoluir seu personagem para enfrentar aqueles níveis que parecem intransponíveis.
 
 > As cenouras funcionam como moeda que podem ser resgatadas na Corgi Store para novos equipamentos, ou na Shady Shop para armas especiais, máscaras e outros itens de personalização. 
 
