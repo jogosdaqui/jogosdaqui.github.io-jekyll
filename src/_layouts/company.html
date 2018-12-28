@@ -1,0 +1,55 @@
+---
+layout: default
+---
+{% assign companyTag = page.path | replace: '_companies/', '' | replace: '.md', '' %}
+{% assign logoPath = site.baseurl | append: "assets/companies/" | append: companyTag | append: "-logo.png" %}
+
+<article class="post">
+  <h1>{{ page.title }}</h1>
+  <div class="entry">
+    {% include logo.html logo=logoPath %}
+    <h2>Dados</h2>
+    <ul>
+      <li>Fundação: {{ page.foundationDate }}</li>
+      <li>Sede: {{ page.headquarters }}</li>
+
+      {% if page.teamSize != null %}
+      <li>Tamanho da equipe: 
+          <ul>
+            {% for team in page.teamSize %}
+              <li>Em {{ team.year }}: {{ team.size }} pessoas</li>
+            {% endfor %}
+          </ul>
+      </li>
+      {% endif %}
+
+    </ul>
+
+    <h2>Links</h2>
+    <ul>
+      {% include link-at-list.html name='Site' link='' username=page.site  %}
+      {% include link-at-list.html name='Twitter' link='https://twitter.com/' username=page.twitter %}
+      {% include link-at-list.html name='Facebook' link='https://facebook.com/' username=page.facebook %}
+      {% include link-at-list.html name='Instagram' link='http://instragram.com/' username=page.instagram %}
+      {% include link-at-list.html name='Linkedin' link='http://linkedin.com/company/' username=page.linkedin %}
+    </ul>
+
+    {% if page.demoreelYoutube != null or page.demoreelVimeo != null %}
+    <h2>Demo reel</h2>
+    
+    {% if page.demoreelYoutube != null %}
+      {% youtube {{ page.demodemoreelYoutube }} %}
+    {% endif %}
+    
+    {% if page.demoreelVimeo != null %}
+      {% include vimeo.html id=page.demoreelVimeo %}
+    {% endif %}
+    {% endif %}
+
+    <p>Conheça mais da empresa nos <a href="{{ site.baseurl }}/tags/{{ companyTag }}">posts sobre {{ page.title }}</a>.</p>
+  </div>
+
+  {% include ad.html %} 
+  {% include improve-post.html %}
+  {% include disqus.html %}
+</article>

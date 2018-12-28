@@ -63,6 +63,10 @@ tag_feed_layout: tag-feed
 tag_feed_dir: tags
 tag_permalink_style: pretty
 
+collections:
+  companies:
+    output: true
+
 # The release of Jekyll Now that you're using
 version: v3.8.5 # Utilize a mesma do gemfile.
 
