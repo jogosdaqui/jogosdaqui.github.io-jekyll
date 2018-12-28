@@ -66,6 +66,7 @@ tag_permalink_style: pretty
 collections:
   companies:
     output: true
+    permalink: /companies/:path/
 
 # The release of Jekyll Now that you're using
 version: v3.8.5 # Utilize a mesma do gemfile.
