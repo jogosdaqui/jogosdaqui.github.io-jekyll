@@ -5,6 +5,7 @@ environment:
     secure: 9J4+3PqRqzTDiC280JthRE4EVP8YqK67eEDJmyD+2s+j8H/R5TyrJJJNnpOejxCH
 
 install:
+- sh: sudo apt-get clean
 - sh: sudo apt-get update
 - sh: sudo apt-get -y install curl
 - sh: \curl -L https://get.rvm.io | bash -s stable --ruby
