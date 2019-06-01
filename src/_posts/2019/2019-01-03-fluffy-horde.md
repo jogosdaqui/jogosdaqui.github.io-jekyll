@@ -3,12 +3,14 @@ published: true
 layout: post
 title: 'Fluffy Horde'
 releaseDate: 2018
-date: '2018-12-28 11:00'
+date: '2019-01-03 11:00'
 author: 'Diego Giacomelli'
 companies: 'Turtle Juice'
 categories: Game
 tags: turtle-juice rts puzzle team windows
 ---
+Uma coelha adulta pode ter até 40 filhotes em um ano
+
 Fluffy Horde é jogo 2D side-scrolling que mistura elementos de estratégia em tempo real e Tower Defense. A História do jogo gira em torno de uma horda mágica de coelhos criada por um Shaman. Depois de ter sido renegado dos três reinos, o Shaman está disposto a conquistar todos eles pela força. Você pode pará-lo?
 
 KEY FEATURES:
