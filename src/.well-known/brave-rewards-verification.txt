@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: jogosdaqui.github.io
+Token: d5a3baa9e9b5e6f2d902d0d532610a6fae2e79ac9ff925c4defd3f5a6eaf6dbc
