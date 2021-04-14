@@ -6,12 +6,15 @@ environment:
 
 install:
 - sh: sudo rm -rf /var/lib/apt/lists/*
+- sh: sudo apt-key adv --refresh-keys --keyserver keyserver.ubuntu.com
 - sh: sudo apt-get update
 - sh: sudo apt-get -y install curl
+- sh: sudo apt-get -y install imagemagick
+- sh: sudo apt-get -y install webp
+- sh: sudo apt-get -y install libvips
 - sh: \curl -L https://get.rvm.io | bash -s stable --ruby
 - sh: rvm reload
-- sh: rvm get stable --autolibs=enable
-- sh: rvm install ruby
+- sh: rvm install ruby-2.7.2
 - sh: gem install jekyll bundler
 
 build_script:
