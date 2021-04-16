@@ -2,10 +2,10 @@
 published: true
 layout: post
 title: 'Numbers of Gold'
+releaseDate: 2016
 author: Diego Giacomelli
 companies: 'Cupcake Sweet Entertainment'
 categories: Game
-releaseDate: 2016
 tags: ios android facebook cupcake-sweet-entertainment press-release
 ---
 Numbers of Gold combina matemática e quebra-cabeças para criar um jogo de quebra-cabeça super divertido.
@@ -19,3 +19,5 @@ Use as sequências para explodir as centenas de quebra-cabeças que criamos em N
 
 # Vença as corujas
 As corujas usam todo o seu poder cerebral para arruinar o seu jogo, esteja preparado. Faça longas sequências de números para vencer suas habilidades matemáticas!
+
+{% fbvideo https://www.facebook.com/NumbersOfGoldGame/videos/1578651709111730 %}

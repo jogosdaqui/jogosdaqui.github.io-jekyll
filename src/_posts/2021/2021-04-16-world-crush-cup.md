@@ -5,7 +5,7 @@ title: 'World Crush Cup'
 author: 'Diego Giacomelli'
 companies: 'Monsterbed Game Studio'
 categories: Game
-releaseDate: 31/03/2016
+releaseDate: 2016
 tags: monsterbed-game-studio futebol esporte press-release
 ---
 Jogo para comemorar a copa no Brasil!
