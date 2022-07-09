@@ -49,7 +49,7 @@ module Jekyll
     end
 
     def read_file(file, context)
-      File.read(file, file_read_opts(context))
+      File.read(file, options:file_read_opts(context))
     end
 
     def file_read_opts(context)
