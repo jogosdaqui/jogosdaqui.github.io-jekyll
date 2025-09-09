@@ -1,7 +1,13 @@
 @echo PUBLISHING
 
-@cd src 
-@copy ..\CNAME _site\CNAME
+@cd src
+@echo GENERATING BUNDLE...
+@echo "" > _site\libs\style.css
+call bundle exec jekyll build --future --limit_posts 1
+
+@echo BUILDING jekyll...
+@call bundle exec jekyll build 
+
 @echo ".nojekyll" > _site\.nojekyll
 
 @echo GENERATING VERSION.JSON...
