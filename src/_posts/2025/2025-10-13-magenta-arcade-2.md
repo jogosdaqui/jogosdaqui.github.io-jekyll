@@ -30,7 +30,7 @@ Entre as novidades de *[Magenta Arcade II](https://longhathouse.com/games/magent
 - 🎶 **Trilha sonora original de Thommaz Kauffmann**.  
 - 🇧🇷 **Cenário bombástico em Belo Horizonte**, direto de Minas Gerais para o mundo.  
 
-{% youtube VZxSI-IXlck %}
+{% youtube ePIOLb2rlEo %}
 
 ## Feito no Brasil, para o mundo
 
