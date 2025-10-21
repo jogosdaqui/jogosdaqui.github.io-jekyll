@@ -22,13 +22,13 @@ A proposta mistura jogabilidade e narrativa de um jeito único: a tela vira a ja
 
 Entre as novidades de *[Magenta Arcade II](https://longhathouse.com/games/magenta_arcade_2)*, estão:
 
-- 🎮 **Shoot’em up inovador**: dedo na tela como protagonista absoluto.  
-- 🔥 **Power-ups e upgrades** para criar sua própria estratégia.  
-- 🎨 **Visual 3D vibrante**, mais colorido e caótico.  
-- 👾 **Chefes insanos** com batalhas intensas contra vilões carismáticos.  
-- 🏆 **Desafios de score** para quem gosta de combos e ranking.  
-- 🎶 **Trilha sonora original de Thommaz Kauffmann**.  
-- 🇧🇷 **Cenário bombástico em Belo Horizonte**, direto de Minas Gerais para o mundo.  
+- **Shoot’em up inovador**: dedo na tela como protagonista absoluto.  
+- **Power-ups e upgrades** para criar sua própria estratégia.  
+- **Visual 3D vibrante**, mais colorido e caótico.  
+- **Chefes insanos** com batalhas intensas contra vilões carismáticos.  
+- **Desafios de score** para quem gosta de combos e ranking.  
+- **Trilha sonora original de Thommaz Kauffmann**.  
+- **Cenário bombástico em Belo Horizonte**, direto de Minas Gerais para o mundo.  
 
 {% youtube ePIOLb2rlEo %}
 
@@ -40,4 +40,4 @@ O jogo está sendo desenvolvido na **Godot Engine**, totalmente pensado para dis
 
 ---
 
-👉 E aí, preparado para transformar seu dedo em arma divina contra uma legião de robôs?  
+E aí, preparado para transformar seu dedo em arma divina contra uma legião de robôs?  

@@ -23,11 +23,11 @@ As ondas de inimigos são **geradas proceduralmente**, o que significa que não 
 
 *Lux Ex – Legacy* mistura o ritmo frenético de um *bullet hell* com um visual que parece saído diretamente de um sonho digital.
 
-- 💥 **Ondas geradas proceduralmente** — cada jogada é diferente.  
-- 🔫 **Variedade de armas e poderes** — encontre o estilo que mais combina com você.  
-- ⚙️ **Dificuldade dinâmica** — o jogo se adapta à sua habilidade.  
-- 🧠 **Temática filosófica** — bugs e luz se misturam numa metáfora sobre autodescoberta.  
-- 🕹️ **Inspirado em clássicos dos anos 80**, mas com estética cyberpunk e trilha eletrônica intensa.
+- **Ondas geradas proceduralmente** — cada jogada é diferente.  
+- **Variedade de armas e poderes** — encontre o estilo que mais combina com você.  
+- **Dificuldade dinâmica** — o jogo se adapta à sua habilidade.  
+- **Temática filosófica** — bugs e luz se misturam numa metáfora sobre autodescoberta.  
+- **Inspirado em clássicos dos anos 80**, mas com estética cyberpunk e trilha eletrônica intensa.
 
 ## Uma joia indie brasileira
 
@@ -36,4 +36,4 @@ Com pouco mais de um nível, ele entrega uma experiência arcade pura — intens
 
 ---
 
-👉 Disponível na [Steam](https://store.steampowered.com/app/776280/Lux_Ex__Legacy/)
+Disponível na [Steam](https://store.steampowered.com/app/776280/Lux_Ex__Legacy/)

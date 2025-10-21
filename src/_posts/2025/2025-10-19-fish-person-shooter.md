@@ -19,15 +19,13 @@ Em *Fish Person Shooter*, você encara um mundo onde os humanos não são mais o
 
 A estética mistura **FPS clássico dos anos 90**, **piscadela de ironia moderna** e **personagens bizarros** dignos de memes instantâneos.
 
-![Fish Person Shooter logo](/assets/images/logo.jpg)
-
 ## O que esperar
 
-- 🐟 **Peixes com armas** — sim, literalmente.  
-- 🔫 **Ação FPS retrô** com controles rápidos e tiroteios intensos.  
-- 🌈 **Visual psicodélico e humor nonsense**.  
-- 💀 **Chefes e arenas insanas**.  
-- 🎶 **Trilha sonora pulsante** que acompanha o ritmo do caos.  
+- **Peixes com armas** — sim, literalmente.  
+- **Ação FPS retrô** com controles rápidos e tiroteios intensos.  
+- **Visual psicodélico e humor nonsense**.  
+- **Chefes e arenas insanas**.  
+- **Trilha sonora pulsante** que acompanha o ritmo do caos.  
 
 {% youtube l1S_LjFxF40 %}
 
@@ -39,4 +37,4 @@ Mais do que um simples FPS, *Fish Person Shooter* é uma experiência experiment
 
 ---
 
-👉 Se prepare: em *Fish Person Shooter*, você não vai só pescar... vai ser pescado.
+Se prepare: em *Fish Person Shooter*, você não vai só pescar... vai ser pescado.
