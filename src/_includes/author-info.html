@@ -1,3 +1,8 @@
 {% if page.author != null %}
-<div class="post-info"><i class="fas fa-pen-square"></i> Post escrito por <span class="author-name">{{ page.author }}</span></div>
+    {% if page.author == "Diego Giacomelli" %}
+    <div class="post-info"><i class="fas fa-pen-square"></i> Post escrito por <span class="author-name"><a href="https://diegogiacomelli.com.br">{{ page.author }}</a></span></div>
+    {% else %}
+    <div class="post-info"><i class="fas fa-pen-square"></i> Post escrito por <span class="author-name">{{ page.author }}</span></div>
+    {% endif %}
+
 {% endif %}
