@@ -6,7 +6,7 @@ releaseDate: '01/11/2024'
 author: Diego Giacomelli
 companies: 'Nuntius Games'
 categories: Game
-tags: nuntius-games tower-defense arcade indie humor brasil mobile
+tags: nuntius-games tower-defense arcade indie steam
 ---
 
 *Bees vs Zombees* é um jogo de **defesa de torre cheio de mel, humor e zumbis**.  
