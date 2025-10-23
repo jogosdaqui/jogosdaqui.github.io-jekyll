@@ -37,6 +37,6 @@ Com belos gráficos 3D e uma boa sonorização, Crystal Catcher é uma alternati
 
 ## Trailer de Crystal Catcher
 
-{% youtube NwI9T9ooMKE %}
+{% youtube mA3bJ6Fu48U %}
 
 [O game está disponível gratuitamente na App Store. Está esperando o que para colocar o robô para correr?](http://itunes.apple.com/us/app/crystal-catcher/id543078952?l=pt&amp;ls=1&amp;mt=8)
