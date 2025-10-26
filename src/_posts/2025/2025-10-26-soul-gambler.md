@@ -21,7 +21,7 @@ Cada decisão altera o rumo da história, levando a diferentes caminhos e múlti
 Com arte no estilo **história em quadrinhos**, *Soul Gambler* combina visual marcante, narrativa moral e mecânicas simples de escolha.  
 É uma experiência curta, intensa e cheia de dilemas éticos.
 
-{% youtube  %}
+{% youtube p0rkOij40qg %}
 
 ## Destaques
 
