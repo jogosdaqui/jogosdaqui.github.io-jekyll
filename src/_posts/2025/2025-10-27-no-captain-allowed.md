@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: 'No Captain Allowed!'
-releaseDate: '12/09/2018'
+releaseDate: '02/05/2022'
 author: Diego Giacomelli
 companies: '9heads Game Studios'
 categories: Game
