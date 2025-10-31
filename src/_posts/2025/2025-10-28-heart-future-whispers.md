@@ -4,12 +4,12 @@ layout: post
 title: 'Heart: Future Whispers'
 releaseDate: '24/03/2025'
 author: Diego Giacomelli
-companies: 'BaltaRed Studio, Deep One Games, Nuntius Games'
+companies: 'BaltaRed Studio, Nuntius Games'
 categories: Game
-tags: nuntius-games baltared-studio deep-one-games shooter top-down ação sci-fi futurista indie steam
+tags: nuntius-games baltared-studio shooter top-down ação sci-fi futurista indie steam
 ---
 
-*Heart: Future Whispers* é um **shooter top-down** ambientado em um **futuro distópico**, desenvolvido pela **BaltaRed Studio** e **Deep One Games**, com publicação da **Nuntius Games**.  
+*Heart: Future Whispers* é um **shooter top-down** ambientado em um **futuro distópico**, desenvolvido pela **BaltaRed Studio** com publicação da **Nuntius Games**.  
 
 O jogo desafia o jogador a enfrentar hordas de inimigos, gerenciar recursos e desbloquear armas poderosas, enquanto desvenda os segredos sombrios que cercam o caos do mundo.
 
