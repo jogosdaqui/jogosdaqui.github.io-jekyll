@@ -6,7 +6,7 @@ releaseDate: '25/02/2021'
 author: Diego Giacomelli
 companies: 'Digital Synapsis'
 categories: Game
-tags: digital-synapsis estratégia construção tower-defense necromancia fantasia indie steam
+tags: digital-synapsis estraegia building tower-defense necromancia fantasia indie steam
 ---
 
 *TowerMancer* é um **jogo de estratégia e construção de torres** desenvolvido e publicado pela **Digital Synapsis**, que combina gerenciamento de recursos, desafios táticos e narrativa sobrenatural.  
